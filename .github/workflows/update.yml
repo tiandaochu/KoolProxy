@@ -31,6 +31,8 @@ jobs:
       
       - name: Push Commits
         run : |
+          git config --global user.email "ycg31@qq.com"
+          git config --global user.name "ycg31"
           git add .
           git commit -m "update rules"
           git push "https://ycg31:$GITHUB_TOKEN@github.com/ycg31/KoolProxy.git" master
