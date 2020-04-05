@@ -16,7 +16,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 
 
     echo_date ------------------- 规则更新 -------------------
-	echo_date =======================================================================================================
+	echo_date ====================================================
 	echo_date 开始更新koolproxy的规则，请等待...
 	# 赋予文件夹权限 
 	chmod -R 777 rules
@@ -128,7 +128,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 				#wget -4 -a tmp/upload/kpr_log.txt -O tmp/kp.dat $url_kp
 				kpr_video_download_md5=`md5sum tmp/kp.dat | awk '{print $1}'`
 				echo_date 您下载的视频规则md5：$kpr_video_download_md5
-				if [ "$kpr_video_download_md5" == "$kpr_video_new_md5" ]; then
+				if [ "$kpr_video_download_md5" = "$kpr_video_new_md5" ]; then
 					echo_date 将临时文件覆盖到原始 视频规则 文件
 					mv tmp/kp.dat rules/kp.dat
 					mv tmp/kp.dat.md5 rules/kp.dat.md5
@@ -198,7 +198,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 	
 
 
-	if [ "$koolproxy_https_fanboy" == "1" ]; then
+	if [ "$koolproxy_https_fanboy" = "1" ]; then
 		echo_date 正在优化 fanboy规则。。。。。
 		# 删除导致KP崩溃的规则
 		# 听说高手?都打的很多、这样才能体现技术
@@ -285,7 +285,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 
 
 
-	if [ "$koolproxy_https_ChinaList" == "1" ]; then
+	if [ "$koolproxy_https_ChinaList" = "1" ]; then
 		echo_date 正在优化 ABP规则。。。。。
 		sed -i '/^\$/d' rules/easylistchina.txt
 		sed -i '/\*\$/d' rules/easylistchina.txt
@@ -371,7 +371,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 	fi
 
 
-	if [ "$koolproxy_https_mobile" == "1" ]; then
+	if [ "$koolproxy_https_mobile" = "1" ]; then
 		# 删除不必要信息重新打包 0-11行 表示从第15行开始 $表示结束
 		# sed -i '1,11d' rules/yhosts.txt
 		echo_date 正在优化 补充规则yhosts。。。。。
@@ -449,7 +449,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 	fi
 
 
-	if [ "$koolproxy_https_AdGuardHome" == "1" ]; then
+	if [ "$koolproxy_https_AdGuardHome" = "1" ]; then
 		# 删除不必要信息重新打包 0-11行 表示从第15行开始 $表示结束
 		# sed -i '1,11d' rules/AdGuardHome.txt
 		echo_date 正在优化 补充规则AdGuardHome。。。。。
@@ -525,7 +525,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 	#rm rules/kpr_our_rule.txt
 
 	echo_date 所有规则更新并优化完毕！
-	echo_date =======================================================================================================
+	echo_date ====================================================
 	#wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/kp.dat' -q -O rules/kp.dat
     wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/daily.txt' -q -O rules/daily.txt
     wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/koolproxy.txt' -q -O rules/koolproxy.txt
