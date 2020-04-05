@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: dIychHnvg7R1EUEsGkQS0g
-! Version: 202004050843
+! Checksum: IR7aqbVj6zHhd5nHaXFLpA
+! Version: 202004051333
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -3402,7 +3402,6 @@
 ||https://onegreen.net/MyFile/
 ||https://oneinstack.com/images/oneinstack-
 ||https://onemanhua.com/js/ad/
-||https://onemanhua.com/js/xvideo.js
 ||https://onetvb.com/assets/javascripts/
 ||https://onlinedown.net/Public/img/bomAD.jpg
 ||https://onlinedown.net/Public/js/headAd.js
@@ -5348,6 +5347,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://mgtv-bbqn.oss-cn-beijing.aliyuncs.com^
 ||http://dutinf.com^
 ||http://0024aaaa.com^
 ||http://0082tv.net^$third-party
@@ -11162,7 +11162,6 @@
 ||http://onegreen.net/MyFile/
 ||http://oneinstack.com/images/oneinstack-
 ||http://onemanhua.com/js/ad/
-||http://onemanhua.com/js/xvideo.js
 ||http://onetvb.com/assets/javascripts/
 ||http://onlinedown.net/Public/img/bomAD.jpg
 ||http://onlinedown.net/Public/js/headAd.js
@@ -16139,6 +16138,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://zol.com.cn##.down-gaosu
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -22044,6 +22044,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://zol.com.cn##.down-gaosu
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2

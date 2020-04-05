@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IZ0K/D2+XUPENgXsf7dz0Q
-! Version: 202004050851
+! Checksum: wuNE6AMg5AiJGAgJEklMoA
+! Version: 202004051341
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Apr 2020 08:51 UTC
+! Last modified: 05 Apr 2020 13:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4837,6 +4837,7 @@ https://cnn.com##.hed_side
 https://nola.com##.helper
 https://sciencenews.cc##.herald-single-sticky
 https://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.hero-container
+https://sciencefocus.com##.highlight
 https://mint.com##.hmenu
 https://businessspectator.com.au##.holder-content-loaded
 https://cnet.com##.holidayPromo
@@ -5329,6 +5330,7 @@ https://thedodo.com##.promote-widgets
 https://reddit.com##.promoted
 https://startpage.com,usatoday.com##.promotion
 https://csmonitor.com##.promotion-tag-p
+https://sciencefocus.com##.promotional-content
 https://nwfdailynews.com##.promotionalmaindiv
 https://givesmehope.com##.publicite
 https://mashable.com##.publisher-bar
@@ -5741,6 +5743,7 @@ https://designntrend.com,fashionnstyle.com,hngn.com,kdramastars.com,kpopstarz.co
 https://infoworld.com##.whitepaper
 https://pcworld.com##.whitepapers
 https://grist.org,motherjones.com,netbooknews.com##.widget
+https://sciencefocus.com##.widget-area-above-footer
 https://libertyunyielding.com##.widget-around-the-web
 https://tokyohive.com##.widget-block
 https://androidauthority.com##.widget-container
@@ -6291,6 +6294,7 @@ https://staradvertiser.com##.breaking-news-signup
 https://inverse.com##.btn--newsletter
 https://washingtonmonthly.com,whitehalljournal.com,woodfordtimes.com##.btn-subscribe
 https://telesurenglish.net##.btnBoletin
+https://sciencefocus.com##.button-cluster-widget
 https://racked.com,theverge.com##.c-action-box
 https://legit.ng##.c-footer-subscribe
 https://gq-magazine.co.uk##.c-infobar-wrapper
@@ -6434,7 +6438,7 @@ https://startribune.com##.gameday
 https://icepop.com##.get-it-first
 https://electronicintifada.net##.get-updates
 https://pulsenews.co.kr##.getnews
-https://catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.org,yellowhammernews.com##.gform_widget
+https://catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.org,wvexplorer.com,yellowhammernews.com##.gform_widget
 https://pressherald.com,undark.org##.gform_wrapper
 https://ghacks.net##.ghacks_ad_code
 https://independent.co.uk,standard.co.uk##.gigya-signup
@@ -9310,6 +9314,7 @@ https://flyscoot.com##.top-bar
 https://skystore.com##.top-notification-container
 https://hankooktire.com##.top_ep_wrap
 https://e-lawresources.co.uk,mabknives.co.uk##.topbarBox
+https://untappd.com##.tos-banner
 https://thomsonreuters.com##.tr-DismissibleBanner
 https://troax.com##.troax-messages
 https://nfumutual.co.uk##.u-bg-padd
@@ -14974,6 +14979,7 @@ http://cnn.com##.hed_side
 http://nola.com##.helper
 http://sciencenews.cc##.herald-single-sticky
 http://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.hero-container
+http://sciencefocus.com##.highlight
 http://mint.com##.hmenu
 http://businessspectator.com.au##.holder-content-loaded
 http://cnet.com##.holidayPromo
@@ -15466,6 +15472,7 @@ http://thedodo.com##.promote-widgets
 http://reddit.com##.promoted
 http://startpage.com,usatoday.com##.promotion
 http://csmonitor.com##.promotion-tag-p
+http://sciencefocus.com##.promotional-content
 http://nwfdailynews.com##.promotionalmaindiv
 http://givesmehope.com##.publicite
 http://mashable.com##.publisher-bar
@@ -15878,6 +15885,7 @@ http://designntrend.com,fashionnstyle.com,hngn.com,kdramastars.com,kpopstarz.com
 http://infoworld.com##.whitepaper
 http://pcworld.com##.whitepapers
 http://grist.org,motherjones.com,netbooknews.com##.widget
+http://sciencefocus.com##.widget-area-above-footer
 http://libertyunyielding.com##.widget-around-the-web
 http://tokyohive.com##.widget-block
 http://androidauthority.com##.widget-container
@@ -16428,6 +16436,7 @@ http://staradvertiser.com##.breaking-news-signup
 http://inverse.com##.btn--newsletter
 http://washingtonmonthly.com,whitehalljournal.com,woodfordtimes.com##.btn-subscribe
 http://telesurenglish.net##.btnBoletin
+http://sciencefocus.com##.button-cluster-widget
 http://racked.com,theverge.com##.c-action-box
 http://legit.ng##.c-footer-subscribe
 http://gq-magazine.co.uk##.c-infobar-wrapper
@@ -16571,7 +16580,7 @@ http://startribune.com##.gameday
 http://icepop.com##.get-it-first
 http://electronicintifada.net##.get-updates
 http://pulsenews.co.kr##.getnews
-http://catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.org,yellowhammernews.com##.gform_widget
+http://catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.org,wvexplorer.com,yellowhammernews.com##.gform_widget
 http://pressherald.com,undark.org##.gform_wrapper
 http://ghacks.net##.ghacks_ad_code
 http://independent.co.uk,standard.co.uk##.gigya-signup
@@ -19448,6 +19457,7 @@ http://flyscoot.com##.top-bar
 http://skystore.com##.top-notification-container
 http://hankooktire.com##.top_ep_wrap
 http://e-lawresources.co.uk,mabknives.co.uk##.topbarBox
+http://untappd.com##.tos-banner
 http://thomsonreuters.com##.tr-DismissibleBanner
 http://troax.com##.troax-messages
 http://nfumutual.co.uk##.u-bg-padd
