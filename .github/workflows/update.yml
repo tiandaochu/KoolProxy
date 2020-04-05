@@ -30,7 +30,10 @@ jobs:
           ./update.sh
       
       - name: Push Commits
-        run: git push origin master
+        run : |
+          git config --global user.email "ycg31@qq.com"
+          git config --global user.name "ycg31"
+          git push origin master
       
       - name: upload to gitee 传到码云
         run: |
@@ -38,7 +41,7 @@ jobs:
           git config --global user.name "ycg31"
           git clone --depth 1 https://ycg31:${{ secrets.GITEE_TOKEN }}@gitee.com/ycg31/KoolProxy rom
           mkdir -p rom/rules/
-          cp -rf ./rules/ rom/rules/
+          cp -rf ./rules/ rom/
           cd rom
           git add . || echo "1"
           git commit -m "github_actions" -a;
