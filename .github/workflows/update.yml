@@ -31,6 +31,8 @@ jobs:
       
       - name: Push Commits
         run : |
+          git add .
+          git commit -m "update rules"
           git push "https://ycg31:$GITHUB_TOKEN@github.com/ycg31/KoolProxy.git" master
       
       - name: upload to gitee 传到码云
