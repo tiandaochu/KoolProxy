@@ -2,7 +2,7 @@ name: Update_Rules
 on:
   # push:
   #  branches: 
-  #   - master
+  #    - master
   schedule:
     - cron: 0 55 23 * * ？
   # release:
@@ -26,8 +26,8 @@ jobs:
       
       - name: update
         run: |
-          chmod 0755 ./update.sh
-          ./update.sh
+          chmod 0755 ./update1.sh
+          ./update1.sh
       
       - name: Push Commits
         run : |
@@ -44,6 +44,7 @@ jobs:
           git clone --depth 1 https://ycg31:${{ secrets.GITEE_TOKEN }}@gitee.com/ycg31/KoolProxy rom
           mkdir -p rom/rules/
           cp -rf ./rules/ rom/
+          cp -rf ./tmp/koolproxy.log rom/
           cd rom
           git add . || echo "1"
           git commit -m "github_actions" -a;
