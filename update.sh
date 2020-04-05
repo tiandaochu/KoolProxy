@@ -28,7 +28,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 			wget --no-check-certificate --timeout=8 -qO - $url_easylist > tmp/easylistchina.txt
 			#wget -4 -a tmp/upload/kpr_log.txt -O tmp/easylistchina.txt $url_easylist
 			easylistchina_rule_nu_local=`grep -E -v "^!" tmp/easylistchina.txt | wc -l`
-			if [[ "$easylistchina_rule_nu_local" -gt 5000 ]]; then
+			if [ "$easylistchina_rule_nu_local" -gt 5000 ]; then
 				break
 			else
 				echo_date easylistchina规则文件下载失败
@@ -39,7 +39,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 			wget --no-check-certificate --timeout=8 -qO - $url_cjx > tmp/cjx-annoyance.txt
 			#wget -4 -a tmp/upload/kpr_log.txt -O tmp/cjx-annoyance.txt $url_cjx
 			cjx_rule_nu_local=`grep -E -v "^!" tmp/cjx-annoyance.txt | wc -l`
-			if [[ "$cjx_rule_nu_local" -gt 500 ]]; then
+			if [ "$cjx_rule_nu_local" -gt 500 ]; then
 				break
 			else
 				echo_date cjx-annoyance规则文件下载失败
@@ -49,7 +49,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 		#for i in {1..5}; do
 		#	wget -4 -a tmp/upload/kpr_log.txt -O rules/kpr_our_rule.txt $kpr_our_rule
 		#	kpr_our_rule_nu_local=`grep -E -v "^!" rules/kpr_our_rule.txt | wc -l`
-		#	if [[ "$kpr_our_rule_nu_local" -gt 500 ]]; then
+		#	if [ "$kpr_our_rule_nu_local" -gt 500 ]; then
 		#		break
 		#	else
 		#		echo_date kpr_our_rule规则文件下载失败
@@ -67,9 +67,9 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 
 		echo_date ABP规则的本地版本号： $easylist_rules_local
 		echo_date ABP规则的在线版本号： $easylist_rules_remote
-		if [[ "$koolproxy_basic_easylist_failed" != "1" ]]; then
-			if [[ "$easylistchina_rule_local" -gt 10000 ]]; then
-				if [[ "$easylist_rules_local" != "$easylist_rules_remote" ]]; then
+		if [ "$koolproxy_basic_easylist_failed" != "1" ]; then
+			if [ "$easylistchina_rule_local" -gt 10000 ]; then
+				if [ "$easylist_rules_local" != "$easylist_rules_remote" ]; then
 					echo_date 检测到 ABP规则 已更新，现在开始更新...
 					echo_date 将临时的ABP规则文件移动到指定位置
 					mv tmp/easylistchina.txt rules/easylistchina.txt
@@ -97,8 +97,8 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 			mobile_nu_local=`grep -E -v "^!" tmp/yhosts.txt | wc -l`
 			echo_date yhosts规则本地版本号： $replenish_rules_local
 			echo_date yhosts规则在线版本号： $replenish_rules_remote
-			if [[ "$mobile_nu_local" -gt 5000 ]]; then
-				if [[ "$replenish_rules_local" != "$replenish_rules_remote" ]]; then
+			if [ "$mobile_nu_local" -gt 5000 ]; then
+				if [ "$replenish_rules_local" != "$replenish_rules_remote" ]; then
 					echo_date 将临时文件覆盖到原始yhosts文件
 					mv tmp/yhosts.txt rules/yhosts.txt
 					koolproxy_https_mobile=1
@@ -113,7 +113,6 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 	
 
 	# update 视频规则
-	if [[ "1" == "1" ]] || [[ -n "$1" ]]; then
 		echo_date " ---------------------------------------------------------------------------------------"
 		for i in {1..5}; do
 			kpr_video_md5=`md5sum rules/kp.dat | awk '{print $1}'`
@@ -123,13 +122,13 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 			echo_date 远程视频规则md5：$kpr_video_new_md5
 			echo_date 您本地视频规则md5：$kpr_video_md5
 
-			if [[ "$kpr_video_md5" != "$kpr_video_new_md5" ]]; then
+			if [ "$kpr_video_md5" != "$kpr_video_new_md5" ]; then
 				echo_date 检测到新版视频规则.开始更新..........
 				wget --no-check-certificate --timeout=8 -qO - $url_kp > tmp/kp.dat
 				#wget -4 -a tmp/upload/kpr_log.txt -O tmp/kp.dat $url_kp
 				kpr_video_download_md5=`md5sum tmp/kp.dat | awk '{print $1}'`
 				echo_date 您下载的视频规则md5：$kpr_video_download_md5
-				if [[ "$kpr_video_download_md5" == "$kpr_video_new_md5" ]]; then
+				if [ "$kpr_video_download_md5" == "$kpr_video_new_md5" ]; then
 					echo_date 将临时文件覆盖到原始 视频规则 文件
 					mv tmp/kp.dat rules/kp.dat
 					mv tmp/kp.dat.md5 rules/kp.dat.md5
@@ -155,8 +154,8 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 			fanboy_nu_local=`grep -E -v "^!" tmp/fanboy.txt | wc -l`
 			echo_date fanboy规则本地版本号： $fanboy_rules_local
 			echo_date fanboy规则在线版本号： $fanboy_rules_remote
-			if [[ "$fanboy_nu_local" -gt 15000 ]]; then
-				if [[ "$fanboy_rules_local" != "$fanboy_rules_remote" ]]; then
+			if [ "$fanboy_nu_local" -gt 15000 ]; then
+				if [ "$fanboy_rules_local" != "$fanboy_rules_remote" ]; then
 					echo_date 检测到新版本 fanboy规则 列表，开始更新...
 					echo_date 将临时文件覆盖到原始 fanboy规则 文件
 					mv tmp/fanboy.txt rules/fanboy.txt
@@ -182,8 +181,8 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 			AdGuardHome_nu_local=`grep -E -v "^!" tmp/AdGuardHome.txt | wc -l`
 			echo_date AdGuardHome规则本地版本号： $AdGuardHome_rules_local
 			echo_date AdGuardHome规则在线版本号： $AdGuardHome_rules_remote
-			if [[ "$AdGuardHome_nu_local" -gt 5000 ]]; then
-				if [[ "$AdGuardHome_rules_local" != "$AdGuardHome_rules_remote" ]]; then
+			if [ "$AdGuardHome_nu_local" -gt 5000 ]; then
+				if [ "$AdGuardHome_rules_local" != "$AdGuardHome_rules_remote" ]; then
 					echo_date 检测到新版本 AdGuardHome规则 列表，开始更新...
 					echo_date 将临时文件覆盖到原始 AdGuardHome规则 文件
 					mv tmp/AdGuardHome.txt rules/AdGuardHome.txt
@@ -199,7 +198,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 	
 
 
-	if [[ "$koolproxy_https_fanboy" == "1" ]]; then
+	if [ "$koolproxy_https_fanboy" == "1" ]; then
 		echo_date 正在优化 fanboy规则。。。。。
 		# 删除导致KP崩溃的规则
 		# 听说高手?都打的很多、这样才能体现技术
@@ -272,7 +271,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 		koolproxy_del_rule=1
 		while [ $koolproxy_del_rule = 1 ];do
 			del_rule=`cat rules/fanboy.txt | grep -n 'https://' | grep '\*' | grep -v '/\*'| grep -v '\^\*' | grep -v '\*\=' | grep -v '\$s\@' | grep -v '\$r\@'| awk -F":" '{print $1}' | sed -n '1p'`
-			if [[ "$del_rule" != "" ]]; then
+			if [ "$del_rule" != "" ]; then
 				sed -i "${del_rule}d" rules/fanboy.txt
 			else
 				koolproxy_del_rule=0
@@ -286,7 +285,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 
 
 
-	if [[ "$koolproxy_https_ChinaList" == "1" ]]; then
+	if [ "$koolproxy_https_ChinaList" == "1" ]; then
 		echo_date 正在优化 ABP规则。。。。。
 		sed -i '/^\$/d' rules/easylistchina.txt
 		sed -i '/\*\$/d' rules/easylistchina.txt
@@ -359,7 +358,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 		koolproxy_del_rule=1
 		while [ $koolproxy_del_rule = 1 ];do
 			del_rule=`cat rules/easylistchina.txt | grep -n 'https://' | grep '\*' | grep -v '/\*'| grep -v '\^\*' | grep -v '\*\=' | grep -v '\$s\@' | grep -v '\$r\@'| awk -F":" '{print $1}' | sed -n '1p'`
-			if [[ "$del_rule" != "" ]]; then
+			if [ "$del_rule" != "" ]; then
 				sed -i "${del_rule}d" rules/easylistchina.txt
 			else
 				koolproxy_del_rule=0
@@ -372,7 +371,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 	fi
 
 
-	if [[ "$koolproxy_https_mobile" == "1" ]]; then
+	if [ "$koolproxy_https_mobile" == "1" ]; then
 		# 删除不必要信息重新打包 0-11行 表示从第15行开始 $表示结束
 		# sed -i '1,11d' rules/yhosts.txt
 		echo_date 正在优化 补充规则yhosts。。。。。
@@ -439,7 +438,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 		koolproxy_del_rule=1
 		while [ $koolproxy_del_rule = 1 ];do
 			del_rule=`cat rules/yhosts.txt | grep -n 'https://' | grep '\*' | grep -v '/\*'| grep -v '\^\*' | grep -v '\*\=' | grep -v '\$s\@' | grep -v '\$r\@'| awk -F":" '{print $1}' | sed -n '1p'`
-			if [[ "$del_rule" != "" ]]; then
+			if [ "$del_rule" != "" ]; then
 				sed -i "${del_rule}d" rules/yhosts.txt
 			else
 				koolproxy_del_rule=0
@@ -450,7 +449,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 	fi
 
 
-	if [[ "$koolproxy_https_AdGuardHome" == "1" ]]; then
+	if [ "$koolproxy_https_AdGuardHome" == "1" ]; then
 		# 删除不必要信息重新打包 0-11行 表示从第15行开始 $表示结束
 		# sed -i '1,11d' rules/AdGuardHome.txt
 		echo_date 正在优化 补充规则AdGuardHome。。。。。
@@ -512,7 +511,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 		koolproxy_del_rule=1
 		while [ $koolproxy_del_rule = 1 ];do
 			del_rule=`cat rules/AdGuardHome.txt | grep -n 'https://' | grep '\*' | grep -v '/\*'| grep -v '\^\*' | grep -v '\*\=' | grep -v '\$s\@' | grep -v '\$r\@'| awk -F":" '{print $1}' | sed -n '1p'`
-			if [[ "$del_rule" != "" ]]; then
+			if [ "$del_rule" != "" ]; then
 				sed -i "${del_rule}d" rules/AdGuardHome.txt
 			else
 				koolproxy_del_rule=0
