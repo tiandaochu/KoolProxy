@@ -24,6 +24,12 @@ jobs:
         with:
           ref: master
 
+      - name: Set git identity
+        run : |
+         git config --global user.email "ycg31@qq.com"
+         git config --global user.name "ycg31"
+      - name: Load upstream commits
+        run: git pull https://github.com/ycg31/KoolProxy.git --no-edit --strategy-option ours
       - name: update
         run: |
           chmod 0755 ./update.sh
@@ -31,8 +37,6 @@ jobs:
       
       - name: Push Commits
         run : |
-          git config --global user.email "ycg31@qq.com"
-          git config --global user.name "ycg31"
           git push origin master
       
       - name: upload to gitee 传到码云
