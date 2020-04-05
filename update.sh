@@ -99,6 +99,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 			echo_date yhosts规则在线版本号： $replenish_rules_remote
 			if [ "$mobile_nu_local" -gt 5000 ]; then
 				if [ "$replenish_rules_local" != "$replenish_rules_remote" ]; then
+					echo_date 检测到 yhosts规则 已更新，现在开始更新...
 					echo_date 将临时文件覆盖到原始yhosts文件
 					mv tmp/yhosts.txt rules/yhosts.txt
 					koolproxy_https_mobile=1
@@ -176,8 +177,8 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 		for i in {1..5}; do
 			#wget -4 -a tmp/upload/kpr_log.txt -O tmp/fanboy.txt $url_fanboy
 			wget --no-check-certificate --timeout=8 -qO - $url_AdGuardHome > tmp/AdGuardHome.txt
-			AdGuardHome_rules_local=`cat rules/AdGuardHome.txt  | sed -n '3p'|awk '{print $3,$4}'`
-			AdGuardHome_rules_remote=`cat tmp/AdGuardHome.txt  | sed -n '3p'|awk '{print $3,$4}'`
+			AdGuardHome_rules_local=`cat rules/AdGuardHome.txt  | sed -n '2p' | cut -d "=" -f2`
+			AdGuardHome_rules_remote=`cat tmp/AdGuardHome.txt  | sed -n '2p' | cut -d "=" -f2`
 			AdGuardHome_nu_local=`grep -E -v "^!" tmp/AdGuardHome.txt | wc -l`
 			echo_date AdGuardHome规则本地版本号： $AdGuardHome_rules_local
 			echo_date AdGuardHome规则在线版本号： $AdGuardHome_rules_remote
