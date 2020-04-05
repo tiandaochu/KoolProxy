@@ -54,7 +54,7 @@ jobs:
       
       - name: upload to CODING 传到CODING
         run: |
-          git clone --depth 1 https://ycg31@qq.com:${{ secrets.CODING_TOKEN }}@e.coding.net/ycg31/KoolProxy.git coding
+          git clone --depth 1 https://ycg31@qq.com:${{ secrets.CODING_TOKEN }}@e.coding.net/ycg31/KoolProxy coding
           mkdir -p coding/rules/
           cp -rf ./rules/ rom/
           cp -rf ./tmp/koolproxy.log coding/
