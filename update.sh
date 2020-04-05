@@ -12,6 +12,7 @@ url_yhosts="https://shaoxia1991.coding.net/p/yhosts/d/yhosts/git/raw/master/host
 url_yhosts1="https://shaoxia1991.coding.net/p/yhosts/d/yhosts/git/raw/master/data/tvbox.txt"
 kpr_our_rule="https://shaoxia1991.coding.net/p/koolproxy_rule_list/d/koolproxy_rule_list/git/raw/master/kpr_our_rule.txt"
 url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
+url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/anti-ad-for-dnsmasq.conf"
 
 
     echo_date ------------------- 规则更新 -------------------
@@ -64,24 +65,22 @@ url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
 		easylist_/rules_local=`cat /rules/easylistchina.txt  | sed -n '3p'|awk '{print $3,$4}'`
 		easylist_/rules_remote=`cat /tmp/easylistchina.txt  | sed -n '3p'|awk '{print $3,$4}'`
 
-		echo_date KPR主规则的本地版本号： $easylist_/rules_local
-		echo_date KPR主规则的在线版本号： $easylist_/rules_remote
+		echo_date ABP规则的本地版本号： $easylist_/rules_local
+		echo_date ABP规则的在线版本号： $easylist_/rules_remote
 		if [[ "$koolproxy_basic_easylist_failed" != "1" ]]; then
 			if [[ "$easylistchina_rule_local" -gt 10000 ]]; then
 				if [[ "$easylist_/rules_local" != "$easylist_/rules_remote" ]]; then
-					echo_date 检测到 KPR主规则 已更新，现在开始更新...
-					echo_date 将临时的KPR主规则文件移动到指定位置
+					echo_date 检测到 ABP规则 已更新，现在开始更新...
+					echo_date 将临时的ABP规则文件移动到指定位置
 					mv /tmp/easylistchina.txt /rules/easylistchina.txt
 					koolproxy_https_ChinaList=1
 				else
-					echo_date 检测到 KPR主规则本地版本号和在线版本号相同，那还更新个毛啊!
+					echo_date 检测到 ABP规则本地版本号和在线版本号相同，那还更新个毛啊!
 				fi
 			fi
 		else
-			echo_date KPR主规则文件下载失败！>>$LOGFILE
+			echo_date ABP规则文件下载失败！>>$LOGFILE
 		fi
-	else
-		echo_date 未打开 KPR主规则 的更新开关！>>$LOGFILE
 	fi
 	
 		# update yhosts规则
@@ -111,8 +110,6 @@ url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
 				echo_date yhosts文件下载失败！
 			fi
 		done
-	else
-		echo_date 未打开 yhosts 的更新开关！
 	fi
 
 	# update 视频规则
@@ -136,6 +133,7 @@ url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
 					echo_date 将临时文件覆盖到原始 视频规则 文件
 					mv /tmp/kp.dat /rules/kp.dat
 					mv /tmp/kp.dat.md5 /rules/kp.dat.md5
+					video_md5=$kpr_video_new_md5
 					break
 				else
 					echo_date 视频规则md5校验不通过...
@@ -144,8 +142,6 @@ url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
 				echo_date 检测到 视频规则 本地版本号和在线版本号相同，那还更新个毛啊!
 			fi
 		done
-	else
-		echo_date 未打开 视频规则 的更新开关！
 	fi
 
 	# update fanboy规则
@@ -173,13 +169,35 @@ url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
 				echo_date fanboy规则 文件下载失败！
 			fi
 		done
-	else
-		echo_date 未打开 fanboy规则 的更新开关！
 	fi
 
-	rm -rf /tmp/fanboy.txt
-	rm -rf /tmp/yhosts.txt
-	rm -rf /tmp/easylistchina.txt
+	# update AdGuardHome规则
+	if [[ "1" == "1" ]]; then
+		echo_date " ---------------------------------------------------------------------------------------"
+		for i in {1..5}; do
+			#wget -4 -a /tmp/upload/kpr_log.txt -O /tmp/fanboy.txt $url_fanboy
+			wget --no-check-certificate --timeout=8 -qO - $url_AdGuardHome > /tmp/AdGuardHome.txt
+			AdGuardHome_/rules_local=`cat /rules/AdGuardHome.txt  | sed -n '3p'|awk '{print $3,$4}'`
+			AdGuardHome_/rules_remote=`cat /tmp/AdGuardHome.txt  | sed -n '3p'|awk '{print $3,$4}'`
+			AdGuardHome_nu_local=`grep -E -v "^!" /tmp/AdGuardHome.txt | wc -l`
+			echo_date AdGuardHome规则本地版本号： $AdGuardHome_/rules_local
+			echo_date AdGuardHome规则在线版本号： $AdGuardHome_/rules_remote
+			if [[ "$AdGuardHome_nu_local" -gt 5000 ]]; then
+				if [[ "$AdGuardHome_/rules_local" != "$AdGuardHome_/rules_remote" ]]; then
+					echo_date 检测到新版本 AdGuardHome规则 列表，开始更新...
+					echo_date 将临时文件覆盖到原始 AdGuardHome规则 文件
+					mv /tmp/AdGuardHome.txt /rules/AdGuardHome.txt
+					koolproxy_https_AdGuardHome=1
+					break
+				else
+					echo_date 检测到 AdGuardHome规则 本地版本号和在线版本号相同，那还更新个毛啊!
+				fi
+			else
+				echo_date AdGuardHome规则 文件下载失败！
+			fi
+		done
+	fi
+
 
 	if [[ "$koolproxy_https_fanboy" == "1" ]]; then
 		echo_date 正在优化 fanboy规则。。。。。
@@ -269,7 +287,7 @@ url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
 
 
 	if [[ "$koolproxy_https_ChinaList" == "1" ]]; then
-		echo_date 正在优化 KPR主规则。。。。。
+		echo_date 正在优化 ABP规则。。。。。
 		sed -i '/^\$/d' /rules/easylistchina.txt
 		sed -i '/\*\$/d' /rules/easylistchina.txt
 		# 给btbtt.替换过滤规则。
@@ -350,7 +368,7 @@ url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
 		#cat /rules/kpr_our_rule.txt >> /rules/easylistchina.txt
 
 	else
-		echo_date 跳过优化 KPR主规则。。。。。
+		echo_date 跳过优化 ABP规则。。。。。
 	fi
 
 
@@ -427,25 +445,106 @@ url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
 				koolproxy_del_rule=0
 			fi
 		done	
-
-
 	else
 		echo_date 跳过优化 补充规则yhosts。。。。。
+	fi
+
+
+	if [[ "$koolproxy_https_AdGuardHome" == "1" ]]; then
+		# 删除不必要信息重新打包 0-11行 表示从第15行开始 $表示结束
+		# sed -i '1,11d' /rules/AdGuardHome.txt
+		echo_date 正在优化 补充规则AdGuardHome。。。。。
+
+		# 开始Kpr规则化处理
+		cat /rules/AdGuardHome.txt > /rules/AdGuardHome_https.txt
+		sed -i 's/^127.0.0.1\ /||https:\/\//g' /rules/AdGuardHome_https.txt
+		cat /rules/AdGuardHome.txt >> /rules/AdGuardHome_https.txt
+		sed -i 's/^127.0.0.1\ /||http:\/\//g' /rules/AdGuardHome_https.txt
+
+
+
+		# 此处对AdGuardHome进行处理
+		sed -i 's/^@/!/g' /rules/AdGuardHome.txt
+		sed -i 's/^#/!/g' /rules/AdGuardHome.txt
+		sed -i '/localhost/d' /rules/AdGuardHome.txt
+		sed -i '/broadcasthost/d' /rules/AdGuardHome.txt
+		sed -i '/broadcasthost/d' /rules/AdGuardHome.txt
+		sed -i '/cn.bing.com/d' /rules/AdGuardHome.txt
+		# 给三大视频网站放行 由kp.dat负责
+		sed -i '/youku.com/d' /rules/AdGuardHome.txt
+		sed -i '/iqiyi.com/d' /rules/AdGuardHome.txt
+		sed -i '/g.alicdn.com/d' /rules/AdGuardHome.txt
+		sed -i '/tudou.com/d' /rules/AdGuardHome.txt
+		sed -i '/gtimg.cn/d' /rules/AdGuardHome.txt
+
+
+		# 给知乎放行
+		sed -i '/zhihu.com/d' /rules/AdGuardHome.txt
+		# 给https://qq.com的html规则放行
+		sed -i '/qq.com/d' /rules/AdGuardHome.txt
+		# 给github的https放行
+		sed -i '/github/d' /rules/AdGuardHome.txt
+		# 给apple的https放行
+		sed -i '/apple.com/d' /rules/AdGuardHome.txt
+		sed -i '/mzstatic.com/d' /rules/AdGuardHome.txt
+		# 给api.twitter.com的https放行
+		sed -i '/twitter.com/d' /rules/AdGuardHome.txt
+		# 给facebook.com的https放行
+		sed -i '/facebook.com/d' /rules/AdGuardHome.txt
+		sed -i '/fbcdn.net/d' /rules/AdGuardHome.txt
+		# 给 instagram.com 放行
+		sed -i '/instagram.com/d' /rules/AdGuardHome.txt
+		# 删除可能导致kpr卡死的神奇规则
+		sed -i '/https:\/\/\*/d' /rules/AdGuardHome.txt
+		# 给国内三大电商平台放行
+		sed -i '/jd.com/d' /rules/AdGuardHome.txt
+		sed -i '/taobao.com/d' /rules/AdGuardHome.txt
+		sed -i '/tmall.com/d' /rules/AdGuardHome.txt
+		# 给 netflix.com 放行
+		sed -i '/netflix.com/d' /rules/AdGuardHome.txt
+		# 给 tvbs.com 放行
+		sed -i '/tvbs.com/d' /rules/AdGuardHome.txt
+		sed -i '/googletagmanager.com/d' /rules/AdGuardHome.txt
+		# 给 microsoft.com 放行
+		sed -i '/microsoft.com/d' /rules/AdGuardHome.txt
+		# 终极 https 卡顿优化 grep -n 显示行号  awk -F 分割数据  sed -i "${del_rule}d" 需要""" 和{}引用变量
+		# 当 koolproxy_del_rule 是1的时候就一直循环，除非 del_rule 变量为空了。
+		koolproxy_del_rule=1
+		while [ $koolproxy_del_rule = 1 ];do
+			del_rule=`cat /rules/AdGuardHome.txt | grep -n 'https://' | grep '\*' | grep -v '/\*'| grep -v '\^\*' | grep -v '\*\=' | grep -v '\$s\@' | grep -v '\$r\@'| awk -F":" '{print $1}' | sed -n '1p'`
+			if [[ "$del_rule" != "" ]]; then
+				sed -i "${del_rule}d" /rules/AdGuardHome.txt
+			else
+				koolproxy_del_rule=0
+			fi
+		done	
+	else
+		echo_date 跳过优化 补充规则AdGuardHome。。。。。
 	fi
 	# 删除临时文件
 	rm -rf /rules/*_https.txt
 	#rm /rules/kpr_our_rule.txt
 
-
-
 	echo_date 所有规则更新并优化完毕！
 	echo_date =======================================================================================================
-        easylist_/rules_local=`cat /usr/share/koolproxy/data//rules/easylistchina.txt  | sed -n '3p'|awk '{print $3,$4}'`
-        fanboy_/rules_local=`cat /usr/share/koolproxy/data//rules/fanboy.txt  | sed -n '3p'|awk '{print $3,$4}'`
-        replenish_/rules_local=`cat /usr/share/koolproxy/data//rules/yhosts.txt | sed -n '2p' | cut -d "=" -f2`
-        echo_date -------------------easylist version $easylist_/rules_local
-        echo_date -------------------fanboy   version $fanboy_/rules_local
-        echo_date -------------------yhosts   version $replenish_/rules_local
+	#wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/kp.dat' -q -O /rules/kp.dat
+    wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/daily.txt' -q -O /rules/daily.txt
+    wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/koolproxy.txt' -q -O /rules/koolproxy.txt
+	#wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/yhosts.txt' -q -O /rules/yhosts.txt
+    #wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/fanboy.txt' -q -O /rules/fanboy.txt
+	#wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/easylistchina.txt' -q -O /rules/easylistchina.txt
+    #wget 'https://gitee.com/privacy-protection-tools/anti-ad/raw/master/anti-ad-for-dnsmasq.conf' -q -O /rules/AdGuardHome.txt
+	wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/koolproxy_ipset.conf' -q -O $KP_DIR/koolproxy_ipset.conf
+	easylist_/rules_local=`cat /rules/easylistchina.txt  | sed -n '3p'|awk '{print $3,$4}'`
+    fanboy_/rules_local=`cat /rules/fanboy.txt  | sed -n '3p'|awk '{print $3,$4}'`
+    yhosts_/rules_local=`cat /rules/yhosts.txt | sed -n '2p' | cut -d "=" -f2`
+	AdGuardHome_/rules_local=`cat /rules/AdGuardHome.txt | sed -n '2p' | cut -d "=" -f2`
+    echo_date -------------------easylist      version $easylist_/rules_local
+    echo_date -------------------fanboy        version $fanboy_/rules_local
+    echo_date -------------------yhosts        version $yhosts_/rules_local
+	echo_date -------------------AdGuardHome   version $AdGuardHome_/rules_local
+	echo_date -------------------kp.dat        MD5 $video_md5
 
 	echo_date ------------------- 规则更新成功！ -------------------   
 
+	
