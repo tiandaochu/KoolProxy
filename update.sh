@@ -277,8 +277,6 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
 				koolproxy_del_rule=0
 			fi
 		done	
-
-        cp rules/fanboy.txt rules/fanboy.txt
 	else
 		echo_date 跳过优化 fanboy规则。。。。。
 	fi
@@ -533,7 +531,7 @@ url_AdGuardHome="https://gitee.com/privacy-protection-tools/anti-ad/raw/master/a
     #wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/fanboy.txt' -q -O rules/fanboy.txt
 	#wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/easylistchina.txt' -q -O rules/easylistchina.txt
     #wget 'https://gitee.com/privacy-protection-tools/anti-ad/raw/master/anti-ad-for-dnsmasq.conf' -q -O rules/AdGuardHome.txt
-	wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/koolproxy_ipset.conf' -q -O $KP_DIR/koolproxy_ipset.conf
+	wget 'https://raw.githubusercontent.com/brokeld/KoolProxyR/master/koolproxy_ipset.conf' -q -O rules/koolproxy_ipset.conf
 	easylist_rules_local=`cat rules/easylistchina.txt  | sed -n '3p'|awk '{print $3,$4}'`
     fanboy_rules_local=`cat rules/fanboy.txt  | sed -n '3p'|awk '{print $3,$4}'`
     yhosts_rules_local=`cat rules/yhosts.txt | sed -n '2p' | cut -d "=" -f2`
