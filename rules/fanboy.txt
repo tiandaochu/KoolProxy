@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OLh+CC2aX6o3GzzkDKLjRA
-! Version: 202004050751
+! Checksum: UqBtuCAd5zD6RA1cLYNLfg
+! Version: 202004050841
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Apr 2020 07:51 UTC
+! Last modified: 05 Apr 2020 08:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6682,6 +6682,7 @@ https://womenonwheels.co.za##.side-form-r
 https://hotelnewsresource.com##.sidebar-block-signup
 https://caribjournal.com##.sidebar-form
 https://wired.com##.sidebar-inview
+https://techgenix.com##.sidebar-optin
 https://fightthenewdrug.org##.sidebar-sign-the-pledge
 https://thesaturdaypaper.com.au##.sidebar-sticky--briefing
 https://food52.com##.sidebar__mailing-list
@@ -16818,6 +16819,7 @@ http://womenonwheels.co.za##.side-form-r
 http://hotelnewsresource.com##.sidebar-block-signup
 http://caribjournal.com##.sidebar-form
 http://wired.com##.sidebar-inview
+http://techgenix.com##.sidebar-optin
 http://fightthenewdrug.org##.sidebar-sign-the-pledge
 http://thesaturdaypaper.com.au##.sidebar-sticky--briefing
 http://food52.com##.sidebar__mailing-list
