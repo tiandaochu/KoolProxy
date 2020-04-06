@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 2gXLK8UkWymSO3/IXyhKRw
-! Version: 202004052353
+! Checksum: 84VG+AtUDKaKa9NtSNcKzw
+! Version: 202004060653
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -3907,7 +3907,6 @@
 ||https://sogoucdn.com/imgu/*.swf
 ||https://sogoucdn.com/nstatic/js/showtime.js
 ||https://sogoucdn.com/nstatic/js/tmallskin_
-||https://sogoucdn.com/wap/js/
 ||https://sogoucdn.com/wapsearch/static/js/videoAppro.
 ||https://sohu.com.cn/ppp/bms/bms.popup.
 ||https://sohu.com/adgtr/
@@ -5347,6 +5346,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://noahos.cn^
 ||http://0024aaaa.com^
 ||http://0082tv.net^$third-party
 ||http://00880808.com^
@@ -11727,7 +11727,7 @@
 ||http://sogoucdn.com/imgu/*.swf
 ||http://sogoucdn.com/nstatic/js/showtime.js
 ||http://sogoucdn.com/nstatic/js/tmallskin_
-||http://sogoucdn.com/wap/js/
+||http://theta.sogoucdn.com^
 ||http://sogoucdn.com/wapsearch/static/js/videoAppro.
 ||http://sohu.com.cn/ppp/bms/bms.popup.
 ||http://sohu.com/adgtr/
@@ -13457,6 +13457,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://cryptaloot.pro^
+||http://40ic.cn^
+||http://zxglpj.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -16925,7 +16927,6 @@ https://csdn.net###layerd
 https://hao123.com###layout-guess
 https://920share.com###layui-layer1
 https://dm5.com###lb-win
-https://jobbole.com###leaderboard
 https://hao.360.com###left-nav-place
 https://baidu.com###left-promotion
 https://hao.360.cn###left-ria-fixed
@@ -17243,7 +17244,6 @@ https://iyejie.com,pc360.net###sidebar > .widget:first-child
 https://oneinstack.com###sidebar > .widget:last-child
 https://ainuody.com###sidebar > .widget:nth-child(-n+6)
 https://pc360.net###sidebar > .widget:nth-child(3)
-https://jobbole.com###sidebar > .widget_text:first-child
 https://cmsky.com###sidebar > .wow > .widget:first-child
 https://tl95.vip###sidebar > .wow:first-child > .widget:first-child
 https://jiecao123.com###sidebar > a
@@ -17259,7 +17259,6 @@ https://yigujin.cn###sidebar img[src*="/abc/"]
 https://xici.net###sidebar-bd > #pbox:last-child
 https://elecfans.com###sidebar-firstad
 https://gaoqing.la###sidebar-follow
-https://jobbole.com###sidebar-recommend
 https://vikilife.com###sidebar-tab[style^="height:"]
 https://iplaysoft.com###sidebar_scroll_bdad
 https://2345.com###sidel_lvy
@@ -19333,9 +19332,7 @@ https://camerabay.tv##.popupad
 https://pzzc.net##.portal_block_summary
 https://tgfcer.com##.portalbox
 https://netbardh.com##.pos-navbar-ad
-https://jobbole.com##.post > .textwidget
 https://vmovier.com##.post-ad-bottom
-https://jobbole.com##.post-adds + .textwidget
 https://hao.su##.post-content > div[class^="a"]
 https://sanv.org##.post-left
 https://vmovier.com##.post-right-item + a[target="_blank"]
@@ -21189,6 +21186,7 @@ https://bixia.org##dd[style*="bottom:"]
 https://duanwenxue.com##.qgzdwx
 https://jx.la##div[onclick*="apk"]
 https://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
+https://onemanhua.com##.mn-related-container
 https://getrelax.cc,sexylove.club##.loaded-popup-wrapper
 https://rjno1.com##div[style="display:none"]
 https://173.192.147.21,iu91.co,ozxw.co,sejie.com,sejie2.us,sejie3.us,thesoccerline.com,ukhuaren.co###wp > br
@@ -22831,7 +22829,6 @@ http://csdn.net###layerd
 http://hao123.com###layout-guess
 http://920share.com###layui-layer1
 http://dm5.com###lb-win
-http://jobbole.com###leaderboard
 http://hao.360.com###left-nav-place
 http://baidu.com###left-promotion
 http://hao.360.cn###left-ria-fixed
@@ -23149,7 +23146,6 @@ http://iyejie.com,pc360.net###sidebar > .widget:first-child
 http://oneinstack.com###sidebar > .widget:last-child
 http://ainuody.com###sidebar > .widget:nth-child(-n+6)
 http://pc360.net###sidebar > .widget:nth-child(3)
-http://jobbole.com###sidebar > .widget_text:first-child
 http://cmsky.com###sidebar > .wow > .widget:first-child
 http://tl95.vip###sidebar > .wow:first-child > .widget:first-child
 http://jiecao123.com###sidebar > a
@@ -23165,7 +23161,6 @@ http://yigujin.cn###sidebar img[src*="/abc/"]
 http://xici.net###sidebar-bd > #pbox:last-child
 http://elecfans.com###sidebar-firstad
 http://gaoqing.la###sidebar-follow
-http://jobbole.com###sidebar-recommend
 http://vikilife.com###sidebar-tab[style^="height:"]
 http://iplaysoft.com###sidebar_scroll_bdad
 http://2345.com###sidel_lvy
@@ -25239,9 +25234,7 @@ http://camerabay.tv##.popupad
 http://pzzc.net##.portal_block_summary
 http://tgfcer.com##.portalbox
 http://netbardh.com##.pos-navbar-ad
-http://jobbole.com##.post > .textwidget
 http://vmovier.com##.post-ad-bottom
-http://jobbole.com##.post-adds + .textwidget
 http://hao.su##.post-content > div[class^="a"]
 http://sanv.org##.post-left
 http://vmovier.com##.post-right-item + a[target="_blank"]
@@ -27095,6 +27088,7 @@ http://bixia.org##dd[style*="bottom:"]
 http://duanwenxue.com##.qgzdwx
 http://jx.la##div[onclick*="apk"]
 http://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
+http://onemanhua.com##.mn-related-container
 http://getrelax.cc,sexylove.club##.loaded-popup-wrapper
 http://rjno1.com##div[style="display:none"]
 http://173.192.147.21,iu91.co,ozxw.co,sejie.com,sejie2.us,sejie3.us,thesoccerline.com,ukhuaren.co###wp > br
