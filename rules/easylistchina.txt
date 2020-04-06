@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: sb+RSJh5QzJYQcrCC5gOPw
-! Version: 202004051403
+! Checksum: 2gXLK8UkWymSO3/IXyhKRw
+! Version: 202004052353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -4340,6 +4340,7 @@
 ||https://wumii.cn/site_images/c/
 ||https://wuyulou.com^*.php
 ||https://ww7814.win/pic
+||https://ww9874.com/asset/playerInit.js
 ||https://wwuuoo.com/11bb/
 ||https://www-dnwx-com.anquanbao.cn/pic
 ||https://www.china.com.cn/node_
@@ -4746,7 +4747,6 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://ww9874.com/asset/playerInit.js
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5347,8 +5347,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://mgtv-bbqn.oss-cn-beijing.aliyuncs.com^
-||http://dutinf.com^
 ||http://0024aaaa.com^
 ||http://0082tv.net^$third-party
 ||http://00880808.com^
@@ -6231,6 +6229,7 @@
 ||http://duomai.com^$third-party
 ||http://duoqumanhua.com^
 ||http://dushimj.com^$third-party
+||http://dutinf.com^
 ||http://duusuu.com^
 ||http://duyihu.net^
 ||http://dvr8.com^
@@ -6933,6 +6932,7 @@
 ||http://metmt.com^
 ||http://mfcvxw.cn^
 ||http://mglvqian.com^
+||http://mgtv-bbqn.oss-cn-beijing.aliyuncs.com^
 ||http://mgwcn.com^
 ||http://mgwl668.com^$third-party
 ||http://miaozhen.com^$third-party
@@ -12215,6 +12215,7 @@
 ||http://wumii.cn/site_images/c/
 ||http://wuyulou.com^*.php
 ||http://ww7814.win/pic
+||http://ww9874.com/asset/playerInit.js
 ||http://wwuuoo.com/11bb/
 ||http://www-dnwx-com.anquanbao.cn/pic
 ||http://www.china.com.cn/node_$domain=news.china.com.cn
@@ -12653,7 +12654,6 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://ww9874.com/asset/playerInit.js
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -13457,9 +13457,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://cryptaloot.pro^
-||http://hhjkl.cc^
-||http://bapres.cn^
-||http://abie9.top^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13667,6 +13664,7 @@
 ||http://abeij.com^
 ||http://abfirst.cn^
 ||http://abie10.top^
+||http://abie9.top^
 ||http://abuse8.com^
 ||http://acaog.com^
 ||http://acaox.com^
@@ -13740,6 +13738,7 @@
 ||http://baolutongwuye.cn^
 ||http://baomeidiaosu.cn^
 ||http://bapkt.com^
+||http://bapres.cn^
 ||http://barnfps.com^
 ||http://bbba8.com^
 ||http://bbbr8.com^
@@ -14249,6 +14248,7 @@
 ||http://hgrqp.com^
 ||http://hguac.com^
 ||http://hguas.com^
+||http://hhjkl.cc^
 ||http://hhslbz.cn^
 ||http://hiffyl.com^
 ||http://higoo4.com^
@@ -16138,7 +16138,6 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://zol.com.cn##.down-gaosu
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -18385,6 +18384,7 @@ https://pctowap.com##.dowap_ads
 https://3d66.com##.down-adver
 https://xiazaiba.com##.down-btn1
 https://xiazaiba.com##.down-btn2
+https://zol.com.cn##.down-gaosu
 https://smzy.com##.down-jisu
 https://zol.com.cn##.down-link
 https://xiaopi.com##.down-list
@@ -22044,7 +22044,6 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://zol.com.cn##.down-gaosu
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -24291,6 +24290,7 @@ http://pctowap.com##.dowap_ads
 http://3d66.com##.down-adver
 http://xiazaiba.com##.down-btn1
 http://xiazaiba.com##.down-btn2
+http://zol.com.cn##.down-gaosu
 http://smzy.com##.down-jisu
 http://zol.com.cn##.down-link
 http://xiaopi.com##.down-list

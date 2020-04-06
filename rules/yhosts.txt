@@ -1,5 +1,5 @@
 
-!version=20200405 727
+!version=202004052320
 ||https://ereg.adobe.com
 ||https://hlrcv.stage.adobe.com
 ||https://lm.licenses.adobe.com
@@ -1788,6 +1788,7 @@
 ||https://jsjs.jbzj.com
 ||https://jscode.jbzj.com
 ||https://icws.jb51.net
+||https://wm.kolinay.com
 ||https://ad.egou.com
 ||https://a.dangdang.com
 ||https://click.dangdang.com
@@ -6383,7 +6384,6 @@
 ||https://www.zopeynxv.top
 ||https://www.zreder.com
 ||https://www.zshacker.com
-||https://www.zwda.com
 ||https://www.zxziyuan.com
 ||https://www.zz123.com
 ||https://wwwokzyzy.com
@@ -8887,7 +8887,7 @@
 ||https://hp.smiler-ad.com
 ||https://static8.pmadx.com
 
-!version=20200405 727
+!version=202004052320
 ||http://ereg.adobe.com
 ||http://hlrcv.stage.adobe.com
 ||http://lm.licenses.adobe.com
@@ -10676,6 +10676,7 @@
 ||http://jsjs.jbzj.com
 ||http://jscode.jbzj.com
 ||http://icws.jb51.net
+||http://wm.kolinay.com
 ||http://ad.egou.com
 ||http://a.dangdang.com
 ||http://click.dangdang.com
@@ -15271,7 +15272,6 @@
 ||http://www.zopeynxv.top
 ||http://www.zreder.com
 ||http://www.zshacker.com
-||http://www.zwda.com
 ||http://www.zxziyuan.com
 ||http://www.zz123.com
 ||http://wwwokzyzy.com
