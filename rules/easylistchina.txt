@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 84VG+AtUDKaKa9NtSNcKzw
-! Version: 202004060653
+! Checksum: ZBb1RQ/1knEM3OPqB0jt7g
+! Version: 202004062353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -1381,7 +1381,6 @@
 ||https://admin25.com/ad/
 ||https://admin6.com/templates/index/default/images/100060.gif
 ||https://adminbuy.cn/images/
-||https://advideoadmin.appledaily.com.tw/ov_player/
 ||https://adwordsing.com/img/1.jpg
 ||https://adwordsing.com/img/2.jpg
 ||https://affyun.com/wp-content/uploads/*-ad.
@@ -5346,7 +5345,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://noahos.cn^
 ||http://0024aaaa.com^
 ||http://0082tv.net^$third-party
 ||http://00880808.com^
@@ -7029,6 +7027,7 @@
 ||http://nmqbg.com^
 ||http://nnedbx.com^
 ||http://nngft.com^
+||http://noahos.cn^
 ||http://noberlmall.com^
 ||http://nongsalei.com^
 ||http://nord-raum.com^$third-party
@@ -8854,7 +8853,6 @@
 ||http://adt.xdrig.com^
 ||http://adultblogtoplist.com^$domain=520cc.me
 ||http://adv-sv-show.focus.cn^
-||http://advideoadmin.appledaily.com.tw/ov_player/
 ||http://adwordsing.com/img/1.jpg
 ||http://adwordsing.com/img/2.jpg
 ||http://affyun.com/wp-content/uploads/*-ad.
@@ -11727,7 +11725,6 @@
 ||http://sogoucdn.com/imgu/*.swf
 ||http://sogoucdn.com/nstatic/js/showtime.js
 ||http://sogoucdn.com/nstatic/js/tmallskin_
-||http://theta.sogoucdn.com^
 ||http://sogoucdn.com/wapsearch/static/js/videoAppro.
 ||http://sohu.com.cn/ppp/bms/bms.popup.
 ||http://sohu.com/adgtr/
@@ -11870,6 +11867,7 @@
 ||http://tfg2.com/images/upfile/AD/
 ||http://thcdy.co/baidu2/
 ||http://theporn.xyz/static/tmp/
+||http://theta.sogoucdn.com^
 ||http://thisav.com/0*.js
 ||http://thisav.com/index.js
 ||http://thisav.com/nb/
@@ -13457,8 +13455,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://cryptaloot.pro^
-||http://40ic.cn^
-||http://zxglpj.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13546,6 +13542,7 @@
 ||http://3ql1pb.cn^
 ||http://3s1xk.cn^
 ||http://3vn52l.cn^
+||http://40ic.cn^
 ||http://42rca.cn^
 ||http://47dx0c.cn^
 ||http://47n209.com^
@@ -15467,6 +15464,7 @@
 ||http://zwsteel.cn^
 ||http://zwychain.cn^
 ||http://zx-jsp.com^
+||http://zxglpj.cn^
 ||http://zxhymh.com^
 ||http://zxin131.cn^
 ||http://zxjjzx.com^
@@ -18678,6 +18676,7 @@ https://vpsdx.com##.gsfha3-form
 https://kuhou.com,pcsoft.com.cn##.gsxz
 https://yxdown.com##.gsxz_ydw
 https://pcsoft.com.cn##.gsxzdl
+https://32r.com##.gsxzdz > span + p + ul > li > a:not([class])
 https://putclub.com##.gtest
 https://vpsdx.com##.gthfdsa
 https://58.com##.guaguabox
@@ -20322,7 +20321,6 @@ https://caibaojian.com##a[onclick*="aliyun"]
 https://caibaojian.com##a[onclick*="aly"]
 https://5g0a.com##a[onclick*="banner"]
 https://tvapk.net##a[onclick*="thread_banner"]
-https://32r.com##a[onclick="javascript:gsdownload();"]
 https://fixdown.com##a[onclick^="count_down"]
 https://52pk.com##a[onclick^="ga"]
 https://edc1014070.pixnet.net##a[onmouseover*="_openBrWindow"]
@@ -24580,6 +24578,7 @@ http://vpsdx.com##.gsfha3-form
 http://kuhou.com,pcsoft.com.cn##.gsxz
 http://yxdown.com##.gsxz_ydw
 http://pcsoft.com.cn##.gsxzdl
+http://32r.com##.gsxzdz > span + p + ul > li > a:not([class])
 http://putclub.com##.gtest
 http://vpsdx.com##.gthfdsa
 http://58.com##.guaguabox
@@ -26224,7 +26223,6 @@ http://caibaojian.com##a[onclick*="aliyun"]
 http://caibaojian.com##a[onclick*="aly"]
 http://5g0a.com##a[onclick*="banner"]
 http://tvapk.net##a[onclick*="thread_banner"]
-http://32r.com##a[onclick="javascript:gsdownload();"]
 http://fixdown.com##a[onclick^="count_down"]
 http://52pk.com##a[onclick^="ga"]
 http://edc1014070.pixnet.net##a[onmouseover*="_openBrWindow"]
