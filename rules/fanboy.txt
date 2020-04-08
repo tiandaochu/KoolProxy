@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0qUIeUzzUyx/ZjWBx8w5BQ
-! Version: 202004062351
+! Checksum: 2kKNEiQrPPhWXzzc6Ou8gg
+! Version: 202004072351
 ! Title: Fanboy's Annoyance List
-! Last modified: 06 Apr 2020 23:51 UTC
+! Last modified: 07 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10902,6 +10902,7 @@ https://start-nrw.de###cpopup
 https://ruegenwalder.de###csdialogbd
 https://ruegenwalder.de###csdialogmd2
 https://rentalens.ch###dabar
+https://neues-deutschland.de###data-protection
 https://interhyp.de###data-protection__layer
 https://sovd.de###datenschutzfenster
 https://shopwelt.de###dateschutzinfo
@@ -12104,6 +12105,7 @@ https://xhamster.com#@#.subscribe-block
 https://humblebundle.com#@#.subscribe-box
 https://oneplus.com,stackexchange.com#@#.subscribe-container
 https://twit.tv#@#.subscribe-panel
+https://batenka.ru#@#.subscribe-popup
 https://wtfast.com#@#.subscribe_box
 https://mos.ru#@#.subscription-block
 https://reddit.com,yesplz.coffee#@#.subscription-box
@@ -21049,6 +21051,7 @@ http://start-nrw.de###cpopup
 http://ruegenwalder.de###csdialogbd
 http://ruegenwalder.de###csdialogmd2
 http://rentalens.ch###dabar
+http://neues-deutschland.de###data-protection
 http://interhyp.de###data-protection__layer
 http://sovd.de###datenschutzfenster
 http://shopwelt.de###dateschutzinfo
@@ -22251,6 +22254,7 @@ http://xhamster.com#@#.subscribe-block
 http://humblebundle.com#@#.subscribe-box
 http://oneplus.com,stackexchange.com#@#.subscribe-container
 http://twit.tv#@#.subscribe-panel
+http://batenka.ru#@#.subscribe-popup
 http://wtfast.com#@#.subscribe_box
 http://mos.ru#@#.subscription-block
 http://reddit.com,yesplz.coffee#@#.subscription-box

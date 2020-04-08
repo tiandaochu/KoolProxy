@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ZBb1RQ/1knEM3OPqB0jt7g
-! Version: 202004062353
+! Checksum: HC5wtJRxMdBfGX8dNwnpzA
+! Version: 202004072353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -2047,6 +2047,7 @@
 ||https://d5.sina.com.cn^$object,script
 ||https://da-fan-shu.cn/images/kuaijie.jpg
 ||https://da.duowan.com/loc/
+||https://dabai28.com/img/*.gif
 ||https://dabaoku.com^$object,script,subdocument
 ||https://dabin69.com/data/attachment/portal/
 ||https://dadi.tv/xdy
@@ -2798,7 +2799,7 @@
 ||https://javjunkies.com/FL$subdocument
 ||https://jb51.net/imgby/logo_
 ||https://jbzyw.com/Application/M/adv/
-||https://jc001.cn/footer_float_bar/
+||https://jc001.cn/ci/jad/fix.
 ||https://jc9822.com/Runtime/Js/
 ||https://jcodecraeer.com/plus/fuckblok.
 ||https://jcrb.com/ZYW$subdocument
@@ -4248,7 +4249,7 @@
 ||https://vzmz.com/template/paody/aaaa/*0
 ||https://vzmz.com/template/paody/aaaa/357.js
 ||https://w010w.com.cn^$subdocument
-||https://w3school.com.cn/20200319/
+||https://w3school.com.cn/time/20200407/
 ||https://w51t.com^$subdocument
 ||https://wa.kuwo.cn/lyrics/img/kwgg/
 ||https://wacowla.com/wp-content/plugins/popover/js/
@@ -4288,6 +4289,7 @@
 ||https://wendellyu.com/banner/
 ||https://wenku.baidu.com/browse/interface/getrec?
 ||https://wenku1.com/js/head.js
+||https://wenku8.net/js/
 ||https://wenkuxiazai.com^*reward
 ||https://wenxiu998.com/static/js/top.js
 ||https://west.cn/vcp/getJScode/
@@ -4745,6 +4747,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://hsfile.ws/all/p.all.js
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5691,6 +5694,7 @@
 ||http://85tgw.com^
 ||http://85un.com^$third-party
 ||http://860010.com^
+||http://88-baidu.com^
 ||http://8800271.com.cn^
 ||http://88818122.cn^
 ||http://8881919.cc^
@@ -6025,6 +6029,7 @@
 ||http://cfboo.com^
 ||http://cferw.com^
 ||http://cfqpxzx.com^
+||http://cfredh.cn^
 ||http://cg2017.com^
 ||http://cgskqg.com^
 ||http://chadegongxiao.com^
@@ -9610,6 +9615,7 @@
 ||http://da-fan-shu.cn/images/kuaijie.jpg
 ||http://da.duowan.com/loc/
 ||http://da.mgtv.com^
+||http://dabai28.com/img/*.gif
 ||http://dabaoku.com^$object,script,subdocument
 ||http://dabin69.com/data/attachment/portal/
 ||http://dadi.tv/xdy
@@ -10501,7 +10507,7 @@
 ||http://javjunkies.com/FL$subdocument
 ||http://jb51.net/imgby/logo_
 ||http://jbzyw.com/Application/M/adv/
-||http://jc001.cn/footer_float_bar/
+||http://jc001.cn/ci/jad/fix.
 ||http://jc9822.com/Runtime/Js/
 ||http://jcodecraeer.com/plus/fuckblok.
 ||http://jcrb.com/ZYW$subdocument
@@ -12115,7 +12121,7 @@
 ||http://vzmz.com/template/paody/aaaa/*0
 ||http://vzmz.com/template/paody/aaaa/357.js
 ||http://w010w.com.cn^$subdocument
-||http://w3school.com.cn/20200319/
+||http://w3school.com.cn/time/20200407/
 ||http://w51t.com^$subdocument
 ||http://wa.kuwo.cn/lyrics/img/kwgg/
 ||http://wacowla.com/wp-content/plugins/popover/js/
@@ -12158,6 +12164,7 @@
 ||http://wendellyu.com/banner/
 ||http://wenku.baidu.com/browse/interface/getrec?
 ||http://wenku1.com/js/head.js
+||http://wenku8.net/js/
 ||http://wenkuxiazai.com^*reward
 ||http://wenxiu998.com/static/js/top.js
 ||http://west.cn/vcp/getJScode/
@@ -12652,6 +12659,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://hsfile.ws/all/p.all.js
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -13224,6 +13232,7 @@
 ||http://trebleperfect.com^$third-party
 ||http://tt123.eastday.com^
 ||http://tu.zx110.org^
+||http://u.zuoyesou.com^
 ||http://u1.2048sj.com^
 ||http://u1.20q.cn^
 ||http://u1.61sou.com^
@@ -17991,6 +18000,7 @@ https://xizi.com##.baner1
 https://uschinapress.com##.baner_pictur
 https://csdn.net##.banner-ad-box
 https://cnool.net##.banner-ad001
+https://zuoyesou.com##.banner-box
 https://bilibili.com##.banner-card
 https://iwan.baidu.com##.banner-container
 https://baidu.com##.banner-cover
@@ -18126,6 +18136,7 @@ https://csdn.net##.box.hot
 https://0772fang.com##.box0
 https://lolshipin.com##.box2
 https://mobanwang.com##.box960x90
+https://jthysh.com##.box980
 https://ifeng.com##.box_list_pic > a[href^="http://dol.deliver."]
 https://duba.com##.box_shopping
 https://fx678.com##.box_video
@@ -21185,6 +21196,7 @@ https://duanwenxue.com##.qgzdwx
 https://jx.la##div[onclick*="apk"]
 https://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 https://onemanhua.com##.mn-related-container
+https://onemanhua.com##[id*="ScriptRoot"]
 https://getrelax.cc,sexylove.club##.loaded-popup-wrapper
 https://rjno1.com##div[style="display:none"]
 https://173.192.147.21,iu91.co,ozxw.co,sejie.com,sejie2.us,sejie3.us,thesoccerline.com,ukhuaren.co###wp > br
@@ -23893,6 +23905,7 @@ http://xizi.com##.baner1
 http://uschinapress.com##.baner_pictur
 http://csdn.net##.banner-ad-box
 http://cnool.net##.banner-ad001
+http://zuoyesou.com##.banner-box
 http://bilibili.com##.banner-card
 http://iwan.baidu.com##.banner-container
 http://baidu.com##.banner-cover
@@ -24028,6 +24041,7 @@ http://csdn.net##.box.hot
 http://0772fang.com##.box0
 http://lolshipin.com##.box2
 http://mobanwang.com##.box960x90
+http://jthysh.com##.box980
 http://ifeng.com##.box_list_pic > a[href^="http://dol.deliver."]
 http://duba.com##.box_shopping
 http://fx678.com##.box_video
@@ -27087,6 +27101,7 @@ http://duanwenxue.com##.qgzdwx
 http://jx.la##div[onclick*="apk"]
 http://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 http://onemanhua.com##.mn-related-container
+http://onemanhua.com##[id*="ScriptRoot"]
 http://getrelax.cc,sexylove.club##.loaded-popup-wrapper
 http://rjno1.com##div[style="display:none"]
 http://173.192.147.21,iu91.co,ozxw.co,sejie.com,sejie2.us,sejie3.us,thesoccerline.com,ukhuaren.co###wp > br
