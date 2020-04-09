@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2kKNEiQrPPhWXzzc6Ou8gg
-! Version: 202004072351
+! Checksum: QUlGLmp8leOvgnzOwnihIA
+! Version: 202004082351
 ! Title: Fanboy's Annoyance List
-! Last modified: 07 Apr 2020 23:51 UTC
+! Last modified: 08 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10203,6 +10203,7 @@ https://morfix.co.il###morfixInstallTB_main
 https://auto.co.il###openButton
 https://gadgety.co.il###subscribefield
 https://globes.co.il##.article_Next_prev_title
+https://gov.il##.cd-top
 https://gadgety.co.il##.facelike
 https://mouse.co.il##.fbox_main
 https://globes.co.il##.footerN_box
@@ -20351,6 +20352,7 @@ http://morfix.co.il###morfixInstallTB_main
 http://auto.co.il###openButton
 http://gadgety.co.il###subscribefield
 http://globes.co.il##.article_Next_prev_title
+http://gov.il##.cd-top
 http://gadgety.co.il##.facelike
 http://mouse.co.il##.fbox_main
 http://globes.co.il##.footerN_box
