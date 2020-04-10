@@ -30,6 +30,7 @@ jobs:
           ./update.sh
       
       - name: Push Commits
+        continue-on-error : true
         run : |
           git config --global user.email "ycg31@qq.com"
           git config --global user.name "ycg31"
@@ -40,6 +41,7 @@ jobs:
 
       
       - name: upload to gitee 传到码云
+        continue-on-error : true
         run: |
           git config --global user.email "ycg31@qq.com"
           git config --global user.name "ycg31"
@@ -56,7 +58,7 @@ jobs:
         run: |
           git config --global user.email "ycg31@qq.com"
           git config --global user.name "TzePUfjoaA"
-          git clone --depth 1 https://TzePUfjoaA:${{ secrets.CODING_TOKEN }}@e.coding.net/ycg31/KoolProxy coding
+          git clone --depth 1 https://TzePUfjoaA:${{ secrets.CODING_TOKEN }}@e.coding.net/ycg31/OpenWrt/KoolProxy coding
           mkdir -p coding/rules/
           cp -rf ./rules/ coding/
           cp -rf ./tmp/koolproxy.log coding/
