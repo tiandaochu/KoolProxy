@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QUlGLmp8leOvgnzOwnihIA
-! Version: 202004082351
+! Checksum: nAqErlHeJRQkCHe2cgb8nw
+! Version: 202004092351
 ! Title: Fanboy's Annoyance List
-! Last modified: 08 Apr 2020 23:51 UTC
+! Last modified: 09 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -8093,6 +8093,7 @@ https://enacademic.com##.smm
 https://nation.com.pk##.sn
 https://pulse.com.gh,pulse.ng##.sn_published
 https://classicalite.com,fhm.com.ph,hankooktire.com,joins.com,kdramastars.com,parentherald.com,realtytoday.com,theinvestor.co.kr,yibada.com##.sns
+https://invenglobal.com##.sns-list
 https://econotimes.com##.snsBookmarkTop
 https://buyee.jp,kbs.co.kr##.sns_list
 https://nikkei.com##.snsicon-list
@@ -8949,7 +8950,7 @@ https://sunweb.co.uk##.absolute-dialog
 https://greenfields.eu##.accept-alert
 https://akeebabackup.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
 https://ticketmaster.ca##.agree-terms
-https://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
+https://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
 https://espn.com##.alert--fixed
 https://goodmorningamerica.com,historicengland.org.uk##.alert-banner
 https://labour.org.uk##.alert-bar-footer
@@ -9251,6 +9252,7 @@ https://gigaom.com,gq.com.au,mta.tv,vocativ.com,zumba.com##.privacy-policy
 https://thenewdaily.com.au##.privacy-policy-slideup
 https://zmags.com##.privacyPrompt
 https://parliament.scot##.projects-takeover
+https://loggly.com##.promotion
 https://newscientist.com##.prompt
 https://mega.nz##.public-service-anouncement
 https://bbc.co.uk##.pulse-banner
@@ -11452,7 +11454,7 @@ https://mall.hu##.consent-panel
 https://1mobil.hu,akme.hu,bestmarkt.hu,bestsellers.hu,bevachip.hu,cct.hu,firstshop.hu,focuscamera.hu,gyorgyteabolt.hu,joautok.hu,karatekyokushin.hu,kiwipress.hu,logmein.hu,onlineszerszam.hu,rbx.hu,royalora.hu,szerszamoutlet.hu,work-force.hu,workforce.hu##.cookie
 https://novashop.hu##.cookies
 https://aig.hu##.copyright-text-header
-https://lexus.hu##.disclaimer
+https://lexus.hu,telegram.hr##.disclaimer
 https://weber-terranova.hu##.flash-info
 https://pcx.hu##.index > .cell
 https://roly.hu##.jq-toast-wrap
@@ -11493,6 +11495,7 @@ https://ilgiornale.it,prezzoforte.it,virgilio.it###bottombar
 https://lacnews24.it###box1
 https://bancacrs.it###boxes
 https://proversi.it###c-agree
+https://cassaforense.it,cfnews.it###cassaforense-cookies
 https://centrometeolombardo.com###cc_div
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
@@ -11825,6 +11828,7 @@ https://tupperware.pl##.topRibbon
 https://miastograf.pl##.ui-dialog
 https://jmdi.pl##.ui-notificationbar
 https://miastograf.pl,samsonite.pl##.ui-widget-overlay
+https://optyczne.pl##.w3-modal
 https://szarakomorka.pl##.welcomebar
 https://hmb-gorzow.pl##.widgets-list
 https://elektrozysk.pl##div[style*="background:url(images/cookies_tlo.png)"]
@@ -18241,6 +18245,7 @@ http://enacademic.com##.smm
 http://nation.com.pk##.sn
 http://pulse.com.gh,pulse.ng##.sn_published
 http://classicalite.com,fhm.com.ph,hankooktire.com,joins.com,kdramastars.com,parentherald.com,realtytoday.com,theinvestor.co.kr,yibada.com##.sns
+http://invenglobal.com##.sns-list
 http://econotimes.com##.snsBookmarkTop
 http://buyee.jp,kbs.co.kr##.sns_list
 http://nikkei.com##.snsicon-list
@@ -19098,7 +19103,7 @@ http://sunweb.co.uk##.absolute-dialog
 http://greenfields.eu##.accept-alert
 http://akeebabackup.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
 http://ticketmaster.ca##.agree-terms
-http://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
+http://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
 http://espn.com##.alert--fixed
 http://goodmorningamerica.com,historicengland.org.uk##.alert-banner
 http://labour.org.uk##.alert-bar-footer
@@ -19400,6 +19405,7 @@ http://gigaom.com,gq.com.au,mta.tv,vocativ.com,zumba.com##.privacy-policy
 http://thenewdaily.com.au##.privacy-policy-slideup
 http://zmags.com##.privacyPrompt
 http://parliament.scot##.projects-takeover
+http://loggly.com##.promotion
 http://newscientist.com##.prompt
 http://mega.nz##.public-service-anouncement
 http://bbc.co.uk##.pulse-banner
@@ -21602,7 +21608,7 @@ http://mall.hu##.consent-panel
 http://1mobil.hu,akme.hu,bestmarkt.hu,bestsellers.hu,bevachip.hu,cct.hu,firstshop.hu,focuscamera.hu,gyorgyteabolt.hu,joautok.hu,karatekyokushin.hu,kiwipress.hu,logmein.hu,onlineszerszam.hu,rbx.hu,royalora.hu,szerszamoutlet.hu,work-force.hu,workforce.hu##.cookie
 http://novashop.hu##.cookies
 http://aig.hu##.copyright-text-header
-http://lexus.hu##.disclaimer
+http://lexus.hu,telegram.hr##.disclaimer
 http://weber-terranova.hu##.flash-info
 http://pcx.hu##.index > .cell
 http://roly.hu##.jq-toast-wrap
@@ -21643,6 +21649,7 @@ http://ilgiornale.it,prezzoforte.it,virgilio.it###bottombar
 http://lacnews24.it###box1
 http://bancacrs.it###boxes
 http://proversi.it###c-agree
+http://cassaforense.it,cfnews.it###cassaforense-cookies
 http://centrometeolombardo.com###cc_div
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
@@ -21975,6 +21982,7 @@ http://tupperware.pl##.topRibbon
 http://miastograf.pl##.ui-dialog
 http://jmdi.pl##.ui-notificationbar
 http://miastograf.pl,samsonite.pl##.ui-widget-overlay
+http://optyczne.pl##.w3-modal
 http://szarakomorka.pl##.welcomebar
 http://hmb-gorzow.pl##.widgets-list
 http://elektrozysk.pl##div[style*="background:url(images/cookies_tlo.png)"]
