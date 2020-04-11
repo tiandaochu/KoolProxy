@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: k09yQIDRQ8N5VIbcCM/Uzw
-! Version: 202004092353
+! Checksum: 9R03F/RbJUvgUtp8QsTLhQ
+! Version: 202004102353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -1461,6 +1461,7 @@
 ||https://alicdn.com/kf/*.gif
 ||https://alicdn.com/kf/Hb248e3e7d0ec46929f942d609508fcb0q.jpg
 ||https://alicdn.com/kf/Hd62261f1a7964c50824ac5982b1aa1bfk.gif
+||https://alicdn.com/kf/U937e9421ce844d44a5977758f21b72eey.png
 ||https://alicdn.com/kf/UTB8tVxYvbPJXKJkSafS5jaqUXXac.gif
 ||https://alicdn.com/openad/dsp-front-booth/
 ||https://alicdn.com/tfscom/*.sina.
@@ -2036,6 +2037,8 @@
 ||https://cww.net.cn/UpLoadFile/*.swf
 ||https://cxtv1.com/partner/
 ||https://cy1234.space^*sifang/
+||https://cycyw.com/mf/
+||https://cycyw.com/qdj/
 ||https://czsp12.com/api/*=advert&
 ||https://czsp12.com/api/*=announce&
 ||https://cztv.com/201506/02/124d35111e8f180c96f99acbcbdf5de6.jpg
@@ -2226,6 +2229,7 @@
 ||https://ebioweb.com/jslibrary/js
 ||https://ebioweb.com/newsf/js/inpic.js
 ||https://ebrun.com/jfile/position/js/*.js
+||https://ecpoc.com/style/ad
 ||https://edayday.com/img/ad
 ||https://educity.cn/self_text/text_disp.aspx?id=
 ||https://eduuu.com/website/public_js/pc_aso.js
@@ -8948,6 +8952,7 @@
 ||http://alicdn.com/kf/*.gif$domain=tzfile.com
 ||http://alicdn.com/kf/Hb248e3e7d0ec46929f942d609508fcb0q.jpg
 ||http://alicdn.com/kf/Hd62261f1a7964c50824ac5982b1aa1bfk.gif
+||http://alicdn.com/kf/U937e9421ce844d44a5977758f21b72eey.png
 ||http://alicdn.com/kf/UTB8tVxYvbPJXKJkSafS5jaqUXXac.gif
 ||http://alicdn.com/openad/dsp-front-booth/
 ||http://alicdn.com/tfscom/*.sina.
@@ -9602,6 +9607,8 @@
 ||http://cww.net.cn/UpLoadFile/*.swf
 ||http://cxtv1.com/partner/
 ||http://cy1234.space^*sifang/
+||http://cycyw.com/mf/
+||http://cycyw.com/qdj/
 ||http://czsp12.com/api/*=advert&
 ||http://czsp12.com/api/*=announce&
 ||http://cztv.com/201506/02/124d35111e8f180c96f99acbcbdf5de6.jpg
@@ -9827,6 +9834,7 @@
 ||http://ebrun.com/jfile/position/js/*.js
 ||http://ecma.bdimg.com^
 ||http://ecmb.bdimg.com^
+||http://ecpoc.com/style/ad
 ||http://edayday.com/img/ad
 ||http://educity.cn/self_text/text_disp.aspx?id=
 ||http://eduuu.com/website/public_js/pc_aso.js
@@ -17945,6 +17953,7 @@ https://fanyi.baidu.com##.appbanner
 https://keywin.org##.appdownload
 https://hao.360.cn##.applist > .app:nth-last-child(n+2)
 https://tiantianzhibo.com##.apprecomm
+https://ecpoc.com##.arcbodyad
 https://gamefy.cn,sitv.com.cn##.area > div[style="float:left"] > a
 https://wenku.baidu.com##.area[href*="/adclick?aid="]
 https://gfan.com##.art-ad
@@ -23855,6 +23864,7 @@ http://fanyi.baidu.com##.appbanner
 http://keywin.org##.appdownload
 http://hao.360.cn##.applist > .app:nth-last-child(n+2)
 http://tiantianzhibo.com##.apprecomm
+http://ecpoc.com##.arcbodyad
 http://gamefy.cn,sitv.com.cn##.area > div[style="float:left"] > a
 http://wenku.baidu.com##.area[href*="/adclick?aid="]
 http://gfan.com##.art-ad

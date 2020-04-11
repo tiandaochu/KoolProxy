@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nAqErlHeJRQkCHe2cgb8nw
-! Version: 202004092351
+! Checksum: B8rj1N3ea/gvoBqoRFpZ6w
+! Version: 202004102351
 ! Title: Fanboy's Annoyance List
-! Last modified: 09 Apr 2020 23:51 UTC
+! Last modified: 10 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -36,7 +36,7 @@
 ||https://antenna.is^$third-party
 ||https://apester.com^$third-party
 ||https://api.branch.io^$third-party
-||https://api.flattr.com^$third-party
+||https://api.giphy.com^*/related?$third-party
 ||https://api.search.live.net^$third-party
 ||https://api.traq.li^$third-party
 ||https://app.e2ma.net^$third-party
@@ -1329,7 +1329,7 @@
 ||http://antenna.is^$third-party
 ||http://apester.com^$third-party
 ||http://api.branch.io^$third-party
-||http://api.flattr.com^$third-party
+||http://api.giphy.com^*/related?$third-party
 ||http://api.search.live.net^$third-party,domain=~bing.com
 ||http://api.traq.li^$third-party
 ||http://app.e2ma.net^$third-party
@@ -5132,6 +5132,7 @@ https://dnaindia.com##.next-node
 https://guff.com##.next-prev
 https://businesstech.co.za,mybroadband.co.za##.next-previous-article
 https://filehippo.com,slate.com,straitstimes.com##.next-story
+https://shoko.fr##.next-up
 https://usatoday.com##.next-wrap
 https://contactmusic.com,gizbot.com##.nextArticle
 https://cnet.com##.nextPreview
@@ -15284,6 +15285,7 @@ http://dnaindia.com##.next-node
 http://guff.com##.next-prev
 http://businesstech.co.za,mybroadband.co.za##.next-previous-article
 http://filehippo.com,slate.com,straitstimes.com##.next-story
+http://shoko.fr##.next-up
 http://usatoday.com##.next-wrap
 http://contactmusic.com,gizbot.com##.nextArticle
 http://cnet.com##.nextPreview
