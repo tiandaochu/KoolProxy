@@ -1,5 +1,5 @@
 
-!version=202004061059
+!version=202004111105
 ||https://ereg.adobe.com
 ||https://hlrcv.stage.adobe.com
 ||https://lm.licenses.adobe.com
@@ -1530,6 +1530,18 @@
 ||https://ls9x.pk965.com
 ||https://mo.40ic.cn
 ||https://www.xn--wcsy74a6d835f5lf.com
+||https://l.glrcy.cn
+||https://cfredh.cn
+||https://mo.mptckm.cn
+||https://v.mininini.cn
+||https://c.mininini.cn
+||https://api.vasb.cn
+||https://ee.45xa.cn
+||https://img.hywly.com
+||https://m.45xa.cn
+||https://m.qmlcdlo.cn
+||https://mo.4k9b.cn
+||https://qd.easylive.net
 ||https://a.tribalfusion.com
 ||https://acuityplatform.com
 ||https://ad-delivery.net
@@ -8790,7 +8802,7 @@
 ||https://hp.smiler-ad.com
 ||https://static8.pmadx.com
 
-!version=202004061059
+!version=202004111105
 ||http://ereg.adobe.com
 ||http://hlrcv.stage.adobe.com
 ||http://lm.licenses.adobe.com
@@ -10321,6 +10333,18 @@
 ||http://ls9x.pk965.com
 ||http://mo.40ic.cn
 ||http://www.xn--wcsy74a6d835f5lf.com
+||http://l.glrcy.cn
+||http://cfredh.cn
+||http://mo.mptckm.cn
+||http://v.mininini.cn
+||http://c.mininini.cn
+||http://api.vasb.cn
+||http://ee.45xa.cn
+||http://img.hywly.com
+||http://m.45xa.cn
+||http://m.qmlcdlo.cn
+||http://mo.4k9b.cn
+||http://qd.easylive.net
 ||http://a.tribalfusion.com
 ||http://acuityplatform.com
 ||http://ad-delivery.net

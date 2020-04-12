@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20200410150110
-!TOTAL_LINES=34186
+!VER=20200411081134
+!TOTAL_LINES=34185
 address=/kwcdn.000dn.com/
 address=/kwcscdn.000dn.com/
 address=/kwflvcdn.000dn.com/
@@ -33637,7 +33637,6 @@ address=/1.zuowenjun.com/
 address=/dm.zuowenku.net/
 address=/img.zuowenwang.net/
 address=/a.zuowenxuan.cn/
-address=/img.zuoyebang.cc/
 address=/u.zuoyesou.com/
 address=/zuphekry.net/
 address=/zursiicizyhd.com/
