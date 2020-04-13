@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 77fzBWocbtnhw/8h/Ak67g
-! Version: 202004112351
+! Checksum: JuVP/oJqojB6HS09XisPyA
+! Version: 202004122351
 ! Title: Fanboy's Annoyance List
-! Last modified: 11 Apr 2020 23:51 UTC
+! Last modified: 12 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6064,7 +6064,7 @@ https://newscientist.com###marketingtertiary
 https://gearbest.com###mask
 https://rapidtvnews.com###masthead
 https://bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nation.co.ke,nesthq.com,psychcentral.com,psypost.org,reductress.com,reliefweb.int,runthetrap.com,thewirecutter.com###mc-embedded-subscribe-form
-https://99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
+https://99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,theloadout.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
 https://activistmommy.com###mc_embed_signup-footer
 https://moneyweb.co.za###mc_embed_signup1
 https://priceonomics.com###mc_embed_signup_nojs
@@ -6617,6 +6617,7 @@ https://commondreams.org##.pane-block-8
 https://benzinga.com##.pane-bz-email-campaign-bz-email-campaign-newsletter-block
 https://electronicintifada.net##.pane-mailchimp-signup-ei-readers
 https://msnbc.com##.pane-msnbc-newsvine-subscribe
+https://teaomaori.news##.pane-news-subscription
 https://primagames.com##.panel-primary
 https://pedestrian.tv##.panel-signup-footer
 https://livescience.com,space.com##.partner-banner
@@ -6709,7 +6710,7 @@ https://americamagazine.org,cnet.com##.signUp
 https://icepop.com##.signUp_mailchimp
 https://dzone.com##.signin-prompt
 https://newscientist.com##.signpost
-https://armytimes.com,breakingisraelnews.com,defensenews.com,gigaom.com,motorsportweek.com,mumbrella.com.au,quantamagazine.org,screeninnovations.com,stellar.ie,thecourier.co.uk,viralnova.com##.signup
+https://armytimes.com,breakingisraelnews.com,defensenews.com,gigaom.com,motorsportweek.com,mumbrella.com.au,quantamagazine.org,screeninnovations.com,stellar.ie,theafricareport.com,thecourier.co.uk,viralnova.com##.signup
 https://searchenginewatch.com##.signup-banner
 https://mrctv.org##.signup-block
 https://gfycat.com##.signup-call-to-action
@@ -9315,7 +9316,7 @@ https://abcnews.go.com##.terms-alert-fixed
 https://fijiairways.com##.terms-of-use
 https://adelaidenow.com.au,cairnspost.com.au,couriermail.com.au,dailytelegraph.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,heraldsun.com.au,ntnews.com.au,themercury.com.au,townsvillebulletin.com.au,weeklytimesnow.com.au##.tgc-footer_disclaimer
 https://tastedive.com##.tk-Footer
-https://fantrax.com,tbs.com,tntdrama.com##.toast
+https://byutv.org,fantrax.com,tbs.com,tntdrama.com##.toast
 https://ikea.com##.toast-container
 https://mobilbahis49.com##.toast-wrapper
 https://tv5.ca##.top-alertes
@@ -11572,6 +11573,7 @@ https://raikaritten.it##.bottom_note
 https://bolognafiere.com,bolognafiere.it##.box-alert
 https://infiniti.it##.c_128
 https://hyle.appspot.com##.cc
+https://regione.lombardia.it##.cdk-overlay-backdrop
 https://mivoq.it##.check-policy
 https://frateindovino.eu##.cn-wrapper
 https://leroymerlin.it##.consent-section
@@ -11620,6 +11622,7 @@ https://italradio.org##.privacyStatement
 https://prelex.it##.rstboxes
 https://ogrtorino.it##.sc-dxgOiQ
 https://larrysmith.it##.scroll-banner
+https://teleradiopadrepio.it##.spu-bg
 https://boxannunci.com##.terms
 https://regalideidesideri.it##.topBanner__content
 https://ingdirect.it##.topalertbanner
@@ -12694,6 +12697,7 @@ https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfran
 https://bosch-mobility-solutions.com#@##m-cookie-overlay
 https://17track.net#@##modal-gdpr
 https://thesocialmedwork.com#@##notice-cookie-block
+https://rockpapershotgun.com#@##optanon
 https://theverge.com#@##privacy-consent
 https://readthedocs.io,sportdiver.com#@##privacy-policy
 https://account.sonymobile.com#@##privacy-statement
@@ -12703,6 +12707,7 @@ https://boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz#@#
 https://bancaifis.it#@#.Cookies:not(body)
 https://telegraaf.nl#@#.CookiesOK
 https://maisonapart.com#@#.accept-cookie
+https://rockpapershotgun.com#@#.accept-cookie-container
 https://franziskaner-weissbier.de#@#.accept-cookies
 https://live.nettavisen.no#@#.active > div
 https://patient.info#@#.alert--cookie
@@ -12819,6 +12824,7 @@ https://ramics-conference.org#@#.nf-form-content
 https://aklagare.se,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz,pokemon.com,shopstyle.com,thenextweb.com#@#.no-cookies
 https://nzpost.co.nz##.notification.cookies:not(body):not(html)
 https://bosch-home.com#@#.o-cookielaw
+https://rockpapershotgun.com#@#.optanon-alert-box-wrapper
 https://pieseauto.ro#@#.page-cookies
 https://google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 https://metallica.com#@#.privacy_policy_message_box
@@ -16220,7 +16226,7 @@ http://newscientist.com###marketingtertiary
 http://gearbest.com###mask
 http://rapidtvnews.com###masthead
 http://bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nation.co.ke,nesthq.com,psychcentral.com,psypost.org,reductress.com,reliefweb.int,runthetrap.com,thewirecutter.com###mc-embedded-subscribe-form
-http://99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
+http://99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,theloadout.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
 http://activistmommy.com###mc_embed_signup-footer
 http://moneyweb.co.za###mc_embed_signup1
 http://priceonomics.com###mc_embed_signup_nojs
@@ -16773,6 +16779,7 @@ http://commondreams.org##.pane-block-8
 http://benzinga.com##.pane-bz-email-campaign-bz-email-campaign-newsletter-block
 http://electronicintifada.net##.pane-mailchimp-signup-ei-readers
 http://msnbc.com##.pane-msnbc-newsvine-subscribe
+http://teaomaori.news##.pane-news-subscription
 http://primagames.com##.panel-primary
 http://pedestrian.tv##.panel-signup-footer
 http://livescience.com,space.com##.partner-banner
@@ -16865,7 +16872,7 @@ http://americamagazine.org,cnet.com##.signUp
 http://icepop.com##.signUp_mailchimp
 http://dzone.com##.signin-prompt
 http://newscientist.com##.signpost
-http://armytimes.com,breakingisraelnews.com,defensenews.com,gigaom.com,motorsportweek.com,mumbrella.com.au,quantamagazine.org,screeninnovations.com,stellar.ie,thecourier.co.uk,viralnova.com##.signup
+http://armytimes.com,breakingisraelnews.com,defensenews.com,gigaom.com,motorsportweek.com,mumbrella.com.au,quantamagazine.org,screeninnovations.com,stellar.ie,theafricareport.com,thecourier.co.uk,viralnova.com##.signup
 http://searchenginewatch.com##.signup-banner
 http://mrctv.org##.signup-block
 http://gfycat.com##.signup-call-to-action
@@ -19472,7 +19479,7 @@ http://abcnews.go.com##.terms-alert-fixed
 http://fijiairways.com##.terms-of-use
 http://adelaidenow.com.au,cairnspost.com.au,couriermail.com.au,dailytelegraph.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,heraldsun.com.au,ntnews.com.au,themercury.com.au,townsvillebulletin.com.au,weeklytimesnow.com.au##.tgc-footer_disclaimer
 http://tastedive.com##.tk-Footer
-http://fantrax.com,tbs.com,tntdrama.com##.toast
+http://byutv.org,fantrax.com,tbs.com,tntdrama.com##.toast
 http://ikea.com##.toast-container
 http://mobilbahis49.com##.toast-wrapper
 http://tv5.ca##.top-alertes
@@ -21730,6 +21737,7 @@ http://raikaritten.it##.bottom_note
 http://bolognafiere.com,bolognafiere.it##.box-alert
 http://infiniti.it##.c_128
 http://hyle.appspot.com##.cc
+http://regione.lombardia.it##.cdk-overlay-backdrop
 http://mivoq.it##.check-policy
 http://frateindovino.eu##.cn-wrapper
 http://leroymerlin.it##.consent-section
@@ -21778,6 +21786,7 @@ http://italradio.org##.privacyStatement
 http://prelex.it##.rstboxes
 http://ogrtorino.it##.sc-dxgOiQ
 http://larrysmith.it##.scroll-banner
+http://teleradiopadrepio.it##.spu-bg
 http://boxannunci.com##.terms
 http://regalideidesideri.it##.topBanner__content
 http://ingdirect.it##.topalertbanner
@@ -22852,6 +22861,7 @@ http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfranc
 http://bosch-mobility-solutions.com#@##m-cookie-overlay
 http://17track.net#@##modal-gdpr
 http://thesocialmedwork.com#@##notice-cookie-block
+http://rockpapershotgun.com#@##optanon
 http://theverge.com#@##privacy-consent
 http://readthedocs.io,sportdiver.com#@##privacy-policy
 http://account.sonymobile.com#@##privacy-statement
@@ -22861,6 +22871,7 @@ http://boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz#@#.
 http://bancaifis.it#@#.Cookies:not(body)
 http://telegraaf.nl#@#.CookiesOK
 http://maisonapart.com#@#.accept-cookie
+http://rockpapershotgun.com#@#.accept-cookie-container
 http://franziskaner-weissbier.de#@#.accept-cookies
 http://live.nettavisen.no#@#.active > div
 http://patient.info#@#.alert--cookie
@@ -22977,6 +22988,7 @@ http://ramics-conference.org#@#.nf-form-content
 http://aklagare.se,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz,pokemon.com,shopstyle.com,thenextweb.com#@#.no-cookies
 http://nzpost.co.nz##.notification.cookies:not(body):not(html)
 http://bosch-home.com#@#.o-cookielaw
+http://rockpapershotgun.com#@#.optanon-alert-box-wrapper
 http://pieseauto.ro#@#.page-cookies
 http://google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 http://metallica.com#@#.privacy_policy_message_box
