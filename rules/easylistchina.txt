@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GS6zTlHDAOHffSha1KNMYA
-! Version: 202004122353
+! Checksum: iDUWvPMHd1yMub7wZRQXlg
+! Version: 202004140003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -3369,6 +3369,7 @@
 ||https://newyx.newyx.net/j/
 ||https://nex.163.com/q?
 ||https://nfmovies.com/pic/tu/*_863x59.
+||https://nfmovies.com/pic/tu/*_banner
 ||https://nfmovies.com/pic/tu/a191124002.
 ||https://nfmovies.com/pic/tu/a191124003.
 ||https://nfmovies.com/pic/tu/a191124004.
@@ -11140,6 +11141,7 @@
 ||http://newyx.newyx.net/j/
 ||http://nex.163.com/q?
 ||http://nfmovies.com/pic/tu/*_863x59.
+||http://nfmovies.com/pic/tu/*_banner
 ||http://nfmovies.com/pic/tu/a191124002.
 ||http://nfmovies.com/pic/tu/a191124003.
 ||http://nfmovies.com/pic/tu/a191124004.
@@ -14883,6 +14885,7 @@
 ||http://qloer.com^
 ||http://qlonglong.com^
 ||http://qlssbq.cn^
+||http://qmlcdlo.cn^
 ||http://qneit.com^
 ||http://qq0au.cn^
 ||http://qqdashabi.top^
@@ -15928,6 +15931,7 @@
 ||http://gliacloud.com/player/adgeek_teep
 ||http://365xuet.com/assets/web/js/main.jsr_
 ||http://3158.cn^*_analyser.
+||http://stat.jc001.cn^
 ||http://ip.tianqiapi.com^
 ||http://count.nuanyuehanxing.com^
 ||http://pconline.com.cn/ipJson.
@@ -18797,6 +18801,7 @@ https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.hg
 https://doupapa.com,dpp2019.com##.hidden-xs[class*="_"]
 https://mahua.com##.hidden_ab
 https://9553.com,99danji.com##.high-down
+https://9553.com##.high-down-icon1
 https://orsoon.com##.high-downs
 https://douyu.com##.his-sign-cont
 https://zp365.com##.hitADclass
@@ -20974,7 +20979,7 @@ https://dpp.org.tw#@##ad_small
 https://timesdata.com#@##adbody
 https://tt1069.com#@##adbrite
 https://abbao.cn,tt1069.com,xietui.com#@##adcontent
-https://nfmovies.com#@##adleft
+https://nfmovies.com#@##adright
 https://hongrentao.cc,houhuayuan.pink,mcfuns.com.tw,mrmad.com.tw,myself-bbs.com,paltv.top,pbhz.com,sportsyeah.hk,ugediao.com,xingkbjm.com,youneed.win,zhaoze.party,zhuihd.com#@##adsense
 https://wenku8.net#@##adtop
 https://union.58.com#@##advertise
@@ -21332,6 +21337,7 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://meijutt.tv###weixin_clos
 https://laohu8.com##.top-recommend
 https://laohu8.com##.app-button
 https://365xuet.com##.cd-items
@@ -24714,6 +24720,7 @@ http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.hga
 http://doupapa.com,dpp2019.com##.hidden-xs[class*="_"]
 http://mahua.com##.hidden_ab
 http://9553.com,99danji.com##.high-down
+http://9553.com##.high-down-icon1
 http://orsoon.com##.high-downs
 http://douyu.com##.his-sign-cont
 http://zp365.com##.hitADclass
@@ -26891,7 +26898,7 @@ http://dpp.org.tw#@##ad_small
 http://timesdata.com#@##adbody
 http://tt1069.com#@##adbrite
 http://abbao.cn,tt1069.com,xietui.com#@##adcontent
-http://nfmovies.com#@##adleft
+http://nfmovies.com#@##adright
 http://hongrentao.cc,houhuayuan.pink,mcfuns.com.tw,mrmad.com.tw,myself-bbs.com,paltv.top,pbhz.com,sportsyeah.hk,ugediao.com,xingkbjm.com,youneed.win,zhaoze.party,zhuihd.com#@##adsense
 http://wenku8.net#@##adtop
 http://union.58.com#@##advertise
@@ -27249,6 +27256,7 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://meijutt.tv###weixin_clos
 http://laohu8.com##.top-recommend
 http://laohu8.com##.app-button
 http://365xuet.com##.cd-items
