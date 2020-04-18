@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: frleWaToaPjepFQ+ny4jhA
-! Version: 202004162351
+! Checksum: 8XmpBKLj4xP4COd1Cbxotg
+! Version: 202004172351
 ! Title: Fanboy's Annoyance List
-! Last modified: 16 Apr 2020 23:51 UTC
+! Last modified: 17 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3357,6 +3357,7 @@ https://fastcompany.com###header_region
 https://wolframalpha.com###headerad-pro-a
 https://cio.com.au###headerpromos
 https://chron.com###healthpost-content-stub
+https://truthout.org###hellobar
 https://ifixit.com###helpLink
 https://ncregister.com###hiddenSubscriptionPopupBox
 https://psdeluxe.com###hide
@@ -5261,6 +5262,7 @@ https://sify.com##.pop-out-wrapper
 https://seventeen70.com##.pop-recent
 https://christianpost.com,tractorbynet.com##.pop-up
 https://france24.com##.popitcontent
+https://truthout.org##.popmake-campaign-banners-popup
 https://fueltechnica.com,latestgadgets.tech,rebooti.com##.popnav
 https://patient.co.uk##.popover
 https://clearskinforever.net##.popover-bg
@@ -6226,6 +6228,7 @@ https://voiceofsandiego.org##.-subscribe
 https://gatesnotes.com##.ALS_Holder
 https://naturalnews.com##.Action-Subscribe-Container
 https://sitepoint.com##.ArticleHead_supplemental
+https://counterpunch.org##.Campaign__innerWrapper
 https://talkingpointsmemo.com##.Daybreaker
 https://walmart.com##.Footer-topSection
 https://sitepoint.com##.FooterSub_form
@@ -12508,6 +12511,7 @@ https://ally.com#@#.social-footer
 https://deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-google
 https://4players.de#@#.social-gplus
 https://attn.com,wonderhowto.com#@#.social-header
+https://counterpunch.org#@#.social-hide
 https://deathandtaxesmag.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
 https://ok.ru,speedtest.net,udemy.com,washingtonexaminer.com#@#.social-icon
 https://deathandtaxesmag.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
@@ -13526,6 +13530,7 @@ http://fastcompany.com###header_region
 http://wolframalpha.com###headerad-pro-a
 http://cio.com.au###headerpromos
 http://chron.com###healthpost-content-stub
+http://truthout.org###hellobar
 http://ifixit.com###helpLink
 http://ncregister.com###hiddenSubscriptionPopupBox
 http://psdeluxe.com###hide
@@ -15430,6 +15435,7 @@ http://sify.com##.pop-out-wrapper
 http://seventeen70.com##.pop-recent
 http://christianpost.com,tractorbynet.com##.pop-up
 http://france24.com##.popitcontent
+http://truthout.org##.popmake-campaign-banners-popup
 http://fueltechnica.com,latestgadgets.tech,rebooti.com##.popnav
 http://patient.co.uk##.popover
 http://clearskinforever.net##.popover-bg
@@ -16395,6 +16401,7 @@ http://voiceofsandiego.org##.-subscribe
 http://gatesnotes.com##.ALS_Holder
 http://naturalnews.com##.Action-Subscribe-Container
 http://sitepoint.com##.ArticleHead_supplemental
+http://counterpunch.org##.Campaign__innerWrapper
 http://talkingpointsmemo.com##.Daybreaker
 http://walmart.com##.Footer-topSection
 http://sitepoint.com##.FooterSub_form
@@ -22679,6 +22686,7 @@ http://ally.com#@#.social-footer
 http://deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-google
 http://4players.de#@#.social-gplus
 http://attn.com,wonderhowto.com#@#.social-header
+http://counterpunch.org#@#.social-hide
 http://deathandtaxesmag.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
 http://ok.ru,speedtest.net,udemy.com,washingtonexaminer.com#@#.social-icon
 http://deathandtaxesmag.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
