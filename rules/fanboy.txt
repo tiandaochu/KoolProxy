@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8XmpBKLj4xP4COd1Cbxotg
-! Version: 202004172351
+! Checksum: GrLpY5A7UBTeHqklkCE04g
+! Version: 202004182351
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Apr 2020 23:51 UTC
+! Last modified: 18 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -43,6 +43,7 @@
 ||https://appboy.eu^$third-party
 ||https://apture.com^$script,third-party
 ||https://assets.simplifydigital.co.uk^$third-party
+||https://asterilivestream.com^$third-party
 ||https://ayc0zsm69431gfebd.xyz^$third-party
 ||https://badges.alltop.com^$third-party
 ||https://badgeville.com^$third-party
@@ -1340,6 +1341,7 @@
 ||http://appboy.eu^$third-party
 ||http://apture.com^$script,third-party
 ||http://assets.simplifydigital.co.uk^$third-party
+||http://asterilivestream.com^$third-party
 ||http://ayc0zsm69431gfebd.xyz^$third-party
 ||http://badges.alltop.com^$third-party
 ||http://badgeville.com^$third-party
@@ -4572,6 +4574,9 @@ https://pcmag.com##.control-side
 https://newsok.com##.couponKit
 https://cracked.com##.crackedStoreHeaderWrapper
 https://atavist.ibtimes.com##.creatavist-logo-icon
+https://timesofisrael.com##.crm-bottom-popup
+https://timesofisrael.com##.crm-post-module
+https://timesofisrael.com##.crm-promotion
 https://techcrunch.com##.crunchdaily
 https://csmonitor.com##.csmAd
 https://fastcompany.com##.curr_issue_wrap
@@ -6201,6 +6206,7 @@ https://tubefilter.com###text-24
 https://therightscoop.com###text-25
 https://theshaderoom.com###text-28
 https://franklincounty-news.com###text-3
+https://ghacks.net###text-36
 https://propertywheel.co.za###text-37
 https://fightthenewdrug.org###text-39
 https://chicagoreporter.com,mauritiustimes.com###text-4
@@ -6458,6 +6464,8 @@ https://catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.
 https://pressherald.com,undark.org##.gform_wrapper
 https://ghacks.net##.ghacks_ad_code
 https://independent.co.uk,standard.co.uk##.gigya-signup
+https://usatoday.com##.gnt_m_nls
+https://usatoday.com##.gnt_m_th_em
 https://aubizbuysell.com.au,nzbizbuysell.co.nz,nzcommercial.co.nz,nzfranchises.co.nz##.green-box-fern
 https://wonkette.com##.grwf2-wrapper
 https://globalvoices.org##.gv-mailchimp-form-container
@@ -6658,6 +6666,7 @@ https://rfi.fr##.ppn
 https://techvibes.com##.pre-footer
 https://kob.com,redstate.com,thegrio.com##.preloaded_lightbox
 https://smashingmagazine.com##.product-panel--book
+https://theconversation.com##.promo
 https://jamf.com##.promo-box
 https://eonline.com##.promo_dialog
 https://propublica.org##.promotion
@@ -7808,6 +7817,7 @@ https://avaaz.org##.global-footer-connect
 https://linkis.com##.global-modal-popup
 https://gloucesterrugby.co.uk##.gloucester_container_home_middle_social
 https://click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com##.gmg-vf
+https://usatoday.com##.gnt_ss
 https://gamepressure.com##.go-face
 https://gamepressure.com##.go-plus
 https://good.is##.good-popup
@@ -8997,7 +9007,6 @@ https://argaam.com##.argaam-policy
 https://leo.org##.as-oil
 https://businessinsider.com##.as-oil-content-overlay
 https://which.co.uk##.b_g
-https://co-operative.coop,couchsurfing.com,fullscreen.com,haymarketbooks.org,usatoday.com##.banner
 https://uber.com##.banner--bottom
 https://makeprintable.com##.banner-hints
 https://23andme.com,tunnelbear.com##.banner-wrap
@@ -10630,6 +10639,7 @@ https://europe1.fr,lemonde.fr##.partage
 https://jeuxvideo.fr,jeuxvideopc.com##.pictos
 https://leparisien.fr##.plusRecommande
 https://madagascar-tribune.com##.rezo_sociaux
+https://bledina.com##.rs-icon
 https://autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,diningcity.be,ecoaustral.com,epochtimes.fr,franceinter.fr,francetvinfo.fr,gamekult.com,gettyimages.be,gettyimages.fr,la-croix.com,landrover.be,landrover.ch,landrover.fr,valeursactuelles.com##.share
 https://rtl.fr##.shared-logo
 https://fracademic.com##.smm
@@ -11075,7 +11085,7 @@ https://telekom.de##.message-bar
 https://fc.de##.mod-alert
 https://csu.de##.mod-layer
 https://zurich.de##.mod-notification-teaser
-https://felix1.de,krone.at##.modal-backdrop
+https://felix1.de##.modal-backdrop
 https://moon-power.com##.moon2-statisticsOptBox
 https://roland-schuhe.de##.newsflash
 https://kvvks.de,messe-kassel.de##.note
@@ -12366,7 +12376,7 @@ https://flattr.com#@#.icon-youtube
 https://ndtv.com#@#.icon_gplus
 https://community.imgur.com#@#.icons
 https://upworthy.com#@#.image-share
-https://24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,thisismoney.co.uk#@#.img-share
+https://24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,stationgossip.com,thisismoney.co.uk#@#.img-share
 https://fandom.com#@#.is-social
 https://thenewamerican.com#@#.itemSocialSharing
 https://sap.com#@#.j-social-actions
@@ -12405,7 +12415,7 @@ https://pinterest.com#@#.pinterest-wrapper
 https://needlenthread.com#@#.pinterest1
 https://pinterest.com#@#.pinterestComponentShare
 https://marieclaire.ru#@#.pinterestShare
-https://google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
+https://devrant.com,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
 https://privatecore.com#@#.post-fb
 https://23-59.com.ua,dietetycy.org.pl,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
 https://imgur.com#@#.post-share-panel
@@ -12709,6 +12719,7 @@ https://n26.com#@##gdpr-notice
 https://pekao.com.pl#@##gdpr-popup
 https://mirjan24.pl#@##gdpr:not(body):not(html)
 https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@##gdpr_popin
+https://krone.at#@##krn-privacy-center
 https://bosch-mobility-solutions.com#@##m-cookie-overlay
 https://17track.net#@##modal-gdpr
 https://thesocialmedwork.com#@##notice-cookie-block
@@ -14745,6 +14756,9 @@ http://pcmag.com##.control-side
 http://newsok.com##.couponKit
 http://cracked.com##.crackedStoreHeaderWrapper
 http://atavist.ibtimes.com##.creatavist-logo-icon
+http://timesofisrael.com##.crm-bottom-popup
+http://timesofisrael.com##.crm-post-module
+http://timesofisrael.com##.crm-promotion
 http://techcrunch.com##.crunchdaily
 http://csmonitor.com##.csmAd
 http://fastcompany.com##.curr_issue_wrap
@@ -16374,6 +16388,7 @@ http://tubefilter.com###text-24
 http://therightscoop.com###text-25
 http://theshaderoom.com###text-28
 http://franklincounty-news.com###text-3
+http://ghacks.net###text-36
 http://propertywheel.co.za###text-37
 http://fightthenewdrug.org###text-39
 http://chicagoreporter.com,mauritiustimes.com###text-4
@@ -16631,6 +16646,8 @@ http://catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.o
 http://pressherald.com,undark.org##.gform_wrapper
 http://ghacks.net##.ghacks_ad_code
 http://independent.co.uk,standard.co.uk##.gigya-signup
+http://usatoday.com##.gnt_m_nls
+http://usatoday.com##.gnt_m_th_em
 http://aubizbuysell.com.au,nzbizbuysell.co.nz,nzcommercial.co.nz,nzfranchises.co.nz##.green-box-fern
 http://wonkette.com##.grwf2-wrapper
 http://globalvoices.org##.gv-mailchimp-form-container
@@ -16831,6 +16848,7 @@ http://rfi.fr##.ppn
 http://techvibes.com##.pre-footer
 http://kob.com,redstate.com,thegrio.com##.preloaded_lightbox
 http://smashingmagazine.com##.product-panel--book
+http://theconversation.com##.promo
 http://jamf.com##.promo-box
 http://eonline.com##.promo_dialog
 http://propublica.org##.promotion
@@ -17981,6 +17999,7 @@ http://avaaz.org##.global-footer-connect
 http://linkis.com##.global-modal-popup
 http://gloucesterrugby.co.uk##.gloucester_container_home_middle_social
 http://click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com##.gmg-vf
+http://usatoday.com##.gnt_ss
 http://gamepressure.com##.go-face
 http://gamepressure.com##.go-plus
 http://good.is##.good-popup
@@ -19171,7 +19190,6 @@ http://argaam.com##.argaam-policy
 http://leo.org##.as-oil
 http://businessinsider.com##.as-oil-content-overlay
 http://which.co.uk##.b_g
-http://co-operative.coop,couchsurfing.com,fullscreen.com,haymarketbooks.org,usatoday.com##.banner
 http://uber.com##.banner--bottom
 http://makeprintable.com##.banner-hints
 http://23andme.com,tunnelbear.com##.banner-wrap
@@ -20805,6 +20823,7 @@ http://europe1.fr,lemonde.fr##.partage
 http://jeuxvideo.fr,jeuxvideopc.com##.pictos
 http://leparisien.fr##.plusRecommande
 http://madagascar-tribune.com##.rezo_sociaux
+http://bledina.com##.rs-icon
 http://autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,diningcity.be,ecoaustral.com,epochtimes.fr,franceinter.fr,francetvinfo.fr,gamekult.com,gettyimages.be,gettyimages.fr,la-croix.com,landrover.be,landrover.ch,landrover.fr,valeursactuelles.com##.share
 http://rtl.fr##.shared-logo
 http://fracademic.com##.smm
@@ -21250,7 +21269,7 @@ http://telekom.de##.message-bar
 http://fc.de##.mod-alert
 http://csu.de##.mod-layer
 http://zurich.de##.mod-notification-teaser
-http://felix1.de,krone.at##.modal-backdrop
+http://felix1.de##.modal-backdrop
 http://moon-power.com##.moon2-statisticsOptBox
 http://roland-schuhe.de##.newsflash
 http://kvvks.de,messe-kassel.de##.note
@@ -22541,7 +22560,7 @@ http://flattr.com#@#.icon-youtube
 http://ndtv.com#@#.icon_gplus
 http://community.imgur.com#@#.icons
 http://upworthy.com#@#.image-share
-http://24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,thisismoney.co.uk#@#.img-share
+http://24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,stationgossip.com,thisismoney.co.uk#@#.img-share
 http://fandom.com#@#.is-social
 http://thenewamerican.com#@#.itemSocialSharing
 http://sap.com#@#.j-social-actions
@@ -22580,7 +22599,7 @@ http://pinterest.com#@#.pinterest-wrapper
 http://needlenthread.com#@#.pinterest1
 http://pinterest.com#@#.pinterestComponentShare
 http://marieclaire.ru#@#.pinterestShare
-http://google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
+http://devrant.com,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
 http://privatecore.com#@#.post-fb
 http://23-59.com.ua,dietetycy.org.pl,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
 http://imgur.com#@#.post-share-panel
@@ -22884,6 +22903,7 @@ http://n26.com#@##gdpr-notice
 http://pekao.com.pl#@##gdpr-popup
 http://mirjan24.pl#@##gdpr:not(body):not(html)
 http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@##gdpr_popin
+http://krone.at#@##krn-privacy-center
 http://bosch-mobility-solutions.com#@##m-cookie-overlay
 http://17track.net#@##modal-gdpr
 http://thesocialmedwork.com#@##notice-cookie-block
