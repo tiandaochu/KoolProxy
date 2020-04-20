@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: qeQ8Ctf54p779J6SGFapdw
-! Version: 202004182353
+! Checksum: dhHVuhJgeOYb5R62EVNHOQ
+! Version: 202004192353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -7322,6 +7322,7 @@
 ||http://show.kc.taotaosou.com^
 ||http://shshuoshu.com^
 ||http://shucaihangjia.com^
+||http://shuccn.com^
 ||http://shuihulu.com^$third-party
 ||http://shujuwu.com^$third-party
 ||http://shushijiameng123.com^
@@ -15483,6 +15484,7 @@
 ||http://yyshow.top^
 ||http://z3uk6.cn^
 ||http://z41vm.cn^
+||http://z65j.cn^
 ||http://z97g.cn^
 ||http://zabxb.com^
 ||http://zanghaihua.org^
@@ -17089,6 +17091,7 @@ https://wenxuecity.com###marquee
 https://xmfish.com###marry_laping
 https://yaolan.com###maryAd
 https://muchong.com###mask
+https://kxdao.net###masonry
 https://gzmama.com###mdvtips
 https://l114la.com###media
 https://hinet.net###media_ad_popup_overlay
@@ -17630,7 +17633,7 @@ https://angelweb.cn##.GG960x90
 https://aiyuke.com##.GGad
 https://downg.com##.Gs_d[href$=".exe"]
 https://crsky.com##.Gs_d[href="javascript:;"]
-https://52fzwg.com,79tao.com,hqol.cn,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb66.com##.GzList
+https://52fzwg.com,79tao.com,hqol.cn,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb66.com##.GzList
 https://le.com,letv.com##.H-tg
 https://diyifanwen.com##.Hzh1
 https://diyifanwen.com##.Hzh2
@@ -23029,6 +23032,7 @@ http://wenxuecity.com###marquee
 http://xmfish.com###marry_laping
 http://yaolan.com###maryAd
 http://muchong.com###mask
+http://kxdao.net###masonry
 http://gzmama.com###mdvtips
 http://l114la.com###media
 http://hinet.net###media_ad_popup_overlay
@@ -23570,7 +23574,7 @@ http://angelweb.cn##.GG960x90
 http://aiyuke.com##.GGad
 http://downg.com##.Gs_d[href$=".exe"]
 http://crsky.com##.Gs_d[href="javascript:;"]
-http://52fzwg.com,79tao.com,hqol.cn,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb66.com##.GzList
+http://52fzwg.com,79tao.com,hqol.cn,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb66.com##.GzList
 http://le.com,letv.com##.H-tg
 http://diyifanwen.com##.Hzh1
 http://diyifanwen.com##.Hzh2

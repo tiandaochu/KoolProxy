@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GrLpY5A7UBTeHqklkCE04g
-! Version: 202004182351
+! Checksum: WExmBjETBu0glGlh5TFBzA
+! Version: 202004192351
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Apr 2020 23:51 UTC
+! Last modified: 19 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -8977,7 +8977,7 @@ https://reddit.com##._3q-XSJ2vokDQrvdG6mR__k
 https://thewirecutter.com##._5ce4f1c1
 https://sunweb.co.uk##.absolute-dialog
 https://greenfields.eu##.accept-alert
-https://akeebabackup.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
+https://akeebabackup.com,displays.agneovo.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
 https://ticketmaster.ca##.agree-terms
 https://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
 https://espn.com##.alert--fixed
@@ -9061,6 +9061,7 @@ https://austrian.com,austrianairlines.ag,austriantechnik.at##.cop
 https://semanticscholar.org##.copyright-banner
 https://bandcamp.com##.corp-banners
 https://skygroup.sky##.corporate-notice-banner
+https://aoc.com##.country-popup
 https://hik-connect.com##.coverShow
 https://videojug.com##.cp-alert-message
 https://mad-daily.com##.cp-info-bar-container
@@ -11201,6 +11202,7 @@ https://drweb.fr##.SHOWIT-msg_showed
 https://acall.fr,domaine-errekalde.fr,sophrologierelaxation.fr##._2fUqY
 https://camara.net##.activebar-container
 https://6tzen.fr,clinique-veterinaire.fr##.alert
+https://6play.fr##.app__banner
 https://scooter-system.fr##.avertissement
 https://potagercity.fr##.banner
 https://utopya.fr##.banner-header
@@ -19160,7 +19162,7 @@ http://reddit.com##._3q-XSJ2vokDQrvdG6mR__k
 http://thewirecutter.com##._5ce4f1c1
 http://sunweb.co.uk##.absolute-dialog
 http://greenfields.eu##.accept-alert
-http://akeebabackup.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
+http://akeebabackup.com,displays.agneovo.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
 http://ticketmaster.ca##.agree-terms
 http://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
 http://espn.com##.alert--fixed
@@ -19244,6 +19246,7 @@ http://austrian.com,austrianairlines.ag,austriantechnik.at##.cop
 http://semanticscholar.org##.copyright-banner
 http://bandcamp.com##.corp-banners
 http://skygroup.sky##.corporate-notice-banner
+http://aoc.com##.country-popup
 http://hik-connect.com##.coverShow
 http://videojug.com##.cp-alert-message
 http://mad-daily.com##.cp-info-bar-container
@@ -21385,6 +21388,7 @@ http://drweb.fr##.SHOWIT-msg_showed
 http://acall.fr,domaine-errekalde.fr,sophrologierelaxation.fr##._2fUqY
 http://camara.net##.activebar-container
 http://6tzen.fr,clinique-veterinaire.fr##.alert
+http://6play.fr##.app__banner
 http://scooter-system.fr##.avertissement
 http://potagercity.fr##.banner
 http://utopya.fr##.banner-header
