@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: dhHVuhJgeOYb5R62EVNHOQ
-! Version: 202004192353
+! Checksum: AJCTJaay3L2T1vraoODp3w
+! Version: 202004202354
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -1275,6 +1275,7 @@
 ||https://900.la/imgs/1bb725da-974f-43da-9eb9-dfdebc224949/2015-12-18/zg3wwaug.gif
 ||https://900.la/imgs/d829d551-1d6e-4018-b3fe-78991bbbe2d6/2016-06-27/yiwmbica.gif
 ||https://90bifen.net^*/c_ad_
+||https://90mh.com/mip/qdbao
 ||https://90oo.com/tp/188jj.gif
 ||https://90oo.com/tp/40
 ||https://90oo.com/tp/90232.jpg
@@ -1964,6 +1965,7 @@
 ||https://cnfol.com/index_new.php?id=
 ||https://cnfol.com/pc/Js/as/
 ||https://cnfol.com/tui/
+||https://cngold.org/api/p?
 ||https://cngold.org/cngold_float
 ||https://cngoldres.com/advservice/
 ||https://cngoldres.com/libs/jtams/
@@ -4210,7 +4212,7 @@
 ||https://uxxux.com/js/zd.js
 ||https://uzzf.com/skin/know/
 ||https://v.beta.yinyuetai.com/swf/plugins_new.xml?
-||https://v2rayssr.com/wp-content/uploads/fBGjgdRWBCMT/
+||https://v2rayssr.com/wp-content/plugins/eazy-
 ||https://v4.cc/m/common.js
 ||https://v4dwkcv.com/html/click/
 ||https://vali*.cibntv.net^*.mp4?$media
@@ -7115,6 +7117,7 @@
 ||http://p3tt.com^
 ||http://p74.cc^
 ||http://pababy.cn^$third-party
+||http://padspms.com^
 ||http://pagechoice.net^$third-party
 ||http://panel-cn.com^
 ||http://papa999.xyz^
@@ -7127,6 +7130,7 @@
 ||http://pedailyu.com^
 ||http://penggua.com.cn^
 ||http://penxiangge.com^
+||http://pg88cdn.com^
 ||http://picsinfog.com^
 ||http://pingping888.com^
 ||http://pjshw.cn^
@@ -8741,6 +8745,7 @@
 ||http://900.la/imgs/1bb725da-974f-43da-9eb9-dfdebc224949/2015-12-18/zg3wwaug.gif
 ||http://900.la/imgs/d829d551-1d6e-4018-b3fe-78991bbbe2d6/2016-06-27/yiwmbica.gif
 ||http://90bifen.net^*/c_ad_
+||http://90mh.com/mip/qdbao
 ||http://90oo.com/tp/188jj.gif
 ||http://90oo.com/tp/40
 ||http://90oo.com/tp/90232.jpg
@@ -9556,6 +9561,7 @@
 ||http://cnfol.com/index_new.php?id=
 ||http://cnfol.com/pc/Js/as/
 ||http://cnfol.com/tui/
+||http://cngold.org/api/p?
 ||http://cngold.org/cngold_float
 ||http://cngoldres.com/advservice/
 ||http://cngoldres.com/libs/jtams/
@@ -12117,7 +12123,7 @@
 ||http://uxxux.com/js/zd.js
 ||http://uzzf.com/skin/know/
 ||http://v.beta.yinyuetai.com/swf/plugins_new.xml?
-||http://v2rayssr.com/wp-content/uploads/fBGjgdRWBCMT/
+||http://v2rayssr.com/wp-content/plugins/eazy-
 ||http://v4.cc/m/common.js
 ||http://v4dwkcv.com/html/click/
 ||http://vansky.com/agdg/homegg/
@@ -18253,12 +18259,12 @@ https://bt.cn,lotour.com##.btad
 https://163.com##.btm-ad
 https://onlinedown.net##.btmAD
 https://aizhan.com##.btn
-https://zdfans.com##.btn + .btn
 https://xitongzhijia.net##.btn-dl_swift
 https://xitongtiandi.net##.btn-dr
 https://firefox.com.cn,firefoxchina.cn##.btn-email-show + p
 https://cssmoban.com##.btn-host
 https://subku.net##.btn-success
+https://zdfans.com##.btn11 + .btn11
 https://mydrivers.com##.btnNext + div:last-child
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.bus-top-activity-wrap
 https://brtn.cn,btime.com##.business-box
@@ -18269,6 +18275,7 @@ https://zealer.com##.buy_container
 https://ithome.com##.bx-recom2
 https://hao.lenovo.com.cn,hi.lenovo.com.cn##.bxslider-wrap
 https://byxx.com##.byzwPC-banner-ADscroll
+https://kuaihou.com##.bz
 https://52pk.com##.bzClick
 https://downyi.com##.bzYouDao
 https://mgtv.com##.c-95060-top
@@ -18674,6 +18681,7 @@ https://ainuody.com##.full-width
 https://guancha.cn##.full_nav1
 https://gamme.com.tw##.fullad_ad
 https://962.net##.g-962-ad
+https://so.com##.g-a-noline[data-md*="sad"]
 https://quanmin.tv##.g-gg
 https://mobanwang.com##.g960
 https://126.com,163.com##.gWel-promt
@@ -18758,7 +18766,7 @@ https://taian.com##.ggtp
 https://360doc.com##.ggwz
 https://9dcj.com##.gif_left
 https://douyu.com##.giftbox
-https://laixoo.com,zhumengwl.com##.git_banner
+https://laixoo.com,v2rayssr.com,zhumengwl.com##.git_banner
 https://anquan.org##.gj_download
 https://witcp.com##.global_ifmobile_mask
 https://tw.news.yahoo.com##.gn_sub_blue
@@ -20071,7 +20079,6 @@ https://cnfol.com##.wid390AdBox
 https://cnfol.com##.wid595AdBox
 https://cnfol.com##.wid600Ad
 https://cbmay.com##.widget
-https://v2rayssr.com##.widget + .widget_custom_html
 https://hao123.com##.widget-hlbar > span
 https://hao123.com##.widget-topbanner
 https://didispace.com##.widget-wrap > p[style="text-align: left;padding-bottom: 20px;line-height: 30px;"]
@@ -24194,12 +24201,12 @@ http://bt.cn,lotour.com##.btad
 http://163.com##.btm-ad
 http://onlinedown.net##.btmAD
 http://aizhan.com##.btn
-http://zdfans.com##.btn + .btn
 http://xitongzhijia.net##.btn-dl_swift
 http://xitongtiandi.net##.btn-dr
 http://firefox.com.cn,firefoxchina.cn##.btn-email-show + p
 http://cssmoban.com##.btn-host
 http://subku.net##.btn-success
+http://zdfans.com##.btn11 + .btn11
 http://mydrivers.com##.btnNext + div:last-child
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.bus-top-activity-wrap
 http://brtn.cn,btime.com##.business-box
@@ -24210,6 +24217,7 @@ http://zealer.com##.buy_container
 http://ithome.com##.bx-recom2
 http://hao.lenovo.com.cn,hi.lenovo.com.cn##.bxslider-wrap
 http://byxx.com##.byzwPC-banner-ADscroll
+http://kuaihou.com##.bz
 http://52pk.com##.bzClick
 http://downyi.com##.bzYouDao
 http://mgtv.com##.c-95060-top
@@ -24615,6 +24623,7 @@ http://ainuody.com##.full-width
 http://guancha.cn##.full_nav1
 http://gamme.com.tw##.fullad_ad
 http://962.net##.g-962-ad
+http://so.com##.g-a-noline[data-md*="sad"]
 http://quanmin.tv##.g-gg
 http://mobanwang.com##.g960
 http://126.com,163.com##.gWel-promt
@@ -24699,7 +24708,7 @@ http://taian.com##.ggtp
 http://360doc.com##.ggwz
 http://9dcj.com##.gif_left
 http://douyu.com##.giftbox
-http://laixoo.com,zhumengwl.com##.git_banner
+http://laixoo.com,v2rayssr.com,zhumengwl.com##.git_banner
 http://anquan.org##.gj_download
 http://witcp.com##.global_ifmobile_mask
 http://tw.news.yahoo.com##.gn_sub_blue
@@ -26012,7 +26021,6 @@ http://cnfol.com##.wid390AdBox
 http://cnfol.com##.wid595AdBox
 http://cnfol.com##.wid600Ad
 http://cbmay.com##.widget
-http://v2rayssr.com##.widget + .widget_custom_html
 http://hao123.com##.widget-hlbar > span
 http://hao123.com##.widget-topbanner
 http://didispace.com##.widget-wrap > p[style="text-align: left;padding-bottom: 20px;line-height: 30px;"]
