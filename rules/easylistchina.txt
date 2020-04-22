@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AJCTJaay3L2T1vraoODp3w
-! Version: 202004202354
+! Checksum: NqjzWuxPtfHD+GFNTiAkCA
+! Version: 202004212353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -464,6 +464,7 @@
 ||https://shaqm.com^*.js$third-party
 ||https://sharele.cn^$third-party
 ||https://sho9wbox.com^$third-party
+||https://shoujigushi.net^$third-party
 ||https://shuihulu.com^$third-party
 ||https://shujuwu.com^$third-party
 ||https://sifakaoshi360.com^$~media
@@ -5230,6 +5231,7 @@
 ||https://365xuet.com/assets/web/js/main.jsr_
 ||https://17house.com/zt/style/pc/js/zt_
 ||https://y3600.cc/20
+||https://zupulu.com/scripts/app/app.js
 ||https://3158.cn^*_analyser.
 ||https://pconline.com.cn/ipJson.
 ||https://develenv.com^$third-party
@@ -5933,6 +5935,7 @@
 ||http://b5h7.com^$third-party
 ||http://b7nkd.cn^
 ||http://b9377h.com^
+||http://b96bcea4.cc^
 ||http://b99u.top^
 ||http://baiapk.com^
 ||http://baidu360haosou.info^$third-party
@@ -7321,6 +7324,7 @@
 ||http://shiftrro.com^
 ||http://shkywh.com^
 ||http://sho9wbox.com^$third-party
+||http://shoujigushi.net^$third-party
 ||http://shouwangba.cn^
 ||http://shouyouyou.com^
 ||http://show.kc.taotaosou.com^
@@ -13084,6 +13088,7 @@
 ||http://g1.taijuba.com^
 ||http://gccode.gongchang.com^
 ||http://gcw*.2liang.cn^
+||http://gdyjs.com^
 ||http://gg.egouz.com^
 ||http://gg1.mengchongzu.com^
 ||http://ggdm1.nhaidu.net^
@@ -13151,7 +13156,6 @@
 ||http://jiyan.net^
 ||http://jke1.jianke.com^
 ||http://js.23yy.com^
-||http://js.gdyjs.com^
 ||http://js.jianbihuadq.com^
 ||http://js.kt250.com^
 ||http://js.ruiwen.com^
@@ -15987,6 +15991,7 @@
 ||http://365xuet.com/assets/web/js/main.jsr_
 ||http://17house.com/zt/style/pc/js/zt_
 ||http://y3600.cc/20
+||http://zupulu.com/scripts/app/app.js
 ||http://3158.cn^*_analyser.
 ||http://stat.jc001.cn^
 ||http://ip.tianqiapi.com^
@@ -18791,7 +18796,7 @@ https://sci-hub.org.cn##.gs_r[data-cid=""]
 https://sci-hub.org.cn##.gs_red[style="color:#EB7F00"]
 https://ddooo.com##.gsa_down
 https://32r.com##.gsabtn
-https://ddooo.com,xue51.com##.gsbtn
+https://32r.com,ddooo.com,xue51.com##.gsbtn
 https://yxdown.com##.gsdown
 https://33lc.com,cncrk.com##.gsdt
 https://jb51.net##.gsdw
@@ -19808,6 +19813,7 @@ https://heiguang.com##.syAdTopTxt
 https://17jiaoyu.com##.sy_ad
 https://114la.com##.sy_ad4
 https://5g0a.com##.sy_tj
+https://58cam.com##.syads
 https://yahoo.com##.sys_dict_native_ads
 https://zhifang.com##.sytl
 https://bcbay.com,creaders.net##.syzx
@@ -19877,6 +19883,7 @@ https://firefoxchina.cn##.theme-side-bar-couplet
 https://firefox.com.cn,firefoxchina.cn##.theme-side-bar-priority
 https://firefox.com.cn,firefoxchina.cn##.theme-side-bar[trace-key="ad_theme_skin_link"]
 https://dlemm.cn##.themead
+https://yusuan123.com##.themepark_advertisement
 https://cnool.net##.third-banner
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_dir_ad
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_local_58
@@ -20306,6 +20313,7 @@ https://instrument.com.cn##a[href*="/ad/"]
 https://xitek.com##a[href*="/adclick"]
 https://cangku.in,cangku.moe,galacg.me##a[href*="/game"]
 https://ccav1.com##a[href*="/go"]
+https://yusuan123.com##a[href*="/goto/"]
 https://dy2018.com,xiaopian.com##a[href*="/htmlcode/"]
 https://cableabc.com##a[href*="/img1/"]
 https://tucao.one##a[href*="/index.php?m=poster&"]
@@ -20956,6 +20964,7 @@ https://jianshu.com##section[aria-label="jianshu-ad"]
 https://tukergo.com##section[class^="ch"]
 https://vs.cm##section[id^="ad_"]
 https://r3sub.com##source + img
+https://32r.com##span + p + ul > dd
 https://32r.com##span + p + ul > li > a:not(.c_down)
 https://bbs.my0511.com##span.smalltxt
 https://163.com##span[class^="gg"]
@@ -21414,6 +21423,8 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://58cam.com###append_parent
+https://58cam.com###huyou_nologin
 https://ximalaya.com##.dl-pc
 https://4399.com##BODY[bottommargin="22"] > TABLE[width="100%"]:first-child
 https://taptap.com###bottomBanner
@@ -24733,7 +24744,7 @@ http://sci-hub.org.cn##.gs_r[data-cid=""]
 http://sci-hub.org.cn##.gs_red[style="color:#EB7F00"]
 http://ddooo.com##.gsa_down
 http://32r.com##.gsabtn
-http://ddooo.com,xue51.com##.gsbtn
+http://32r.com,ddooo.com,xue51.com##.gsbtn
 http://yxdown.com##.gsdown
 http://33lc.com,cncrk.com##.gsdt
 http://jb51.net##.gsdw
@@ -25750,6 +25761,7 @@ http://heiguang.com##.syAdTopTxt
 http://17jiaoyu.com##.sy_ad
 http://114la.com##.sy_ad4
 http://5g0a.com##.sy_tj
+http://58cam.com##.syads
 http://yahoo.com##.sys_dict_native_ads
 http://zhifang.com##.sytl
 http://bcbay.com,creaders.net##.syzx
@@ -25819,6 +25831,7 @@ http://firefoxchina.cn##.theme-side-bar-couplet
 http://firefox.com.cn,firefoxchina.cn##.theme-side-bar-priority
 http://firefox.com.cn,firefoxchina.cn##.theme-side-bar[trace-key="ad_theme_skin_link"]
 http://dlemm.cn##.themead
+http://yusuan123.com##.themepark_advertisement
 http://cnool.net##.third-banner
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_dir_ad
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_local_58
@@ -26248,6 +26261,7 @@ http://instrument.com.cn##a[href*="/ad/"]
 http://xitek.com##a[href*="/adclick"]
 http://cangku.in,cangku.moe,galacg.me##a[href*="/game"]
 http://ccav1.com##a[href*="/go"]
+http://yusuan123.com##a[href*="/goto/"]
 http://dy2018.com,xiaopian.com##a[href*="/htmlcode/"]
 http://cableabc.com##a[href*="/img1/"]
 http://tucao.one##a[href*="/index.php?m=poster&"]
@@ -26898,6 +26912,7 @@ http://jianshu.com##section[aria-label="jianshu-ad"]
 http://tukergo.com##section[class^="ch"]
 http://vs.cm##section[id^="ad_"]
 http://r3sub.com##source + img
+http://32r.com##span + p + ul > dd
 http://32r.com##span + p + ul > li > a:not(.c_down)
 http://bbs.my0511.com##span.smalltxt
 http://163.com##span[class^="gg"]
@@ -27356,6 +27371,8 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://58cam.com###append_parent
+http://58cam.com###huyou_nologin
 http://ximalaya.com##.dl-pc
 http://4399.com##BODY[bottommargin="22"] > TABLE[width="100%"]:first-child
 http://taptap.com###bottomBanner
