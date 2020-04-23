@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20200420020719
-!TOTAL_LINES=34642
+!VER=20200422152053
+!TOTAL_LINES=34641
 address=/kwcdn.000dn.com/
 address=/kwcscdn.000dn.com/
 address=/kwflvcdn.000dn.com/
@@ -29685,7 +29685,6 @@ address=/uufbvpidyn.com/
 address=/uuidksinc.net/
 address=/uujdthyg.com/
 address=/uujzywpxxrroh.com/
-address=/sj.uukanshu.com/
 address=/uulucky.com/
 address=/uulvtpbx.com/
 address=/uunak.cn/
