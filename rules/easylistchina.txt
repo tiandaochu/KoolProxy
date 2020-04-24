@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: NSe/czdWVMWg0CugGBpVXw
-! Version: 202004222353
+! Checksum: S92KF4WrXnoUQi82ErM25w
+! Version: 202004232353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -781,7 +781,6 @@
 ||https://127.net/external/js6promote
 ||https://127.net/external/js6public126_
 ||https://127.net/external/js6public163_
-||https://127.net/m/*/promPic.jpg
 ||https://12999.com/JS/
 ||https://12img.com/ad/
 ||https://12ycw.com/js/fc/
@@ -2927,6 +2926,7 @@
 ||https://kan98.com/statics/js/k2017/kan98.js
 ||https://kancloud.cn/ad/
 ||https://kanguba.com/file/js/ifr.asp
+||https://kanjiantu.com/images/2020/04/17/uO6sX9.gif
 ||https://kanjuba.me/js/bbk/
 ||https://kanjuwo.com/js/6
 ||https://kanjuwo.com/js/8
@@ -4752,6 +4752,7 @@
 ||https://zuixingkong.com/show-g/
 ||https://zuixingkong.com^*mygg/
 ||https://zuoche.com/promo/*.jspx
+||https://zuofang05.com/template/mytheme/statics/image/1/
 ||https://zuoyebang.cc/static/question/pkg/wap-qb_
 ||https://zwwooooo.com/images/hengtian.
 ||https://zx590.com/assets/style/js/paigu.js
@@ -6525,6 +6526,7 @@
 ||http://hejingroup.cn^
 ||http://helanpinpai.com^
 ||http://hen360.com^$third-party
+||http://henanlvyi.com^
 ||http://hengshui1.com^
 ||http://hesxz.com^
 ||http://heygugu.com^
@@ -7786,6 +7788,7 @@
 ||http://xn--czrshy5v7kb.cc^
 ||http://xn--fjqz50cv5q3so.ltd^
 ||http://xn--fjqz50cv5q3so.online^
+||http://xn--i7qt52bvsr0u0a.com^
 ||http://xn--mtso8sj6menhyil.online^
 ||http://xn--tst552fo5s.xyz^
 ||http://xn--wcsy74a6d835f5lf.com^
@@ -8219,7 +8222,6 @@
 ||http://127.net/external/js6promote
 ||http://127.net/external/js6public126_
 ||http://127.net/external/js6public163_
-||http://127.net/m/*/promPic.jpg
 ||http://12999.com/JS/
 ||http://12img.com/ad/
 ||http://12ycw.com/js/fc/
@@ -10692,6 +10694,7 @@
 ||http://kan98.com/statics/js/k2017/kan98.js
 ||http://kancloud.cn/ad/
 ||http://kanguba.com/file/js/ifr.asp
+||http://kanjiantu.com/images/2020/04/17/uO6sX9.gif
 ||http://kanjuba.me/js/bbk/
 ||http://kanjuwo.com/js/6
 ||http://kanjuwo.com/js/8
@@ -12708,6 +12711,7 @@
 ||http://zuixingkong.com/show-g/
 ||http://zuixingkong.com^*mygg/
 ||http://zuoche.com/promo/*.jspx
+||http://zuofang05.com/template/mytheme/statics/image/1/
 ||http://zuoyebang.cc/static/question/pkg/wap-qb_
 ||http://zwwooooo.com/images/hengtian.
 ||http://zx590.com/assets/style/js/paigu.js
@@ -12891,6 +12895,7 @@
 ||http://aa.gushiwen.org^
 ||http://aa.ninze.com^
 ||http://aa.xiangxiangmf.com^
+||http://aaa.tumanyi.com^
 ||http://ab.cnbanbao.com^
 ||http://ab.pincai.com^
 ||http://abc.douguo.com^
@@ -13669,6 +13674,7 @@
 ||http://606w.cn^
 ||http://609623.com^
 ||http://63xs.com:8016^
+||http://64ri.cn^
 ||http://64si.com^
 ||http://66992.top^
 ||http://66993.top^
@@ -14839,6 +14845,7 @@
 ||http://oir85.cn^
 ||http://oiwjcsh001.top^
 ||http://oiwjcsh010.top^
+||http://oiwjcsh011.top^
 ||http://ojues.com^
 ||http://okshishi.com^
 ||http://okuis.com^
