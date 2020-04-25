@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rI3SrkkXyW+SDSyFOGYWUQ
-! Version: 202004232351
+! Checksum: qQYMIVqOI3whcZCtmPO2MA
+! Version: 202004242351
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Apr 2020 23:51 UTC
+! Last modified: 24 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2984,7 +2984,7 @@ https://computerandvideogames.com###carousel__internal-ads
 https://aol.com,traileraddict.com,zdnet.com###catfish
 https://kansas.com###cb
 https://lafourchette.com###cboxContent
-https://askkissy.com,cagle.com,cheatsheet.com,clove.co.uk,designm.ag,desmogblog.com,eclectablog.com,extremetech.com,fantasypros.com,globalvoicesonline.org,grantland.com,guide4bankexams.blogspot.co.nz,guide4bankexams.blogspot.com,gurufocus.com,heavy.com,ibtimes.com,insideclimatenews.org,jerusalemonline.com,knowyourmeme.com,lostateminor.com,lushome.com,nationalmemo.com,ndtv.com,numberfire.com,originalpenguin.co.uk,pcmag.com,politicususa.com,psychologies.co.uk,radaronline.com,rasmussenreports.com,sdtimes.com,shareable.net,techglobex.blogspot.in,the-hobbitmovie.com,thevideoink.com,thewrap.com,thisislocallondon.co.uk,vinepair.com,visual.ly,xboxgamercard.org###cboxOverlay
+https://askkissy.com,cagle.com,cheatsheet.com,clove.co.uk,desmogblog.com,eclectablog.com,extremetech.com,fantasypros.com,globalvoicesonline.org,grantland.com,guide4bankexams.blogspot.co.nz,guide4bankexams.blogspot.com,gurufocus.com,heavy.com,ibtimes.com,insideclimatenews.org,jerusalemonline.com,knowyourmeme.com,lostateminor.com,lushome.com,nationalmemo.com,ndtv.com,numberfire.com,originalpenguin.co.uk,pcmag.com,politicususa.com,psychologies.co.uk,radaronline.com,rasmussenreports.com,sdtimes.com,shareable.net,techglobex.blogspot.in,the-hobbitmovie.com,thevideoink.com,thewrap.com,thisislocallondon.co.uk,vinepair.com,visual.ly,xboxgamercard.org###cboxOverlay
 https://cbslocal.com###cbs-site-ribbon
 https://cbsnews.com###cbsSMPB
 https://dutchnews.nl,mcvuk.com###ccc-icon
@@ -3010,7 +3010,7 @@ https://blogs.cnn.com###cnn_text-3
 https://automotive.com###cnt-floating-ftr
 https://yourbittorrent.com###cnv
 https://ndtv.com###collapseSocial
-https://askkissy.com,cagle.com,cheatsheet.com,clove.co.uk,designm.ag,desmogblog.com,eclectablog.com,extremetech.com,fantasypros.com,globalvoicesonline.org,grantland.com,guide4bankexams.blogspot.co.nz,guide4bankexams.blogspot.com,gurufocus.com,heavy.com,ibtimes.com,jerusalemonline.com,lostateminor.com,lushome.com,medicaldaily.com,nationalmemo.com,ndtv.com,newsweek.com,numberfire.com,originalpenguin.co.uk,pcmag.com,politicususa.com,psychologies.co.uk,radaronline.com,rasmussenreports.com,sdtimes.com,shareable.net,techglobex.blogspot.in,the-hobbitmovie.com,thevideoink.com,thewrap.com,thisislocallondon.co.uk,vinepair.com,visual.ly,xboxgamercard.org###colorbox
+https://askkissy.com,cagle.com,cheatsheet.com,clove.co.uk,desmogblog.com,eclectablog.com,extremetech.com,fantasypros.com,globalvoicesonline.org,grantland.com,guide4bankexams.blogspot.co.nz,guide4bankexams.blogspot.com,gurufocus.com,heavy.com,ibtimes.com,jerusalemonline.com,lostateminor.com,lushome.com,medicaldaily.com,nationalmemo.com,ndtv.com,newsweek.com,numberfire.com,originalpenguin.co.uk,pcmag.com,politicususa.com,psychologies.co.uk,radaronline.com,rasmussenreports.com,sdtimes.com,shareable.net,techglobex.blogspot.in,the-hobbitmovie.com,thevideoink.com,thewrap.com,thisislocallondon.co.uk,vinepair.com,visual.ly,xboxgamercard.org###colorbox
 https://inhabitat.com###column3-follow-inhabitat
 https://about.com###com
 https://megabonus.com###comeback-modal
@@ -4314,6 +4314,11 @@ https://soundcloud.com##.announcement
 https://tutsplus.com##.announcement-bar
 https://dzone.com##.announcementBar
 https://wow247.co.uk##.anonymousbarWrapper
+https://androidpolice.com##.ap-sbar-widget-wrapper
+https://androidpolice.com##.ap2_below_post_body_adb
+https://androidpolice.com##.ap2_header_1_adb
+https://androidpolice.com##.ap2_sidebar_2_adb
+https://androidpolice.com##.ap2_sidebar_5_adb
 https://mywot.com##.app-stripe
 https://discountsstory.com##.app_banner_right
 https://mirror.co.uk,walesonline.co.uk##.app_container
@@ -7648,6 +7653,7 @@ https://care2.com##.care2_side_float
 https://inquirer.net##.cct-socmed
 https://cambridge.org##.cdo-hdr__soc
 https://wsws.org##.censorship
+https://climate.nasa.gov##.chertools_floater
 https://progressive.org##.chicklets
 https://cheezburger.com##.chz-social
 https://omny.fm##.clip-share
@@ -13169,7 +13175,7 @@ http://computerandvideogames.com###carousel__internal-ads
 http://aol.com,traileraddict.com,zdnet.com###catfish
 http://kansas.com###cb
 http://lafourchette.com###cboxContent
-http://askkissy.com,cagle.com,cheatsheet.com,clove.co.uk,designm.ag,desmogblog.com,eclectablog.com,extremetech.com,fantasypros.com,globalvoicesonline.org,grantland.com,guide4bankexams.blogspot.co.nz,guide4bankexams.blogspot.com,gurufocus.com,heavy.com,ibtimes.com,insideclimatenews.org,jerusalemonline.com,knowyourmeme.com,lostateminor.com,lushome.com,nationalmemo.com,ndtv.com,numberfire.com,originalpenguin.co.uk,pcmag.com,politicususa.com,psychologies.co.uk,radaronline.com,rasmussenreports.com,sdtimes.com,shareable.net,techglobex.blogspot.in,the-hobbitmovie.com,thevideoink.com,thewrap.com,thisislocallondon.co.uk,vinepair.com,visual.ly,xboxgamercard.org###cboxOverlay
+http://askkissy.com,cagle.com,cheatsheet.com,clove.co.uk,desmogblog.com,eclectablog.com,extremetech.com,fantasypros.com,globalvoicesonline.org,grantland.com,guide4bankexams.blogspot.co.nz,guide4bankexams.blogspot.com,gurufocus.com,heavy.com,ibtimes.com,insideclimatenews.org,jerusalemonline.com,knowyourmeme.com,lostateminor.com,lushome.com,nationalmemo.com,ndtv.com,numberfire.com,originalpenguin.co.uk,pcmag.com,politicususa.com,psychologies.co.uk,radaronline.com,rasmussenreports.com,sdtimes.com,shareable.net,techglobex.blogspot.in,the-hobbitmovie.com,thevideoink.com,thewrap.com,thisislocallondon.co.uk,vinepair.com,visual.ly,xboxgamercard.org###cboxOverlay
 http://cbslocal.com###cbs-site-ribbon
 http://cbsnews.com###cbsSMPB
 http://dutchnews.nl,mcvuk.com###ccc-icon
@@ -13195,7 +13201,7 @@ http://blogs.cnn.com###cnn_text-3
 http://automotive.com###cnt-floating-ftr
 http://yourbittorrent.com###cnv
 http://ndtv.com###collapseSocial
-http://askkissy.com,cagle.com,cheatsheet.com,clove.co.uk,designm.ag,desmogblog.com,eclectablog.com,extremetech.com,fantasypros.com,globalvoicesonline.org,grantland.com,guide4bankexams.blogspot.co.nz,guide4bankexams.blogspot.com,gurufocus.com,heavy.com,ibtimes.com,jerusalemonline.com,lostateminor.com,lushome.com,medicaldaily.com,nationalmemo.com,ndtv.com,newsweek.com,numberfire.com,originalpenguin.co.uk,pcmag.com,politicususa.com,psychologies.co.uk,radaronline.com,rasmussenreports.com,sdtimes.com,shareable.net,techglobex.blogspot.in,the-hobbitmovie.com,thevideoink.com,thewrap.com,thisislocallondon.co.uk,vinepair.com,visual.ly,xboxgamercard.org###colorbox
+http://askkissy.com,cagle.com,cheatsheet.com,clove.co.uk,desmogblog.com,eclectablog.com,extremetech.com,fantasypros.com,globalvoicesonline.org,grantland.com,guide4bankexams.blogspot.co.nz,guide4bankexams.blogspot.com,gurufocus.com,heavy.com,ibtimes.com,jerusalemonline.com,lostateminor.com,lushome.com,medicaldaily.com,nationalmemo.com,ndtv.com,newsweek.com,numberfire.com,originalpenguin.co.uk,pcmag.com,politicususa.com,psychologies.co.uk,radaronline.com,rasmussenreports.com,sdtimes.com,shareable.net,techglobex.blogspot.in,the-hobbitmovie.com,thevideoink.com,thewrap.com,thisislocallondon.co.uk,vinepair.com,visual.ly,xboxgamercard.org###colorbox
 http://inhabitat.com###column3-follow-inhabitat
 http://about.com###com
 http://megabonus.com###comeback-modal
@@ -14500,6 +14506,11 @@ http://soundcloud.com##.announcement
 http://tutsplus.com##.announcement-bar
 http://dzone.com##.announcementBar
 http://wow247.co.uk##.anonymousbarWrapper
+http://androidpolice.com##.ap-sbar-widget-wrapper
+http://androidpolice.com##.ap2_below_post_body_adb
+http://androidpolice.com##.ap2_header_1_adb
+http://androidpolice.com##.ap2_sidebar_2_adb
+http://androidpolice.com##.ap2_sidebar_5_adb
 http://mywot.com##.app-stripe
 http://discountsstory.com##.app_banner_right
 http://mirror.co.uk,walesonline.co.uk##.app_container
@@ -17834,6 +17845,7 @@ http://care2.com##.care2_side_float
 http://inquirer.net##.cct-socmed
 http://cambridge.org##.cdo-hdr__soc
 http://wsws.org##.censorship
+http://climate.nasa.gov##.chertools_floater
 http://progressive.org##.chicklets
 http://cheezburger.com##.chz-social
 http://omny.fm##.clip-share

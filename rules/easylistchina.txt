@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: S92KF4WrXnoUQi82ErM25w
-! Version: 202004232353
+! Checksum: AEsoHX+LKXszp3N4XuT9kQ
+! Version: 202004242353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -2263,6 +2263,7 @@
 ||https://eol.cn/js/global/jQuery_ads.js
 ||https://eoof.net/PicZone/qzgg
 ||https://epinv.com/wp-content/themes/ep/banner
+||https://epinv.com/wp-content/themes/ep/ecom/
 ||https://epinv.com/wp-content/themes/ep/uppsd.gif
 ||https://eprice.com.tw/img/tw_m/ad/
 ||https://es3984.review/02_cn_ad/
@@ -3108,7 +3109,6 @@
 ||https://loldyttw.com/skin/lol/js/ds.js
 ||https://loldyttw.net/blr.js
 ||https://loldyttw.net/skin/lol/js/ds.js
-||https://loli.net/2018/06/12/5b1eb40282e3a.jpg
 ||https://loli.net/2018/09/01/5b8ab2b61cec4.jpg
 ||https://loli.net/2019/04/24/5cc0027b4f2f1.png
 ||https://loli.net/2020/01/20/jenML2kJsAxl6CE.jpg
@@ -4117,6 +4117,7 @@
 ||https://totheglory.im/pic/ttg-
 ||https://totheglory.im/pic/ttg_
 ||https://touimg.com/u/20200306/12094716.gif
+||https://touimg.com/u/20200419/18431854.gif
 ||https://tq121.com.cn/j/ad/
 ||https://trafficjam.cn^$third-party
 ||https://trendmicro.com.tw/wp-content/uploads/*Banner
@@ -5965,6 +5966,7 @@
 ||http://bazhigu.com^
 ||http://bbdsdy.com^
 ||http://bccyyc.com^
+||http://bd1.it028.net.cn^
 ||http://bd1.ningboseo0574.com^
 ||http://bdpuaw.com^
 ||http://bdtongfei.cn^
@@ -9002,7 +9004,7 @@
 ||http://alicdn.com/tfscom/*.sina.
 ||http://alicdn.com/tps/*-950-90.
 ||http://alicdn.com/tps/i3/T19NaCFKFaXXckTCTS-300-100.jpg
-||http://alicdn.com^$domain=1024qi.com|11papapa.com|1avlang.com|2334n.com|51dll.com|52kpop.com|55cc.cc|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|acglover.me|aotu101.com|btdp.online|camelliadali.com|ccxx99.com|ddrk.me|dytt.com|f6hx.site|haicao32.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|lookpian.com|magnet2048.com|ppx116.com|qqtenglong.com|qyl00.com|qyl222.com|runoob.com|sodu.cc|spqi.xyz|supfree.net|thztv.cc|ttww22.com|tv4.cc|viidii.info|wenkuxiazai.com|xingzhiyin44.com|yeyemo6.com|yingdou.tv|yuese46.com|yzz12.com|zhuankezhijia.com
+||http://alicdn.com^$domain=1024di.com|11papapa.com|1avlang.com|2334n.com|51dll.com|52kpop.com|55cc.cc|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|acglover.me|aotu101.com|btdp.online|camelliadali.com|ccxx99.com|ddrk.me|dytt.com|f6hx.site|haicao32.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|lookpian.com|magnet2048.com|ppx116.com|qqtenglong.com|qyl00.com|qyl222.com|runoob.com|sodu.cc|spqi.xyz|supfree.net|thztv.cc|ttww22.com|tv4.cc|viidii.info|wenkuxiazai.com|xingzhiyin44.com|yeyemo6.com|yingdou.tv|yuese46.com|yzz12.com|zhuankezhijia.com
 ||http://alicdn.com^*.gif$domain=15yc.cc|hmog.me
 ||http://alicdn.com^*.jpg$domain=hmog.me
 ||http://alitui.weibo.com^
@@ -9910,6 +9912,7 @@
 ||http://eol.cn/js/global/jQuery_ads.js
 ||http://eoof.net/PicZone/qzgg
 ||http://epinv.com/wp-content/themes/ep/banner
+||http://epinv.com/wp-content/themes/ep/ecom/
 ||http://epinv.com/wp-content/themes/ep/uppsd.gif
 ||http://eprice.com.tw/img/tw_m/ad/
 ||http://erebor.douban.com^
@@ -10888,7 +10891,6 @@
 ||http://loldyttw.net/blr.js
 ||http://loldyttw.net/skin/lol/js/ds.js
 ||http://loli.io^$domain=kisssub.org
-||http://loli.net/2018/06/12/5b1eb40282e3a.jpg
 ||http://loli.net/2018/09/01/5b8ab2b61cec4.jpg
 ||http://loli.net/2019/04/24/5cc0027b4f2f1.png
 ||http://loli.net/2020/01/20/jenML2kJsAxl6CE.jpg
@@ -11436,8 +11438,8 @@
 ||http://qhf168.com/data/attachment/portal/
 ||http://qhimg.com/ssl/20212c7594890e1c.js
 ||http://qhimg.com/static/*/common/seed.js
-||http://qhimg.com^$domain=1024qi.com|mir300.com
-||http://qhmsg.com^$domain=1024qi.com
+||http://qhimg.com^$domain=1024di.com|mir300.com
+||http://qhmsg.com^$domain=1024di.com
 ||http://qhnews.com/tupian/
 ||http://qhres.com/static/*/common/seed.js
 ||http://qhres.com/static/4b6ab193405b6ca3.js
@@ -12016,6 +12018,7 @@
 ||http://totheglory.im/pic/ttg-
 ||http://totheglory.im/pic/ttg_
 ||http://touimg.com/u/20200306/12094716.gif
+||http://touimg.com/u/20200419/18431854.gif
 ||http://touimg.com^$domain=dyzd1.com
 ||http://tp.sgcn.com^
 ||http://tq121.com.cn/j/ad/
@@ -13868,6 +13871,7 @@
 ||http://bjhengdiao.com^
 ||http://bjhuhangjy.com^
 ||http://bjqftcty.com^
+||http://bjtengda.cn^
 ||http://bjygfd.com^
 ||http://bjzcbx.com^
 ||http://bkzisok.cn^
@@ -15102,6 +15106,7 @@
 ||http://sxjkc.cn^
 ||http://sxjxhg.com^
 ||http://sxlczj.cn^
+||http://sxljldh.top^
 ||http://sxmdxy.com^
 ||http://sxmutan.com^
 ||http://sxtyhl.top^
@@ -15187,6 +15192,7 @@
 ||http://u2c8.cn^
 ||http://u372q.cn^
 ||http://u7qy3e.cn^
+||http://uauwkfk.cn^
 ||http://ubaii.com^
 ||http://uc4a.cn^
 ||http://ucaii.com^
@@ -16952,7 +16958,7 @@ https://hao123.com###headJoke
 https://tbxt.com###headad2
 https://solidot.org###headads
 https://lxty66.com###header + .tac.mb5
-https://1024qi.com,1024ya.com,33235.net###header > center
+https://1024di.com,1024ya.com,33235.net###header > center
 https://houdao.com###header-ban
 https://maxthon.cn###header-float-promote
 https://2345.com###header-news
@@ -16993,6 +16999,7 @@ https://pharmnet.com.cn###img1
 https://e0575.com###img2
 https://114la.com,ylmf.com###imgArr
 https://image.baidu.com###imgCmsAdPart
+https://e10000.cn###imgFloat
 https://image.baidu.com###imgid > .fcimgpage
 https://54new.com###imgshow
 https://ydss.cn###indexBlad
@@ -19839,7 +19846,7 @@ https://17ok.com##.t-bann
 https://17yy.com##.t2_3
 https://17yy.com##.t2r_3
 https://suopao.org##.t5[style^="margin-top:8px;"]
-https://1024qi.com,1024ya.com##.t[style="margin-top:8px"]
+https://1024di.com,1024ya.com##.t[style="margin-top:8px"]
 https://bbs.fobshanghai.com##.t_infoline
 https://douyu.com##.tab-content.promote
 https://chinatimes.com##.tab_4_box
@@ -20632,6 +20639,7 @@ https://sun0769.com##div[class^="pagecenter sungg"]
 https://wasu.cn##div[class^="play_ads"]
 https://ifeng.com##div[class^="pplive"]
 https://ifeng.com##div[class^="ppx_wrap-"]
+https://1024di.com##div[class^="ps_"]
 https://ifeng.com##div[class^="rightContent-"] a[href^="//health.ifeng."]
 https://sogou.com##div[class^="rt-gameright"]
 https://7654.com##div[class^="sidebarimg"]
@@ -22900,7 +22908,7 @@ http://hao123.com###headJoke
 http://tbxt.com###headad2
 http://solidot.org###headads
 http://lxty66.com###header + .tac.mb5
-http://1024qi.com,1024ya.com,33235.net###header > center
+http://1024di.com,1024ya.com,33235.net###header > center
 http://houdao.com###header-ban
 http://maxthon.cn###header-float-promote
 http://2345.com###header-news
@@ -22941,6 +22949,7 @@ http://pharmnet.com.cn###img1
 http://e0575.com###img2
 http://114la.com,ylmf.com###imgArr
 http://image.baidu.com###imgCmsAdPart
+http://e10000.cn###imgFloat
 http://image.baidu.com###imgid > .fcimgpage
 http://54new.com###imgshow
 http://ydss.cn###indexBlad
@@ -25787,7 +25796,7 @@ http://17ok.com##.t-bann
 http://17yy.com##.t2_3
 http://17yy.com##.t2r_3
 http://suopao.org##.t5[style^="margin-top:8px;"]
-http://1024qi.com,1024ya.com##.t[style="margin-top:8px"]
+http://1024di.com,1024ya.com##.t[style="margin-top:8px"]
 http://bbs.fobshanghai.com##.t_infoline
 http://douyu.com##.tab-content.promote
 http://chinatimes.com##.tab_4_box
@@ -26580,6 +26589,7 @@ http://sun0769.com##div[class^="pagecenter sungg"]
 http://wasu.cn##div[class^="play_ads"]
 http://ifeng.com##div[class^="pplive"]
 http://ifeng.com##div[class^="ppx_wrap-"]
+http://1024di.com##div[class^="ps_"]
 http://ifeng.com##div[class^="rightContent-"] a[href^="//health.ifeng."]
 http://sogou.com##div[class^="rt-gameright"]
 http://7654.com##div[class^="sidebarimg"]
