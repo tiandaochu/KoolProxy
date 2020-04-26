@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AEsoHX+LKXszp3N4XuT9kQ
-! Version: 202004242353
+! Checksum: ieief9Ml0Gm3XYZNmYCQxQ
+! Version: 202004252353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -2305,6 +2305,7 @@
 ||https://fdc.com.cn^*adv
 ||https://fdc.my0511.com^$script
 ||https://feesoon.com/js/cnzz_
+||https://feifei6.com/5_
 ||https://feifei6.com/a2020.js
 ||https://feixiang211.com/tg/
 ||https://feizl.com/images/smdd/
@@ -2364,6 +2365,7 @@
 ||https://g.cnzz.cn/Static/js/*-
 ||https://g.jinti.com/f/a/a
 ||https://g.rexian.net.cn/js/
+||https://gaglxx.com/5_
 ||https://galacg.me/wp-content/uploads/*750x
 ||https://game.466.com^$third-party
 ||https://game333.net/aainset/
@@ -9957,6 +9959,7 @@
 ||http://fdc.com.cn^*adv
 ||http://fdc.my0511.com^$script
 ||http://feesoon.com/js/cnzz_
+||http://feifei6.com/5_
 ||http://feifei6.com/a2020.js
 ||http://feixiang211.com/tg/
 ||http://feizl.com/images/smdd/
@@ -10030,6 +10033,7 @@
 ||http://g.ousns.net^
 ||http://g.rexian.net.cn/js/
 ||http://g2.ousns.net^
+||http://gaglxx.com/5_
 ||http://galacg.me/wp-content/uploads/*750x
 ||http://game.466.com^$third-party
 ||http://game333.net/aainset/
@@ -12951,6 +12955,7 @@
 ||http://bd1.szhk.com^
 ||http://bd1.xiby.cn^
 ||http://bd1.yidu.cc^
+||http://bd100.010lm.com^
 ||http://bd11.nipic.com^
 ||http://bd3.chuiyue.com^
 ||http://bdad.gaotie.net^
@@ -14318,6 +14323,7 @@
 ||http://haomaojin.com^
 ||http://haoxianyangrouye.com^
 ||http://haoxinq.top^
+||http://hasiad.cn^
 ||http://hatbiz.cn^
 ||http://hawbfa.com^
 ||http://hbaog.com^
@@ -14404,6 +14410,7 @@
 ||http://htjsk.com^
 ||http://huayange.com^
 ||http://huayi65.com^
+||http://hueekqx.cn^
 ||http://huician.cn^
 ||http://huigoushop.com^
 ||http://huixingcheng.cn^
@@ -17576,7 +17583,6 @@ https://xingkbjm.com###wowslider-container1
 https://17jita.com###wp > .wp > .pbm
 https://528500.com###wp > div[align="center"]
 https://yixingjia.com###wp > table[width="960"]
-https://ghpym.com###wpcom-html-ad-2
 https://wpjam.com###wpjam_blog_300x250_1
 https://ganpapa.com###wrapper + div
 https://btbtt.me###wrapper2 > .width
@@ -17652,6 +17658,7 @@ https://le.com,letv.com##.Banner
 https://china.com.cn##.Banner_left
 https://china.com.cn##.Banner_right
 https://ucbug.com##.BzClick
+https://ltn.com.tw##.C3.boxTitle
 https://18avhub.com,18avtube.com,mm-cg.com##.CN_qmvtoy
 https://3464.com##.CommonBody > .CommonListArea:nth-child(3)
 https://3464.com##.CommonBody > .CommonListArea:nth-child(3) + .CommonListArea
@@ -18896,7 +18903,7 @@ https://doupapa.com,dpp2019.com##.hidden-xs[class*="_"]
 https://mahua.com##.hidden_ab
 https://zol.com.cn##.high
 https://9553.com,99danji.com##.high-down
-https://9553.com##.high-down-icon1
+https://9553.com##.high-down + .high-down-icon1
 https://orsoon.com##.high-downs
 https://douyu.com##.his-sign-cont
 https://zp365.com##.hitADclass
@@ -20276,6 +20283,7 @@ https://onlinedown.net##a.qrcode_show
 https://maiche.com##a.some-img
 https://chexun.com##a[attr-outside-ad]
 https://wenku.baidu.com##a[class*="tiger-"][class*="-dialog"]
+https://ddooo.com##a[class][onclick*="godownload"]
 https://hao123.com##a[class^="gameyixing-link-"]
 https://csai.cn##a[class^="gg"]
 https://ditu.so.com##a[class^="index-bcItem-"]
@@ -20779,6 +20787,7 @@ https://4c.cn##div[id^="top_ad"]
 https://my0511.com##div[id^="topad"]
 https://u17.com##div[id^="u17-advert"]
 https://lnd.com.cn##div[id^="wflash"]
+https://ghpym.com##div[id^="wpcom-html-ad-"]
 https://eyuyao.com##div[id^="x_ad_"]
 https://ddrk.me##div[id^="zmda"]
 https://oschina.net##div[name="detail_show_footer"]
@@ -21449,6 +21458,8 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://ltn.com.tw##.evt.e22
+https://epubee.com##.vipNoteBar
 https://58cam.com###append_parent
 https://58cam.com###huyou_nologin
 https://ximalaya.com##.dl-pc
@@ -23526,7 +23537,6 @@ http://xingkbjm.com###wowslider-container1
 http://17jita.com###wp > .wp > .pbm
 http://528500.com###wp > div[align="center"]
 http://yixingjia.com###wp > table[width="960"]
-http://ghpym.com###wpcom-html-ad-2
 http://wpjam.com###wpjam_blog_300x250_1
 http://ganpapa.com###wrapper + div
 http://btbtt.me###wrapper2 > .width
@@ -23602,6 +23612,7 @@ http://le.com,letv.com##.Banner
 http://china.com.cn##.Banner_left
 http://china.com.cn##.Banner_right
 http://ucbug.com##.BzClick
+http://ltn.com.tw##.C3.boxTitle
 http://18avhub.com,18avtube.com,mm-cg.com##.CN_qmvtoy
 http://3464.com##.CommonBody > .CommonListArea:nth-child(3)
 http://3464.com##.CommonBody > .CommonListArea:nth-child(3) + .CommonListArea
@@ -24846,7 +24857,7 @@ http://doupapa.com,dpp2019.com##.hidden-xs[class*="_"]
 http://mahua.com##.hidden_ab
 http://zol.com.cn##.high
 http://9553.com,99danji.com##.high-down
-http://9553.com##.high-down-icon1
+http://9553.com##.high-down + .high-down-icon1
 http://orsoon.com##.high-downs
 http://douyu.com##.his-sign-cont
 http://zp365.com##.hitADclass
@@ -26226,6 +26237,7 @@ http://onlinedown.net##a.qrcode_show
 http://maiche.com##a.some-img
 http://chexun.com##a[attr-outside-ad]
 http://wenku.baidu.com##a[class*="tiger-"][class*="-dialog"]
+http://ddooo.com##a[class][onclick*="godownload"]
 http://hao123.com##a[class^="gameyixing-link-"]
 http://csai.cn##a[class^="gg"]
 http://ditu.so.com##a[class^="index-bcItem-"]
@@ -26729,6 +26741,7 @@ http://4c.cn##div[id^="top_ad"]
 http://my0511.com##div[id^="topad"]
 http://u17.com##div[id^="u17-advert"]
 http://lnd.com.cn##div[id^="wflash"]
+http://ghpym.com##div[id^="wpcom-html-ad-"]
 http://eyuyao.com##div[id^="x_ad_"]
 http://ddrk.me##div[id^="zmda"]
 http://oschina.net##div[name="detail_show_footer"]
@@ -27399,6 +27412,8 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://ltn.com.tw##.evt.e22
+http://epubee.com##.vipNoteBar
 http://58cam.com###append_parent
 http://58cam.com###huyou_nologin
 http://ximalaya.com##.dl-pc
