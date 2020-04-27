@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ieief9Ml0Gm3XYZNmYCQxQ
-! Version: 202004252353
+! Checksum: Tdo/Iw+bmeF+o+cnbbZN2w
+! Version: 202004262353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -90,6 +90,7 @@
 ||https://6789.net^$third-party
 ||https://67lm.com^$third-party
 ||https://685wo.com^$script,third-party
+||https://6avz.com^$script,third-party
 ||https://6dad.com^$third-party
 ||https://6travel.com^$third-party
 ||https://70e.com^$third-party
@@ -1119,6 +1120,7 @@
 ||https://576tv.com/Scripts/home.js
 ||https://57fx.com/img/20170508.jpg
 ||https://57see.com/js/
+||https://57sehua.com/template/assets1/js/vue.js
 ||https://58.218.200.135:8081/js/
 ||https://58.com/demand/content?
 ||https://58.com/ds/tgbrand/*.js
@@ -1442,9 +1444,11 @@
 ||https://alicdn.com/img/ibank/*_1082732848.
 ||https://alicdn.com/img/ibank/*_1085845541.
 ||https://alicdn.com/img/ibank/*_1095372465.
+||https://alicdn.com/img/ibank/*_1230538058.
 ||https://alicdn.com/img/ibank/*_1409595492.
 ||https://alicdn.com/img/ibank/*_1545027917.
 ||https://alicdn.com/img/ibank/*_1591187313.
+||https://alicdn.com/img/ibank/*_1623489831.
 ||https://alicdn.com/img/ibank/*_1746120392.
 ||https://alicdn.com/img/ibank/*_1794478205.
 ||https://alicdn.com/img/ibank/*_1995781528.
@@ -1914,7 +1918,7 @@
 ||https://chiphell.com/activity/
 ||https://chnmoney.com/dfile/
 ||https://chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
-||https://chromeba.net/wp-content/uploads/LOIFYeTnkQrC/pounqcfHWNpr.js
+||https://chromeba.net/wp-content/uploads/
 ||https://chuantu.biz/t2/22/1450961822x1822613148.gif
 ||https://chuantu.xyz/t6/714/1580707721x3703728804.jpg
 ||https://chubun.com/images/banners/
@@ -4622,8 +4626,8 @@
 ||https://yxad.com/yxad/
 ||https://yxbao.com/js/bt_
 ||https://yxdd.com^$subdocument
-||https://yxdm.tv/js/*_
-||https://yxdm.tv/js/gad.js
+||https://yxdm.me/js/*_
+||https://yxdm.me/js/gad.js
 ||https://yxdown.com/cj/
 ||https://yxdown.com/pc/news/js/news
 ||https://yxdown.com/zt/zt/js/zt.js
@@ -5677,7 +5681,7 @@
 ||http://685wo.com^$script,third-party
 ||http://68665565.com^
 ||http://69duk.com^
-||http://6avz.com^
+||http://6avz.com^$script,third-party
 ||http://6cc8cc.xyz^
 ||http://6dad.com^$third-party
 ||http://6dvip.com^
@@ -7870,6 +7874,7 @@
 ||http://yenlm.com^
 ||http://yese115.com^
 ||http://yese161.com^
+||http://yese236.com^
 ||http://yeyajipp.com^
 ||http://yezijizhang.com^
 ||http://yezilm.com^$third-party
@@ -7931,6 +7936,7 @@
 ||http://yqcy988.com^
 ||http://yqw88.com^
 ||http://yrzyks.cn^
+||http://ys2000.cdn.bcebos.com^
 ||http://ysdhe.com^
 ||http://ysgsq.cn^
 ||http://ysjwj.com^
@@ -8581,6 +8587,7 @@
 ||http://576tv.com/Scripts/home.js
 ||http://57fx.com/img/20170508.jpg
 ||http://57see.com/js/
+||http://57sehua.com/template/assets1/js/vue.js
 ||http://58.218.200.135:8081/js/
 ||http://58.com/demand/content?
 ||http://58.com/ds/tgbrand/*.js
@@ -8976,9 +8983,11 @@
 ||http://alicdn.com/img/ibank/*_1082732848.
 ||http://alicdn.com/img/ibank/*_1085845541.
 ||http://alicdn.com/img/ibank/*_1095372465.
+||http://alicdn.com/img/ibank/*_1230538058.
 ||http://alicdn.com/img/ibank/*_1409595492.
 ||http://alicdn.com/img/ibank/*_1545027917.
 ||http://alicdn.com/img/ibank/*_1591187313.
+||http://alicdn.com/img/ibank/*_1623489831.
 ||http://alicdn.com/img/ibank/*_1746120392.$domain=~rmdown.com
 ||http://alicdn.com/img/ibank/*_1794478205.
 ||http://alicdn.com/img/ibank/*_1995781528.
@@ -9514,7 +9523,7 @@
 ||http://chiphell.com/activity/
 ||http://chnmoney.com/dfile/
 ||http://chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
-||http://chromeba.net/wp-content/uploads/LOIFYeTnkQrC/pounqcfHWNpr.js
+||http://chromeba.net/wp-content/uploads/
 ||http://chuantu.biz/t2/22/1450961822x1822613148.gif
 ||http://chuantu.biz^$domain=7mav2.com|thztv.cc
 ||http://chuantu.xyz/t6/714/1580707721x3703728804.jpg
@@ -12574,8 +12583,8 @@
 ||http://yxad.com/yxad/
 ||http://yxbao.com/js/bt_
 ||http://yxdd.com^$subdocument
-||http://yxdm.tv/js/*_
-||http://yxdm.tv/js/gad.js
+||http://yxdm.me/js/*_
+||http://yxdm.me/js/gad.js
 ||http://yxdown.com/cj/
 ||http://yxdown.com/pc/news/js/news
 ||http://yxdown.com/zt/zt/js/zt.js
@@ -17998,10 +18007,10 @@ https://xmfish.com##.adv-760
 https://xmfish.com##.adv-960
 https://xinhuanet.com##.adv-column2
 https://wdzj.com##.adv-img
-https://yxdm.tv##.adv0
+https://yxdm.me##.adv0
 https://shouji56.com##.adv01 + a
-https://kdhome.net,yxdm.tv##.adv2
-https://kdhome.net,xinhuanet.com,yxdm.tv##.adv3
+https://kdhome.net,yxdm.me##.adv2
+https://kdhome.net,xinhuanet.com,yxdm.me##.adv3
 https://myhack58.com##.adv32
 https://it165.net##.adv728a
 https://it165.net##.adv728b
@@ -21451,6 +21460,7 @@ https://youdao.com#@#.share-text
 https://baidusu.com#@#.share-wrapper
 https://wantgoo.com#@#.shareBtns
 https://zhihuishu.com#@#.sharing
+https://icourse163.org#@#.sns-link
 https://laosiji.com#@#.sns-wrapper
 https://cowtransfer.com#@#.socialButton
 https://storm.mg#@#.social_btn
@@ -23952,10 +23962,10 @@ http://xmfish.com##.adv-760
 http://xmfish.com##.adv-960
 http://xinhuanet.com##.adv-column2
 http://wdzj.com##.adv-img
-http://yxdm.tv##.adv0
+http://yxdm.me##.adv0
 http://shouji56.com##.adv01 + a
-http://kdhome.net,yxdm.tv##.adv2
-http://kdhome.net,xinhuanet.com,yxdm.tv##.adv3
+http://kdhome.net,yxdm.me##.adv2
+http://kdhome.net,xinhuanet.com,yxdm.me##.adv3
 http://myhack58.com##.adv32
 http://it165.net##.adv728a
 http://it165.net##.adv728b
@@ -27405,6 +27415,7 @@ http://youdao.com#@#.share-text
 http://baidusu.com#@#.share-wrapper
 http://wantgoo.com#@#.shareBtns
 http://zhihuishu.com#@#.sharing
+http://icourse163.org#@#.sns-link
 http://laosiji.com#@#.sns-wrapper
 http://cowtransfer.com#@#.socialButton
 http://storm.mg#@#.social_btn

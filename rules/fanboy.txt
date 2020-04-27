@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0uHH0G0CIhtTj0XewcoPdQ
-! Version: 202004252351
+! Checksum: Ek3bWBoPo8KXcjMpetqBOA
+! Version: 202004262351
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Apr 2020 23:51 UTC
+! Last modified: 26 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4628,6 +4628,8 @@ https://elpais.com##.disposicion_vertical
 https://deadline.com##.dl-signup-article
 https://deadline.com##.dl-signup-simple
 https://dealnews.com##.dn-lightbox
+https://stuff.co.nz##.donation-in-story-container
+https://stuff.co.nz##.donation-in-story2-container
 https://opensecrets.org##.dontprintme
 https://itwire.com##.driverbox
 https://howaboutwe.com##.drop-area
@@ -5808,6 +5810,7 @@ https://wetpaint.com##.wp-article-recommender
 https://washingtonpost.com##.wp-float-bar
 https://fitbit.com##.wrapper-header-fma
 https://gearburn.com##.wwsgd
+https://stuff.co.nz##.x7.x6
 https://xda-developers.com##.xda_swappa_widget
 https://planetivy.com,techsplurge.com##.xoxo
 https://cnet.com##.yad-magnet
@@ -6815,7 +6818,7 @@ https://blavity.com##.subscriber_widget
 https://telecomtalk.info##.subscribing
 https://techshout.com##.subscribition
 https://advocate.com,asiatatler.com,healthboards.com,makeuseof.com,newsweek.com,nymag.com,refinery29.com##.subscription
-https://vanityfair.com##.subscription-form
+https://cointelegraph.com,vanityfair.com##.subscription-form
 https://broadsheet.com.au##.subscription-modal
 https://usareally.com##.subscription-wrap
 https://goodhousekeeping.co.za##.subscription_block
@@ -9035,6 +9038,7 @@ https://cvent.com##.block-notifications-block
 https://abplive.in##.blur-bg
 https://studocu.com##.bottom-bar-enter-active
 https://robertsspaceindustries.com##.bottom-notif-bar
+https://cointelegraph.com##.bottom-zone
 https://hostkey.com##.bottomMessages
 https://xhamster.com##.bottom_message
 https://cartdesigns.net##.boxContent
@@ -14795,6 +14799,8 @@ http://elpais.com##.disposicion_vertical
 http://deadline.com##.dl-signup-article
 http://deadline.com##.dl-signup-simple
 http://dealnews.com##.dn-lightbox
+http://stuff.co.nz##.donation-in-story-container
+http://stuff.co.nz##.donation-in-story2-container
 http://opensecrets.org##.dontprintme
 http://itwire.com##.driverbox
 http://howaboutwe.com##.drop-area
@@ -15975,6 +15981,7 @@ http://wetpaint.com##.wp-article-recommender
 http://washingtonpost.com##.wp-float-bar
 http://fitbit.com##.wrapper-header-fma
 http://gearburn.com##.wwsgd
+http://stuff.co.nz##.x7.x6
 http://xda-developers.com##.xda_swappa_widget
 http://planetivy.com,techsplurge.com##.xoxo
 http://cnet.com##.yad-magnet
@@ -16982,7 +16989,7 @@ http://blavity.com##.subscriber_widget
 http://telecomtalk.info##.subscribing
 http://techshout.com##.subscribition
 http://advocate.com,asiatatler.com,healthboards.com,makeuseof.com,newsweek.com,nymag.com,refinery29.com##.subscription
-http://vanityfair.com##.subscription-form
+http://cointelegraph.com,vanityfair.com##.subscription-form
 http://broadsheet.com.au##.subscription-modal
 http://usareally.com##.subscription-wrap
 http://goodhousekeeping.co.za##.subscription_block
@@ -19203,6 +19210,7 @@ http://cvent.com##.block-notifications-block
 http://abplive.in##.blur-bg
 http://studocu.com##.bottom-bar-enter-active
 http://robertsspaceindustries.com##.bottom-notif-bar
+http://cointelegraph.com##.bottom-zone
 http://hostkey.com##.bottomMessages
 http://xhamster.com##.bottom_message
 http://cartdesigns.net##.boxContent
