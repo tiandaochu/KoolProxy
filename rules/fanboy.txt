@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ek3bWBoPo8KXcjMpetqBOA
-! Version: 202004262351
+! Checksum: 6VvROMXtxdVsz6iaH0IM7w
+! Version: 202004272351
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Apr 2020 23:51 UTC
+! Last modified: 27 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2809,6 +2809,7 @@ https://arnnet.com.au,cio.co.nz,cio.com.au###art-next_signifier
 https://newscientist.com###artTools
 https://hcplive.com,policymic.com###article-finished
 https://frontdoor.com###article-icons
+https://independent.co.uk###article-im-prompt
 https://minyanville.com###article-left-right
 https://arstechnica.com###article-links
 https://utsandiego.com###article-nav
@@ -4590,6 +4591,7 @@ https://timesofisrael.com##.crm-post-module
 https://timesofisrael.com##.crm-promotion
 https://techcrunch.com##.crunchdaily
 https://csmonitor.com##.csmAd
+https://commondreams.org##.cta-processed
 https://fastcompany.com##.curr_issue_wrap
 https://makemytrip.com##.cust_save_sec
 https://makemytrip.com##.cust_save_sectop
@@ -4848,6 +4850,7 @@ https://theonion.com##.h-reading
 https://tomshardware.com##.hService
 https://hpcwire.com##.halfColumnRight
 https://ecosalon.com,treehugger.com##.handle
+https://reddit.com##.happening-now-wrap
 https://healthcentral.com##.hb_ad
 https://healthgrades.com##.hc-promo
 https://pocketnow.com##.head_function
@@ -7117,6 +7120,7 @@ https://nme.com###keystone-newsletter-4
 https://cinemablend.com###newsletter-background
 https://menshealth.com,runnersworld.com,womenshealthmag.com###newsletter-block
 https://cinemablend.com###newsletter-button
+https://independent.co.uk###newsletter-component
 https://infowars.com###newsletter-side-widget
 https://calgaryherald.com,edmontonjournal.com,montrealgazette.com,ottawacitizen.com,thestarphoenix.com,windsorstar.com###pn-newsletter-signup
 https://cio.co.nz,cio.com.au,cmo.com.au,computerworld.co.nz,computerworld.com.au,cso.com.au,pcworld.co.nz###quick-signup-article-widget
@@ -8558,7 +8562,7 @@ https://pcmag.com##.reviews-share
 https://itunesplusaacm4a.org,liliputing.com,twincities.com,world4.eu##.sd-sharing
 https://fullmatchesandshows.com,onhax.me,xxxstreams.eu##.sd-social
 https://history.com##.section-social-list
-https://huffingtonpost.co.uk,huffingtonpost.com,tomshardware.co.uk,tomshardware.com##.share-bar
+https://huffingtonpost.co.uk,huffingtonpost.com,independent.co.uk,tomshardware.co.uk,tomshardware.com##.share-bar
 https://huffingtonpost.com##.share-bar-highlight
 https://thefreedictionary.com##.share-block
 https://financialpost.com,investopedia.com,nationalpost.com,trustedreviews.com##.share-button
@@ -8703,6 +8707,7 @@ https://why-radeon.com,why-ryzen.com###accept
 https://javlibrary.com###adultwarningmask
 https://aecom.com###aecomCookieNotificationBar
 https://solveigmm.com###agreement
+https://tiermaker.com###agreementMessage
 https://akeebabackup.com###akeeba-dccc-banner-container
 https://bd.com###alert
 https://rome2rio.com###alert-banner
@@ -12979,6 +12984,7 @@ http://arnnet.com.au,cio.co.nz,cio.com.au###art-next_signifier
 http://newscientist.com###artTools
 http://hcplive.com,policymic.com###article-finished
 http://frontdoor.com###article-icons
+http://independent.co.uk###article-im-prompt
 http://minyanville.com###article-left-right
 http://arstechnica.com###article-links
 http://utsandiego.com###article-nav
@@ -14761,6 +14767,7 @@ http://timesofisrael.com##.crm-post-module
 http://timesofisrael.com##.crm-promotion
 http://techcrunch.com##.crunchdaily
 http://csmonitor.com##.csmAd
+http://commondreams.org##.cta-processed
 http://fastcompany.com##.curr_issue_wrap
 http://makemytrip.com##.cust_save_sec
 http://makemytrip.com##.cust_save_sectop
@@ -15019,6 +15026,7 @@ http://theonion.com##.h-reading
 http://tomshardware.com##.hService
 http://hpcwire.com##.halfColumnRight
 http://ecosalon.com,treehugger.com##.handle
+http://reddit.com##.happening-now-wrap
 http://healthcentral.com##.hb_ad
 http://healthgrades.com##.hc-promo
 http://pocketnow.com##.head_function
@@ -17288,6 +17296,7 @@ http://nme.com###keystone-newsletter-4
 http://cinemablend.com###newsletter-background
 http://menshealth.com,runnersworld.com,womenshealthmag.com###newsletter-block
 http://cinemablend.com###newsletter-button
+http://independent.co.uk###newsletter-component
 http://infowars.com###newsletter-side-widget
 http://calgaryherald.com,edmontonjournal.com,montrealgazette.com,ottawacitizen.com,thestarphoenix.com,windsorstar.com###pn-newsletter-signup
 http://cio.co.nz,cio.com.au,cmo.com.au,computerworld.co.nz,computerworld.com.au,cso.com.au,pcworld.co.nz###quick-signup-article-widget
@@ -18730,7 +18739,7 @@ http://pcmag.com##.reviews-share
 http://itunesplusaacm4a.org,liliputing.com,twincities.com,world4.eu##.sd-sharing
 http://fullmatchesandshows.com,onhax.me,xxxstreams.eu##.sd-social
 http://history.com##.section-social-list
-http://huffingtonpost.co.uk,huffingtonpost.com,tomshardware.co.uk,tomshardware.com##.share-bar
+http://huffingtonpost.co.uk,huffingtonpost.com,independent.co.uk,tomshardware.co.uk,tomshardware.com##.share-bar
 http://huffingtonpost.com##.share-bar-highlight
 http://thefreedictionary.com##.share-block
 http://financialpost.com,investopedia.com,nationalpost.com,trustedreviews.com##.share-button
@@ -18875,6 +18884,7 @@ http://why-radeon.com,why-ryzen.com###accept
 http://javlibrary.com###adultwarningmask
 http://aecom.com###aecomCookieNotificationBar
 http://solveigmm.com###agreement
+http://tiermaker.com###agreementMessage
 http://akeebabackup.com###akeeba-dccc-banner-container
 http://bd.com###alert
 http://rome2rio.com###alert-banner

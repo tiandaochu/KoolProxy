@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20200425135611
-!TOTAL_LINES=34763
+!VER=20200427125321
+!TOTAL_LINES=34762
 address=/00-gov.cn/
 address=/kwcdn.000dn.com/
 address=/kwcscdn.000dn.com/
@@ -13366,7 +13366,6 @@ address=/analytics.gvim.mobi/
 address=/gvisit.com/
 address=/gvnqfiwzronbq.com/
 address=/gvoraoonpi.com/
-address=/gvt1.com/
 address=/gvtawzpydsujep.com/
 address=/gvwyxnyq.com/
 address=/gvzphwswtv.com/
