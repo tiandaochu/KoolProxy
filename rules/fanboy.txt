@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6VvROMXtxdVsz6iaH0IM7w
-! Version: 202004272351
+! Checksum: XI+vfvud2LA0RYlmnn7uTA
+! Version: 202004282351
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Apr 2020 23:51 UTC
+! Last modified: 28 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6905,6 +6905,7 @@ https://producthunt.com##div[class*="subscribeToNewsletter"]
 https://legacy.com##div[class^="ArticleBody__BodyDescription_"] > p[style="text-align: center;"]
 https://pri.org##div[class^="CtaMessage_"]
 https://nytimes.com##div[class^="Dock-dock-"]
+https://nowthisnews.com##div[class^="EmailAcquisitonstyles"]
 https://nytimes.com##div[class^="InlineMessage-inline-"]
 https://inc.com##div[class^="NewsLetterBar"]
 https://axios.com##div[class^="StreamCap__promoContainer"]
@@ -9309,6 +9310,7 @@ https://gigaom.com,gq.com.au,mta.tv,vocativ.com,zumba.com##.privacy-policy
 https://thenewdaily.com.au##.privacy-policy-slideup
 https://zmags.com##.privacyPrompt
 https://parliament.scot##.projects-takeover
+https://espn.com##.promo-banner-container
 https://loggly.com##.promotion
 https://newscientist.com##.prompt
 https://mega.nz##.public-service-anouncement
@@ -17081,6 +17083,7 @@ http://producthunt.com##div[class*="subscribeToNewsletter"]
 http://legacy.com##div[class^="ArticleBody__BodyDescription_"] > p[style="text-align: center;"]
 http://pri.org##div[class^="CtaMessage_"]
 http://nytimes.com##div[class^="Dock-dock-"]
+http://nowthisnews.com##div[class^="EmailAcquisitonstyles"]
 http://nytimes.com##div[class^="InlineMessage-inline-"]
 http://inc.com##div[class^="NewsLetterBar"]
 http://axios.com##div[class^="StreamCap__promoContainer"]
@@ -19486,6 +19489,7 @@ http://gigaom.com,gq.com.au,mta.tv,vocativ.com,zumba.com##.privacy-policy
 http://thenewdaily.com.au##.privacy-policy-slideup
 http://zmags.com##.privacyPrompt
 http://parliament.scot##.projects-takeover
+http://espn.com##.promo-banner-container
 http://loggly.com##.promotion
 http://newscientist.com##.prompt
 http://mega.nz##.public-service-anouncement
