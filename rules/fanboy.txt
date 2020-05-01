@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HBwcxM8z/HBJo0hj3uTuXg
-! Version: 202004292351
+! Checksum: OZqdAnmcEt2rdQ0MKZ7b+A
+! Version: 202004302351
 ! Title: Fanboy's Annoyance List
-! Last modified: 29 Apr 2020 23:51 UTC
+! Last modified: 30 Apr 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1084,6 +1084,7 @@
 ||https://duotonesports.com^*/public/ccm
 ||https://emerse.com/consent.js
 ||https://freedoflondon.com/Styles/dialog-popup/jquery-ui.js
+||https://freetls.fastly.net/main/sd-cmp-
 ||https://government-and-constitution.org/js/consent.js
 ||https://harpercollins.co.uk/js/cookie.js
 ||https://hunstoncanoeclub.co.uk/media/system/js/modal.js
@@ -2432,6 +2433,7 @@
 ||http://duotonesports.com^*/public/ccm
 ||http://emerse.com/consent.js
 ||http://freedoflondon.com/Styles/dialog-popup/jquery-ui.js
+||http://freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
 ||http://gdpr.internetbrands.com^
 ||http://gdpr.prisa.com^
 ||http://government-and-constitution.org/js/consent.js
@@ -6097,7 +6099,7 @@ https://newscientist.com###marketingtertiary
 https://gearbest.com###mask
 https://rapidtvnews.com###masthead
 https://bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nation.co.ke,nesthq.com,psychcentral.com,psypost.org,reductress.com,reliefweb.int,runthetrap.com,thewirecutter.com###mc-embedded-subscribe-form
-https://99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,theloadout.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
+https://99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,theloadout.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,trancentral.tv,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
 https://activistmommy.com###mc_embed_signup-footer
 https://moneyweb.co.za###mc_embed_signup1
 https://priceonomics.com###mc_embed_signup_nojs
@@ -7076,6 +7078,7 @@ https://joburg.co.za##.scrollUp
 https://khronos.org,kyivpost.com##.scroll_to
 https://chillinpanda.com##.scroll_top_wrap
 https://imperialtoyota.co.za##.scroller
+https://artstation.com##.scrollto
 https://dailymotion.com##.sd_footer--back
 https://ubs.com##.section__topwrapper
 https://ebookfriendly.com##.side-scroll
@@ -7645,9 +7648,12 @@ https://commentarymagazine.com##.bsb-default
 https://commentarymagazine.com##.bsb-wrap
 https://machprinciple.com##.bsub
 https://newsroom.co.nz##.btn-email
+https://artstation.com##.btn-f
 https://equinix.com,guernicamag.com,spokesman.com##.btn-group
+https://artstation.com##.btn-i
 https://urlvoid.com##.btn-info
 https://psu.edu##.btn-link
+https://artstation.com##.btn-t
 https://askmen.com##.btnPrint
 https://therichest.com##.btnTW
 https://viamichelin.at,viamichelin.be,viamichelin.ch,viamichelin.co.uk,viamichelin.com,viamichelin.de,viamichelin.es,viamichelin.fr,viamichelin.ie,viamichelin.it,viamichelin.pl,viamichelin.pt##.bubble-tools-share
@@ -12444,7 +12450,7 @@ https://belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 https://bitly.com,framestr.com,nytimes.com#@#.share-btn
 https://kcrw.com,vimeo.com#@#.share-button
 https://bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
-https://aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,water-technology.net,zagranie.com#@#.share-container
+https://aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,water-technology.net,zagranie.com#@#.share-container
 https://podbean.com#@#.share-content
 https://mediafire.com#@#.share-facebook
 https://bild.de#@#.share-fb
@@ -16275,7 +16281,7 @@ http://newscientist.com###marketingtertiary
 http://gearbest.com###mask
 http://rapidtvnews.com###masthead
 http://bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nation.co.ke,nesthq.com,psychcentral.com,psypost.org,reductress.com,reliefweb.int,runthetrap.com,thewirecutter.com###mc-embedded-subscribe-form
-http://99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,theloadout.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
+http://99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,theloadout.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,trancentral.tv,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
 http://activistmommy.com###mc_embed_signup-footer
 http://moneyweb.co.za###mc_embed_signup1
 http://priceonomics.com###mc_embed_signup_nojs
@@ -17254,6 +17260,7 @@ http://joburg.co.za##.scrollUp
 http://khronos.org,kyivpost.com##.scroll_to
 http://chillinpanda.com##.scroll_top_wrap
 http://imperialtoyota.co.za##.scroller
+http://artstation.com##.scrollto
 http://dailymotion.com##.sd_footer--back
 http://ubs.com##.section__topwrapper
 http://ebookfriendly.com##.side-scroll
@@ -17823,9 +17830,12 @@ http://commentarymagazine.com##.bsb-default
 http://commentarymagazine.com##.bsb-wrap
 http://machprinciple.com##.bsub
 http://newsroom.co.nz##.btn-email
+http://artstation.com##.btn-f
 http://equinix.com,guernicamag.com,spokesman.com##.btn-group
+http://artstation.com##.btn-i
 http://urlvoid.com##.btn-info
 http://psu.edu##.btn-link
+http://artstation.com##.btn-t
 http://askmen.com##.btnPrint
 http://therichest.com##.btnTW
 http://viamichelin.at,viamichelin.be,viamichelin.ch,viamichelin.co.uk,viamichelin.com,viamichelin.de,viamichelin.es,viamichelin.fr,viamichelin.ie,viamichelin.it,viamichelin.pl,viamichelin.pt##.bubble-tools-share
@@ -22624,7 +22634,7 @@ http://belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 http://bitly.com,framestr.com,nytimes.com#@#.share-btn
 http://kcrw.com,vimeo.com#@#.share-button
 http://bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
-http://aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,water-technology.net,zagranie.com#@#.share-container
+http://aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,water-technology.net,zagranie.com#@#.share-container
 http://podbean.com#@#.share-content
 http://mediafire.com#@#.share-facebook
 http://bild.de#@#.share-fb
