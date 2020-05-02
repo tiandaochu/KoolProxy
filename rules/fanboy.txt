@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OZqdAnmcEt2rdQ0MKZ7b+A
-! Version: 202004302351
+! Checksum: yTCbQcuCHNhqcZhdNk2U5Q
+! Version: 202005012351
 ! Title: Fanboy's Annoyance List
-! Last modified: 30 Apr 2020 23:51 UTC
+! Last modified: 01 May 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6566,6 +6566,7 @@ https://pjmedia.com##.marketing-popup-overlay
 https://pjmedia.com##.marketing-popup-wrapper
 https://moneyweb.co.za##.markets-widget
 https://moneyweb.co.za##.markets-widget-content
+https://landline.media##.mc-embed
 https://tribalfootball.com##.mc_embed_signup
 https://chronicle.com##.media-width-half
 https://smashingmagazine.com##.membership-promo-box-teaser
@@ -7609,7 +7610,7 @@ https://jpost.com##.article-top-box-data-print-icon
 https://nationalreview.com##.article-utility-nav
 https://militarywatchmagazine.com##.articleButtons
 https://parent24.com##.articleExtras2
-https://sputniknews.com##.article__google-news
+https://rt.com,sputniknews.com##.article__google-news
 https://salemnews.net##.article_details_icons
 https://goodnet.org##.article_like
 https://nybooks.com##.article_toolbar
@@ -9833,6 +9834,7 @@ https://savi-france.fr###notifybar
 https://aol.fr###ooCont
 https://smile.fr###popup
 https://lequipe.fr###rebonds
+https://fonepaw.fr###sendemail
 https://gentside.com###signup-holder
 https://boingtv.fr,coreight.com,editions-hatier.fr,igen.fr,macg.co,novaplanet.com###sliding-popup
 https://cnews.fr###smartbanner
@@ -9874,6 +9876,7 @@ https://4clik.com##.kHolder
 https://lesechos.fr##.liennavigation
 https://minutebuzz.com##.likePopin
 https://lecho.be##.linkWithinBlock
+https://logitheque.com##.mailpoet_form
 https://ffr.fr##.modal
 https://fnacspectacles.com,largus.fr##.modal-backdrop
 https://futura-sciences.com##.module-propal-nl
@@ -12543,7 +12546,7 @@ https://accountkiller.com#@#.social-image
 https://paperblog.com,paperblog.fr#@#.social-inline
 https://swiatebookow.pl#@#.social-label
 https://asos.com,metservice.com#@#.social-link
-https://airbnb.cat,airbnb.com,airbnb.de,autokult.pl,deathfromabove1979.com,fotoblogia.pl,komorkomania.pl,newonce.radio,squarespace.com,time.com#@#.social-links
+https://airbnb.cat,airbnb.com,airbnb.de,autokult.pl,deathfromabove1979.com,fotoblogia.pl,komorkomania.pl,newonce.radio,redhat.com,squarespace.com,time.com#@#.social-links
 https://wykop.pl#@#.social-list
 https://coeffee.com,flipboard.com,getyounity.com,howdoyou.do#@#.social-login
 https://ethias.be,technorati.com#@#.social-media
@@ -16748,6 +16751,7 @@ http://pjmedia.com##.marketing-popup-overlay
 http://pjmedia.com##.marketing-popup-wrapper
 http://moneyweb.co.za##.markets-widget
 http://moneyweb.co.za##.markets-widget-content
+http://landline.media##.mc-embed
 http://tribalfootball.com##.mc_embed_signup
 http://chronicle.com##.media-width-half
 http://smashingmagazine.com##.membership-promo-box-teaser
@@ -17791,7 +17795,7 @@ http://jpost.com##.article-top-box-data-print-icon
 http://nationalreview.com##.article-utility-nav
 http://militarywatchmagazine.com##.articleButtons
 http://parent24.com##.articleExtras2
-http://sputniknews.com##.article__google-news
+http://rt.com,sputniknews.com##.article__google-news
 http://salemnews.net##.article_details_icons
 http://goodnet.org##.article_like
 http://nybooks.com##.article_toolbar
@@ -20016,6 +20020,7 @@ http://savi-france.fr###notifybar
 http://aol.fr###ooCont
 http://smile.fr###popup
 http://lequipe.fr###rebonds
+http://fonepaw.fr###sendemail
 http://gentside.com###signup-holder
 http://boingtv.fr,coreight.com,editions-hatier.fr,igen.fr,macg.co,novaplanet.com###sliding-popup
 http://cnews.fr###smartbanner
@@ -20057,6 +20062,7 @@ http://4clik.com##.kHolder
 http://lesechos.fr##.liennavigation
 http://minutebuzz.com##.likePopin
 http://lecho.be##.linkWithinBlock
+http://logitheque.com##.mailpoet_form
 http://ffr.fr##.modal
 http://fnacspectacles.com,largus.fr##.modal-backdrop
 http://futura-sciences.com##.module-propal-nl
@@ -22727,7 +22733,7 @@ http://accountkiller.com#@#.social-image
 http://paperblog.com,paperblog.fr#@#.social-inline
 http://swiatebookow.pl#@#.social-label
 http://asos.com,metservice.com#@#.social-link
-http://airbnb.cat,airbnb.com,airbnb.de,autokult.pl,deathfromabove1979.com,fotoblogia.pl,komorkomania.pl,newonce.radio,squarespace.com,time.com#@#.social-links
+http://airbnb.cat,airbnb.com,airbnb.de,autokult.pl,deathfromabove1979.com,fotoblogia.pl,komorkomania.pl,newonce.radio,redhat.com,squarespace.com,time.com#@#.social-links
 http://wykop.pl#@#.social-list
 http://coeffee.com,flipboard.com,getyounity.com,howdoyou.do#@#.social-login
 http://ethias.be,technorati.com#@#.social-media

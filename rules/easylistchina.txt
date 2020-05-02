@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: M3Pw5zH0x1f/wBt39NZ41g
-! Version: 202004302353
+! Checksum: 3VjTM9vDI3ySp1M7r0g7rQ
+! Version: 202005012353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -2087,7 +2087,6 @@
 ||https://dbw.cn/eap/js/hl/hlj_ad
 ||https://dd3200.com/js/favshare.js
 ||https://ddrk.me/ad
-||https://ddrk.me/wp-content/uploads/*.js
 ||https://ddshu.net/a_d_code/
 ||https://dealmoon.com/hotdeals/hotdeals_scroller.php
 ||https://dealmoon.com/upload/dealmoon_app.jpg
@@ -2123,6 +2122,7 @@
 ||https://discuss.com.hk/dfp_forum.php?au=Discuss_Web_
 ||https://discuss.com.hk/oath/
 ||https://discuss.com.hk^*_prod.html
+||https://diyibanzhu555.com/js/html
 ||https://diyifanwen.com/siteimages/jiqiren
 ||https://diyijjj.com/data/content
 ||https://dj155.com/gg/
@@ -4856,6 +4856,7 @@
 ||https://s1-a4.ifun.tv^$rewrite=abp-resource:blank-mp3
 ||https://dybee.tv/gg
 ||https://hh010.com/static/image/fff/
+||https://diyibanzhu6.xyz/js/html
 ||https://0577renliu.
 ||https://23txt.com^$third-party
 ||https://258zw.com^$third-party
@@ -9723,7 +9724,6 @@
 ||http://dbw.cn/eap/js/hl/hlj_ad
 ||http://dd3200.com/js/favshare.js
 ||http://ddrk.me/ad
-||http://ddrk.me/wp-content/uploads/*.js
 ||http://ddshu.net/a_d_code/
 ||http://de.as.pptv.com^
 ||http://dealmoon.com/hotdeals/hotdeals_scroller.php
@@ -9768,6 +9768,7 @@
 ||http://discuss.com.hk^*_prod.html
 ||http://divcss5.com*/ibeifeng/
 ||http://divcss5.com*/liping/
+||http://diyibanzhu555.com/js/html
 ||http://diyifanwen.com/siteimages/jiqiren
 ||http://diyijjj.com/data/content
 ||http://dj155.com/gg/
@@ -12893,6 +12894,7 @@
 ||http://a.shenchuang.com^
 ||http://a.thn21.com^
 ||http://a.tiyuxiu.com^
+||http://a.tuizhuti.com^
 ||http://a.tvsou.com^
 ||http://a.wanzhuang.com^
 ||http://a.wifi33.com^
@@ -12932,6 +12934,7 @@
 ||http://ac.art456.com^
 ||http://ac1.786ip.com^
 ||http://ac1.faxingchina.com^
+||http://ac1.pingpingw.com^
 ||http://ad123.ynet.com^
 ||http://adbd.liuxue86.com^
 ||http://adccoo.cn^
@@ -13564,7 +13567,9 @@
 ||http://runkao.net^
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
+||http://watakaw133.xyz^
 ||http://cryptaloot.pro^
+||http://diyibanzhu6.xyz/js/html
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -14270,6 +14275,7 @@
 ||http://gdhdfs.com^
 ||http://gdlbdzkj.com^
 ||http://gdlvbiaokeji.cn^
+||http://gdsoq.com^
 ||http://gdsqwy.org^
 ||http://gdunt.com^
 ||http://gedus.cn^
@@ -14416,6 +14422,7 @@
 ||http://hnhgw.cn^
 ||http://hnkuangshan.cn^
 ||http://hnwjlhg.cn^
+||http://hnxahz.com^
 ||http://hnzyfs.com^
 ||http://hogyp.com^
 ||http://hondajd.cn^
@@ -14985,6 +14992,7 @@
 ||http://qingzhencai.net^
 ||http://qinlinquan.cn^
 ||http://qiruidea.com^
+||http://qivsod.com^
 ||http://qjueu.com^
 ||http://qjxszp.cn^
 ||http://qkptx.com^
@@ -16767,7 +16775,7 @@ https://cbber.com,you85.com###diy2
 https://chiphell.com###diy2 + div
 https://gpshk.cc,oneplusbbs.com,wstx.com,xiaot.com###diy4
 https://cbber.com,qilanxiaozhu.net,xiaot.com###diy_chart
-https://1fzdao.com###diy_cmn1
+https://2fzdao.com###diy_cmn1
 https://chinafix.com###diy_col_1-3
 https://elecfans.com###diy_company
 https://5imx.com###diy_mxad02
@@ -16968,7 +16976,7 @@ https://aimazu.com###gotoTop
 https://js0573.com###gotopl
 https://js0573.com###gotopr
 https://18183.com###gsBtn
-https://cncrk.com,xdowns.com###gsxza
+https://05sun.com,cncrk.com,xdowns.com###gsxza
 https://cnr.cn###gtop00
 https://doubibackup.com###guangg_image
 https://jirou.com###guanggao
@@ -18853,6 +18861,7 @@ https://sci-hub.org.cn##.gs_r[data-cid=""]
 https://sci-hub.org.cn##.gs_red[style="color:#EB7F00"]
 https://ddooo.com##.gsa_down
 https://32r.com##.gsabtn
+https://32r.com##.gsbbtn
 https://32r.com,ddooo.com,xue51.com##.gsbtn
 https://yxdown.com##.gsdown
 https://33lc.com,cncrk.com##.gsdt
@@ -20953,6 +20962,7 @@ https://gucheng.com##img[data-mv-ad]
 https://eworldship.com##img[height="70"]
 https://moyu16.com##img[height="85px"]
 https://wishdown.com##img[href*=".41gw.com/"]
+https://ddrk.me##img[id]
 https://szhk.com##img[id^="adp"]
 https://jspoo.com##img[id^="float_img_"]
 https://nicemoe.com##img[src*=".sinaimg."][style="width:100%;margin-top:0px;"]
@@ -21004,6 +21014,7 @@ https://news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广�
 https://news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
 https://china.com##object[width="360"][height="300"]
 https://sina.com.cn##p + .article-video
+https://ddrk.me##p > a > img
 https://muchong.com##p[onclick="view_ok();"]
 https://aeink.com##p[style*=".alicdn.com/"]
 https://aeink.com##p[style*="82px;background:"]
@@ -21021,6 +21032,7 @@ https://tukergo.com##section[class^="ch"]
 https://vs.cm##section[id^="ad_"]
 https://r3sub.com##source + img
 https://32r.com##span + p + ul > dd
+https://32r.com##span + p + ul > dt
 https://32r.com##span + p + ul > li > a:not(.c_down)
 https://bbs.my0511.com##span.smalltxt
 https://163.com##span[class^="gg"]
@@ -21211,6 +21223,7 @@ https://10.10.5.12#@#.banner_ad
 https://ishangman.com#@#.bottom_ad
 https://douban.com#@#.download-ad
 https://typecho.wiki#@#.downloadad
+https://ohmanhua.com#@#.gg1000
 https://petrochina.com.cn#@#.ggbox
 https://bbt.tv,btbt.tv#@#.google-ad
 https://apk.tw#@#.google_ad
@@ -22712,7 +22725,7 @@ http://cbber.com,you85.com###diy2
 http://chiphell.com###diy2 + div
 http://gpshk.cc,oneplusbbs.com,wstx.com,xiaot.com###diy4
 http://cbber.com,qilanxiaozhu.net,xiaot.com###diy_chart
-http://1fzdao.com###diy_cmn1
+http://2fzdao.com###diy_cmn1
 http://chinafix.com###diy_col_1-3
 http://elecfans.com###diy_company
 http://5imx.com###diy_mxad02
@@ -22913,7 +22926,7 @@ http://aimazu.com###gotoTop
 http://js0573.com###gotopl
 http://js0573.com###gotopr
 http://18183.com###gsBtn
-http://cncrk.com,xdowns.com###gsxza
+http://05sun.com,cncrk.com,xdowns.com###gsxza
 http://cnr.cn###gtop00
 http://doubibackup.com###guangg_image
 http://jirou.com###guanggao
@@ -24798,6 +24811,7 @@ http://sci-hub.org.cn##.gs_r[data-cid=""]
 http://sci-hub.org.cn##.gs_red[style="color:#EB7F00"]
 http://ddooo.com##.gsa_down
 http://32r.com##.gsabtn
+http://32r.com##.gsbbtn
 http://32r.com,ddooo.com,xue51.com##.gsbtn
 http://yxdown.com##.gsdown
 http://33lc.com,cncrk.com##.gsdt
@@ -26898,6 +26912,7 @@ http://gucheng.com##img[data-mv-ad]
 http://eworldship.com##img[height="70"]
 http://moyu16.com##img[height="85px"]
 http://wishdown.com##img[href*=".41gw.com/"]
+http://ddrk.me##img[id]
 http://szhk.com##img[id^="adp"]
 http://jspoo.com##img[id^="float_img_"]
 http://nicemoe.com##img[src*=".sinaimg."][style="width:100%;margin-top:0px;"]
@@ -26949,6 +26964,7 @@ http://news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告
 http://news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
 http://china.com##object[width="360"][height="300"]
 http://sina.com.cn##p + .article-video
+http://ddrk.me##p > a > img
 http://muchong.com##p[onclick="view_ok();"]
 http://aeink.com##p[style*=".alicdn.com/"]
 http://aeink.com##p[style*="82px;background:"]
@@ -26966,6 +26982,7 @@ http://tukergo.com##section[class^="ch"]
 http://vs.cm##section[id^="ad_"]
 http://r3sub.com##source + img
 http://32r.com##span + p + ul > dd
+http://32r.com##span + p + ul > dt
 http://32r.com##span + p + ul > li > a:not(.c_down)
 http://bbs.my0511.com##span.smalltxt
 http://163.com##span[class^="gg"]
@@ -27156,6 +27173,7 @@ http://10.10.5.12#@#.banner_ad
 http://ishangman.com#@#.bottom_ad
 http://douban.com#@#.download-ad
 http://typecho.wiki#@#.downloadad
+http://ohmanhua.com#@#.gg1000
 http://petrochina.com.cn#@#.ggbox
 http://bbt.tv,btbt.tv#@#.google-ad
 http://apk.tw#@#.google_ad
