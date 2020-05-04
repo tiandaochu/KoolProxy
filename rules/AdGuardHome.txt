@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20200501144111
-!TOTAL_LINES=34865
+!VER=20200503104228
+!TOTAL_LINES=34863
 address=/00-gov.cn/
 address=/kwcdn.000dn.com/
 address=/kwcscdn.000dn.com/
@@ -19174,7 +19174,6 @@ address=/mi-mi-fa.com/
 address=/a.hl.mi.com/
 address=/a.union.mi.com/
 address=/ad.mi.com/
-address=/api.jr.mi.com/
 address=/migc.g.mi.com/
 address=/migcreport.g.mi.com/
 address=/mis.g.mi.com/
