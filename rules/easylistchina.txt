@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: XoxbUwwk8L+3V0MXXWtq3w
-! Version: 202005060003
+! Checksum: h0ozHEdaBqH0/g1RtlMggA
+! Version: 202005062353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -795,6 +795,7 @@
 ||https://141h.com/data/attachment/noblock/cf/
 ||https://145.239.6.59/g3/
 ||https://14bobo.com/js/
+||https://159i.com/p/hola/fozrjiqolpj.php
 ||https://159i.com/video/pop/
 ||https://159i.com/video/usr/uploads/1-
 ||https://159i.com/video/usr/uploads/bd/$image
@@ -2935,7 +2936,7 @@
 ||https://kan98.com/images/*.gif
 ||https://kan98.com/statics/js/k2017/kan98.js
 ||https://kancloud.cn/ad/
-||https://kanguba.com/file/js/ifr.asp
+||https://kanguba.com/file/js/wwwifr.asp
 ||https://kanjiantu.com/images/2020/04/17/uO6sX9.gif
 ||https://kanjuba.me/js/bbk/
 ||https://kanjuwo.com/js/6
@@ -5387,7 +5388,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://avtiaozhuan.com^
 ||http://0024aaaa.com^
 ||http://0082tv.net^$third-party
 ||http://00880808.com^
@@ -5944,6 +5944,7 @@
 ||http://audit8.com^
 ||http://auspiciousvp.com^
 ||http://av8d.net^$third-party
+||http://avtiaozhuan.com^
 ||http://awifi.cn^$third-party
 ||http://awkjs.com^
 ||http://axhxa.com^
@@ -8263,6 +8264,7 @@
 ||http://141h.com/data/attachment/noblock/cf/
 ||http://145.239.6.59/g3/
 ||http://14bobo.com/js/
+||http://159i.com/p/hola/fozrjiqolpj.php
 ||http://159i.com/video/pop/
 ||http://159i.com/video/usr/uploads/1-
 ||http://159i.com/video/usr/uploads/bd/$image
@@ -10731,7 +10733,7 @@
 ||http://kan98.com/images/*.gif
 ||http://kan98.com/statics/js/k2017/kan98.js
 ||http://kancloud.cn/ad/
-||http://kanguba.com/file/js/ifr.asp
+||http://kanguba.com/file/js/wwwifr.asp
 ||http://kanjiantu.com/images/2020/04/17/uO6sX9.gif
 ||http://kanjuba.me/js/bbk/
 ||http://kanjuwo.com/js/6
@@ -12912,6 +12914,7 @@
 ||http://a1.0s.net.cn^
 ||http://a1.99933.cn^
 ||http://a1.99966.cn^
+||http://a1.aichagu.com^
 ||http://a1.bestopview.com^
 ||http://a1.bookapka.com^
 ||http://a1.firefoxchina.cn^
@@ -14840,6 +14843,7 @@
 ||http://ndusa.cn^
 ||http://neijh.com^
 ||http://nernv.com^
+||http://netfix8.info^
 ||http://netko0o.com^
 ||http://newknowledge.cn^
 ||http://nfkos.com^
@@ -19613,6 +19617,7 @@ https://gg-led.com##.regg
 https://e-learn.cn##.region-sidebar-second > .block:nth-child(2)
 https://w3cplus.com##.region-sidebar-second > :nth-last-child(n+3)
 https://xueqiu.com##.regist-guide-container
+https://baidu.com##.rel-exp-feed-ad-item
 https://mop.com##.rel-item-gg
 https://pconline.com.cn##.rela-best
 https://mbd.baidu.com##.related-news > section:first-child + div
@@ -20962,6 +20967,7 @@ https://zuoye.baidu.com##dl[class="card related"]
 https://douban.com#?#.rec_topics:-abp-has(>.rec_topics_name[href^="https://erebor.douban."])
 https://ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(助))
 https://bbs.my0511.com##embed[width="970"][height="70"]
+https://engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 https://cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
 https://ifeng.com#?#.box_list:-abp-has(.tuig)
 https://sina.cn##iframe[id^="sinaadtk_"]
@@ -25555,6 +25561,7 @@ http://gg-led.com##.regg
 http://e-learn.cn##.region-sidebar-second > .block:nth-child(2)
 http://w3cplus.com##.region-sidebar-second > :nth-last-child(n+3)
 http://xueqiu.com##.regist-guide-container
+http://baidu.com##.rel-exp-feed-ad-item
 http://mop.com##.rel-item-gg
 http://pconline.com.cn##.rela-best
 http://mbd.baidu.com##.related-news > section:first-child + div
@@ -26904,6 +26911,7 @@ http://zuoye.baidu.com##dl[class="card related"]
 http://douban.com#?#.rec_topics:-abp-has(>.rec_topics_name[href^="https://erebor.douban."])
 http://ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(助))
 http://bbs.my0511.com##embed[width="970"][height="70"]
+http://engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 http://cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
 http://ifeng.com#?#.box_list:-abp-has(.tuig)
 http://sina.cn##iframe[id^="sinaadtk_"]
