@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: OyKjw11UadGszFYV7am+vg
-! Version: 202005080003
+! Checksum: cYv+PUdjpi2Ocw/s+rO9xw
+! Version: 202005090003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -795,8 +795,8 @@
 ||https://141h.com/data/attachment/noblock/cf/
 ||https://145.239.6.59/g3/
 ||https://14bobo.com/js/
-||https://159i.com/nb/ls
-||https://159i.com/p/hola/fozrjiqolpj.php
+||https://159i.com/nb/*.php
+||https://159i.com/p/hola/*.php|
 ||https://159i.com/video/pop/
 ||https://159i.com/video/usr/uploads/1-
 ||https://159i.com/video/usr/uploads/bd/$image
@@ -4554,8 +4554,13 @@
 ||https://ygodl.com/wp-content/uploads/*.js
 ||https://yhdm.tv/bar/
 ||https://yibo5.cn/img0
+||https://yigujin.cn/faaa/
 ||https://yigujin.cn/img/abc/
 ||https://yigujin.cn/tp/abc/*yun
+||https://yigujin.cn/wp-content/themes/Three/js/cebian
+||https://yigujin.cn/wp-content/themes/Three/js/singley
+||https://yigujin.cn/wp-content/themes/Three/js/tuij
+||https://yigujin.cn/wp-content/themes/Three/js/yierlin
 ||https://yiichina.com/images/yisu-
 ||https://yikeyz.com/pm.js
 ||https://yimg.com/bf/homerun/ysm_
@@ -4578,6 +4583,7 @@
 ||https://yixiaoba.com/js/yxb_normal.js
 ||https://yixieshi.com/media/
 ||https://yiybb.com/inc/
+||https://yjcf360.com/ad.
 ||https://yjhas.net^$image
 ||https://yjsp5.com/pc_
 ||https://yjyc-ask.com/res/ads/
@@ -4782,7 +4788,6 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://159i.com/p/hola/fc.php
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -4897,6 +4902,7 @@
 ||https://xstt5.com/skin/v3/js/zhang.
 ||https://xszysc.com^$third-party
 ||https://yssm.tv/sm/true.js
+||https://ysxs8.com/js/play_db.js
 ||https://zhenben.cc/2000/
 ||https://playno1.club/uppic/
 ||https://0937js.com^$popup
@@ -5489,6 +5495,7 @@
 ||http://1503.net/code/
 ||http://1515788.net^
 ||http://154.83.113.19^
+||http://156.247.120.15^
 ||http://156.247.99.219^
 ||http://162.209.213.66^
 ||http://164.155.185.254^
@@ -5827,6 +5834,7 @@
 ||http://a7shun.com^$third-party
 ||http://a907907.com^
 ||http://a9377j.com^
+||http://aaaf.info^
 ||http://aazcio.cn^
 ||http://abctcqq.top^
 ||http://acasys88.cn^
@@ -8273,8 +8281,8 @@
 ||http://141h.com/data/attachment/noblock/cf/
 ||http://145.239.6.59/g3/
 ||http://14bobo.com/js/
-||http://159i.com/nb/ls
-||http://159i.com/p/hola/fozrjiqolpj.php
+||http://159i.com/nb/*.php
+||http://159i.com/p/hola/*.php|
 ||http://159i.com/video/pop/
 ||http://159i.com/video/usr/uploads/1-
 ||http://159i.com/video/usr/uploads/bd/$image
@@ -12533,8 +12541,13 @@
 ||http://ygodl.com/wp-content/uploads/*.js
 ||http://yhdm.tv/bar/
 ||http://yibo5.cn/img0
+||http://yigujin.cn/faaa/
 ||http://yigujin.cn/img/abc/
 ||http://yigujin.cn/tp/abc/*yun
+||http://yigujin.cn/wp-content/themes/Three/js/cebian
+||http://yigujin.cn/wp-content/themes/Three/js/singley
+||http://yigujin.cn/wp-content/themes/Three/js/tuij
+||http://yigujin.cn/wp-content/themes/Three/js/yierlin
 ||http://yiichina.com/images/yisu-
 ||http://yikeyz.com/pm.js
 ||http://yimg.com/bf/homerun/ysm_
@@ -12559,6 +12572,7 @@
 ||http://yixiaoba.com/js/yxb_normal.js
 ||http://yixieshi.com/media/
 ||http://yiybb.com/inc/
+||http://yjcf360.com/ad.
 ||http://yjhas.net^$image
 ||http://yjsp5.com/pc_
 ||http://yjyc-ask.com/res/ads/
@@ -12780,7 +12794,6 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://159i.com/p/hola/fc.php
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -12832,6 +12845,7 @@
 ||http://1.sj33.net^
 ||http://1.snzfj.net^
 ||http://1.soufy.cn^
+||http://1.tecbbs.com^
 ||http://1.ttxs123.net^
 ||http://1.uc129.com^
 ||http://1.ufc123.com^
@@ -13076,6 +13090,7 @@
 ||http://d*.xinshipu.com^
 ||http://d.ab126.com^
 ||http://d.dgzj.com^
+||http://d.ziyuanm.com^
 ||http://d1.5h.com^
 ||http://d1.handdiy.com^
 ||http://d1.zhuangxiu6.com^
@@ -13593,7 +13608,6 @@
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
 ||http://cryptaloot.pro^
-||http://dddyun.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -14126,6 +14140,7 @@
 ||http://dctykq.cn^
 ||http://dcuom.com^
 ||http://ddanq.com^
+||http://dddyun.com^
 ||http://ddg1277.com^
 ||http://ddhuangchao.com^
 ||http://ddpxhq.cn^
@@ -14191,6 +14206,7 @@
 ||http://ei4f.cn^
 ||http://ejeenews.com^
 ||http://ejiur.com^
+||http://ejsehjv.cn^
 ||http://ejwmc.cn^
 ||http://eloer.cn^
 ||http://elvx.top^
@@ -14667,6 +14683,7 @@
 ||http://kg962.cn^
 ||http://kguaq.com^
 ||http://khuoy.com^
+||http://kid9.info^
 ||http://kjdw.com.cn^
 ||http://kjfhe.com^
 ||http://kjhfy.com^
@@ -14756,6 +14773,7 @@
 ||http://louisan.cn^
 ||http://lousivency.com.cn^
 ||http://lpaoz.com^
+||http://lq.booktxt.net^
 ||http://lq1.abcxs.com^
 ||http://lqmohun.com^$third-party
 ||http://lr96.top^
@@ -15181,6 +15199,7 @@
 ||http://svfwer.top^
 ||http://swhgd.com^
 ||http://swq48b.cn^
+||http://sxhwscj.cn^
 ||http://sxjkc.cn^
 ||http://sxjxhg.com^
 ||http://sxlczj.cn^
@@ -15470,6 +15489,7 @@
 ||http://xn--2qux23confgml.club^
 ||http://xn--4gqvdz18f.xyz^
 ||http://xn--i6qs37am6iwyqffc.com^
+||http://xn--i7qt52bvsr0u0a.cc^
 ||http://xn--mtsr39cnql.video^
 ||http://xn--wxtr44c.video^
 ||http://xn--wxtr9fwyxk9c.art^
@@ -15572,6 +15592,7 @@
 ||http://ysjweb.com^
 ||http://yssbi.net^
 ||http://yssm.tv/sm/true.js
+||http://ysxs8.com/js/play_db.js
 ||http://ytbnm.cn^
 ||http://ytdksb.com^
 ||http://ytmaitian.com^
@@ -16363,7 +16384,9 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://bd-film.cc###fmtdiv
+https://hdshare.cn###adv
+https://dzbhdm.com##A[href*=".aliyun.com"]
+https://dzbhdm.com##A[href="https://www.biqudao2.com"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -16924,6 +16947,7 @@ https://brushes8.com###flxgg
 https://gamer.com.tw###flyRightBox
 https://gamer.com.tw###flySalve
 https://juxia.com###fmt
+https://bd-film.cc###fmtdiv
 https://apk.tw###focus
 https://fulibus.net,wuzuowei.net###focusslide
 https://bitauto.com###folieAdNews
@@ -18141,6 +18165,7 @@ https://caibaojian.com##.aliyun-inner
 https://cnfol.com##.allAd
 https://bkill.com##.alliance-ad
 https://gugeys.cc##.am-g
+https://159i.com##.an > div[align="center"] > .style13
 https://gufengmh.com##.animated
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.app_forum_top_nav_tab
 https://fanyi.baidu.com##.appbanner
@@ -18539,6 +18564,7 @@ https://iplaysoft.com##.crumb_ad
 https://csdn.net##.csdn-tracking-statistics[style$="250px;"]
 https://cnbeta.com##.ctcloud
 https://tigtag.com##.custom-box02
+https://boke112.com##.custom-html-widget > div[style="margin-bottom: -7px;"]
 https://51wangdai.com##.cx_ad
 https://51wangdai.com##.cx_xx_lis_c01_right_lis_c_ad
 https://vuetifyjs.com##.d-inline-block
@@ -19797,6 +19823,8 @@ https://firefoxchina.cn##.side-tool-outer > div[class]:first-child
 https://firefoxchina.cn##.side-tpth
 https://niutuku.com##.sideAD
 https://youthwant.com.tw##.side_adbox
+https://yjcf360.com##.side_box
+https://yjcf360.com##.side_box2
 https://shuowan.com##.side_flash
 https://duba.com,newduba.cn##.side_game
 https://duba.com##.side_other > .img
@@ -22314,7 +22342,9 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://bd-film.cc###fmtdiv
+http://hdshare.cn###adv
+http://dzbhdm.com##A[href*=".aliyun.com"]
+http://dzbhdm.com##A[href="https://www.biqudao2.com"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -22875,6 +22905,7 @@ http://brushes8.com###flxgg
 http://gamer.com.tw###flyRightBox
 http://gamer.com.tw###flySalve
 http://juxia.com###fmt
+http://bd-film.cc###fmtdiv
 http://apk.tw###focus
 http://fulibus.net,wuzuowei.net###focusslide
 http://bitauto.com###folieAdNews
@@ -24092,6 +24123,7 @@ http://caibaojian.com##.aliyun-inner
 http://cnfol.com##.allAd
 http://bkill.com##.alliance-ad
 http://gugeys.cc##.am-g
+http://159i.com##.an > div[align="center"] > .style13
 http://gufengmh.com##.animated
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.app_forum_top_nav_tab
 http://fanyi.baidu.com##.appbanner
@@ -24490,6 +24522,7 @@ http://iplaysoft.com##.crumb_ad
 http://csdn.net##.csdn-tracking-statistics[style$="250px;"]
 http://cnbeta.com##.ctcloud
 http://tigtag.com##.custom-box02
+http://boke112.com##.custom-html-widget > div[style="margin-bottom: -7px;"]
 http://51wangdai.com##.cx_ad
 http://51wangdai.com##.cx_xx_lis_c01_right_lis_c_ad
 http://vuetifyjs.com##.d-inline-block
@@ -25748,6 +25781,8 @@ http://firefoxchina.cn##.side-tool-outer > div[class]:first-child
 http://firefoxchina.cn##.side-tpth
 http://niutuku.com##.sideAD
 http://youthwant.com.tw##.side_adbox
+http://yjcf360.com##.side_box
+http://yjcf360.com##.side_box2
 http://shuowan.com##.side_flash
 http://duba.com,newduba.cn##.side_game
 http://duba.com##.side_other > .img
