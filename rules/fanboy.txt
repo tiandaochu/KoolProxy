@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eTnMtjjCkPdhMtPawPDbPQ
-! Version: 202005092351
+! Checksum: z22tB9iA3tze9PR2MXh/eA
+! Version: 202005102351
 ! Title: Fanboy's Annoyance List
-! Last modified: 09 May 2020 23:51 UTC
+! Last modified: 10 May 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3814,6 +3814,7 @@ https://bit.com.au,crn.com.au,scmagazine.com.au###regPromptModal
 https://bit.com.au,crn.com.au,itnews.com.au,pcauthority.com.au,scmagazine.com.au###regSignupBoxout
 https://jcafe24.net###regbar_warning
 https://indiancountrytodaymedianetwork.com###region-footer-second
+https://publish0x.com###registerModal
 https://favbrowser.com,iphoneincanada.ca###related
 https://pcmag.com###related-container
 https://sfist.com###related-module
@@ -5083,7 +5084,7 @@ https://dailymail.co.uk##.mobile-gallery-instruction
 https://nytimes.com##.mobilePromo
 https://nola.com##.mobile_lrg
 https://bournemouthecho.co.uk,jobomas.com,patient.info,tuaw.com,voyages-sncf.com##.modal
-https://allkpop.com,aplus.com,bournemouthecho.co.uk,decalgirl.com,eurocheapo.com,jobomas.com,kevinmd.com,pbsamerica.co.uk,police.uk,upworthy.com,younow.com##.modal-backdrop
+https://allkpop.com,aplus.com,bournemouthecho.co.uk,decalgirl.com,eurocheapo.com,jobomas.com,kevinmd.com,pbsamerica.co.uk,police.uk,publish0x.com,upworthy.com,younow.com##.modal-backdrop
 https://popdust.com##.modal-close
 https://narrative.ly,timesofindia.indiatimes.com##.modal-content
 https://megabonus.com##.modal-dialog
@@ -12214,6 +12215,7 @@ https://blackboat.com#@#.sqs-announcement-bar
 https://xhamster.com#@#.subscribe-block
 https://humblebundle.com#@#.subscribe-box
 https://oneplus.com,stackexchange.com#@#.subscribe-container
+https://rapidgrab.pl#@#.subscribe-form
 https://twit.tv#@#.subscribe-panel
 https://batenka.ru#@#.subscribe-popup
 https://wtfast.com#@#.subscribe_box
@@ -12751,6 +12753,8 @@ https://hbogo.hu#@##cookiebox
 https://www.free.fr#@##cookieconsent
 https://gruenderservice.at#@##cookiehint
 https://porno720.pl,tvporno.pl#@##cookieinfo
+https://qastack.fr#@##cookies-accept
+https://qastack.fr#@##cookies-consent
 https://paradoxplaza.com#@##cookies-info
 https://paravol.org#@##cookies-modal
 https://shoppable.com#@##cookiesModal
@@ -14017,6 +14021,7 @@ http://bit.com.au,crn.com.au,scmagazine.com.au###regPromptModal
 http://bit.com.au,crn.com.au,itnews.com.au,pcauthority.com.au,scmagazine.com.au###regSignupBoxout
 http://jcafe24.net###regbar_warning
 http://indiancountrytodaymedianetwork.com###region-footer-second
+http://publish0x.com###registerModal
 http://favbrowser.com,iphoneincanada.ca###related
 http://pcmag.com###related-container
 http://sfist.com###related-module
@@ -15286,7 +15291,7 @@ http://dailymail.co.uk##.mobile-gallery-instruction
 http://nytimes.com##.mobilePromo
 http://nola.com##.mobile_lrg
 http://bournemouthecho.co.uk,jobomas.com,patient.info,tuaw.com,voyages-sncf.com##.modal
-http://allkpop.com,aplus.com,bournemouthecho.co.uk,decalgirl.com,eurocheapo.com,jobomas.com,kevinmd.com,pbsamerica.co.uk,police.uk,upworthy.com,younow.com##.modal-backdrop
+http://allkpop.com,aplus.com,bournemouthecho.co.uk,decalgirl.com,eurocheapo.com,jobomas.com,kevinmd.com,pbsamerica.co.uk,police.uk,publish0x.com,upworthy.com,younow.com##.modal-backdrop
 http://popdust.com##.modal-close
 http://narrative.ly,timesofindia.indiatimes.com##.modal-content
 http://megabonus.com##.modal-dialog
@@ -22419,6 +22424,7 @@ http://blackboat.com#@#.sqs-announcement-bar
 http://xhamster.com#@#.subscribe-block
 http://humblebundle.com#@#.subscribe-box
 http://oneplus.com,stackexchange.com#@#.subscribe-container
+http://rapidgrab.pl#@#.subscribe-form
 http://twit.tv#@#.subscribe-panel
 http://batenka.ru#@#.subscribe-popup
 http://wtfast.com#@#.subscribe_box
@@ -22956,6 +22962,8 @@ http://hbogo.hu#@##cookiebox
 http://www.free.fr#@##cookieconsent
 http://gruenderservice.at#@##cookiehint
 http://porno720.pl,tvporno.pl#@##cookieinfo
+http://qastack.fr#@##cookies-accept
+http://qastack.fr#@##cookies-consent
 http://paradoxplaza.com#@##cookies-info
 http://paravol.org#@##cookies-modal
 http://shoppable.com#@##cookiesModal
