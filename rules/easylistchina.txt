@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0VhZju4iQtZ429/2amJWag
-! Version: 202005120003
+! Checksum: lTcKnoaahkd37PipkEqsNg
+! Version: 202005130003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -3509,6 +3509,7 @@
 ||https://pharmnet.com.cn/cnbanner/
 ||https://pharmnet.com.cn/js/float_div.js
 ||https://phbkm.com/js/
+||https://php.cn/static/images/article1.png
 ||https://php1.cn/uploads/huayun.jpg
 ||https://phpernote.com/ali
 ||https://phpstudyimg.com/all/renrenxiaxuan980.gif
@@ -3985,7 +3986,6 @@
 ||https://stackpathdns.com/imgs/wondershareAd
 ||https://starbaby.cc/201608/36/f526d86de292e4.jpg
 ||https://starnnews.com/banner/
-||https://stat.api.4399.com/crossdomain.xml
 ||https://static.doyouhike.net/partner/
 ||https://static.tianyaui.com^*/stat_20080313.js
 ||https://stats.chinaz.com/tool/
@@ -4377,6 +4377,7 @@
 ||https://wudizuqiu.com/fy
 ||https://wudizuqiu.com/img/dasai8/ybbj.png
 ||https://wumii.cn/site_images/c/
+||https://wuseng.net/script/fixdown.js
 ||https://wuyulou.com^*.php
 ||https://ww7814.win/pic
 ||https://ww9874.com/asset/playerInit.js
@@ -5411,9 +5412,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://mingboxieye.com^
-||http://njcn888.com^
-||http://abie14.top^
+||http://1002.men^
 ||http://0024aaaa.com^
 ||http://0082tv.net^$third-party
 ||http://00880808.com^
@@ -5852,6 +5851,7 @@
 ||http://aaaf.info^
 ||http://aazcio.cn^
 ||http://abctcqq.top^
+||http://abie14.top^
 ||http://acasys88.cn^
 ||http://acgbase.com^$third-party
 ||http://achicih.gitee.io^$third-party
@@ -7033,6 +7033,7 @@
 ||http://mieyisi.com^
 ||http://min1319.com^
 ||http://mindopu.com^
+||http://mingboxieye.com^
 ||http://mingxianshanghang.cn^
 ||http://mingysh.com^
 ||http://mjx123.com^
@@ -7102,6 +7103,7 @@
 ||http://niuxgame77.com^
 ||http://niuza.com^$image,subdocument,third-party
 ||http://niwota.com^$third-party
+||http://njcn888.com^
 ||http://njdijiani.com^
 ||http://njfsk.com^
 ||http://njjrlf.com^
@@ -11396,6 +11398,7 @@
 ||http://pharmnet.com.cn/js/float_div.js
 ||http://phbkm.com/js/
 ||http://photofans.cn*/banner/
+||http://php.cn/static/images/article1.png
 ||http://php1.cn/uploads/huayun.jpg
 ||http://phpad.cqnews.net^
 ||http://phpernote.com/ali
@@ -11924,7 +11927,6 @@
 ||http://stackpathdns.com/imgs/wondershareAd
 ||http://starbaby.cc/201608/36/f526d86de292e4.jpg
 ||http://starnnews.com/banner/
-||http://stat.api.4399.com/crossdomain.xml
 ||http://static-ssp.yidianzixun.com^
 ||http://static.doyouhike.net/partner/
 ||http://static.tianyaui.com^*/stat_20080313.js
@@ -12369,6 +12371,7 @@
 ||http://wudizuqiu.com/img/dasai8/ybbj.png
 ||http://wuliao.epro.sogou.com^
 ||http://wumii.cn/site_images/c/
+||http://wuseng.net/script/fixdown.js
 ||http://wuyulou.com^*.php
 ||http://ww7814.win/pic
 ||http://ww9874.com/asset/playerInit.js
@@ -13651,6 +13654,7 @@
 ||http://0330vsdgdwer.xyz^
 ||http://0413fsiuhwem.xyz^
 ||http://0420zvnmljgfdsa.xyz^
+||http://0511qsfhknvz.xyz^
 ||http://0530hz.cn^
 ||http://0532ci.com.cn^
 ||http://0551zgz.com^
@@ -13905,6 +13909,7 @@
 ||http://aiyyu.com^
 ||http://ajiez.com^
 ||http://ajkdg3.xyz^
+||http://ali2a.xyz^
 ||http://alitx963.com^
 ||http://aliyoo999.com^
 ||http://alksdh.com^
@@ -14448,6 +14453,7 @@
 ||http://hchg89.cn^
 ||http://hchig.com^
 ||http://hchik.com^
+||http://hcprzx.cn^
 ||http://hdfdm.com^
 ||http://hdminfeng.com^
 ||http://hdswgc.com^
@@ -14577,6 +14583,7 @@
 ||http://inccnd.com^
 ||http://increased.cn^
 ||http://infvb.com^
+||http://innvitor.com^
 ||http://internerl.com^
 ||http://intxt.cn^
 ||http://ipchinatelecom.com^
@@ -14707,6 +14714,7 @@
 ||http://kdzbg.xyz^
 ||http://ketaoke.com^
 ||http://kexigia.com^
+||http://kexwdvj.cn^
 ||http://kfand.com^
 ||http://kfeiu.com^
 ||http://kfuih.cn^
@@ -14974,6 +14982,7 @@
 ||http://oiwjcsh011.top^
 ||http://oiwjcsh012.top^
 ||http://oiwjcsh013.top^
+||http://oiwjcsh015.top^
 ||http://ojues.com^
 ||http://okshishi.com^
 ||http://okuis.com^
@@ -15165,6 +15174,7 @@
 ||http://sec-cloud.cn^
 ||http://seerpiu002.com^
 ||http://self-study-service.com.cn^
+||http://seuukkd.cn^
 ||http://sezvc.com^
 ||http://sfanf.com^
 ||http://sguac.com^
@@ -15177,6 +15187,7 @@
 ||http://shenyunkeji.com^
 ||http://shffcy.cn^
 ||http://shidailw.com^
+||http://shiguangyx.cn^
 ||http://shjrwh.cn^
 ||http://shjsxx.com^
 ||http://shlovesea.com^
@@ -15346,6 +15357,7 @@
 ||http://urlet.cn^
 ||http://usty357a.site^
 ||http://uuopp.com^
+||http://uvmqpum.cn^
 ||http://uxyrl.cn^
 ||http://uzhaj.com^
 ||http://uzyid.cn^
@@ -16416,6 +16428,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://sex169.org##.a2_h
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -22384,6 +22397,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://sex169.org##.a2_h
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: de9JGr9qeZhU8y4AS+IIRQ
-! Version: 202005112351
+! Checksum: pOoCs4kSMq0czjTkKCoOlA
+! Version: 202005122351
 ! Title: Fanboy's Annoyance List
-! Last modified: 11 May 2020 23:51 UTC
+! Last modified: 12 May 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1257,6 +1257,7 @@
 ||https://google.com^*/fastbutton?
 ||https://sanoma.nl/media/static/images/icon_zienl.png
 ||https://dni.ru^*/sotial-
+||https://russia.tv/js/modules/social-subscriber.js
 ||https://spynews.ro/templates/default/img/face.png
 ||https://vestifinance.ru/js/share.js
 ||https://nioutaik.fr/themes/freshy/images/facedebouc.gif
@@ -2628,6 +2629,7 @@
 ||http://google.com^*/fastbutton?$domain=tvspielfilm.de
 ||http://sanoma.nl/media/static/images/icon_zienl.png
 ||http://dni.ru^*/sotial-
+||http://russia.tv/js/modules/social-subscriber.js
 ||http://spynews.ro/templates/default/img/face.png
 ||http://vestifinance.ru/js/share.js
 ||http://nioutaik.fr/themes/freshy/images/facedebouc.gif
@@ -7147,7 +7149,6 @@ https://nme.com###keystone-newsletter-4
 https://cinemablend.com###newsletter-background
 https://menshealth.com,runnersworld.com,womenshealthmag.com###newsletter-block
 https://cinemablend.com###newsletter-button
-https://independent.co.uk###newsletter-component
 https://infowars.com###newsletter-side-widget
 https://calgaryherald.com,edmontonjournal.com,montrealgazette.com,ottawacitizen.com,thestarphoenix.com,windsorstar.com###pn-newsletter-signup
 https://cio.co.nz,cio.com.au,cmo.com.au,computerworld.co.nz,computerworld.com.au,cso.com.au,pcworld.co.nz###quick-signup-article-widget
@@ -8594,7 +8595,7 @@ https://pcmag.com##.reviews-share
 https://itunesplusaacm4a.org,liliputing.com,twincities.com,world4.eu##.sd-sharing
 https://fullmatchesandshows.com,onhax.me,xxxstreams.eu##.sd-social
 https://history.com##.section-social-list
-https://huffingtonpost.co.uk,huffingtonpost.com,independent.co.uk,tomshardware.co.uk,tomshardware.com##.share-bar
+https://huffingtonpost.co.uk,huffingtonpost.com,tomshardware.co.uk,tomshardware.com##.share-bar
 https://huffingtonpost.com##.share-bar-highlight
 https://thefreedictionary.com##.share-block
 https://financialpost.com,investopedia.com,nationalpost.com,trustedreviews.com##.share-button
@@ -8887,7 +8888,7 @@ https://hmc.org.uk###modal-mask
 https://shellsmart.com###modal_container
 https://eurocirc.org###msgBox_error
 https://betsson.com###msgwrapper
-https://mtn.co.za###my-welcome-message
+https://mtn.co.za,mtnbusiness.co.za###my-welcome-message
 https://rockstarcoders.com###myAlert
 https://exemproject.eu,kon-boot.com###myModal
 https://spandidos-publications.com###navbar
@@ -9095,6 +9096,7 @@ https://viralnova.com##.cc-banner
 https://wallpapershome.com##.cc-dialog
 https://drakecircus.com##.ccc-widget
 https://orcadian.co.uk##.cd-container
+https://kbs.co.kr##.chrome_pick
 https://stayinwales.co.uk##.ckinfo-panel
 https://singular.com.cy##.cm-notification-container
 https://cnn.com##.cnn-toast--tos
@@ -10052,6 +10054,7 @@ https://debate.com.mx##.footer__suscribe
 https://rac1.cat##.go-top
 https://elcomercio.pe##.go-up
 https://mundodeportivo.com##.home-nav-balls
+https://paginasiete.bo##.inview-bottom-left
 https://notimex.gob.mx##.ir-arriba
 https://990espndeportes.com##.more-stories
 https://eldiariony.com,laopinion.com,laprensafl.com,laraza.com,paratimujer.us,silicon.es##.newsletter
@@ -10510,7 +10513,7 @@ https://israelheute.com##.entry-social
 https://heise.de,klimahaus.it,suedtiroler-gaertner.it,swr3.de,t3n.de##.facebook
 https://tape.tv##.facebook-prompt
 https://gutscheinsammler.de##.fancybox-overlay
-https://deutschlandfunk.de,fantasy.de,weisseskreuz.bz.it##.fb
+https://deutschlandfunk.de,fantasy.de,verkehrsinfos.it,weisseskreuz.bz.it##.fb
 https://zentrum-der-gesundheit.de##.fbbox_overlay
 https://falk.de##.fbstatic
 https://silicon.de##.follow
@@ -10561,7 +10564,7 @@ https://bpb.de##.toolbar-content
 https://n-tv.de##.tools
 https://tagesspiegel.de##.ts-actionbar-wrapper
 https://deutschlandfunk.de,fantasy.de##.tw
-https://heise.de,ifun.de,iphone-ticker.de,klimahaus.it,rnd-news.de,swr3.de,t3n.de##.twitter
+https://heise.de,ifun.de,iphone-ticker.de,klimahaus.it,rnd-news.de,swr3.de,t3n.de,verkehrsinfos.it##.twitter
 https://tagesspiegel.de##.whatsapp
 https://neusprech.org##.wptwitter
 https://rnd-news.de##.xing
@@ -17356,7 +17359,6 @@ http://nme.com###keystone-newsletter-4
 http://cinemablend.com###newsletter-background
 http://menshealth.com,runnersworld.com,womenshealthmag.com###newsletter-block
 http://cinemablend.com###newsletter-button
-http://independent.co.uk###newsletter-component
 http://infowars.com###newsletter-side-widget
 http://calgaryherald.com,edmontonjournal.com,montrealgazette.com,ottawacitizen.com,thestarphoenix.com,windsorstar.com###pn-newsletter-signup
 http://cio.co.nz,cio.com.au,cmo.com.au,computerworld.co.nz,computerworld.com.au,cso.com.au,pcworld.co.nz###quick-signup-article-widget
@@ -18804,7 +18806,7 @@ http://pcmag.com##.reviews-share
 http://itunesplusaacm4a.org,liliputing.com,twincities.com,world4.eu##.sd-sharing
 http://fullmatchesandshows.com,onhax.me,xxxstreams.eu##.sd-social
 http://history.com##.section-social-list
-http://huffingtonpost.co.uk,huffingtonpost.com,independent.co.uk,tomshardware.co.uk,tomshardware.com##.share-bar
+http://huffingtonpost.co.uk,huffingtonpost.com,tomshardware.co.uk,tomshardware.com##.share-bar
 http://huffingtonpost.com##.share-bar-highlight
 http://thefreedictionary.com##.share-block
 http://financialpost.com,investopedia.com,nationalpost.com,trustedreviews.com##.share-button
@@ -19097,7 +19099,7 @@ http://hmc.org.uk###modal-mask
 http://shellsmart.com###modal_container
 http://eurocirc.org###msgBox_error
 http://betsson.com###msgwrapper
-http://mtn.co.za###my-welcome-message
+http://mtn.co.za,mtnbusiness.co.za###my-welcome-message
 http://rockstarcoders.com###myAlert
 http://exemproject.eu,kon-boot.com###myModal
 http://spandidos-publications.com###navbar
@@ -19305,6 +19307,7 @@ http://viralnova.com##.cc-banner
 http://wallpapershome.com##.cc-dialog
 http://drakecircus.com##.ccc-widget
 http://orcadian.co.uk##.cd-container
+http://kbs.co.kr##.chrome_pick
 http://stayinwales.co.uk##.ckinfo-panel
 http://singular.com.cy##.cm-notification-container
 http://cnn.com##.cnn-toast--tos
@@ -20262,6 +20265,7 @@ http://debate.com.mx##.footer__suscribe
 http://rac1.cat##.go-top
 http://elcomercio.pe##.go-up
 http://mundodeportivo.com##.home-nav-balls
+http://paginasiete.bo##.inview-bottom-left
 http://notimex.gob.mx##.ir-arriba
 http://990espndeportes.com##.more-stories
 http://eldiariony.com,laopinion.com,laprensafl.com,laraza.com,paratimujer.us,silicon.es##.newsletter
@@ -20720,7 +20724,7 @@ http://israelheute.com##.entry-social
 http://heise.de,klimahaus.it,suedtiroler-gaertner.it,swr3.de,t3n.de##.facebook
 http://tape.tv##.facebook-prompt
 http://gutscheinsammler.de##.fancybox-overlay
-http://deutschlandfunk.de,fantasy.de,weisseskreuz.bz.it##.fb
+http://deutschlandfunk.de,fantasy.de,verkehrsinfos.it,weisseskreuz.bz.it##.fb
 http://zentrum-der-gesundheit.de##.fbbox_overlay
 http://falk.de##.fbstatic
 http://silicon.de##.follow
@@ -20771,7 +20775,7 @@ http://bpb.de##.toolbar-content
 http://n-tv.de##.tools
 http://tagesspiegel.de##.ts-actionbar-wrapper
 http://deutschlandfunk.de,fantasy.de##.tw
-http://heise.de,ifun.de,iphone-ticker.de,klimahaus.it,rnd-news.de,swr3.de,t3n.de##.twitter
+http://heise.de,ifun.de,iphone-ticker.de,klimahaus.it,rnd-news.de,swr3.de,t3n.de,verkehrsinfos.it##.twitter
 http://tagesspiegel.de##.whatsapp
 http://neusprech.org##.wptwitter
 http://rnd-news.de##.xing
