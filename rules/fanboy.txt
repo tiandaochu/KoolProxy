@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pOoCs4kSMq0czjTkKCoOlA
-! Version: 202005122351
+! Checksum: MOxOXmiQgpRRwit6FgY0DA
+! Version: 202005132351
 ! Title: Fanboy's Annoyance List
-! Last modified: 12 May 2020 23:51 UTC
+! Last modified: 13 May 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7167,7 +7167,7 @@ https://androidsage.com##.jetpack_subscription_widget
 https://soccity.net##.newsletter-block
 https://newsy.com##.newsletter-popup
 https://newsy.com##.newsletter-popup-background
-https://history.com##.newsletter-signup
+https://history.com,tomshardware.com##.newsletter-signup
 https://newsy.com##.newsletter-signup-bar-container
 https://freep.com##.newsletter-signup-primary
 https://hypable.com##.newsletter-single
@@ -8677,6 +8677,7 @@ https://gala.de##.socialMedia
 https://comicbook.com,wwg.com##.social_blk
 https://cinemablend.com##.social_counts
 https://metacritic.com##.social_round
+https://tomshardware.com##.socialite-widget-ul
 https://autobild.de##.socialmedia
 https://autobild.de##.socialmediabox
 https://viralitytoday.com##.socials
@@ -17377,7 +17378,7 @@ http://androidsage.com##.jetpack_subscription_widget
 http://soccity.net##.newsletter-block
 http://newsy.com##.newsletter-popup
 http://newsy.com##.newsletter-popup-background
-http://history.com##.newsletter-signup
+http://history.com,tomshardware.com##.newsletter-signup
 http://newsy.com##.newsletter-signup-bar-container
 http://freep.com##.newsletter-signup-primary
 http://hypable.com##.newsletter-single
@@ -18888,6 +18889,7 @@ http://gala.de##.socialMedia
 http://comicbook.com,wwg.com##.social_blk
 http://cinemablend.com##.social_counts
 http://metacritic.com##.social_round
+http://tomshardware.com##.socialite-widget-ul
 http://autobild.de##.socialmedia
 http://autobild.de##.socialmediabox
 http://viralitytoday.com##.socials

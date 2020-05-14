@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: lTcKnoaahkd37PipkEqsNg
-! Version: 202005130003
+! Checksum: iydJF2/BY/KzrMxQzn2Fkg
+! Version: 202005140003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -4605,6 +4605,7 @@
 ||https://yongjiuzy.cc/yongjiu.gif
 ||https://yorkbbs.ca/yorkads/
 ||https://you85.com/cy2/
+||https://youaima.com/zz/
 ||https://youivr.com/image/*-960x80
 ||https://youquba.net/js/
 ||https://youth.cn/hezuo/index.js
@@ -4799,6 +4800,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://cechi8.com/js/cnzz
+||https://cechi8.com/images/appdown.gif
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5412,7 +5415,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://1002.men^
 ||http://0024aaaa.com^
 ||http://0082tv.net^$third-party
 ||http://00880808.com^
@@ -5450,6 +5452,7 @@
 ||http://0xiaoshuo.com^$third-party
 ||http://0xxd.com^
 ||http://1000dy.com^
+||http://1002.men^
 ||http://100cpc.com^$third-party
 ||http://100fenlm.com^
 ||http://103.249.111.179^$third-party
@@ -12617,6 +12620,7 @@
 ||http://yongjiuzy.cc/yongjiu.gif
 ||http://yorkbbs.ca/yorkads/
 ||http://you85.com/cy2/
+||http://youaima.com/zz/
 ||http://youivr.com/image/*-960x80
 ||http://youquba.net/js/
 ||http://youth.cn/hezuo/index.js
@@ -12825,6 +12829,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://cechi8.com/js/cnzz
+||http://cechi8.com/images/appdown.gif
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -14864,6 +14870,7 @@
 ||http://mgldzcls.com^
 ||http://mgsue.cn^
 ||http://mgzs.cdn.bcebos.com^
+||http://mhdnspro.com^
 ||http://mhuos.com^
 ||http://miaiche.cn^
 ||http://miaos11.com^
@@ -15177,6 +15184,7 @@
 ||http://seuukkd.cn^
 ||http://sezvc.com^
 ||http://sfanf.com^
+||http://sffxcwc.cn^
 ||http://sguac.com^
 ||http://sgzs999.com^
 ||http://shaque.vip^
@@ -16428,7 +16436,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://sex169.org##.a2_h
+https://ddooo.com##A[onclick*="','',"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -22397,7 +22405,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://sex169.org##.a2_h
+http://ddooo.com##A[onclick*="','',"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
