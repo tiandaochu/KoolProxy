@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MOxOXmiQgpRRwit6FgY0DA
-! Version: 202005132351
+! Checksum: MbmFgiUHDpQSFOBvgB8BFg
+! Version: 202005142351
 ! Title: Fanboy's Annoyance List
-! Last modified: 13 May 2020 23:51 UTC
+! Last modified: 14 May 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6433,7 +6433,8 @@ https://kveller.com##.email-form
 https://howtogeek.com##.email-overlay
 https://forbes.com##.email-promo
 https://ocregister.com##.email-sign-up
-https://chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,twentytwowords.com,washingtonblade.com,waynedupree.com##.email-signup
+https://chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,newrepublic.com,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,twentytwowords.com,washingtonblade.com,waynedupree.com##.email-signup
+https://newrepublic.com##.email-signup__slim
 https://maritimeprofessional.com##.email-subscription
 https://nytimes.com##.email-updates
 https://local10.com##.emailWidget
@@ -7629,6 +7630,7 @@ https://upworthy.com##.article-facebook-like
 https://revizoronline.com##.article-footer
 https://patch.com##.article-more
 https://theartnewspaper.com##.article-options-comp
+https://newrepublic.com##.article-pocket-button
 https://topgear.com.ph##.article-stats
 https://dailystar.com.lb,eurekalert.org,theamericanconservative.com##.article-tools
 https://jpost.com##.article-top-box-data-print-icon
@@ -10282,6 +10284,7 @@ https://gds.it,qualenergia.it##a[title="Newsletter"]
 https://inran.it##div[style="background-color: #f0f0f0; text-align: center; font-size:12px; display: block; margin: 0 auto; padding: 3px;"]
 https://trend-online.com##div[style="display:flex;padding:10px;background:#efefef;border:1px solid #dadada; border-top: 2px solid #638d43"]
 https://sedaily.com###FooterTop
+https://auction.co.kr###btnSkipTop
 https://naver.com###btn_top
 https://atlantaradiokorea.com###top_up
 https://etnews.com###wingBanner
@@ -10331,6 +10334,7 @@ https://capital.ro,evz.ro##.newsletter
 https://stirileprotv.ro##.notification-wrapper
 https://antena3.ro##.push-notification
 https://dcnews.ro##.pushinstruments
+https://olx.ua###btn-top
 https://nbnews.com.ua###iosauth
 https://epochtimes.com.ua###scroll_house
 https://novinite.bg###article_options
@@ -10585,6 +10589,7 @@ https://biutiq.pl###header > .slidebox
 https://polskatimes.pl###narzedzia
 https://meteovista.pl,nexto.pl###social
 https://strefabiznesu.pl###toolbar
+https://motocombo.pl###widget_shop7
 https://mf24.pl##.facebook
 https://eurocash.pl##.fb
 https://redcarpettv.pl##.fc
@@ -10930,6 +10935,7 @@ https://dknet730.com##.btn-sm
 https://koreatimes.com##.fab
 https://newsis.com##.function
 https://myfocus.co.kr##.postSr
+https://auction.co.kr##.sare-sns
 https://landroverkorea.co.kr,sedaily.com##.share
 https://koreatimes.com##.twit
 https://inn.co.il##.Share
@@ -12281,6 +12287,7 @@ https://mediafire.com,microcosmgames.com#@##sharebox
 https://last.fm#@##sharebuttons
 https://bufferapp.com#@##sharer
 https://renren.com#@##sharevideo
+https://nextcloud.com#@##sharing
 https://swappa.com#@##social-buttons
 https://birebin.com,pictame.com,thepictaram.club#@##social-container
 https://arstechnica.co.uk,arstechnica.com,mozilla.org#@##social-footer
@@ -12405,7 +12412,7 @@ https://norisbank.de#@#.followBox
 https://weibo.com#@#.follow_box
 https://douyutv.com,steampowered.com,vimeo.com#@#.follow_btn
 https://about.me#@#.follow_twitter
-https://expresstools.co.uk#@#.footer-social
+https://expresstools.co.uk,ksiegarnianatlomackiem.pl,motocombo.pl#@#.footer-social
 https://bysimple.co#@#.footer-socials
 https://gorod.mos.ru#@#.footer__social
 https://adme.ru#@#.gallery-social
@@ -12421,7 +12428,7 @@ https://chess.com,imgur.com,login.alibaba.com#@#.icon-google
 https://flattr.com,gleam.io#@#.icon-instagram
 https://fora.ie,login.alibaba.com#@#.icon-linkedin
 https://rottentomatoes.com#@#.icon-rss
-https://football.fr,owncloud.org,theoldreader.com,trello.com#@#.icon-share
+https://football.fr,nextcloud.com,owncloud.org,theoldreader.com,trello.com#@#.icon-share
 https://techjunkie.com#@#.icon-social
 https://carsguide.com.au#@#.icon-social-facebook
 https://carsguide.com.au#@#.icon-social-linkedin
@@ -12724,6 +12731,8 @@ https://popsugar.co.uk#@##_evidon-barrier-wrapper
 https://etonline.com,popsugar.co.uk,popsugar.com,popsugar.com.au#@##_evidon_banner
 https://aboutcookies.org#@##aboutcookies
 https://franziskaner-weissbier.de,xmradio.nl#@##accept-cookies
+https://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification
+https://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification-wrapper
 https://youtube.com#@##consent-bump
 https://consent.yahoo.com,paypal.com#@##consent.consent
 https://dnb.no#@##consentContainer
@@ -12897,7 +12906,7 @@ https://bosch-mobility-solutions.com#@#.m-cookie-intro
 https://makelaarsland.nl#@#.m-cookie-notice
 https://theverge.com#@#.m-privacy-consent
 https://gct.com,herbritts.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
-https://multimediago.pl,ticket.io#@#.modal-cookie
+https://elring.ae,elring.cn,elring.com,elring.com.tr,elring.de,elring.fr,elring.it,elring.pl,elring.pt,elring.ru,multimediago.pl,ticket.io#@#.modal-cookie
 https://betway.it#@#.module-cookie
 https://ramics-conference.org#@#.nf-form-content
 https://aklagare.se,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz,pokemon.com,shopstyle.com,thenextweb.com#@#.no-cookies
@@ -16644,7 +16653,8 @@ http://kveller.com##.email-form
 http://howtogeek.com##.email-overlay
 http://forbes.com##.email-promo
 http://ocregister.com##.email-sign-up
-http://chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,twentytwowords.com,washingtonblade.com,waynedupree.com##.email-signup
+http://chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,newrepublic.com,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,twentytwowords.com,washingtonblade.com,waynedupree.com##.email-signup
+http://newrepublic.com##.email-signup__slim
 http://maritimeprofessional.com##.email-subscription
 http://nytimes.com##.email-updates
 http://local10.com##.emailWidget
@@ -17840,6 +17850,7 @@ http://upworthy.com##.article-facebook-like
 http://revizoronline.com##.article-footer
 http://patch.com##.article-more
 http://theartnewspaper.com##.article-options-comp
+http://newrepublic.com##.article-pocket-button
 http://topgear.com.ph##.article-stats
 http://dailystar.com.lb,eurekalert.org,theamericanconservative.com##.article-tools
 http://jpost.com##.article-top-box-data-print-icon
@@ -20494,6 +20505,7 @@ http://gds.it,qualenergia.it##a[title="Newsletter"]
 http://inran.it##div[style="background-color: #f0f0f0; text-align: center; font-size:12px; display: block; margin: 0 auto; padding: 3px;"]
 http://trend-online.com##div[style="display:flex;padding:10px;background:#efefef;border:1px solid #dadada; border-top: 2px solid #638d43"]
 http://sedaily.com###FooterTop
+http://auction.co.kr###btnSkipTop
 http://naver.com###btn_top
 http://atlantaradiokorea.com###top_up
 http://etnews.com###wingBanner
@@ -20543,6 +20555,7 @@ http://capital.ro,evz.ro##.newsletter
 http://stirileprotv.ro##.notification-wrapper
 http://antena3.ro##.push-notification
 http://dcnews.ro##.pushinstruments
+http://olx.ua###btn-top
 http://nbnews.com.ua###iosauth
 http://epochtimes.com.ua###scroll_house
 http://novinite.bg###article_options
@@ -20797,6 +20810,7 @@ http://biutiq.pl###header > .slidebox
 http://polskatimes.pl###narzedzia
 http://meteovista.pl,nexto.pl###social
 http://strefabiznesu.pl###toolbar
+http://motocombo.pl###widget_shop7
 http://mf24.pl##.facebook
 http://eurocash.pl##.fb
 http://redcarpettv.pl##.fc
@@ -21143,6 +21157,7 @@ http://dknet730.com##.btn-sm
 http://koreatimes.com##.fab
 http://newsis.com##.function
 http://myfocus.co.kr##.postSr
+http://auction.co.kr##.sare-sns
 http://landroverkorea.co.kr,sedaily.com##.share
 http://koreatimes.com##.twit
 http://inn.co.il##.Share
@@ -22494,6 +22509,7 @@ http://mediafire.com,microcosmgames.com#@##sharebox
 http://last.fm#@##sharebuttons
 http://bufferapp.com#@##sharer
 http://renren.com#@##sharevideo
+http://nextcloud.com#@##sharing
 http://swappa.com#@##social-buttons
 http://birebin.com,pictame.com,thepictaram.club#@##social-container
 http://arstechnica.co.uk,arstechnica.com,mozilla.org#@##social-footer
@@ -22618,7 +22634,7 @@ http://norisbank.de#@#.followBox
 http://weibo.com#@#.follow_box
 http://douyutv.com,steampowered.com,vimeo.com#@#.follow_btn
 http://about.me#@#.follow_twitter
-http://expresstools.co.uk#@#.footer-social
+http://expresstools.co.uk,ksiegarnianatlomackiem.pl,motocombo.pl#@#.footer-social
 http://bysimple.co#@#.footer-socials
 http://gorod.mos.ru#@#.footer__social
 http://adme.ru#@#.gallery-social
@@ -22634,7 +22650,7 @@ http://chess.com,imgur.com,login.alibaba.com#@#.icon-google
 http://flattr.com,gleam.io#@#.icon-instagram
 http://fora.ie,login.alibaba.com#@#.icon-linkedin
 http://rottentomatoes.com#@#.icon-rss
-http://football.fr,owncloud.org,theoldreader.com,trello.com#@#.icon-share
+http://football.fr,nextcloud.com,owncloud.org,theoldreader.com,trello.com#@#.icon-share
 http://techjunkie.com#@#.icon-social
 http://carsguide.com.au#@#.icon-social-facebook
 http://carsguide.com.au#@#.icon-social-linkedin
@@ -22937,6 +22953,8 @@ http://popsugar.co.uk#@##_evidon-barrier-wrapper
 http://etonline.com,popsugar.co.uk,popsugar.com,popsugar.com.au#@##_evidon_banner
 http://aboutcookies.org#@##aboutcookies
 http://franziskaner-weissbier.de,xmradio.nl#@##accept-cookies
+http://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification
+http://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification-wrapper
 http://youtube.com#@##consent-bump
 http://consent.yahoo.com,paypal.com#@##consent.consent
 http://dnb.no#@##consentContainer
@@ -23110,7 +23128,7 @@ http://bosch-mobility-solutions.com#@#.m-cookie-intro
 http://makelaarsland.nl#@#.m-cookie-notice
 http://theverge.com#@#.m-privacy-consent
 http://gct.com,herbritts.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
-http://multimediago.pl,ticket.io#@#.modal-cookie
+http://elring.ae,elring.cn,elring.com,elring.com.tr,elring.de,elring.fr,elring.it,elring.pl,elring.pt,elring.ru,multimediago.pl,ticket.io#@#.modal-cookie
 http://betway.it#@#.module-cookie
 http://ramics-conference.org#@#.nf-form-content
 http://aklagare.se,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz,pokemon.com,shopstyle.com,thenextweb.com#@#.no-cookies
