@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MbmFgiUHDpQSFOBvgB8BFg
-! Version: 202005142351
+! Checksum: jfOjfgGLfSRrqcVfOu8OPw
+! Version: 202005152351
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 May 2020 23:51 UTC
+! Last modified: 15 May 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10100,6 +10100,7 @@ https://grandangoloagrigento.it,itacanotizie.it,qds.it,tempostretto.it,vistosulw
 https://erboristeriamagentina.it###blultpdfbanner
 https://virgilio.it###bottom_chat
 https://paginegialle.it###btt
+https://money.it###button
 https://starq8.it###button-top
 https://tods.com###container-overlay-fast-registration
 https://corriere.it###corriere-exit-page-container
@@ -10791,6 +10792,7 @@ https://elobservador.com.uy##.user-actions-wrapper
 https://europafm.com,ondacero.es##.vermas
 https://publicar.com##img[style="margin: 0px 10px; float: left; width: 26px;"]
 https://tennisitaliano.it###Utility
+https://dissapore.com###about-social
 https://salto.bz###block-block-11
 https://salto.bz###block-block-6
 https://interno.gov.it###block-menu-menu-segui-su
@@ -10845,6 +10847,7 @@ https://nurse24.it##.block-segui-nurse24it
 https://comingsoon.it##.box-tags
 https://ansa.it##.bt-suggest
 https://fantagazzetta.com##.btn-sm
+https://money.it##.btnYou
 https://cirio.it##.cirioYou
 https://tio.ch##.companyPagesBox
 https://optimagazine.com,optimaitalia.com##.condivisioni
@@ -20321,6 +20324,7 @@ http://grandangoloagrigento.it,itacanotizie.it,qds.it,tempostretto.it,vistosulwe
 http://erboristeriamagentina.it###blultpdfbanner
 http://virgilio.it###bottom_chat
 http://paginegialle.it###btt
+http://money.it###button
 http://starq8.it###button-top
 http://tods.com###container-overlay-fast-registration
 http://corriere.it###corriere-exit-page-container
@@ -21013,6 +21017,7 @@ http://elobservador.com.uy##.user-actions-wrapper
 http://europafm.com,ondacero.es##.vermas
 http://publicar.com##img[style="margin: 0px 10px; float: left; width: 26px;"]
 http://tennisitaliano.it###Utility
+http://dissapore.com###about-social
 http://salto.bz###block-block-11
 http://salto.bz###block-block-6
 http://interno.gov.it###block-menu-menu-segui-su
@@ -21067,6 +21072,7 @@ http://nurse24.it##.block-segui-nurse24it
 http://comingsoon.it##.box-tags
 http://ansa.it##.bt-suggest
 http://fantagazzetta.com##.btn-sm
+http://money.it##.btnYou
 http://cirio.it##.cirioYou
 http://tio.ch##.companyPagesBox
 http://optimagazine.com,optimaitalia.com##.condivisioni

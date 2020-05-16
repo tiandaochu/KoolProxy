@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gdzKf/sobBMq2Tx3oeQrUg
-! Version: 202005150003
+! Checksum: iuy0AY+nLECPkVt9nsPaow
+! Version: 202005152353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -389,6 +389,7 @@
 ||https://linkvans.com^$third-party
 ||https://lm.35.com^$third-party
 ||https://lnr1.com^$third-party
+||https://lolmp4.com^$third-party
 ||https://lv711.net^$third-party
 ||https://lx167.com^$third-party
 ||https://lzzqqc.com^$third-party
@@ -3125,6 +3126,7 @@
 ||https://loldyttw.net/skin/lol/js/ds.js
 ||https://loli.net/2018/09/01/5b8ab2b61cec4.jpg
 ||https://loli.net/2019/04/24/5cc0027b4f2f1.png
+||https://lolmp4.com/template/lolmp4/images/jquery.
 ||https://lolshipin.com/zt/sxx/
 ||https://longbahao.com/asd.js
 ||https://longbahao.com/js/ad-
@@ -3266,7 +3268,7 @@
 ||https://mmonly.cc/js/mmonlyAPP.js
 ||https://mmsao.me/lianmeng/
 ||https://mmtalk.net/images/banner
-||https://mmys.net/rss.php
+||https://mmys.net^*.php
 ||https://mnrrk.com/yuhe/ote/js/pcgg.js
 ||https://mobile.sina.cn/public/files/image/600x150_
 ||https://mobile.sina.cn/public/files/image/620x300_
@@ -5417,7 +5419,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://longdidi.top^
 ||http://0024aaaa.com^
 ||http://0082tv.net^$third-party
 ||http://00880808.com^
@@ -6967,8 +6968,9 @@
 ||http://lnr1.com^$third-party
 ||http://loandatec.com^
 ||http://log.interest.mix.sina.com.cn^
-||http://lolmp4.com^
+||http://lolmp4.com^$third-party
 ||http://long88.app^
+||http://longdidi.top^
 ||http://loveconer.com^
 ||http://lovestyl.com^
 ||http://lovexia.top^
@@ -7729,6 +7731,7 @@
 ||http://widget.ezprice.com.tw^$third-party
 ||http://wikigifth.com^
 ||http://winasdaq.com^$third-party
+||http://windowsxi.com^
 ||http://winvestern.com.cn^
 ||http://wjguc.com^
 ||http://wka8.com^
@@ -10979,6 +10982,7 @@
 ||http://loli.net/2018/09/01/5b8ab2b61cec4.jpg
 ||http://loli.net/2019/04/24/5cc0027b4f2f1.png
 ||http://loli.net^$domain=520film.net|52pili.com|acglover.me|btdp.online|f6hx.site|hdsky.me|magnet2048.com|youtaoqi.com
+||http://lolmp4.com/template/lolmp4/images/jquery.
 ||http://lolshipin.com/zt/sxx/
 ||http://longbahao.com/asd.js
 ||http://longbahao.com/js/ad-
@@ -11139,7 +11143,7 @@
 ||http://mmonly.cc/js/mmonlyAPP.js
 ||http://mmsao.me/lianmeng/
 ||http://mmtalk.net/images/banner
-||http://mmys.net/rss.php
+||http://mmys.net^*.php
 ||http://mnrrk.com/yuhe/ote/js/pcgg.js
 ||http://mobile.sina.cn/public/files/image/600x150_
 ||http://mobile.sina.cn/public/files/image/620x300_
@@ -13698,6 +13702,7 @@
 ||http://1494.top^
 ||http://168xiazai.com^
 ||http://17bqg.top^
+||http://17ys.top^
 ||http://17zheng.cn^
 ||http://183pu.cn^
 ||http://1fv3b.cn^
@@ -14926,6 +14931,7 @@
 ||http://mzclass.club^
 ||http://n0h8g.cn^
 ||http://nabeghlavi.com.cn^
+||http://nainaimi.top^
 ||http://nanyangqiaoxiang.cn^
 ||http://nashlin.top^
 ||http://nbaob.com^
@@ -15337,6 +15343,7 @@
 ||http://tuadong.com^
 ||http://tukexiu.com^
 ||http://tuoxintrade.cn^
+||http://tuyizhe.vip^
 ||http://twodogegg.cn^
 ||http://txshuku.com/js/
 ||http://txstatic.cn^
