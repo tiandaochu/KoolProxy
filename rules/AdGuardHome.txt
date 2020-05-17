@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20200513130948
-!TOTAL_LINES=34676
+!VER=20200516035308
+!TOTAL_LINES=34675
 address=/00-gov.cn/
 address=/kwcdn.000dn.com/
 address=/kwcscdn.000dn.com/
