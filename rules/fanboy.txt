@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: e0JkMPUbQKdsQsFuMKPBsw
-! Version: 202005162351
+! Checksum: TV4tqaVJMrMRBQ+VlIaPEw
+! Version: 202005172351
 ! Title: Fanboy's Annoyance List
-! Last modified: 16 May 2020 23:51 UTC
+! Last modified: 17 May 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5985,6 +5985,7 @@ https://indeed.com###bjobalerts
 https://caribjournal.com###black_mask
 https://aclu.org###block-aclu-social-stay-informed
 https://advocate.com###block-advocate_general-advocate_general_enewsletter
+https://infoplease.com###block-arcamaxnewsletterformblock-2
 https://imsa.com###block-block-16
 https://imsa.com###block-block-17
 https://wttw.com###block-block-44
@@ -6499,6 +6500,7 @@ https://fitbit.com##.ftr-mail-me
 https://fundable.com##.fundable_newsletter_signup
 https://whatuni.com##.fwrp
 https://thegolfnewsnet.com##.g-20
+https://crunchyroll.com##.game-banner-wrapper
 https://startribune.com##.gameday
 https://icepop.com##.get-it-first
 https://electronicintifada.net##.get-updates
@@ -12788,7 +12790,7 @@ https://krone.at#@##krn-privacy-center
 https://bosch-mobility-solutions.com#@##m-cookie-overlay
 https://17track.net#@##modal-gdpr
 https://thesocialmedwork.com#@##notice-cookie-block
-https://rockpapershotgun.com#@##optanon
+https://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 https://theverge.com#@##privacy-consent
 https://readthedocs.io,sportdiver.com#@##privacy-policy
 https://account.sonymobile.com#@##privacy-statement
@@ -12798,7 +12800,7 @@ https://boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz#@#
 https://bancaifis.it#@#.Cookies:not(body)
 https://telegraaf.nl#@#.CookiesOK
 https://maisonapart.com#@#.accept-cookie
-https://rockpapershotgun.com#@#.accept-cookie-container
+https://api.newsguardtech.com,rockpapershotgun.com#@#.accept-cookie-container
 https://franziskaner-weissbier.de#@#.accept-cookies
 https://live.nettavisen.no#@#.active > div
 https://patient.info#@#.alert--cookie
@@ -12915,7 +12917,7 @@ https://ramics-conference.org#@#.nf-form-content
 https://aklagare.se,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz,pokemon.com,shopstyle.com,thenextweb.com#@#.no-cookies
 https://nzpost.co.nz##.notification.cookies:not(body):not(html)
 https://bosch-home.com#@#.o-cookielaw
-https://rockpapershotgun.com#@#.optanon-alert-box-wrapper
+https://api.newsguardtech.com,rockpapershotgun.com#@#.optanon-alert-box-wrapper
 https://pieseauto.ro#@#.page-cookies
 https://google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 https://metallica.com#@#.privacy_policy_message_box
@@ -16208,6 +16210,7 @@ http://indeed.com###bjobalerts
 http://caribjournal.com###black_mask
 http://aclu.org###block-aclu-social-stay-informed
 http://advocate.com###block-advocate_general-advocate_general_enewsletter
+http://infoplease.com###block-arcamaxnewsletterformblock-2
 http://imsa.com###block-block-16
 http://imsa.com###block-block-17
 http://wttw.com###block-block-44
@@ -16722,6 +16725,7 @@ http://fitbit.com##.ftr-mail-me
 http://fundable.com##.fundable_newsletter_signup
 http://whatuni.com##.fwrp
 http://thegolfnewsnet.com##.g-20
+http://crunchyroll.com##.game-banner-wrapper
 http://startribune.com##.gameday
 http://icepop.com##.get-it-first
 http://electronicintifada.net##.get-updates
@@ -23013,7 +23017,7 @@ http://krone.at#@##krn-privacy-center
 http://bosch-mobility-solutions.com#@##m-cookie-overlay
 http://17track.net#@##modal-gdpr
 http://thesocialmedwork.com#@##notice-cookie-block
-http://rockpapershotgun.com#@##optanon
+http://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 http://theverge.com#@##privacy-consent
 http://readthedocs.io,sportdiver.com#@##privacy-policy
 http://account.sonymobile.com#@##privacy-statement
@@ -23023,7 +23027,7 @@ http://boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz#@#.
 http://bancaifis.it#@#.Cookies:not(body)
 http://telegraaf.nl#@#.CookiesOK
 http://maisonapart.com#@#.accept-cookie
-http://rockpapershotgun.com#@#.accept-cookie-container
+http://api.newsguardtech.com,rockpapershotgun.com#@#.accept-cookie-container
 http://franziskaner-weissbier.de#@#.accept-cookies
 http://live.nettavisen.no#@#.active > div
 http://patient.info#@#.alert--cookie
@@ -23140,7 +23144,7 @@ http://ramics-conference.org#@#.nf-form-content
 http://aklagare.se,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz,pokemon.com,shopstyle.com,thenextweb.com#@#.no-cookies
 http://nzpost.co.nz##.notification.cookies:not(body):not(html)
 http://bosch-home.com#@#.o-cookielaw
-http://rockpapershotgun.com#@#.optanon-alert-box-wrapper
+http://api.newsguardtech.com,rockpapershotgun.com#@#.optanon-alert-box-wrapper
 http://pieseauto.ro#@#.page-cookies
 http://google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 http://metallica.com#@#.privacy_policy_message_box

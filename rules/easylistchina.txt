@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: oWulYOsiU3oYgjDZDjc+xQ
-! Version: 202005162353
+! Checksum: l2n7vVFFoWKUC0uMbDDG6Q
+! Version: 202005172353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -2102,6 +2102,7 @@
 ||https://dbw.cn/eap/js/db/dbwad_
 ||https://dbw.cn/eap/js/hl/hlj_ad
 ||https://dd3200.com/js/favshare.js
+||https://dd6364.com/js/777/
 ||https://ddshu.net/a_d_code/
 ||https://dealmoon.com/hotdeals/hotdeals_scroller.php
 ||https://dealmoon.com/upload/dealmoon_app.jpg
@@ -3130,6 +3131,7 @@
 ||https://lolshipin.com/zt/sxx/
 ||https://longbahao.com/asd.js
 ||https://longbahao.com/js/ad-
+||https://longdidi.top/tpl/mstyle/js/g.js
 ||https://longzhu.com/i/api/playpage/recommendPop?
 ||https://longzhu.com/recommendad/
 ||https://lotour.net/bcef/388.js
@@ -6970,7 +6972,6 @@
 ||http://log.interest.mix.sina.com.cn^
 ||http://lolmp4.com^$third-party
 ||http://long88.app^
-||http://longdidi.top^
 ||http://loveconer.com^
 ||http://lovestyl.com^
 ||http://lovexia.top^
@@ -7586,6 +7587,7 @@
 ||http://tuia.cn^$third-party
 ||http://tukeai.com^
 ||http://tukj.net^$third-party
+||http://tvbyb04.cn^
 ||http://tvbyb04.com^
 ||http://tvrom.cn^$third-party
 ||http://twb98.com^$third-party
@@ -9793,6 +9795,7 @@
 ||http://dbw.cn/eap/js/db/dbwad_
 ||http://dbw.cn/eap/js/hl/hlj_ad
 ||http://dd3200.com/js/favshare.js
+||http://dd6364.com/js/777/
 ||http://ddshu.net/a_d_code/
 ||http://de.as.pptv.com^
 ||http://dealmoon.com/hotdeals/hotdeals_scroller.php
@@ -10986,6 +10989,7 @@
 ||http://lolshipin.com/zt/sxx/
 ||http://longbahao.com/asd.js
 ||http://longbahao.com/js/ad-
+||http://longdidi.top/tpl/mstyle/js/g.js
 ||http://longzhu.com/i/api/playpage/recommendPop?
 ||http://longzhu.com/recommendad/
 ||http://lotour.net/bcef/388.js
@@ -13958,6 +13962,8 @@
 ||http://b0lc.cn^
 ||http://b25ku.cn^
 ||http://b54ah.cn^
+||http://babalink.net^
+||http://babalink.top^
 ||http://baful.net^
 ||http://baidu.bxwx666.org^
 ||http://baiduspider1.cn^
@@ -14018,6 +14024,7 @@
 ||http://bodapet.com^
 ||http://bohuaqiche.com^
 ||http://bokanedu.net^
+||http://bolili.info^
 ||http://book9.net^$third-party
 ||http://boomgamescloud-cdn.cn^
 ||http://boweineng.cn^
@@ -14178,6 +14185,7 @@
 ||http://dajean.com^
 ||http://dake.net.cn^
 ||http://damiren.com^
+||http://danlidanli.net^
 ||http://daokejs.com^
 ||http://dasheducation.cn^
 ||http://daskm.com^
@@ -15296,6 +15304,7 @@
 ||http://szwzjk.cn^
 ||http://szyuke.cn^
 ||http://tabwl.com^
+||http://tabyee.cn^
 ||http://tajxgs.com^
 ||http://tatahn.com^
 ||http://tbaia.com^
@@ -17071,7 +17080,7 @@ https://discuss.com.hk###gamepage_banner
 https://jb51.net###gaosu
 https://downxia.com###gaosu_div0
 https://ruanjianxia.com###gaosu_downloads
-https://9ht.com,downcc.com,downyi.com,pc6.com,xfdown.com###gaosuxiazai
+https://9ht.com,downcc.com,downyi.com,pc0359.cn,pc6.com,xfdown.com###gaosuxiazai
 https://ruanyifeng.com###gd1
 https://whnews.cn###gd_l
 https://whnews.cn###gd_r
@@ -21128,7 +21137,8 @@ https://chysg.com##img[width="232"][height="90"]
 https://36dm.club,36dm.com,acgsou.com##img[width="250"][height="250"]
 https://uschinapress.com##img[width="290"]
 https://5eplay.com##img[width="290"][height="360"]
-https://2chcn.com,jiyingw.net##img[width="300"]
+https://2chcn.com##img[width="300"]
+https://jiyingw.net##img[width="300"][height="82"]
 https://guitarchina.com##img[width="420"][height="60"]
 https://aguitar.cn##img[width="470"][height="60"]
 https://china.com.cn##img[width="665"]
@@ -21637,6 +21647,8 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://bjx.com.cn##.layer_right2
+https://dyhjw.com##.index_luckdraw
 https://rrys2019.com###indexNav1
 https://acfun.cn##.pause-display
 https://examw.com###kefu_in
@@ -23038,7 +23050,7 @@ http://discuss.com.hk###gamepage_banner
 http://jb51.net###gaosu
 http://downxia.com###gaosu_div0
 http://ruanjianxia.com###gaosu_downloads
-http://9ht.com,downcc.com,downyi.com,pc6.com,xfdown.com###gaosuxiazai
+http://9ht.com,downcc.com,downyi.com,pc0359.cn,pc6.com,xfdown.com###gaosuxiazai
 http://ruanyifeng.com###gd1
 http://whnews.cn###gd_l
 http://whnews.cn###gd_r
@@ -27095,7 +27107,8 @@ http://chysg.com##img[width="232"][height="90"]
 http://36dm.club,36dm.com,acgsou.com##img[width="250"][height="250"]
 http://uschinapress.com##img[width="290"]
 http://5eplay.com##img[width="290"][height="360"]
-http://2chcn.com,jiyingw.net##img[width="300"]
+http://2chcn.com##img[width="300"]
+http://jiyingw.net##img[width="300"][height="82"]
 http://guitarchina.com##img[width="420"][height="60"]
 http://aguitar.cn##img[width="470"][height="60"]
 http://china.com.cn##img[width="665"]
@@ -27604,6 +27617,8 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://bjx.com.cn##.layer_right2
+http://dyhjw.com##.index_luckdraw
 http://rrys2019.com###indexNav1
 http://acfun.cn##.pause-display
 http://examw.com###kefu_in
