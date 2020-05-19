@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: l2n7vVFFoWKUC0uMbDDG6Q
-! Version: 202005172353
+! Checksum: OYnUQqyX+EBnRYjwb00l7w
+! Version: 202005190003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -1254,7 +1254,6 @@
 ||https://7scs.com/Public/img/list-
 ||https://7xdown.com/bz/
 ||https://7xdown.com/idcgg/
-||https://7xsf4r.com1.z0.glb.clouddn.com/lianzi.mp4
 ||https://8090app.com/js/right.js
 ||https://80s.la/m/js/
 ||https://80s.so/html/
@@ -3050,7 +3049,6 @@
 ||https://layuicdn.com/layer/layer.js
 ||https://lcxw.cn/d/js/thea
 ||https://ld0766.com/*20*a/
-||https://ld12.com/js/myfiles/
 ||https://ldb.cc/js/top.js
 ||https://leagueofmovie.com^*Ads
 ||https://lecai.com/page/zhuanti/baidu/
@@ -4902,6 +4900,7 @@
 ||https://dabizi.net/images/pcad.png
 ||https://diyibanzhu6.xyz/js/html
 ||https://duanwenxue.com/functions/
+||https://dybz8.net/js/htm
 ||https://feixs.com/style/t.js
 ||https://hbfie.org/mh
 ||https://ieeod0.com^$third-party
@@ -8802,7 +8801,6 @@
 ||http://7xdown.com/bz/
 ||http://7xdown.com/idcgg/
 ||http://7xsf3h.com1.z0.glb.clouddn.com^
-||http://7xsf4r.com1.z0.glb.clouddn.com/lianzi.mp4
 ||http://8*.tianya.cn^
 ||http://801.tianyaui.com^
 ||http://8090app.com/js/right.js
@@ -10901,7 +10899,6 @@
 ||http://layuicdn.com/layer/layer.js$domain=hanjutvn.com
 ||http://lcxw.cn/d/js/thea
 ||http://ld0766.com/*20*a/
-||http://ld12.com/js/myfiles/
 ||http://ldb.cc/js/top.js
 ||http://leagueofmovie.com^*Ads
 ||http://lecai.com/page/zhuanti/baidu/
@@ -13677,6 +13674,7 @@
 ||http://0413fsiuhwem.xyz^
 ||http://0420zvnmljgfdsa.xyz^
 ||http://0511qsfhknvz.xyz^
+||http://0518dfgwert.xyz^
 ||http://0530hz.cn^
 ||http://0532ci.com.cn^
 ||http://0551zgz.com^
@@ -14255,6 +14253,7 @@
 ||http://duoyidd.com^
 ||http://dxcssc.cn^
 ||http://dxmci.com^
+||http://dybz8.net/js/htm
 ||http://dydyhg.com^
 ||http://dyfzyg.com^
 ||http://dzisou.com^
@@ -14501,6 +14500,7 @@
 ||http://helpinfo.cn^
 ||http://henanlinyu.cn^
 ||http://henduoqian.com^
+||http://hesepd.cn^
 ||http://heylookhere.top^
 ||http://hfyxdl.com^
 ||http://hgdanbas.cn^
@@ -14913,6 +14913,7 @@
 ||http://mmwdwg.cn^
 ||http://mnptinibfbv.com^
 ||http://mobiorg8.com^
+||http://monimoni.top^
 ||http://morningpiggy.com^
 ||http://moshangflower.cn^
 ||http://mouaa.com^
@@ -18102,7 +18103,7 @@ https://cs.com.cn,pjtime.com##.ad_txt
 https://bcbay.com##.ad_txt_box
 https://putclub.com##.ad_vipabc
 https://yicheshi.com##.ad_w
-https://stheadline.com,yinyuetai.com##.ad_w300
+https://ltn.com.tw,stheadline.com,yinyuetai.com##.ad_w300
 https://itavcn.com##.ad_wordxin
 https://baike.com##.ad_xuanban
 https://zhijia.com##.adb
@@ -21305,6 +21306,7 @@ https://numberempire.com#@##perm_ad
 https://www.zol.com.cn#@##search_ad
 https://wangnba.com#@##showAd
 https://u2mtv.com#@##slider-ad
+https://woego.cn#@##topAds
 https://buy.ccb.com#@##top_ad
 https://520cc.me,5278.cc#@#.a_cn
 https://help.xunlei.com#@#.a_fr
@@ -21333,7 +21335,7 @@ https://012.tw#@#.ad728
 https://520tingshu.com,ting35.com#@#.ad960
 https://cw.com.tw#@#.adActive
 https://czbj.js.cn#@#.adArea
-https://macwk.com,poedb.tw#@#.adBanner
+https://macwk.com#@#.adBanner
 https://cmbc.com.cn#@#.adBox
 https://bbs-mychat.com#@#.adContent
 https://icbc.com.cn#@#.adLeft
@@ -24072,7 +24074,7 @@ http://cs.com.cn,pjtime.com##.ad_txt
 http://bcbay.com##.ad_txt_box
 http://putclub.com##.ad_vipabc
 http://yicheshi.com##.ad_w
-http://stheadline.com,yinyuetai.com##.ad_w300
+http://ltn.com.tw,stheadline.com,yinyuetai.com##.ad_w300
 http://itavcn.com##.ad_wordxin
 http://baike.com##.ad_xuanban
 http://zhijia.com##.adb
@@ -27275,6 +27277,7 @@ http://numberempire.com#@##perm_ad
 http://www.zol.com.cn#@##search_ad
 http://wangnba.com#@##showAd
 http://u2mtv.com#@##slider-ad
+http://woego.cn#@##topAds
 http://buy.ccb.com#@##top_ad
 http://520cc.me,5278.cc#@#.a_cn
 http://help.xunlei.com#@#.a_fr
@@ -27303,7 +27306,7 @@ http://012.tw#@#.ad728
 http://520tingshu.com,ting35.com#@#.ad960
 http://cw.com.tw#@#.adActive
 http://czbj.js.cn#@#.adArea
-http://macwk.com,poedb.tw#@#.adBanner
+http://macwk.com#@#.adBanner
 http://cmbc.com.cn#@#.adBox
 http://bbs-mychat.com#@#.adContent
 http://icbc.com.cn#@#.adLeft

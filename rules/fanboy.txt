@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TV4tqaVJMrMRBQ+VlIaPEw
-! Version: 202005172351
+! Checksum: 2KPdjyipgobgZ/hMmRd90g
+! Version: 202005182351
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 May 2020 23:51 UTC
+! Last modified: 18 May 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -8218,6 +8218,7 @@ https://cruisemapper.com##.socialPage
 https://gulf-times.com##.socialSignIn
 https://vice.com##.social_apps
 https://onlyfans.com##.social_guest
+https://signiform.com##.social_nav
 https://myfitnesspal.com##.social_profile
 https://forbes.com,impactloud.com,technobuffalo.com,thehindu.com,thenextweb.com##.socialize
 https://bidorbuy.co.za##.socialnetwork
@@ -9368,6 +9369,7 @@ https://itinari.com##.root-8abb4
 https://totalserversolutions.com##.rplm-alert
 https://jeffs.com,scandinaviansoul.com##.rstboxes
 https://welcometothejungle.co##.s1u7oiza-0
+https://scaleway.com##.sc-AxjAm.pdqDT.sc-kcRExk.dhjYCX
 https://paladins.com,realmroyale.com,smitegame.com##.sc-bdVaJa
 https://live365.com##.sc-csuQGl
 https://drivetribe.com##.sc-epGmkI
@@ -9597,6 +9599,7 @@ https://baguette.at###TopBtn
 https://valentins.de###arrow-up
 https://nzz.ch###articleMore
 https://testberichte.de###bck-t-tp
+https://unsertirol24.com###beginn-arrow
 https://androidnext.de###c4a_box
 https://hartziv.org###cr_embeded_form
 https://reifenpresse.de###custom_html-2
@@ -10125,6 +10128,7 @@ https://ilquotidianodellazio.it###imgtop
 https://cronacheancona.it###intestazione
 https://citywire.it###jsRegisterAlertBanner
 https://italiaoggi.it###lig_movingup2it_smartbox
+https://lavocedelnordest.eu###mb-scrollup
 https://agenziaimpress.it,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,meteonetwork.it,moked.it,money.it,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
 https://decathlon.it###messagetop
 https://milanofinanza.it###milanofinanza_web_smartbox_article
@@ -18443,6 +18447,7 @@ http://cruisemapper.com##.socialPage
 http://gulf-times.com##.socialSignIn
 http://vice.com##.social_apps
 http://onlyfans.com##.social_guest
+http://signiform.com##.social_nav
 http://myfitnesspal.com##.social_profile
 http://forbes.com,impactloud.com,technobuffalo.com,thehindu.com,thenextweb.com##.socialize
 http://bidorbuy.co.za##.socialnetwork
@@ -19594,6 +19599,7 @@ http://itinari.com##.root-8abb4
 http://totalserversolutions.com##.rplm-alert
 http://jeffs.com,scandinaviansoul.com##.rstboxes
 http://welcometothejungle.co##.s1u7oiza-0
+http://scaleway.com##.sc-AxjAm.pdqDT.sc-kcRExk.dhjYCX
 http://paladins.com,realmroyale.com,smitegame.com##.sc-bdVaJa
 http://live365.com##.sc-csuQGl
 http://drivetribe.com##.sc-epGmkI
@@ -19823,6 +19829,7 @@ http://baguette.at###TopBtn
 http://valentins.de###arrow-up
 http://nzz.ch###articleMore
 http://testberichte.de###bck-t-tp
+http://unsertirol24.com###beginn-arrow
 http://androidnext.de###c4a_box
 http://hartziv.org###cr_embeded_form
 http://reifenpresse.de###custom_html-2
@@ -20351,6 +20358,7 @@ http://ilquotidianodellazio.it###imgtop
 http://cronacheancona.it###intestazione
 http://citywire.it###jsRegisterAlertBanner
 http://italiaoggi.it###lig_movingup2it_smartbox
+http://lavocedelnordest.eu###mb-scrollup
 http://agenziaimpress.it,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,meteonetwork.it,moked.it,money.it,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
 http://decathlon.it###messagetop
 http://milanofinanza.it###milanofinanza_web_smartbox_article
