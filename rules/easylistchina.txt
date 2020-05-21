@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 3u/tYud3D598+YAKU459OQ
-! Version: 202005200003
+! Checksum: aaP0BnE1GiX0O6fd8+TDFw
+! Version: 202005202353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -2137,6 +2137,7 @@
 ||https://discuss.com.hk/dfp_forum.php?au=Discuss_Web_
 ||https://discuss.com.hk/oath/
 ||https://discuss.com.hk^*_prod.html
+||https://ditiezu.com/banner/badatu.png
 ||https://diyibanzhu555.com/js/html
 ||https://diyifanwen.com/siteimages/jiqiren
 ||https://diyijjj.com/data/content
@@ -9836,6 +9837,7 @@
 ||http://discuss.com.hk/dfp_forum.php?au=Discuss_Web_
 ||http://discuss.com.hk/oath/
 ||http://discuss.com.hk^*_prod.html
+||http://ditiezu.com/banner/badatu.png
 ||http://divcss5.com*/ibeifeng/
 ||http://divcss5.com*/liping/
 ||http://diyibanzhu555.com/js/html
@@ -14182,6 +14184,7 @@
 ||http://damiren.com^
 ||http://danlidanli.net^
 ||http://daokejs.com^
+||http://dapskja.cn^
 ||http://dasheducation.cn^
 ||http://daskm.com^
 ||http://dawanjiahn.com^
@@ -15700,6 +15703,7 @@
 ||http://yyjhf.com^
 ||http://yymmsd.cn^
 ||http://yyshow.top^
+||http://yzftqx.cn^
 ||http://z3uk6.cn^
 ||http://z41vm.cn^
 ||http://z65j.cn^
@@ -19455,6 +19459,7 @@ https://mnw.cn##.mnw_top_ads
 https://sogou.com##.mobad
 https://1905.com##.mobile_ad_promote
 https://www.sina.com.cn##.mod-01
+https://yitaifang.com##.mod-da
 https://start.firefoxchina.cn##.mod-delay-resource:nth-child(4)
 https://image.baidu.com##.mod-promo
 https://sdo.com##.mod-public-ads
@@ -21366,7 +21371,7 @@ https://money18.on.cc#@#.ads-bg
 https://gsxt.gov.cn#@#.ads-right
 https://159i.com,techroomage.com,zhaopin.com#@#.adsBox
 https://liumingye.cn#@#.adsTest
-https://alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com#@#.adsbygoogle
+https://alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 https://gdmm.com,gkstk.com,youquba.net#@#.adtop
 https://bdp.cn#@#.adv-list
 https://liumingye.cn#@#.advText
@@ -25432,6 +25437,7 @@ http://mnw.cn##.mnw_top_ads
 http://sogou.com##.mobad
 http://1905.com##.mobile_ad_promote
 http://www.sina.com.cn##.mod-01
+http://yitaifang.com##.mod-da
 http://start.firefoxchina.cn##.mod-delay-resource:nth-child(4)
 http://image.baidu.com##.mod-promo
 http://sdo.com##.mod-public-ads
@@ -27343,7 +27349,7 @@ http://money18.on.cc#@#.ads-bg
 http://gsxt.gov.cn#@#.ads-right
 http://159i.com,techroomage.com,zhaopin.com#@#.adsBox
 http://liumingye.cn#@#.adsTest
-http://alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com#@#.adsbygoogle
+http://alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 http://gdmm.com,gkstk.com,youquba.net#@#.adtop
 http://bdp.cn#@#.adv-list
 http://liumingye.cn#@#.advText
