@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 01O5sBF/roqMZhK4pbQsoQ
-! Version: 202005202351
+! Checksum: 2bFQYq9nZq3BOATnnlGoAw
+! Version: 202005212352
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 May 2020 23:51 UTC
+! Last modified: 21 May 2020 23:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12033,6 +12033,7 @@ https://linux-info.ru###trumpet_message
 https://drweb.ru##.SHOWIT-msg_showed
 https://ngnovoros.ru##._1TNYbgH
 https://bancaintesa.ru##.agreement-substrate
+https://proglib.io##.basis__h-content
 https://tvguru.ru##.c-modal
 https://hashrating.com##.cookie
 https://glavred.info,unian.net##.cookies
@@ -12846,6 +12847,7 @@ https://fotopuzzle.de#@#.cookie-policy-wrapper
 https://60millions-mag.com#@#.cookie-popup
 https://lot.com#@#.cookie-promo
 https://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie-text
+https://proglib.io#@#.cookie-visible
 https://538.nl,pieseauto.ro,saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it,xmradio.nl,xs4all.nl#@#.cookie-wall
 https://ben.nl,bynco.com#@#.cookie-wall-container
 https://mediapart.fr#@#.cookie-warn
@@ -22266,6 +22268,7 @@ http://linux-info.ru###trumpet_message
 http://drweb.ru##.SHOWIT-msg_showed
 http://ngnovoros.ru##._1TNYbgH
 http://bancaintesa.ru##.agreement-substrate
+http://proglib.io##.basis__h-content
 http://tvguru.ru##.c-modal
 http://hashrating.com##.cookie
 http://glavred.info,unian.net##.cookies
@@ -23079,6 +23082,7 @@ http://fotopuzzle.de#@#.cookie-policy-wrapper
 http://60millions-mag.com#@#.cookie-popup
 http://lot.com#@#.cookie-promo
 http://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie-text
+http://proglib.io#@#.cookie-visible
 http://538.nl,pieseauto.ro,saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it,xmradio.nl,xs4all.nl#@#.cookie-wall
 http://ben.nl,bynco.com#@#.cookie-wall-container
 http://mediapart.fr#@#.cookie-warn

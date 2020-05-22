@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: aaP0BnE1GiX0O6fd8+TDFw
-! Version: 202005202353
+! Checksum: x7ifc58GGnCDWp4feB5qFA
+! Version: 202005220004
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -97,6 +97,7 @@
 ||https://710070.com^$third-party
 ||https://7540.com^$third-party
 ||https://7676.com^$third-party
+||https://77777.org^$third-party
 ||https://7794.com^$third-party
 ||https://77zhuan.com^$third-party
 ||https://788xj.com^$third-party
@@ -798,6 +799,7 @@
 ||https://141h.com/data/attachment/noblock/cf/
 ||https://145.239.6.59/g3/
 ||https://14bobo.com/js/
+||https://159i.com/cab/
 ||https://159i.com/cnb/
 ||https://159i.com/nb/*.php
 ||https://159i.com/p/hola/*.php|
@@ -3117,7 +3119,7 @@
 ||https://livku.com/g1000/
 ||https://llj22.com/1.gif
 ||https://lnd.com.cn/site1/*.swf
-||https://lnzq5.com/js/
+||https://lnzqw.net/js/
 ||https://lofter.com/mailEntryMobile.do
 ||https://logoquan.com/upload/prd/
 ||https://loldyttw.com/blr.js
@@ -4688,6 +4690,7 @@
 ||https://zchot.com/images/web.gif
 ||https://zczj.com/special/
 ||https://zd518.cn/bf-
+||https://zd518.cn/template/qpg6080/
 ||https://zdcj.net^*/ad
 ||https://zdface.com/js/m/zw_banner.js
 ||https://zdisk.cn/mip/bnmanhua.
@@ -4876,9 +4879,9 @@
 ||https://dlkoo.com/down/$subdocument
 ||https://dlkoo.com/down/copy
 ||https://dnvodcdn.me/fast/*.mp4
-||https://ifun.tv/a/$xmlhttprequest
+||https://ifvod.tv/a/$xmlhttprequest
 ||https://s1-a1.dnvodcdn.me^*.svg
-||https://s1-a4.ifun.tv^$rewrite=abp-resource:blank-mp3
+||https://s1-a4.ifvod.tv^$rewrite=abp-resource:blank-mp3
 ||https://dybee.tv/gg
 ||https://hh010.com/static/image/fff/
 ||https://0577renliu.
@@ -5742,6 +5745,7 @@
 ||http://766ba.net^
 ||http://7676.com^$third-party
 ||http://77417.cn^
+||http://77777.org^$third-party
 ||http://7794.com^$third-party
 ||http://77power.com^
 ||http://77zhuan.com^$third-party
@@ -8314,6 +8318,7 @@
 ||http://141h.com/data/attachment/noblock/cf/
 ||http://145.239.6.59/g3/
 ||http://14bobo.com/js/
+||http://159i.com/cab/
 ||http://159i.com/cnb/
 ||http://159i.com/nb/*.php
 ||http://159i.com/p/hola/*.php|
@@ -10973,7 +10978,7 @@
 ||http://ll.gxsky.com^
 ||http://llj22.com/1.gif
 ||http://lnd.com.cn/site1/*.swf
-||http://lnzq5.com/js/
+||http://lnzqw.net/js/
 ||http://lofter.com/mailEntryMobile.do
 ||http://logoquan.com/upload/prd/
 ||http://loldyttw.com/blr.js
@@ -12719,6 +12724,7 @@
 ||http://zchot.com/images/web.gif
 ||http://zczj.com/special/
 ||http://zd518.cn/bf-
+||http://zd518.cn/template/qpg6080/
 ||http://zdcj.net^*/ad
 ||http://zdface.com/js/m/zw_banner.js
 ||http://zdisk.cn/mip/bnmanhua.
@@ -13648,9 +13654,9 @@
 ||http://lpsgc.cn^
 ||http://yi71.com.cn^
 ||http://dnvodcdn.me/fast/*.mp4
-||http://ifun.tv/a/$xmlhttprequest
+||http://ifvod.tv/a/$xmlhttprequest
 ||http://s1-a1.dnvodcdn.me^*.svg
-||http://s1-a4.ifun.tv^$rewrite=abp-resource:blank-mp3,domain=ifun.tv
+||http://s1-a4.ifvod.tv^$rewrite=abp-resource:blank-mp3,domain=ifvod.tv
 ||http://dybee.tv/gg
 ||http://okx7.site^
 ||http://runkao.net^
@@ -14502,6 +14508,7 @@
 ||http://henanlinyu.cn^
 ||http://henduoqian.com^
 ||http://hesepd.cn^
+||http://heshunjituan.com^
 ||http://heylookhere.top^
 ||http://hfyxdl.com^
 ||http://hgdanbas.cn^
@@ -15309,6 +15316,7 @@
 ||http://tabwl.com^
 ||http://tabyee.cn^
 ||http://tajxgs.com^
+||http://taolicloud.com^
 ||http://tatahn.com^
 ||http://tbaia.com^
 ||http://tbenq.com^
@@ -15434,6 +15442,7 @@
 ||http://vnanf.com^
 ||http://vodtw.la/js/a1.
 ||http://vodtw.la^*xhtml
+||http://voterlin.cn^
 ||http://vouky.com^
 ||http://vsxet.com^
 ||http://vvnna.com^
@@ -15568,6 +15577,7 @@
 ||http://xmljx.cn^
 ||http://xmndrx.cn^
 ||http://xn--2qu92fhtx4ff.ink^
+||http://xn--2qu92fhtx4ff.ren^
 ||http://xn--2qux23c9ziyrq.icu^
 ||http://xn--2qux23confgml.club^
 ||http://xn--4gqvdz18f.xyz^
@@ -16471,6 +16481,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://18comic.org##DIV[style^="position: fixed; top: 90px;"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -17330,6 +17341,7 @@ https://l114la.com###media
 https://hinet.net###media_ad_popup_overlay
 https://hexieshe.cn###media_image-2
 https://hexieshe.cn###media_image-3
+https://loldk.com###meizi_ad
 https://avtb8899.com###menu-main-content > li:nth-child(n+5)
 https://fuliba.net###menu-nav > .menu-item:nth-child(n+4):not(:last-child)
 https://xiuren.org###menur
@@ -21371,7 +21383,7 @@ https://money18.on.cc#@#.ads-bg
 https://gsxt.gov.cn#@#.ads-right
 https://159i.com,techroomage.com,zhaopin.com#@#.adsBox
 https://liumingye.cn#@#.adsTest
-https://alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
+https://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 https://gdmm.com,gkstk.com,youquba.net#@#.adtop
 https://bdp.cn#@#.adv-list
 https://liumingye.cn#@#.advText
@@ -21546,7 +21558,7 @@ https://china.cn##.ltp_box
 https://cilimao.co,cilimao.one##div[class^="FixBanner"]
 https://dlkoo.cc##ins[id^="tanxssp-outer-conmm_"]
 https://dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
-https://ifun.tv##vg-pause-ads
+https://ifvod.tv##vg-pause-ads
 https://fuliba.net,uliba.net###focusslide
 https://fuliba.net,uliba.net##.widget_custom_html:nth-child(2)
 https://hh010.com##.a_hong_c
@@ -22449,6 +22461,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://18comic.org##DIV[style^="position: fixed; top: 90px;"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -23308,6 +23321,7 @@ http://l114la.com###media
 http://hinet.net###media_ad_popup_overlay
 http://hexieshe.cn###media_image-2
 http://hexieshe.cn###media_image-3
+http://loldk.com###meizi_ad
 http://avtb8899.com###menu-main-content > li:nth-child(n+5)
 http://fuliba.net###menu-nav > .menu-item:nth-child(n+4):not(:last-child)
 http://xiuren.org###menur
@@ -27349,7 +27363,7 @@ http://money18.on.cc#@#.ads-bg
 http://gsxt.gov.cn#@#.ads-right
 http://159i.com,techroomage.com,zhaopin.com#@#.adsBox
 http://liumingye.cn#@#.adsTest
-http://alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
+http://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 http://gdmm.com,gkstk.com,youquba.net#@#.adtop
 http://bdp.cn#@#.adv-list
 http://liumingye.cn#@#.advText
@@ -27524,7 +27538,7 @@ http://china.cn##.ltp_box
 http://cilimao.co,cilimao.one##div[class^="FixBanner"]
 http://dlkoo.cc##ins[id^="tanxssp-outer-conmm_"]
 http://dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
-http://ifun.tv##vg-pause-ads
+http://ifvod.tv##vg-pause-ads
 http://fuliba.net,uliba.net###focusslide
 http://fuliba.net,uliba.net##.widget_custom_html:nth-child(2)
 http://hh010.com##.a_hong_c
