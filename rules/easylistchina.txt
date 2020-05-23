@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: x7ifc58GGnCDWp4feB5qFA
-! Version: 202005220004
+! Checksum: rTUN2T3fAMAqabZy59rEMQ
+! Version: 202005230003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -799,13 +799,10 @@
 ||https://141h.com/data/attachment/noblock/cf/
 ||https://145.239.6.59/g3/
 ||https://14bobo.com/js/
-||https://159i.com/cab/
-||https://159i.com/cnb/
-||https://159i.com/nb/*.php
-||https://159i.com/p/hola/*.php|
 ||https://159i.com/video/pop/
 ||https://159i.com/video/usr/uploads/1-
 ||https://159i.com/video/usr/uploads/bd/$image
+||https://159i.com^*.php|
 ||https://159i.com^*_slest.php
 ||https://15hn.net/data/content
 ||https://15yc.cc/statics/js/ffffff.js
@@ -3103,6 +3100,7 @@
 ||https://links.cn/mmshow
 ||https://linkwan.com/gb/broadmeter/speed/cp.js
 ||https://linkwan.com/gb/images/uploadimages/2010-12-16.swf
+||https://linkwan.com/gb/javascript/a
 ||https://linkwan.com/gb/javascript/b4.js
 ||https://linkwan.com/gb/javascript/c5-
 ||https://linovel.net/cp/lk/ad/externalAd?
@@ -7497,6 +7495,7 @@
 ||http://szggdw.com^
 ||http://szh6.xyz^
 ||http://szjianxin.net^
+||http://szpl0.com^
 ||http://szrk3.com^
 ||http://sztbjs.com^
 ||http://szvr.com^$third-party
@@ -8318,13 +8317,10 @@
 ||http://141h.com/data/attachment/noblock/cf/
 ||http://145.239.6.59/g3/
 ||http://14bobo.com/js/
-||http://159i.com/cab/
-||http://159i.com/cnb/
-||http://159i.com/nb/*.php
-||http://159i.com/p/hola/*.php|
 ||http://159i.com/video/pop/
 ||http://159i.com/video/usr/uploads/1-
 ||http://159i.com/video/usr/uploads/bd/$image
+||http://159i.com^*.php|
 ||http://159i.com^*_slest.php
 ||http://15hn.net/data/content
 ||http://15yc.cc/statics/js/ffffff.js
@@ -10961,6 +10957,7 @@
 ||http://links.cn/mmshow
 ||http://linkwan.com/gb/broadmeter/speed/cp.js
 ||http://linkwan.com/gb/images/uploadimages/2010-12-16.swf
+||http://linkwan.com/gb/javascript/a
 ||http://linkwan.com/gb/javascript/b4.js
 ||http://linkwan.com/gb/javascript/c5-
 ||http://linovel.net/cp/lk/ad/externalAd?
@@ -15111,6 +15108,7 @@
 ||http://q671e.cn^
 ||http://qaqact.cn^
 ||http://qcgkd322.vip^
+||http://qcsfxv.cn^
 ||http://qd836.cn^
 ||http://qdiut.com^
 ||http://qdyazc.com^
@@ -16481,7 +16479,6 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://18comic.org##DIV[style^="position: fixed; top: 90px;"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -17210,6 +17207,7 @@ https://image.baidu.com###imgCmsAdPart
 https://e10000.cn###imgFloat
 https://image.baidu.com###imgid > .fcimgpage
 https://54new.com###imgshow
+https://52bug.cn###index-code
 https://ydss.cn###indexBlad
 https://baidu.com###index_banner_top
 https://zongheng.com###index_game
@@ -17351,6 +17349,7 @@ https://webjx.com###middleimg
 https://91.com,hao123.com,site.baidu.com###midline
 https://hao123.com###mingzhanresource
 https://hk.yahoo.com###mntl1
+https://fanqiangzhe.com###mobile-bottom-ads
 https://so.com###mohe-etao_shangye
 https://so.com###mohe-gouwu > .g-shadow
 https://so.com###mohe-m-smzdm_haojia
@@ -17380,6 +17379,7 @@ https://cam4.tw###newTippingViewer + div[data-ab]
 https://dilidili.wang###newapp2018
 https://yaolan.com###newfix-dsp
 https://pigai.org###newnotice
+https://fanqiangzhe.com###news-include + .text-center
 https://chinaqking.com###newsAD
 https://hexun.com###newsPopWin
 https://live.win007.com###notify > a[target="_blank"]
@@ -17467,6 +17467,7 @@ https://univisa.com.cn###popup
 https://eprice.com.tw###popup-ad-overlay
 https://tom.com###popupDivgame
 https://ck101.com###popupGameAd
+https://fanqiangzhe.com###popupModal
 https://5173.com###popupRight
 https://baixing.com###port-info
 https://ld0766.com###portal_ad3
@@ -20580,6 +20581,7 @@ https://ccav1.com##a[href*="meidebi."]
 https://kafan.cn##a[href*="nameidi."]
 https://dmzj.com##a[href*="qunhei.com"]
 https://500.com##a[href*="sanyol.cn"]
+https://dzbhdm.com##a[href*="sourl.cn"]
 https://jinti.com##a[href*="tempurchina.com"]
 https://58.com##a[href*="to8to.com"]
 https://enjoymore.fun##a[href*="urlto.pw"]
@@ -21103,6 +21105,7 @@ https://gaoqing.fm##div[style^="height:258px;background-image:"]
 https://jisilu.cn##div[style^="height:60px; width:960px;"]
 https://ttzmz.vip##div[style^="margin-top:2"]
 https://52ch.net##div[style^="margin-top:5px; height:60px;"]
+https://18comic.org##div[style^="position: fixed; top: 90px;"]
 https://m.weather.com.cn##div[style^="position: fixed; width: 100%; bottom: 0px;"]
 https://buscodepto.com##div[style^="position: fixed;"]
 https://chineseinla.com##div[style^="position:absolute;"][style$=":0px;top:30px;"]
@@ -22461,7 +22464,6 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://18comic.org##DIV[style^="position: fixed; top: 90px;"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -23190,6 +23192,7 @@ http://image.baidu.com###imgCmsAdPart
 http://e10000.cn###imgFloat
 http://image.baidu.com###imgid > .fcimgpage
 http://54new.com###imgshow
+http://52bug.cn###index-code
 http://ydss.cn###indexBlad
 http://baidu.com###index_banner_top
 http://zongheng.com###index_game
@@ -23331,6 +23334,7 @@ http://webjx.com###middleimg
 http://91.com,hao123.com,site.baidu.com###midline
 http://hao123.com###mingzhanresource
 http://hk.yahoo.com###mntl1
+http://fanqiangzhe.com###mobile-bottom-ads
 http://so.com###mohe-etao_shangye
 http://so.com###mohe-gouwu > .g-shadow
 http://so.com###mohe-m-smzdm_haojia
@@ -23360,6 +23364,7 @@ http://cam4.tw###newTippingViewer + div[data-ab]
 http://dilidili.wang###newapp2018
 http://yaolan.com###newfix-dsp
 http://pigai.org###newnotice
+http://fanqiangzhe.com###news-include + .text-center
 http://chinaqking.com###newsAD
 http://hexun.com###newsPopWin
 http://live.win007.com###notify > a[target="_blank"]
@@ -23447,6 +23452,7 @@ http://univisa.com.cn###popup
 http://eprice.com.tw###popup-ad-overlay
 http://tom.com###popupDivgame
 http://ck101.com###popupGameAd
+http://fanqiangzhe.com###popupModal
 http://5173.com###popupRight
 http://baixing.com###port-info
 http://ld0766.com###portal_ad3
@@ -26560,6 +26566,7 @@ http://ccav1.com##a[href*="meidebi."]
 http://kafan.cn##a[href*="nameidi."]
 http://dmzj.com##a[href*="qunhei.com"]
 http://500.com##a[href*="sanyol.cn"]
+http://dzbhdm.com##a[href*="sourl.cn"]
 http://jinti.com##a[href*="tempurchina.com"]
 http://58.com##a[href*="to8to.com"]
 http://enjoymore.fun##a[href*="urlto.pw"]
@@ -27083,6 +27090,7 @@ http://gaoqing.fm##div[style^="height:258px;background-image:"]
 http://jisilu.cn##div[style^="height:60px; width:960px;"]
 http://ttzmz.vip##div[style^="margin-top:2"]
 http://52ch.net##div[style^="margin-top:5px; height:60px;"]
+http://18comic.org##div[style^="position: fixed; top: 90px;"]
 http://m.weather.com.cn##div[style^="position: fixed; width: 100%; bottom: 0px;"]
 http://buscodepto.com##div[style^="position: fixed;"]
 http://chineseinla.com##div[style^="position:absolute;"][style$=":0px;top:30px;"]
