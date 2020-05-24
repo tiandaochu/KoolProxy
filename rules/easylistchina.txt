@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: rTUN2T3fAMAqabZy59rEMQ
-! Version: 202005230003
+! Checksum: MfzGVdrOzK83vrTpzddAFg
+! Version: 202005240003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -3151,6 +3151,7 @@
 ||https://lv-play.com/web/adv/list
 ||https://lvse.cn/output/block/html/
 ||https://lvse.com/9
+||https://lvuptech.com/wp-content/plugins/deblocker/
 ||https://lw54.com/js/
 ||https://lw881.com/public/js/gw.js
 ||https://lxty66.com/js/float.js
@@ -4718,6 +4719,7 @@
 ||https://zhibok8.com/images/*.gif
 ||https://zhibok8.com/js/di
 ||https://zhibok8.com/js/scroll.js
+||https://zhicheng.com/statics/*400
 ||https://zhifuok.com/19xa.jpg
 ||https://zhijia.com/hd/*.swf
 ||https://zhimg.com^*_600x250
@@ -4805,6 +4807,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://fashangji.com/api/ggzz.js
+||https://yzpsb.com/js/shang.js
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -11012,6 +11016,7 @@
 ||http://lv-play.com/web/adv/list
 ||http://lvse.cn/output/block/html/
 ||http://lvse.com/9
+||http://lvuptech.com/wp-content/plugins/deblocker/
 ||http://lw54.com/js/
 ||http://lw881.com/public/js/gw.js
 ||http://lxting.com^
@@ -12751,6 +12756,7 @@
 ||http://zhibok8.com/images/*.gif
 ||http://zhibok8.com/js/di
 ||http://zhibok8.com/js/scroll.js
+||http://zhicheng.com/statics/*400
 ||http://zhifuok.com/19xa.jpg
 ||http://zhijia.com/hd/*.swf
 ||http://zhimg.com^*_600x250
@@ -12846,6 +12852,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://fashangji.com/api/ggzz.js
+||http://yzpsb.com/js/shang.js
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -15403,6 +15411,7 @@
 ||http://usty357a.site^
 ||http://uuopp.com^
 ||http://uvmqpum.cn^
+||http://uwmoghx.cn^
 ||http://uxyrl.cn^
 ||http://uzhaj.com^
 ||http://uzyid.cn^
@@ -19127,6 +19136,7 @@ https://baidu.com##.hotad-list-box
 https://sogou.com##.hotel-pic
 https://sogou.com##.hotel_tit
 https://sogou.com##.hotel_tj
+https://boke112.com##.hotspot
 https://btdp.online,f6hx.site,magnet2048.com##.hotwords
 https://ganji.com##.house-ads-img
 https://bbs.hupu.com##.hp-ad250-250
@@ -19407,7 +19417,6 @@ https://163.com##.m_papa
 https://xitongzhijia.net##.m_swift
 https://hupu.com##.m_text_ad
 https://8bo.com##.mad
-https://zhicheng.com##.mad_bt
 https://zhicheng.com##.mad_top
 https://163disk.com##.mads
 https://hupu.com##.maibghref
@@ -19546,8 +19555,7 @@ https://mtrend.cn##.new_right > .morecontent_next
 https://mtrend.cn##.new_right > div[style="float:left; width:100%;"]:first-child
 https://ttrar.com##.new_xzq
 https://doubibackup.com##.new_zixun
-https://zhicheng.com,zt5.com##.newa
-https://zhicheng.com##.newa2
+https://zt5.com##.newa
 https://uimaker.com##.newbaidu
 https://ali213.net##.newright
 https://sydneytoday.com##.news-list > .row > .col-xs-12
@@ -20459,6 +20467,7 @@ https://zhangxinxu.com##[class*="_block-"]
 https://zhangxinxu.com##[class*="bottom_"]
 https://zhangxinxu.com##[class*="zxx"] + *,ARTICLE > .link:first-child
 https://jmw.com.cn##[class^="advertising"]
+https://zhicheng.com##[class^="piaofu"]
 https://gamme.com.tw##[class^="sidead_"]
 https://dable.io##[data-ad_id]
 https://sina.cn##[data-href*="://sax"]
@@ -20698,7 +20707,7 @@ https://5118.com##a[id^="default-"]
 https://5118.com##a[id^="home-"]
 https://360-bo.com##a[name="thegg"]
 https://frdic.com,godic.net##a[onclick*="/ads/"]
-https://ddooo.com##a[onclick*="\"do\""]
+https://ddooo.com##a[onclick*="\"ddo\""]
 https://pcsoft.com.cn##a[onclick*="_ad"]
 https://caibaojian.com##a[onclick*="aliyun"]
 https://caibaojian.com##a[onclick*="aly"]
@@ -25112,6 +25121,7 @@ http://baidu.com##.hotad-list-box
 http://sogou.com##.hotel-pic
 http://sogou.com##.hotel_tit
 http://sogou.com##.hotel_tj
+http://boke112.com##.hotspot
 http://btdp.online,f6hx.site,magnet2048.com##.hotwords
 http://ganji.com##.house-ads-img
 http://bbs.hupu.com##.hp-ad250-250
@@ -25392,7 +25402,6 @@ http://163.com##.m_papa
 http://xitongzhijia.net##.m_swift
 http://hupu.com##.m_text_ad
 http://8bo.com##.mad
-http://zhicheng.com##.mad_bt
 http://zhicheng.com##.mad_top
 http://163disk.com##.mads
 http://hupu.com##.maibghref
@@ -25531,8 +25540,7 @@ http://mtrend.cn##.new_right > .morecontent_next
 http://mtrend.cn##.new_right > div[style="float:left; width:100%;"]:first-child
 http://ttrar.com##.new_xzq
 http://doubibackup.com##.new_zixun
-http://zhicheng.com,zt5.com##.newa
-http://zhicheng.com##.newa2
+http://zt5.com##.newa
 http://uimaker.com##.newbaidu
 http://ali213.net##.newright
 http://sydneytoday.com##.news-list > .row > .col-xs-12
@@ -26444,6 +26452,7 @@ http://zhangxinxu.com##[class*="_block-"]
 http://zhangxinxu.com##[class*="bottom_"]
 http://zhangxinxu.com##[class*="zxx"] + *,ARTICLE > .link:first-child
 http://jmw.com.cn##[class^="advertising"]
+http://zhicheng.com##[class^="piaofu"]
 http://gamme.com.tw##[class^="sidead_"]
 http://dable.io##[data-ad_id]
 http://sina.cn##[data-href*="://sax"]
@@ -26683,7 +26692,7 @@ http://5118.com##a[id^="default-"]
 http://5118.com##a[id^="home-"]
 http://360-bo.com##a[name="thegg"]
 http://frdic.com,godic.net##a[onclick*="/ads/"]
-http://ddooo.com##a[onclick*="\"do\""]
+http://ddooo.com##a[onclick*="\"ddo\""]
 http://pcsoft.com.cn##a[onclick*="_ad"]
 http://caibaojian.com##a[onclick*="aliyun"]
 http://caibaojian.com##a[onclick*="aly"]
