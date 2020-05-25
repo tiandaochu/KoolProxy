@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: MfzGVdrOzK83vrTpzddAFg
-! Version: 202005240003
+! Checksum: dK8yNxu/LCe5LWYVMSUEOg
+! Version: 202005250003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -2317,6 +2317,7 @@
 ||https://fanquanwang.com/uploads/ad/
 ||https://fans.*.space/fans/*.php
 ||https://faquanya.com/weixin/
+||https://fashangji.com/api/ggzz.js
 ||https://fashangji.com/gunews/*.js
 ||https://fastadmin.net/uploads/store/aliyun
 ||https://fastadmin.net/uploads/store/tencent
@@ -4673,6 +4674,7 @@
 ||https://yyzs.net/js/flyers_
 ||https://yzdh44.com/js/
 ||https://yzpsb.com/1.js
+||https://yzpsb.com/js/shang.js
 ||https://yzpsb.com/js/system.js
 ||https://yzs.com/d/file/p/*.swf
 ||https://yzs.com/d/file/p/2016/12/06/61e15b92a4a2a7cec4910f1d9ea79fb2.jpg
@@ -4807,8 +4809,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://fashangji.com/api/ggzz.js
-||https://yzpsb.com/js/shang.js
+||https://bttzyw7.xyz/Runtime/js/psData.js
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -10050,6 +10051,7 @@
 ||http://fanquanwang.com/uploads/ad/
 ||http://fans.*.space/fans/*.php
 ||http://faquanya.com/weixin/
+||http://fashangji.com/api/ggzz.js
 ||http://fashangji.com/gunews/*.js
 ||http://fastadmin.net/uploads/store/aliyun
 ||http://fastadmin.net/uploads/store/tencent
@@ -12709,6 +12711,7 @@
 ||http://yyzs.net/js/flyers_
 ||http://yzdh44.com/js/
 ||http://yzpsb.com/1.js
+||http://yzpsb.com/js/shang.js
 ||http://yzpsb.com/js/system.js
 ||http://yzs.com/d/file/p/*.swf
 ||http://yzs.com/d/file/p/2016/12/06/61e15b92a4a2a7cec4910f1d9ea79fb2.jpg
@@ -12852,8 +12855,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://fashangji.com/api/ggzz.js
-||http://yzpsb.com/js/shang.js
+||http://bttzyw7.xyz/Runtime/js/psData.js
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -13804,6 +13806,7 @@
 ||http://5kmm.top^
 ||http://5mbd2.com^
 ||http://5pb266.com^
+||http://5q68n.cn^
 ||http://5q80n.cn^
 ||http://5t4o.cn^
 ||http://5tbiec.cn^
@@ -13942,6 +13945,7 @@
 ||http://ajiez.com^
 ||http://ajkdg3.xyz^
 ||http://ali2a.xyz^
+||http://ali2d.xyz^
 ||http://alitx963.com^
 ||http://aliyoo999.com^
 ||http://alksdh.com^
@@ -21300,6 +21304,7 @@ https://zdfans.com##ul[id^="gaosuxiazai"]
 https://firefoxchina.cn##ul[track-key="adv_links"]
 https://x6d.com#?#li:-abp-has(>.myad)
 https://xbyuan.com#?#li:-abp-has(>.myad)
+https://yahoo.com#?#.js-stream-content:-abp-has(div:-abp-contains(雅虎搜尋))
 https://yahoo.com#?#.js-stream-content:-abp-has(p:-abp-contains(熱門搜尋))
 https://yahoo.com#?#.js-stream-content:-abp-has(span:-abp-contains(即日熱搜))
 https://zhangxinxu.com#?#.top_da_out
@@ -27285,6 +27290,7 @@ http://zdfans.com##ul[id^="gaosuxiazai"]
 http://firefoxchina.cn##ul[track-key="adv_links"]
 http://x6d.com#?#li:-abp-has(>.myad)
 http://xbyuan.com#?#li:-abp-has(>.myad)
+http://yahoo.com#?#.js-stream-content:-abp-has(div:-abp-contains(雅虎搜尋))
 http://yahoo.com#?#.js-stream-content:-abp-has(p:-abp-contains(熱門搜尋))
 http://yahoo.com#?#.js-stream-content:-abp-has(span:-abp-contains(即日熱搜))
 http://zhangxinxu.com#?#.top_da_out

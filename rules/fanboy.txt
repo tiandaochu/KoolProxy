@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ga1j1kQJZdYhA6AJIDm2vQ
-! Version: 202005232351
+! Checksum: iCgeg2rAEwNOCx+WYSjkJw
+! Version: 202005242351
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 May 2020 23:51 UTC
+! Last modified: 24 May 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7095,6 +7095,7 @@ https://sportstarlive.com##.page-up
 https://hotpepper-gourmet.com##.pageTopButton
 https://global.hisamitsu##.page_top
 https://emb-japan.go.jp,jtbcorp.jp##.pagetop
+https://japantimes.co.jp##.pagetop-wrap
 https://oki.com##.pagetopInner
 https://simpleflying.com##.pk-icon-up
 https://sexuria.com##.pull-right
@@ -8168,6 +8169,7 @@ https://mobot.net##.sidebar-welcome
 https://filmofilia.com##.sidebar_top
 https://hotklix.com##.signinStrip
 https://patheos.com##.simple-follow
+https://japantimes.co.jp##.single-sns-area
 https://eveningecho.ie##.site-nav-facebook
 https://airliners.net##.site_sliver
 https://mainichi.jp##.sitemap-list2
@@ -9211,6 +9213,7 @@ https://reddit.com##.infobar-toaster-container
 https://ramboll-environ.com##.infoboxHolder
 https://thagson.com##.init_message
 https://picturehouses.com##.interim-banner
+https://curiousconcept.com##.is-consent
 https://vuejsdevelopers.com##.is-fixed-bottom.navbar
 https://itv.com##.itv-glob-foot__cookies
 https://slideshare.net##.j-tos-update-banner
@@ -12821,6 +12824,7 @@ https://telegraaf.nl#@#.CookiesOK
 https://maisonapart.com#@#.accept-cookie
 https://api.newsguardtech.com,rockpapershotgun.com#@#.accept-cookie-container
 https://franziskaner-weissbier.de#@#.accept-cookies
+https://imvu.com#@#.accept-cookies:not(html)
 https://live.nettavisen.no#@#.active > div
 https://patient.info#@#.alert--cookie
 https://bing.com,czuczu.pl#@#.cc-container
@@ -17338,6 +17342,7 @@ http://sportstarlive.com##.page-up
 http://hotpepper-gourmet.com##.pageTopButton
 http://global.hisamitsu##.page_top
 http://emb-japan.go.jp,jtbcorp.jp##.pagetop
+http://japantimes.co.jp##.pagetop-wrap
 http://oki.com##.pagetopInner
 http://simpleflying.com##.pk-icon-up
 http://sexuria.com##.pull-right
@@ -18411,6 +18416,7 @@ http://mobot.net##.sidebar-welcome
 http://filmofilia.com##.sidebar_top
 http://hotklix.com##.signinStrip
 http://patheos.com##.simple-follow
+http://japantimes.co.jp##.single-sns-area
 http://eveningecho.ie##.site-nav-facebook
 http://airliners.net##.site_sliver
 http://mainichi.jp##.sitemap-list2
@@ -19455,6 +19461,7 @@ http://reddit.com##.infobar-toaster-container
 http://ramboll-environ.com##.infoboxHolder
 http://thagson.com##.init_message
 http://picturehouses.com##.interim-banner
+http://curiousconcept.com##.is-consent
 http://vuejsdevelopers.com##.is-fixed-bottom.navbar
 http://itv.com##.itv-glob-foot__cookies
 http://slideshare.net##.j-tos-update-banner
@@ -23066,6 +23073,7 @@ http://telegraaf.nl#@#.CookiesOK
 http://maisonapart.com#@#.accept-cookie
 http://api.newsguardtech.com,rockpapershotgun.com#@#.accept-cookie-container
 http://franziskaner-weissbier.de#@#.accept-cookies
+http://imvu.com#@#.accept-cookies:not(html)
 http://live.nettavisen.no#@#.active > div
 http://patient.info#@#.alert--cookie
 http://bing.com,czuczu.pl#@#.cc-container

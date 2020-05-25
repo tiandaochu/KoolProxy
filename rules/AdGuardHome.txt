@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20200519151257
-!TOTAL_LINES=34759
+!VER=20200524151825
+!TOTAL_LINES=34758
 address=/00-gov.cn/
 address=/kwcdn.000dn.com/
 address=/kwcscdn.000dn.com/
@@ -31313,7 +31313,6 @@ address=/winbaicai.com/
 address=/winbuyer.com/
 address=/windoorsew.club/
 address=/windowmentaria.com/
-address=/activity.windows.com/
 address=/encoderfarmstatsnew.servicebus.windows.net/
 address=/insitez.blob.core.windows.net/
 address=/optanon.blob.core.windows.net/
