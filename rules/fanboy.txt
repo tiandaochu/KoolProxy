@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iCgeg2rAEwNOCx+WYSjkJw
-! Version: 202005242351
+! Checksum: uGdQzygXIKto674A1Rkpuw
+! Version: 202005252352
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 May 2020 23:51 UTC
+! Last modified: 25 May 2020 23:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12273,6 +12273,7 @@ https://twellow.com#@#a[href="http://www.twellow.com/"]
 https://nasa.gov#@#backtotop
 https://reddit.com#@#img[alt="submit to reddit"]
 https://audionetwork.com,carlsenfritzoe.no#@##push-container:not(body):not(html)
+https://mega.nz#@#.notification-button
 https://bmwblog.com,carlsenfritzoe.no,meineschufa.de,push.abs-cbn.com,schufa.de#@#.push-container:not(body):not(html)
 https://asbclassic.co.nz,harmoney.co.nz,underconsideration.com#@#.push-wrap:not(body):not(html)
 https://arabbank.com.au,operon.pl#@#.push-wrapper:not(body):not(html)
@@ -22522,6 +22523,7 @@ http://twellow.com#@#a[href="http://www.twellow.com/"]
 http://nasa.gov#@#backtotop
 http://reddit.com#@#img[alt="submit to reddit"]
 http://audionetwork.com,carlsenfritzoe.no#@##push-container:not(body):not(html)
+http://mega.nz#@#.notification-button
 http://bmwblog.com,carlsenfritzoe.no,meineschufa.de,push.abs-cbn.com,schufa.de#@#.push-container:not(body):not(html)
 http://asbclassic.co.nz,harmoney.co.nz,underconsideration.com#@#.push-wrap:not(body):not(html)
 http://arabbank.com.au,operon.pl#@#.push-wrapper:not(body):not(html)
