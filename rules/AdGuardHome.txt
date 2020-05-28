@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20200525130956
-!TOTAL_LINES=34649
+!VER=20200527155356
+!TOTAL_LINES=34648
 address=/00-gov.cn/
 address=/kwcdn.000dn.com/
 address=/kwcscdn.000dn.com/
@@ -3768,7 +3768,6 @@ address=/nbsdk-baichuan.alicdn.com/
 address=/pss.alicdn.com/
 address=/tce.alicdn.com/
 address=/umc.danuoyi.alicdn.com/
-address=/ae01.alicdn.com/
 address=/aecpm.alicdn.com/
 address=/afp.alicdn.com/
 address=/afpmm.alicdn.com/

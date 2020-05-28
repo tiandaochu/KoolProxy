@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: zgsqHPv3D9RuSSeHDbO2ng
-! Version: 202005270003
+! Checksum: PlfCSsdAjJGRHFLnGuctRg
+! Version: 202005280013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -1582,6 +1582,7 @@
 ||https://baidu.com/?action=getadsdata&
 ||https://baidu.com/adpc/scrollTextAd.js
 ||https://baidu.com/adver?
+||https://baidu.com/api/*/ads/
 ||https://baidu.com/api/proxyapi?tag=adv&
 ||https://baidu.com/api/wikiui/guesslike?
 ||https://baidu.com/brands/yxtg/source/yxCoupletsAd.js
@@ -2265,6 +2266,7 @@
 ||https://educity.cn/self_text/text_disp.aspx?id=
 ||https://eduuu.com/website/public_js/pc_aso.js
 ||https://ee021.com/Runtime/js/
+||https://een65.com/mp4/g_720.mp4
 ||https://eepw.com.cn/pub/js/TopFullScreen.js
 ||https://eeyy.cc/style/yxj.js
 ||https://eeyy.com/otherhtml/js/ad650.js
@@ -4338,6 +4340,7 @@
 ||https://wenku8.net/js/
 ||https://wenkuxiazai.com^*reward
 ||https://wenxiu998.com/static/js/top.js
+||https://wenxuecity.com/script/wxc_ab_help.js
 ||https://west.cn/vcp/getJScode/
 ||https://westca.com/server/
 ||https://weste.net/js/showpagead.js
@@ -5025,6 +5028,7 @@
 ||https://chinatimes.com/ads/
 ||https://cndns.com/incs/js/website_mobile.js
 ||https://con-article.hjapi.com/v1/txs/
+||https://cpu.baidu.com^$third-party
 ||https://ctfile.com/img/*ssp
 ||https://daf-rs.com/imageViewer/wpAd
 ||https://dahe.cn/indiboy/ads/
@@ -5283,6 +5287,7 @@
 ||https://xyj321.com/static/zx/js/zx-con-jsq_
 ||https://sinaimg.cn/wap/project/blog_to_news_banner/
 ||https://zikao365.com/upload/js/pfgg/
+||https://gaosan.com/js/b.js
 ||https://3158.cn^*_analyser.
 ||https://sogou.com/dr/p1.gif
 ||https://pconline.com.cn/ipJson.
@@ -7877,6 +7882,7 @@
 ||http://xn--2qu92fhtx4ff.site^
 ||http://xn--2qu96gouvko1a.com^
 ||http://xn--2quz8f01ak10c.shop^
+||http://xn--2ssq0ktxigkq.com^
 ||http://xn--czrshy5v7kb.cc^
 ||http://xn--fjqz50cv5q3so.ltd^
 ||http://xn--fjqz50cv5q3so.online^
@@ -9226,6 +9232,7 @@
 ||http://baidu.com/?action=getadsdata&
 ||http://baidu.com/adpc/scrollTextAd.js
 ||http://baidu.com/adver?
+||http://baidu.com/api/*/ads/
 ||http://baidu.com/api/proxyapi?tag=adv&
 ||http://baidu.com/api/wikiui/guesslike?
 ||http://baidu.com/brands/yxtg/source/yxCoupletsAd.js
@@ -10001,6 +10008,7 @@
 ||http://educity.cn/self_text/text_disp.aspx?id=
 ||http://eduuu.com/website/public_js/pc_aso.js
 ||http://ee021.com/Runtime/js/
+||http://een65.com/mp4/g_720.mp4
 ||http://eepw.com.cn/pub/js/TopFullScreen.js
 ||http://eeyy.cc/style/yxj.js
 ||http://eeyy.com/otherhtml/js/ad650.js
@@ -12354,6 +12362,7 @@
 ||http://wenku8.net/js/
 ||http://wenkuxiazai.com^*reward
 ||http://wenxiu998.com/static/js/top.js
+||http://wenxuecity.com/script/wxc_ab_help.js
 ||http://west.cn/vcp/getJScode/
 ||http://westca.com/server/
 ||http://weste.net/js/showpagead.js
@@ -13884,6 +13893,7 @@
 ||http://8t5vd.cn^
 ||http://8v61j.cn^
 ||http://8v7wg.com^
+||http://8yrn.cn^
 ||http://91byy.cn^
 ||http://91cy.top^
 ||http://922x7c.cn^
@@ -14923,6 +14933,7 @@
 ||http://mendoc.cn^
 ||http://mengpr.com^
 ||http://meooe.com^
+||http://meuevcj.cn^
 ||http://mgldzcls.com^
 ||http://mgsue.cn^
 ||http://mgzs.cdn.bcebos.com^
@@ -15076,6 +15087,7 @@
 ||http://paochala.net^
 ||http://passwz.com^
 ||http://pbino.com^
+||http://pbvxtgn.cn^
 ||http://pcaoo.com^
 ||http://pd3a.cn^
 ||http://pdfbs.com^
@@ -15200,11 +15212,13 @@
 ||http://ricqo.com^
 ||http://rishenglaw.cn^
 ||http://rjiau.com^
+||http://rkssxrh.cn^
 ||http://rl972.cn^
 ||http://rmqmxwb.cn^
 ||http://rmwdn.com^
 ||http://romgv.com^
 ||http://rongnews.com^
+||http://rqvfewi.cn^
 ||http://rrkykn.cn^
 ||http://rrrwwwa.com^
 ||http://rtslgov.cn^
@@ -15339,6 +15353,7 @@
 ||http://szshouzhai.com^
 ||http://szwzjk.cn^
 ||http://szyuke.cn^
+||http://t3s9j.xyz^
 ||http://tabwl.com^
 ||http://tabyee.cn^
 ||http://tajxgs.com^
@@ -15988,7 +16003,7 @@
 ||http://chinatimes.com/ads/
 ||http://cndns.com/incs/js/website_mobile.js
 ||http://con-article.hjapi.com/v1/txs/
-||http://cpu.baidu.com^
+||http://cpu.baidu.com^$third-party
 ||http://ctfile.com/img/*ssp
 ||http://daf-rs.com/imageViewer/wpAd
 ||http://dahe.cn/indiboy/ads/
@@ -16253,6 +16268,7 @@
 ||http://xyj321.com/static/zx/js/zx-con-jsq_
 ||http://sinaimg.cn/wap/project/blog_to_news_banner/
 ||http://zikao365.com/upload/js/pfgg/
+||http://gaosan.com/js/b.js
 ||http://3158.cn^*_analyser.
 ||http://sogou.com/dr/p1.gif
 ||http://stat.jc001.cn^
@@ -16511,7 +16527,6 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://56.com##.goods_show
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -18647,13 +18662,13 @@ https://u-car.com.tw##.contad_text
 https://dragon-guide.net##.container > .gutter:first-child
 https://rijutv.com##.container > div[style="height: 128px;"]
 https://vpsdx.com##.container-fluid > .gsfha3 > .gsfha3
-https://it1352.com##.container-fluid > .hidden-sm:nth-child(-n+2)
 https://www.wangjing.cn##.content > div[style*="980px;"]
 https://cnbeta.com##.content > p:last-child > a[href]
 https://sspai.com##.content hr:nth-last-child(-n+4) ~ p
 https://w3cschool.cn##.content-abox
 https://baidu.com##.content-adv
 https://hao.su##.content-copyright
+https://it1352.com##.content-wrap > .hidden-sm:nth-child(-n+2)
 https://ptbus.com##.content14
 https://p9.com.tw##.contentRightAd
 https://kjsv.com##.content_module > div[style='margin-left: 8px;']
@@ -18969,6 +18984,7 @@ https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.ga
 https://sina.com.cn##.gamead1
 https://timeon.cn##.gameads
 https://qidian.com##.games-op-wrap
+https://acc39.com##.gao-bg
 https://3987.com,onlinedown.net,win7w.com##.gaosu
 https://3h3.com##.gaosu_down_div
 https://so.com##.garllery_ad
@@ -19025,7 +19041,6 @@ https://cww.net.cn##.ggbar
 https://baidu.com##.ggbtm-vip-close
 https://55188.com##.ggdistich
 https://chazidian.com##.ggin
-https://eastday.com##.gglist
 https://romzhijia.net##.ggposition
 https://rising.cn##.ggqh
 https://weather.com.cn##.ggt
@@ -19045,6 +19060,7 @@ https://eastday.com##.golden_adv_1
 https://eastday.com##.golden_adv_2
 https://awaker.cn##.good-price
 https://mail.pchome.com.tw##.good_ad
+https://56.com##.goods_show
 https://techbang.com##.google-dfp
 https://i-part.com.tw##.googleAD160x600
 https://cmhello.com##.gpost-above
@@ -19706,6 +19722,7 @@ https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.pl
 https://ifeng.com##.playad
 https://gimy.tv##.playadbox
 https://league-funny.com##.player_bb
+https://acc39.com##.player_ggw
 https://sgamer.com##.plc > div > a[href*=".vgcool.com"]
 https://moonbbs.com##.plc.plm > div > div > a[href*=".dealmoon.com"]
 https://firefox.com.cn,firefoxchina.cn##.pm-crack
@@ -20733,12 +20750,12 @@ https://mse.360.cn##a[id^="banner"]
 https://5118.com##a[id^="default-"]
 https://5118.com##a[id^="home-"]
 https://360-bo.com##a[name="thegg"]
-https://ddooo.com##a[onclick*=",\"d"]
 https://frdic.com,godic.net##a[onclick*="/ads/"]
 https://pcsoft.com.cn##a[onclick*="_ad"]
 https://caibaojian.com##a[onclick*="aliyun"]
 https://caibaojian.com##a[onclick*="aly"]
 https://5g0a.com##a[onclick*="banner"]
+https://ddooo.com##a[onclick*="godownload"]:not([onclick*="://"])
 https://tvapk.net##a[onclick*="thread_banner"]
 https://fixdown.com##a[onclick^="count_down"]
 https://52pk.com##a[onclick^="ga"]
@@ -22504,7 +22521,6 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://56.com##.goods_show
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -24640,13 +24656,13 @@ http://u-car.com.tw##.contad_text
 http://dragon-guide.net##.container > .gutter:first-child
 http://rijutv.com##.container > div[style="height: 128px;"]
 http://vpsdx.com##.container-fluid > .gsfha3 > .gsfha3
-http://it1352.com##.container-fluid > .hidden-sm:nth-child(-n+2)
 http://www.wangjing.cn##.content > div[style*="980px;"]
 http://cnbeta.com##.content > p:last-child > a[href]
 http://sspai.com##.content hr:nth-last-child(-n+4) ~ p
 http://w3cschool.cn##.content-abox
 http://baidu.com##.content-adv
 http://hao.su##.content-copyright
+http://it1352.com##.content-wrap > .hidden-sm:nth-child(-n+2)
 http://ptbus.com##.content14
 http://p9.com.tw##.contentRightAd
 http://kjsv.com##.content_module > div[style='margin-left: 8px;']
@@ -24962,6 +24978,7 @@ http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.gam
 http://sina.com.cn##.gamead1
 http://timeon.cn##.gameads
 http://qidian.com##.games-op-wrap
+http://acc39.com##.gao-bg
 http://3987.com,onlinedown.net,win7w.com##.gaosu
 http://3h3.com##.gaosu_down_div
 http://so.com##.garllery_ad
@@ -25018,7 +25035,6 @@ http://cww.net.cn##.ggbar
 http://baidu.com##.ggbtm-vip-close
 http://55188.com##.ggdistich
 http://chazidian.com##.ggin
-http://eastday.com##.gglist
 http://romzhijia.net##.ggposition
 http://rising.cn##.ggqh
 http://weather.com.cn##.ggt
@@ -25038,6 +25054,7 @@ http://eastday.com##.golden_adv_1
 http://eastday.com##.golden_adv_2
 http://awaker.cn##.good-price
 http://mail.pchome.com.tw##.good_ad
+http://56.com##.goods_show
 http://techbang.com##.google-dfp
 http://i-part.com.tw##.googleAD160x600
 http://cmhello.com##.gpost-above
@@ -25699,6 +25716,7 @@ http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.pla
 http://ifeng.com##.playad
 http://gimy.tv##.playadbox
 http://league-funny.com##.player_bb
+http://acc39.com##.player_ggw
 http://sgamer.com##.plc > div > a[href*=".vgcool.com"]
 http://moonbbs.com##.plc.plm > div > div > a[href*=".dealmoon.com"]
 http://firefox.com.cn,firefoxchina.cn##.pm-crack
@@ -26726,12 +26744,12 @@ http://mse.360.cn##a[id^="banner"]
 http://5118.com##a[id^="default-"]
 http://5118.com##a[id^="home-"]
 http://360-bo.com##a[name="thegg"]
-http://ddooo.com##a[onclick*=",\"d"]
 http://frdic.com,godic.net##a[onclick*="/ads/"]
 http://pcsoft.com.cn##a[onclick*="_ad"]
 http://caibaojian.com##a[onclick*="aliyun"]
 http://caibaojian.com##a[onclick*="aly"]
 http://5g0a.com##a[onclick*="banner"]
+http://ddooo.com##a[onclick*="godownload"]:not([onclick*="://"])
 http://tvapk.net##a[onclick*="thread_banner"]
 http://fixdown.com##a[onclick^="count_down"]
 http://52pk.com##a[onclick^="ga"]
