@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: PlfCSsdAjJGRHFLnGuctRg
-! Version: 202005280013
+! Checksum: d4DcbUmadKXnr/usxi8MyQ
+! Version: 202005290003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -3035,6 +3035,7 @@
 ||https://langxi.org/langxi/*900$image,object
 ||https://langya.cn/2014html/2014ad_
 ||https://langya.cn/2014html/ad/
+||https://lanrenzhijia.com/Public/images/head_right_top.gif
 ||https://lanrenzhijia.com/Public/images/sucaihuo_
 ||https://lanrenzhijia.com/Public/images/xiaozhua.jpg
 ||https://lanseshuba.com/react.js
@@ -3082,8 +3083,6 @@
 ||https://lgmi.com/windows/*-Advert.
 ||https://lgmi.com^*_gg
 ||https://lh168.net^*/attachment/portal/
-||https://liangchan.net/aaddaadd/
-||https://liangchan.net/adf/
 ||https://liangjan.com/js/show_
 ||https://lianmeng.la/ad1/
 ||https://liantu.cn/script/index.asp
@@ -4580,6 +4579,7 @@
 ||https://yigujin.cn/img/abc/
 ||https://yigujin.cn/tp/abc/*yun
 ||https://yigujin.cn/wp-content/themes/Three/js/cebian
+||https://yigujin.cn/wp-content/themes/Three/js/dibu
 ||https://yigujin.cn/wp-content/themes/Three/js/singley
 ||https://yigujin.cn/wp-content/themes/Three/js/tuij
 ||https://yigujin.cn/wp-content/themes/Three/js/yierlin
@@ -6307,6 +6307,7 @@
 ||http://dlkjgjmy.com^
 ||http://dlpifu.com^
 ||http://dlrijiaele.com^
+||http://dlswzw.cn^
 ||http://dlzjdesign.com^
 ||http://dmqapp.com^
 ||http://dmtrck.com^$third-party
@@ -6539,6 +6540,7 @@
 ||http://gutouwang.net^
 ||http://guzijie.top^
 ||http://gw069.com^
+||http://gwbangshou.com^
 ||http://gwylm.com^
 ||http://gxejgs.com^
 ||http://gxgzyny.com^
@@ -10907,6 +10909,7 @@
 ||http://langxi.org/langxi/*900$image,object
 ||http://langya.cn/2014html/2014ad_
 ||http://langya.cn/2014html/ad/
+||http://lanrenzhijia.com/Public/images/head_right_top.gif
 ||http://lanrenzhijia.com/Public/images/sucaihuo_
 ||http://lanrenzhijia.com/Public/images/xiaozhua.jpg
 ||http://lanseshuba.com/react.js
@@ -10954,8 +10957,6 @@
 ||http://lgmi.com/windows/*-Advert.
 ||http://lgmi.com^*_gg
 ||http://lh168.net^*/attachment/portal/
-||http://liangchan.net/aaddaadd/
-||http://liangchan.net/adf/
 ||http://liangjan.com/js/show_
 ||http://lianmeng.la/ad1/
 ||http://liantu.cn/script/index.asp
@@ -12621,6 +12622,7 @@
 ||http://yigujin.cn/img/abc/
 ||http://yigujin.cn/tp/abc/*yun
 ||http://yigujin.cn/wp-content/themes/Three/js/cebian
+||http://yigujin.cn/wp-content/themes/Three/js/dibu
 ||http://yigujin.cn/wp-content/themes/Three/js/singley
 ||http://yigujin.cn/wp-content/themes/Three/js/tuij
 ||http://yigujin.cn/wp-content/themes/Three/js/yierlin
@@ -13967,6 +13969,7 @@
 ||http://ajkdg3.xyz^
 ||http://ali2a.xyz^
 ||http://ali2d.xyz^
+||http://alicdn.com^$domain=lawen44.net
 ||http://alitx963.com^
 ||http://aliyoo999.com^
 ||http://alksdh.com^
@@ -16527,6 +16530,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://m4fz.com##A[data-etime]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -19658,10 +19662,6 @@ https://dilidili.wang##.overflow-box > ul > li > a[href^="http"]:not([href*=".di
 https://avsuggest.com##.overlay
 https://udn.com##.overlay-container
 https://lalulalu.com##.overture_banner
-https://allhabit.com##.overture_forumlist
-https://allhabit.com##.overture_threadlist
-https://allhabit.com##.overture_threadlist_single
-https://allhabit.com##.overture_top_banner
 https://appledaily.com.tw##.owl-lazy[tcode^="AD:"]
 https://sgcn.com##.oyad2.cl
 https://quanmin.tv##.p-room_ad
@@ -21158,7 +21158,6 @@ https://gaoqing.fm##div[style^="height:258px;background-image:"]
 https://jisilu.cn##div[style^="height:60px; width:960px;"]
 https://ttzmz.vip##div[style^="margin-top:2"]
 https://52ch.net##div[style^="margin-top:5px; height:60px;"]
-https://18comic.org##div[style^="position: fixed; top: 90px;"]
 https://m.weather.com.cn##div[style^="position: fixed; width: 100%; bottom: 0px;"]
 https://buscodepto.com##div[style^="position: fixed;"]
 https://chineseinla.com##div[style^="position:absolute;"][style$=":0px;top:30px;"]
@@ -21499,6 +21498,7 @@ https://17ce.com#?#div:-abp-has(>div>ul>li>a:-abp-contains(/服|高/))
 https://17ce.com##[style*="important"]
 https://17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 https://17ce.com##tr[id^="tr"] > td > a[href^="http"]
+https://18comic.org,18comic.vip##DIV[style^="position: fixed; top:"]
 https://7255.com###J_search_bd > div:last-child
 https://7255.com###right > div:first-child
 https://7255.com##.act-search-tab
@@ -22521,6 +22521,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://m4fz.com##A[data-etime]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -25652,10 +25653,6 @@ http://dilidili.wang##.overflow-box > ul > li > a[href^="http"]:not([href*=".dil
 http://avsuggest.com##.overlay
 http://udn.com##.overlay-container
 http://lalulalu.com##.overture_banner
-http://allhabit.com##.overture_forumlist
-http://allhabit.com##.overture_threadlist
-http://allhabit.com##.overture_threadlist_single
-http://allhabit.com##.overture_top_banner
 http://appledaily.com.tw##.owl-lazy[tcode^="AD:"]
 http://sgcn.com##.oyad2.cl
 http://quanmin.tv##.p-room_ad
@@ -27152,7 +27149,6 @@ http://gaoqing.fm##div[style^="height:258px;background-image:"]
 http://jisilu.cn##div[style^="height:60px; width:960px;"]
 http://ttzmz.vip##div[style^="margin-top:2"]
 http://52ch.net##div[style^="margin-top:5px; height:60px;"]
-http://18comic.org##div[style^="position: fixed; top: 90px;"]
 http://m.weather.com.cn##div[style^="position: fixed; width: 100%; bottom: 0px;"]
 http://buscodepto.com##div[style^="position: fixed;"]
 http://chineseinla.com##div[style^="position:absolute;"][style$=":0px;top:30px;"]
@@ -27493,6 +27489,7 @@ http://17ce.com#?#div:-abp-has(>div>ul>li>a:-abp-contains(/服|高/))
 http://17ce.com##[style*="important"]
 http://17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 http://17ce.com##tr[id^="tr"] > td > a[href^="http"]
+http://18comic.org,18comic.vip##DIV[style^="position: fixed; top:"]
 http://7255.com###J_search_bd > div:last-child
 http://7255.com###right > div:first-child
 http://7255.com##.act-search-tab
