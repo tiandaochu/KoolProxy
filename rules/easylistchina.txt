@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: d4DcbUmadKXnr/usxi8MyQ
-! Version: 202005290003
+! Checksum: GsLCUDi3F/rEs5n6Ad/Puw
+! Version: 202005300003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -705,7 +705,7 @@
 ||https://007ds.com/js/js/
 ||https://007hd.com/7PcCH3ce420MZaTO.php
 ||https://02wq.com/script/
-||https://02wq.com/scrtips/33lc.js
+||https://02wq.com/scrtips/
 ||https://0379home.com/public/js/ad_pic.js
 ||https://0379home.com/public/js/beside.js
 ||https://0439.com/wtj/homepage/handler/guangg.ashx?ut=classify
@@ -8227,7 +8227,7 @@
 ||http://007hd.com/7PcCH3ce420MZaTO.php
 ||http://027cgb.com^*.gif
 ||http://02wq.com/script/
-||http://02wq.com/scrtips/33lc.js
+||http://02wq.com/scrtips/
 ||http://0379home.com/public/js/ad_pic.js
 ||http://0379home.com/public/js/beside.js
 ||http://0439.com/wtj/homepage/handler/guangg.ashx?ut=classify
@@ -13801,6 +13801,7 @@
 ||http://4df5ef.xyz^
 ||http://4ekx.cn^
 ||http://4excel.cn^
+||http://4ggame8.com^
 ||http://4py3oe.cn^
 ||http://4qn1k.cn^
 ||http://4s5n.cn^
@@ -13873,6 +13874,7 @@
 ||http://7gbca.cn^
 ||http://7ia9h.cn^
 ||http://7kzw.com/fe/
+||http://7m0hj.cn^
 ||http://7m307.cn^
 ||http://7n3e8o.com^
 ||http://7x3mh.cn^
@@ -13927,6 +13929,7 @@
 ||http://abie12.top^
 ||http://abie13.top^
 ||http://abie15.top^
+||http://abie16.top^
 ||http://abie25.top^
 ||http://abie9.top^
 ||http://abuse8.com^
@@ -13969,6 +13972,7 @@
 ||http://ajkdg3.xyz^
 ||http://ali2a.xyz^
 ||http://ali2d.xyz^
+||http://ali2f.xyz^
 ||http://alicdn.com^$domain=lawen44.net
 ||http://alitx963.com^
 ||http://aliyoo999.com^
@@ -16530,7 +16534,6 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://m4fz.com##A[data-etime]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -17017,7 +17020,6 @@ https://sm.cn###download-uc
 https://sm.cn###download-uc-v2
 https://mogewu.com###downloadurl > dl:first-child
 https://nczsks.com###downyxjs
-https://langxi.org###drk_ledtd
 https://chinanews.com###dt_advert
 https://bejson.com###dua
 https://ptbus.com,weather.com.cn###duilian
@@ -19073,6 +19075,7 @@ https://owyb1688.com##.gray-show
 https://bioon.com##.grid_6
 https://veryhuo.com##.gs
 https://veryhuo.com##.gs2
+https://ddooo.com##.gs_down
 https://wanyx.com##.gs_down_common
 https://sci-hub.org.cn##.gs_r[data-cid=""]
 https://sci-hub.org.cn##.gs_red[style="color:#EB7F00"]
@@ -19773,6 +19776,7 @@ https://anquan.org##.pub_side_ad
 https://doudoudm.site,ezdmw.com##.public_ad
 https://cnplugins.com##.pushbox1
 https://sogou.com##.pz-widget-flash-container
+https://boke112.com##.qa-pc
 https://baidu.com##.qb-other-answer-wmad
 https://baobao.baidu.com##.qb-relate-box
 https://qidian.com##.qd-game
@@ -20445,6 +20449,7 @@ https://pc0359.cn##.xx_yd2
 https://wanyx.com##.xz_down
 https://xixiwg.com##.xz_left > ul:nth-last-child(3)
 https://ddooo.com##.xzgsb
+https://ddooo.com##.xzgsc
 https://05sun.com,xitongtiandi.net##.xzq
 https://moviesunusaaa.org##.yahooinner
 https://htcui.com##.yanshibtn
@@ -20541,6 +20546,7 @@ https://wenku.baidu.com##a[class*="tiger-"][class*="-dialog"]
 https://hao123.com##a[class^="gameyixing-link-"]
 https://csai.cn##a[class^="gg"]
 https://ditu.so.com##a[class^="index-bcItem-"]
+https://m4fz.com##a[data-etime]
 https://caibaojian.com##a[data-href*="aliyun"]
 https://oschina.net##a[data-traceid$="_ad"]
 https://oschina.net##a[data-traceid*="_detail_above_text_link_"]
@@ -21498,7 +21504,8 @@ https://17ce.com#?#div:-abp-has(>div>ul>li>a:-abp-contains(/服|高/))
 https://17ce.com##[style*="important"]
 https://17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 https://17ce.com##tr[id^="tr"] > td > a[href^="http"]
-https://18comic.org,18comic.vip##DIV[style^="position: fixed; top:"]
+https://18comic.org,18comic.vip##a[href^="http"]:not([href*="18comic"]) > img
+https://18comic.org,18comic.vip##div[style^="position: fixed; top:"]
 https://7255.com###J_search_bd > div:last-child
 https://7255.com###right > div:first-child
 https://7255.com##.act-search-tab
@@ -22521,7 +22528,6 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://m4fz.com##A[data-etime]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -23008,7 +23014,6 @@ http://sm.cn###download-uc
 http://sm.cn###download-uc-v2
 http://mogewu.com###downloadurl > dl:first-child
 http://nczsks.com###downyxjs
-http://langxi.org###drk_ledtd
 http://chinanews.com###dt_advert
 http://bejson.com###dua
 http://ptbus.com,weather.com.cn###duilian
@@ -25064,6 +25069,7 @@ http://owyb1688.com##.gray-show
 http://bioon.com##.grid_6
 http://veryhuo.com##.gs
 http://veryhuo.com##.gs2
+http://ddooo.com##.gs_down
 http://wanyx.com##.gs_down_common
 http://sci-hub.org.cn##.gs_r[data-cid=""]
 http://sci-hub.org.cn##.gs_red[style="color:#EB7F00"]
@@ -25764,6 +25770,7 @@ http://anquan.org##.pub_side_ad
 http://doudoudm.site,ezdmw.com##.public_ad
 http://cnplugins.com##.pushbox1
 http://sogou.com##.pz-widget-flash-container
+http://boke112.com##.qa-pc
 http://baidu.com##.qb-other-answer-wmad
 http://baobao.baidu.com##.qb-relate-box
 http://qidian.com##.qd-game
@@ -26436,6 +26443,7 @@ http://pc0359.cn##.xx_yd2
 http://wanyx.com##.xz_down
 http://xixiwg.com##.xz_left > ul:nth-last-child(3)
 http://ddooo.com##.xzgsb
+http://ddooo.com##.xzgsc
 http://05sun.com,xitongtiandi.net##.xzq
 http://moviesunusaaa.org##.yahooinner
 http://htcui.com##.yanshibtn
@@ -26532,6 +26540,7 @@ http://wenku.baidu.com##a[class*="tiger-"][class*="-dialog"]
 http://hao123.com##a[class^="gameyixing-link-"]
 http://csai.cn##a[class^="gg"]
 http://ditu.so.com##a[class^="index-bcItem-"]
+http://m4fz.com##a[data-etime]
 http://caibaojian.com##a[data-href*="aliyun"]
 http://oschina.net##a[data-traceid$="_ad"]
 http://oschina.net##a[data-traceid*="_detail_above_text_link_"]
@@ -27489,7 +27498,8 @@ http://17ce.com#?#div:-abp-has(>div>ul>li>a:-abp-contains(/服|高/))
 http://17ce.com##[style*="important"]
 http://17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 http://17ce.com##tr[id^="tr"] > td > a[href^="http"]
-http://18comic.org,18comic.vip##DIV[style^="position: fixed; top:"]
+http://18comic.org,18comic.vip##a[href^="http"]:not([href*="18comic"]) > img
+http://18comic.org,18comic.vip##div[style^="position: fixed; top:"]
 http://7255.com###J_search_bd > div:last-child
 http://7255.com###right > div:first-child
 http://7255.com##.act-search-tab
