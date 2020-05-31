@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mQOrxfCUyNXuBxxGU/Eecg
-! Version: 202005292351
+! Checksum: J/41ZPnico9xgJ0zD7Gu5A
+! Version: 202005302342
 ! Title: Fanboy's Annoyance List
-! Last modified: 29 May 2020 23:51 UTC
+! Last modified: 30 May 2020 23:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -489,7 +489,6 @@
 ||https://push.rent^$third-party
 ||https://push.rollout.io^$third-party
 ||https://push.world^$third-party
-||https://push4site.com^$third-party
 ||https://pushalert.co^$third-party
 ||https://pushango.com^$third-party
 ||https://pushassist.com^$third-party
@@ -836,6 +835,7 @@
 ||https://uniconsent.mgr.consensu.org^$third-party
 ||https://usercentrics.eu^$third-party
 ||https://vendorlist.consensu.org^$third-party
+||https://volksbund-cookie.de^$third-party
 ||https://wpcc.io^$third-party
 ||https://4chan.org/b/*.swf
 ||https://anews.com/s/js/widget.js
@@ -1284,6 +1284,7 @@
 ||https://tn-sport.net/like/
 ||https://byom.de/js/cookie.de.js
 ||https://henryschein.at^*/CookieList.aspx
+||https://keltendorf-mitterkirchen.at/system/web/cookie.ashx
 ||https://strato.de^*/consent.js
 ||https://docteurclic.com/ajax/ajax_get_disc.aspx
 ||https://jeu.video^*/partners.js
@@ -1814,7 +1815,6 @@
 ||http://push.rent^$third-party
 ||http://push.rollout.io^$third-party
 ||http://push.world^$third-party
-||http://push4site.com^$third-party
 ||http://pushalert.co^$third-party
 ||http://pushango.com^$third-party
 ||http://pushassist.com^$third-party
@@ -2173,6 +2173,7 @@
 ||http://uniconsent.mgr.consensu.org^$third-party
 ||http://usercentrics.eu^$third-party
 ||http://vendorlist.consensu.org^$third-party
+||http://volksbund-cookie.de^$third-party
 ||http://wpcc.io^$third-party
 ||http://4chan.org/b/*.swf
 ||http://anews.com/s/js/widget.js
@@ -2660,6 +2661,7 @@
 ||http://cmp.pcwelt.de^
 ||http://consent.berliner-kurier.de^
 ||http://henryschein.at^*/CookieList.aspx
+||http://keltendorf-mitterkirchen.at/system/web/cookie.ashx
 ||http://strato.de^*/consent.js
 ||http://cnil.links-lab.fr^
 ||http://consent.prismamedia.com^
@@ -6538,6 +6540,7 @@ https://stylelist.com##.home-newsletter
 https://factmag.com##.home-social-area
 https://theskimm.com##.home-subscribe__signup-form
 https://politico.com##.homepage-section-blast-sign-up
+https://foreignaffairs.com##.homepage-sign-up--b
 https://guernicamag.com##.homing_wrapper
 https://hcanews.com##.house300x90
 https://thedailymeal.com##.hp-tdm-newsletters-wrapper
@@ -8375,6 +8378,7 @@ https://twistedsifter.com##.widget_sifter_connect_widget
 https://sassymanila.com##.widget_smnl-social
 https://whenonearth.net##.widget_ti-about-site
 https://thescore.com##.widget_top_links
+https://telesurenglish.net##.wpRedesFoot
 https://gamebreaker.tv##.wpbfsb
 https://mambaonline.com##.wpfai-list
 https://voiceoftv.com##.wpfbac-button
@@ -9020,6 +9024,7 @@ https://iflicks.in###welcome
 https://janrain.com###wptbheadline1
 https://here.com###wrapper
 https://dublininquirer.com##.-alert.-fixed.notice
+https://alpari.com,alpariforex.org##.-footer__notice
 https://cryptokitties.co##.Banner
 https://cryptokitties.co##.BottomBanner
 https://itsfoss.com##.CampaignType--floating
@@ -9256,6 +9261,7 @@ https://adobe.com,merixstudio.com,sapabuildingsystem.com,timesofisrael.com##.mes
 https://heedbook.com##.message-alert
 https://gametwist.com##.message__container
 https://wandermap.net##.messages
+https://foreignaffairs.com##.messages--container--bottom
 https://spotify.com##.mh-message-bar
 https://mitele.es##.mitele-consent
 https://transparency.org##.mk-c-modal
@@ -10293,6 +10299,7 @@ https://americantourister.it##.ui-widget-overlay
 https://lospecialista.tv##.widget_mailpoet_form
 https://lospecialista.tv##.widget_specialert
 https://secoloditalia.it##.widget_wpmailup_widget
+https://vitatrentina.it##.wpdiscuz-front-actions
 https://inpharmamag.it##.wptbbarheaddiv
 https://corriere.it##a[href*="/newsletter"]
 https://altarimini.it##a[href="#header"]
@@ -10813,6 +10820,7 @@ https://starmedia.com##.twt
 https://eluniversal.com.mx##.uni_videoRedes
 https://elobservador.com.uy##.user-actions-wrapper
 https://europafm.com,ondacero.es##.vermas
+https://telesurtv.net##.wpRedesFoot
 https://publicar.com##img[style="margin: 0px 10px; float: left; width: 26px;"]
 https://tennisitaliano.it###Utility
 https://dissapore.com###about-social
@@ -10941,7 +10949,7 @@ https://amica.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,citta
 https://mediaset.it,meteo.it##.shr
 https://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 https://quickparking.it##.soc-icon-container
-https://affaritaliani.it,altadefinizione01.cloud,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,auto.it,avivaitalia.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lafeltrinelli.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,unica.it,units.it,vg247.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+https://affaritaliani.it,altadefinizione01.cloud,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,auto.it,avivaitalia.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lafeltrinelli.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 https://investireoggi.it##.social_menu
 https://gametimers.it,ilsicilia.it,kontrokultura.it##.ss-ic
 https://cinemalibero.news##.telegram
@@ -12516,6 +12524,7 @@ https://imgur.com#@#.post-share-panel
 https://reddit.com#@#.post-sharing
 https://guildwars2.com#@#.post-social
 https://vk.com#@#.post_share
+https://supercomfysleep.com#@#.q_social_icon_holder
 https://reddit.com#@#.reddit_button
 https://hootsuite.com#@#.retweet
 https://sciencemag.org#@#.rssFeed
@@ -12595,6 +12604,7 @@ https://169.254.1.1,192.168.178.1,192.168.188.1,fritz.box#@#.sharingbox
 https://nextinpact.com#@#.sharrre
 https://theatlantic.com,youtube.com#@#.show-share
 https://500px.com#@#.show_social
+https://supercomfysleep.com#@#.simple_social
 https://login.aliexpress.com#@#.sns-btns
 https://gry-online.pl#@#.social-16
 https://tvp.info#@#.social-article
@@ -12833,6 +12843,7 @@ https://franziskaner-weissbier.de#@#.accept-cookies
 https://imvu.com#@#.accept-cookies:not(html)
 https://live.nettavisen.no#@#.active > div
 https://patient.info#@#.alert--cookie
+https://openfiber.it#@#.cc-banner
 https://bing.com,czuczu.pl#@#.cc-container
 https://morningstar.ca#@#.cc_container
 https://onet.pl#@#.cmp-app_gdpr
@@ -12881,7 +12892,7 @@ https://bezeq.co.il#@#.cookieAlert
 https://morizon.pl,tweakers.net#@#.cookieBar
 https://moniteurautomobile.be#@#.cookieBox
 https://sap.com#@#.cookieConsent
-https://birdpix.nl,nederpix.nl#@#.cookieContainer
+https://birdpix.nl,nederpix.nl,openfiber.it#@#.cookieContainer
 https://stihl.de#@#.cookieInfo
 https://milliman.com#@#.cookieMessage
 https://staralliance.com#@#.cookieMsg
@@ -12962,6 +12973,7 @@ https://redditinc.com#@#.show-cookie-popup
 https://forbes.com,forbes.it,tmz.com#@#.truste_box_overlay
 https://forbes.com,forbes.it,tmz.com#@#.truste_overlay
 https://timeout.com#@#.xs-fixed[data-module="cookie_banner"]
+https://openfiber.it#@#[aria-label="cookieconsent"]
 https://atutszkola.pl,meethue.com,mydziewczyny.pl,philips.ae,philips.am,philips.at,philips.az,philips.be,philips.bg,philips.by,philips.ca,philips.ch,philips.cl,philips.co.id,philips.co.il,philips.co.in,philips.co.jp,philips.co.ke,philips.co.kr,philips.co.nz,philips.co.th,philips.co.uk,philips.co.za,philips.com,philips.com.ar,philips.com.au,philips.com.bh,philips.com.br,philips.com.cn,philips.com.co,philips.com.eg,philips.com.ge,philips.com.gh,philips.com.hk,philips.com.kw,philips.com.lb,philips.com.mx,philips.com.my,philips.com.om,philips.com.pe,philips.com.ph,philips.com.pk,philips.com.qa,philips.com.sg,philips.com.tr,philips.com.tw,philips.com.uy,philips.com.vn,philips.cz,philips.de,philips.dk,philips.ee,philips.es,philips.fi,philips.fr,philips.gr,philips.hr,philips.hu,philips.ie,philips.iq,philips.it,philips.jo,philips.kz,philips.lt,philips.lv,philips.ma,philips.ng,philips.nl,philips.no,philips.pl,philips.pt,philips.ro,philips.rs,philips.ru,philips.sa,philips.se,philips.si,philips.sk,philips.ua,philips.uz#@#[data-cookie-id]
 https://mymuesli.com#@#cookies_consent
 https://birramenabrea.com,marketerplus.pl#@#div[data-cookie]
@@ -16789,6 +16801,7 @@ http://stylelist.com##.home-newsletter
 http://factmag.com##.home-social-area
 http://theskimm.com##.home-subscribe__signup-form
 http://politico.com##.homepage-section-blast-sign-up
+http://foreignaffairs.com##.homepage-sign-up--b
 http://guernicamag.com##.homing_wrapper
 http://hcanews.com##.house300x90
 http://thedailymeal.com##.hp-tdm-newsletters-wrapper
@@ -18626,6 +18639,7 @@ http://twistedsifter.com##.widget_sifter_connect_widget
 http://sassymanila.com##.widget_smnl-social
 http://whenonearth.net##.widget_ti-about-site
 http://thescore.com##.widget_top_links
+http://telesurenglish.net##.wpRedesFoot
 http://gamebreaker.tv##.wpbfsb
 http://mambaonline.com##.wpfai-list
 http://voiceoftv.com##.wpfbac-button
@@ -19272,6 +19286,7 @@ http://iflicks.in###welcome
 http://janrain.com###wptbheadline1
 http://here.com###wrapper
 http://dublininquirer.com##.-alert.-fixed.notice
+http://alpari.com,alpariforex.org##.-footer__notice
 http://cryptokitties.co##.Banner
 http://cryptokitties.co##.BottomBanner
 http://itsfoss.com##.CampaignType--floating
@@ -19508,6 +19523,7 @@ http://adobe.com,merixstudio.com,sapabuildingsystem.com,timesofisrael.com##.mess
 http://heedbook.com##.message-alert
 http://gametwist.com##.message__container
 http://wandermap.net##.messages
+http://foreignaffairs.com##.messages--container--bottom
 http://spotify.com##.mh-message-bar
 http://mitele.es##.mitele-consent
 http://transparency.org##.mk-c-modal
@@ -20545,6 +20561,7 @@ http://americantourister.it##.ui-widget-overlay
 http://lospecialista.tv##.widget_mailpoet_form
 http://lospecialista.tv##.widget_specialert
 http://secoloditalia.it##.widget_wpmailup_widget
+http://vitatrentina.it##.wpdiscuz-front-actions
 http://inpharmamag.it##.wptbbarheaddiv
 http://corriere.it##a[href*="/newsletter"]
 http://altarimini.it##a[href="#header"]
@@ -21066,6 +21083,7 @@ http://starmedia.com##.twt
 http://eluniversal.com.mx##.uni_videoRedes
 http://elobservador.com.uy##.user-actions-wrapper
 http://europafm.com,ondacero.es##.vermas
+http://telesurtv.net##.wpRedesFoot
 http://publicar.com##img[style="margin: 0px 10px; float: left; width: 26px;"]
 http://tennisitaliano.it###Utility
 http://dissapore.com###about-social
@@ -21194,7 +21212,7 @@ http://amica.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittac
 http://mediaset.it,meteo.it##.shr
 http://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 http://quickparking.it##.soc-icon-container
-http://affaritaliani.it,altadefinizione01.cloud,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,auto.it,avivaitalia.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lafeltrinelli.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,unica.it,units.it,vg247.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+http://affaritaliani.it,altadefinizione01.cloud,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,auto.it,avivaitalia.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lafeltrinelli.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 http://investireoggi.it##.social_menu
 http://gametimers.it,ilsicilia.it,kontrokultura.it##.ss-ic
 http://cinemalibero.news##.telegram
@@ -22769,6 +22787,7 @@ http://imgur.com#@#.post-share-panel
 http://reddit.com#@#.post-sharing
 http://guildwars2.com#@#.post-social
 http://vk.com#@#.post_share
+http://supercomfysleep.com#@#.q_social_icon_holder
 http://reddit.com#@#.reddit_button
 http://hootsuite.com#@#.retweet
 http://sciencemag.org#@#.rssFeed
@@ -22848,6 +22867,7 @@ http://169.254.1.1,192.168.178.1,192.168.188.1,fritz.box#@#.sharingbox
 http://nextinpact.com#@#.sharrre
 http://theatlantic.com,youtube.com#@#.show-share
 http://500px.com#@#.show_social
+http://supercomfysleep.com#@#.simple_social
 http://login.aliexpress.com#@#.sns-btns
 http://gry-online.pl#@#.social-16
 http://tvp.info#@#.social-article
@@ -23086,6 +23106,7 @@ http://franziskaner-weissbier.de#@#.accept-cookies
 http://imvu.com#@#.accept-cookies:not(html)
 http://live.nettavisen.no#@#.active > div
 http://patient.info#@#.alert--cookie
+http://openfiber.it#@#.cc-banner
 http://bing.com,czuczu.pl#@#.cc-container
 http://morningstar.ca#@#.cc_container
 http://onet.pl#@#.cmp-app_gdpr
@@ -23134,7 +23155,7 @@ http://bezeq.co.il#@#.cookieAlert
 http://morizon.pl,tweakers.net#@#.cookieBar
 http://moniteurautomobile.be#@#.cookieBox
 http://sap.com#@#.cookieConsent
-http://birdpix.nl,nederpix.nl#@#.cookieContainer
+http://birdpix.nl,nederpix.nl,openfiber.it#@#.cookieContainer
 http://stihl.de#@#.cookieInfo
 http://milliman.com#@#.cookieMessage
 http://staralliance.com#@#.cookieMsg
@@ -23215,6 +23236,7 @@ http://redditinc.com#@#.show-cookie-popup
 http://forbes.com,forbes.it,tmz.com#@#.truste_box_overlay
 http://forbes.com,forbes.it,tmz.com#@#.truste_overlay
 http://timeout.com#@#.xs-fixed[data-module="cookie_banner"]
+http://openfiber.it#@#[aria-label="cookieconsent"]
 http://atutszkola.pl,meethue.com,mydziewczyny.pl,philips.ae,philips.am,philips.at,philips.az,philips.be,philips.bg,philips.by,philips.ca,philips.ch,philips.cl,philips.co.id,philips.co.il,philips.co.in,philips.co.jp,philips.co.ke,philips.co.kr,philips.co.nz,philips.co.th,philips.co.uk,philips.co.za,philips.com,philips.com.ar,philips.com.au,philips.com.bh,philips.com.br,philips.com.cn,philips.com.co,philips.com.eg,philips.com.ge,philips.com.gh,philips.com.hk,philips.com.kw,philips.com.lb,philips.com.mx,philips.com.my,philips.com.om,philips.com.pe,philips.com.ph,philips.com.pk,philips.com.qa,philips.com.sg,philips.com.tr,philips.com.tw,philips.com.uy,philips.com.vn,philips.cz,philips.de,philips.dk,philips.ee,philips.es,philips.fi,philips.fr,philips.gr,philips.hr,philips.hu,philips.ie,philips.iq,philips.it,philips.jo,philips.kz,philips.lt,philips.lv,philips.ma,philips.ng,philips.nl,philips.no,philips.pl,philips.pt,philips.ro,philips.rs,philips.ru,philips.sa,philips.se,philips.si,philips.sk,philips.ua,philips.uz#@#[data-cookie-id]
 http://mymuesli.com#@#cookies_consent
 http://birramenabrea.com,marketerplus.pl#@#div[data-cookie]
