@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: VKFN6VwbbXI7jam+zijaOw
-! Version: 202006030003
+! Checksum: FiWUJG84yJQBlt3kxrxOMA
+! Version: 202006040003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -1418,6 +1418,7 @@
 ||https://aibing.cc/vip/img/gou.gif
 ||https://aichuangfu.cn/jquery/
 ||https://aifei0755.net/123/
+||https://ainuody.com/wp-content/uploads/2017/07/%E5%85
 ||https://airav.cc/AirADPic/
 ||https://airav.cc/iframe/
 ||https://airav.cc/static/js/*_ad.js
@@ -1798,6 +1799,8 @@
 ||https://bxw666.com/storage/*.gif
 ||https://bxwns.com/blz/
 ||https://bxwns.com/player/ad.html
+||https://by4d.com/dh/
+||https://by4d.com/love/
 ||https://bytravel.cn/images/cus/
 ||https://bytravel.cn/images/t/usa_250_120.gif
 ||https://bytravel.cn/js/ad_
@@ -2235,6 +2238,8 @@
 ||https://e0575.com/index.php
 ||https://e10000.cn/Images/link_td01.gif
 ||https://e23.cn/js/aaa.js
+||https://e3c7.com/dh/
+||https://e3c7.com/love/
 ||https://e3ol.com/inc/
 ||https://e9377f.com^$rewrite=abp-resource:blank-mp3
 ||https://easou.com/brandImage/ad/
@@ -3450,6 +3455,7 @@
 ||https://onlinedown.net/Public/js/headAd.js
 ||https://onlyitv.com/assets/js/onlyitv.js
 ||https://onlytvb.com/assets/javascripts/
+||https://onx8.com/zb_users/theme/ydgreen/style/ad/
 ||https://ooo.0o0.ooo/2017/11/03/59fc6b3c5b723.jpg
 ||https://oopw.top/img/jdy
 ||https://ooqiu.com/ad_js/
@@ -4817,7 +4823,6 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://ainuody.com/wp-content/uploads/2017/07/%E5%85
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -9052,6 +9057,7 @@
 ||http://aibing.cc/vip/img/gou.gif
 ||http://aichuangfu.cn/jquery/
 ||http://aifei0755.net/123/
+||http://ainuody.com/wp-content/uploads/2017/07/%E5%85
 ||http://airav.cc/AirADPic/
 ||http://airav.cc/iframe/
 ||http://airav.cc/static/js/*_ad.js
@@ -9484,6 +9490,8 @@
 ||http://bxw666.com/storage/*.gif
 ||http://bxwns.com/blz/
 ||http://bxwns.com/player/ad.html
+||http://by4d.com/dh/
+||http://by4d.com/love/
 ||http://by8974.com^
 ||http://bytravel.cn/images/cus/
 ||http://bytravel.cn/images/t/usa_250_120.gif
@@ -9981,6 +9989,8 @@
 ||http://e0575.com/index.php
 ||http://e10000.cn/Images/link_td01.gif
 ||http://e23.cn/js/aaa.js
+||http://e3c7.com/dh/
+||http://e3c7.com/love/
 ||http://e3ol.com/inc/
 ||http://e9377f.com^$rewrite=abp-resource:blank-mp3,domain=eastday.com
 ||http://eap.big5.enorth.com.cn^
@@ -11365,6 +11375,7 @@
 ||http://onlinedown.net/Public/js/headAd.js
 ||http://onlyitv.com/assets/js/onlyitv.js
 ||http://onlytvb.com/assets/javascripts/
+||http://onx8.com/zb_users/theme/ydgreen/style/ad/
 ||http://ooo.0o0.ooo/2017/11/03/59fc6b3c5b723.jpg
 ||http://oopw.top/img/jdy
 ||http://ooqiu.com/ad_js/
@@ -12885,7 +12896,6 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://ainuody.com/wp-content/uploads/2017/07/%E5%85
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -13002,6 +13012,7 @@
 ||http://a*.chajiaotong.com^
 ||http://a.52wubi.com^
 ||http://a.52zxw.com^
+||http://a.91zhongkao.com^
 ||http://a.armystar.com^
 ||http://a.bake818.cn^
 ||http://a.duanmeiwen.com^
@@ -13998,6 +14009,7 @@
 ||http://anmeilai.net^
 ||http://anyysz.com^
 ||http://aomde.com^
+||http://aox7.xyz^
 ||http://aoyou2.top^
 ||http://apjiangte.com^
 ||http://apmengxin.com^
@@ -20818,9 +20830,9 @@ https://18board.com,18p2p.com##a[target="_blank"] > img[width="728"]
 https://muchong.com##a[target="_blank"][style="display: inherit!important;"]
 https://pixiv.net##a[target="premium_noads"]
 https://youz4.com##a[title*="广告"]
+https://ainuody.com##a[title*="红包"]
 https://creaders.net##a[title^="www.136888.com/"]
 https://duba.com##a[w="topad"]
-https://ainuody.com##A[title*="红包"]
 https://ainuody.com#?#.post:-abp-has(> .article > .entry_post > p:-abp-contains(/红包|淘宝/))
 https://amazon.cn#?#.s-result-item:-abp-has(> .s-item-container > h5 .s-sponsored-info-icon)
 https://idanmu.at##aside > div[class="widget "]
@@ -26825,9 +26837,9 @@ http://18board.com,18p2p.com##a[target="_blank"] > img[width="728"]
 http://muchong.com##a[target="_blank"][style="display: inherit!important;"]
 http://pixiv.net##a[target="premium_noads"]
 http://youz4.com##a[title*="广告"]
+http://ainuody.com##a[title*="红包"]
 http://creaders.net##a[title^="www.136888.com/"]
 http://duba.com##a[w="topad"]
-http://ainuody.com##A[title*="红包"]
 http://ainuody.com#?#.post:-abp-has(> .article > .entry_post > p:-abp-contains(/红包|淘宝/))
 http://amazon.cn#?#.s-result-item:-abp-has(> .s-item-container > h5 .s-sponsored-info-icon)
 http://idanmu.at##aside > div[class="widget "]

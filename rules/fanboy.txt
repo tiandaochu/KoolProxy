@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: y/M2F5OB31+RE6xmInM1Mg
-! Version: 202006022351
+! Checksum: e8OTuGt2OhEaTf+mSiodgQ
+! Version: 202006032351
 ! Title: Fanboy's Annoyance List
-! Last modified: 02 Jun 2020 23:51 UTC
+! Last modified: 03 Jun 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -8747,6 +8747,7 @@ https://postojnska-jama.eu###\5f iCD
 https://warnerbros.fr###_EAPM
 https://shadow.tech###__next > div[class^="styles__Container-"]
 https://govirtuo.com###__next > div[class^="virtuo_"]
+https://downdetector.com###_evidon-barrier-wrapper
 https://mcsuk.org###a3prompt
 https://dictzone.com###ac
 https://globallogic.com###ac-wrapper
@@ -12052,6 +12053,7 @@ https://lexus.ro##.disclaimer
 https://idea-bank.ro,lidl.ro##.notification
 https://epantofi.ro##.popup
 https://bancaintesa.ru###agreement
+https://proglib.io###cookie
 https://rosbank.ru###gray_overlay
 https://sakharov-center.ru###kuk
 https://aquaphor.ru###modal-kuki
@@ -12061,7 +12063,6 @@ https://linux-info.ru###trumpet_message
 https://drweb.ru##.SHOWIT-msg_showed
 https://ngnovoros.ru##._1TNYbgH
 https://bancaintesa.ru##.agreement-substrate
-https://proglib.io##.basis__h-content
 https://tvguru.ru##.c-modal
 https://hashrating.com##.cookie
 https://glavred.info,unian.net##.cookies
@@ -19010,6 +19011,7 @@ http://postojnska-jama.eu###\5f iCD
 http://warnerbros.fr###_EAPM
 http://shadow.tech###__next > div[class^="styles__Container-"]
 http://govirtuo.com###__next > div[class^="virtuo_"]
+http://downdetector.com###_evidon-barrier-wrapper
 http://mcsuk.org###a3prompt
 http://dictzone.com###ac
 http://globallogic.com###ac-wrapper
@@ -22316,6 +22318,7 @@ http://lexus.ro##.disclaimer
 http://idea-bank.ro,lidl.ro##.notification
 http://epantofi.ro##.popup
 http://bancaintesa.ru###agreement
+http://proglib.io###cookie
 http://rosbank.ru###gray_overlay
 http://sakharov-center.ru###kuk
 http://aquaphor.ru###modal-kuki
@@ -22325,7 +22328,6 @@ http://linux-info.ru###trumpet_message
 http://drweb.ru##.SHOWIT-msg_showed
 http://ngnovoros.ru##._1TNYbgH
 http://bancaintesa.ru##.agreement-substrate
-http://proglib.io##.basis__h-content
 http://tvguru.ru##.c-modal
 http://hashrating.com##.cookie
 http://glavred.info,unian.net##.cookies
