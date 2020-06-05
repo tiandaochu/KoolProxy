@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: FiWUJG84yJQBlt3kxrxOMA
-! Version: 202006040003
+! Checksum: EAy2yBnTAuFoiKn/t83eJA
+! Version: 202006050003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -1333,7 +1333,6 @@
 ||https://9669.cn/jsam/play_
 ||https://973.com/static/js/pccom.js
 ||https://97aa1.com/g/
-||https://98.126.219.216/ads/
 ||https://98441.com^*gg
 ||https://988aiai.com/static/js/common.js
 ||https://9906g.com/js/jquery.js
@@ -4065,6 +4064,7 @@
 ||https://taosq.net/public/250x250.jpg
 ||https://taoyizhu.com/images/guanggao2/
 ||https://taporn.com/d/
+||https://tb58.net/plugin.php?id=tb58_
 ||https://tbcdn.cn/mm/tanxssp-custom/sina_
 ||https://tbtdg.com/img/2018s11.jpg
 ||https://tc.cn/ad123/
@@ -8922,7 +8922,6 @@
 ||http://9669.cn/jsam/play_
 ||http://973.com/static/js/pccom.js
 ||http://97aa1.com/g/
-||http://98.126.219.216/ads/
 ||http://98441.com^*gg
 ||http://988aiai.com/static/js/common.js
 ||http://9906g.com/js/jquery.js
@@ -12063,6 +12062,7 @@
 ||http://taoyizhu.com/images/guanggao2/
 ||http://taoziba.com/a*.js
 ||http://taporn.com/d/
+||http://tb58.net/plugin.php?id=tb58_
 ||http://tbcdn.cn/mm/tanxssp-custom/sina_
 ||http://tbtdg.com/img/2018s11.jpg
 ||http://tc.cn/ad123/
@@ -15166,6 +15166,7 @@
 ||http://pomkl.com^
 ||http://pos68.cn^
 ||http://pougg.com^
+||http://ppee.xyz^
 ||http://pptte.com^
 ||http://pqnlorg.cn^
 ||http://pqwtrq.xyz^
@@ -15565,6 +15566,7 @@
 ||http://webkooo.com^
 ||http://weboser.com^
 ||http://wechatpu.com^
+||http://wehoysp.cn^
 ||http://weiguanwang888.com^
 ||http://weiiii.com^
 ||http://weikefanli.com^
@@ -15803,6 +15805,7 @@
 ||http://yyeks.com^
 ||http://yyhqch.com^
 ||http://yyjhf.com^
+||http://yyjj.xyz^
 ||http://yymmsd.cn^
 ||http://yyshow.top^
 ||http://yzftqx.cn^
@@ -17286,6 +17289,7 @@ https://sohu.com###hotpicnew
 https://yahoo.com###hp-ad-left
 https://yahoo.com###hp-ad-right
 https://ifeng.com###hslide_sPic_baidu
+https://huya.com###huya-ab
 https://narutom.com###hy_float
 https://mzyz.com###idTransformView2
 https://tlanyan.me###id_ad_field
@@ -17432,7 +17436,7 @@ https://hinet.net###media_ad_popup_overlay
 https://hexieshe.cn###media_image-2
 https://hexieshe.cn###media_image-3
 https://loldk.com###meizi_ad
-https://avtb8899.com###menu-main-content > li:nth-child(n+5)
+https://avtb2022.com###menu-main-content > li:nth-child(n+5)
 https://fuliba.net###menu-nav > .menu-item:nth-child(n+4):not(:last-child)
 https://xiuren.org###menur
 https://tv.sohu.com###miaozhenad
@@ -19285,7 +19289,7 @@ https://faxingw.cn##.indadv1
 https://oschina.net##.index-ad-wrap
 https://cndesign.com##.index-add
 https://16fan.com,jianshen8.com##.index-banner
-https://1avlang.com,avlang.com,avlang13.info##.index-info > .tac
+https://1avlang.com,avavl4.com,avlang.com##.index-info > .tac
 https://kpd122.com,ssp28.pw##.index-owl-carousel
 https://bilibili.com##.index-promote
 https://pinggu.org##.index-somelinks
@@ -20685,6 +20689,7 @@ https://kafan.cn##a[href*="nameidi."]
 https://dmzj.com##a[href*="qunhei.com"]
 https://500.com##a[href*="sanyol.cn"]
 https://dzbhdm.com##a[href*="sourl.cn"]
+https://mtrend.cn##a[href*="taomoubao.com"]
 https://jinti.com##a[href*="tempurchina.com"]
 https://58.com##a[href*="to8to.com"]
 https://enjoymore.fun##a[href*="urlto.pw"]
@@ -21747,6 +21752,7 @@ https://zol.com.cn##div[class^="top-box-xiazai"]
 https://zol.com.cn##span[class*="-dxlt"]
 https://zol.com.cn##span[class^="dxlt-down"]
 https://zol.com.cn##span[class^="jisu-down"]
+https://coolpc.com.tw#@##mycookie
 https://dota2.com.cn#@##bdshare
 https://eastday.com#@##leftShare
 https://gfan.com,gfan.net.cn#@##shareBox
@@ -23293,6 +23299,7 @@ http://sohu.com###hotpicnew
 http://yahoo.com###hp-ad-left
 http://yahoo.com###hp-ad-right
 http://ifeng.com###hslide_sPic_baidu
+http://huya.com###huya-ab
 http://narutom.com###hy_float
 http://mzyz.com###idTransformView2
 http://tlanyan.me###id_ad_field
@@ -23439,7 +23446,7 @@ http://hinet.net###media_ad_popup_overlay
 http://hexieshe.cn###media_image-2
 http://hexieshe.cn###media_image-3
 http://loldk.com###meizi_ad
-http://avtb8899.com###menu-main-content > li:nth-child(n+5)
+http://avtb2022.com###menu-main-content > li:nth-child(n+5)
 http://fuliba.net###menu-nav > .menu-item:nth-child(n+4):not(:last-child)
 http://xiuren.org###menur
 http://tv.sohu.com###miaozhenad
@@ -25292,7 +25299,7 @@ http://faxingw.cn##.indadv1
 http://oschina.net##.index-ad-wrap
 http://cndesign.com##.index-add
 http://16fan.com,jianshen8.com##.index-banner
-http://1avlang.com,avlang.com,avlang13.info##.index-info > .tac
+http://1avlang.com,avavl4.com,avlang.com##.index-info > .tac
 http://kpd122.com,ssp28.pw##.index-owl-carousel
 http://bilibili.com##.index-promote
 http://pinggu.org##.index-somelinks
@@ -26692,6 +26699,7 @@ http://kafan.cn##a[href*="nameidi."]
 http://dmzj.com##a[href*="qunhei.com"]
 http://500.com##a[href*="sanyol.cn"]
 http://dzbhdm.com##a[href*="sourl.cn"]
+http://mtrend.cn##a[href*="taomoubao.com"]
 http://jinti.com##a[href*="tempurchina.com"]
 http://58.com##a[href*="to8to.com"]
 http://enjoymore.fun##a[href*="urlto.pw"]
@@ -27754,6 +27762,7 @@ http://zol.com.cn##div[class^="top-box-xiazai"]
 http://zol.com.cn##span[class*="-dxlt"]
 http://zol.com.cn##span[class^="dxlt-down"]
 http://zol.com.cn##span[class^="jisu-down"]
+http://coolpc.com.tw#@##mycookie
 http://dota2.com.cn#@##bdshare
 http://eastday.com#@##leftShare
 http://gfan.com,gfan.net.cn#@##shareBox
