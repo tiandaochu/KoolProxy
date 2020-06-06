@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: EAy2yBnTAuFoiKn/t83eJA
-! Version: 202006050003
+! Checksum: PdDMl6TMFgLOdVWQxGfQ/g
+! Version: 202006060003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -3532,7 +3532,7 @@
 ||https://php1.cn/uploads/huayun.jpg
 ||https://phpernote.com/ali
 ||https://phpstudyimg.com/all/renrenxiaxuan980.gif
-||https://pianba.tv/api/new_
+||https://pianba.tv/api/*.js
 ||https://pianjicdn.com^*.php
 ||https://piaodown.com/other/*.js
 ||https://piaodown.com/xtm/
@@ -6396,6 +6396,7 @@
 ||http://eiv.baidu.com^
 ||http://ejin56.com^$third-party
 ||http://ekeide.com^
+||http://eleobj.com^
 ||http://elsad.tw^$third-party
 ||http://emarbox.com^$third-party
 ||http://enohb.com^
@@ -11030,7 +11031,7 @@
 ||http://loli.io^$domain=kisssub.org
 ||http://loli.net/2018/09/01/5b8ab2b61cec4.jpg
 ||http://loli.net/2019/04/24/5cc0027b4f2f1.png
-||http://loli.net^$domain=520film.net|52pili.com|acglover.me|btdp.online|f6hx.site|hdsky.me|magnet2048.com|youtaoqi.com
+||http://loli.net^$domain=520film.net|52pili.com|acglover.me|btdp.online|f6hx.site|hdsky.me|magnet2048.com|xydai.cn|youtaoqi.com
 ||http://lolmp4.com/template/lolmp4/images/jquery.
 ||http://lolshipin.com/zt/sxx/
 ||http://longbahao.com/asd.js
@@ -11468,7 +11469,7 @@
 ||http://phpad.cqnews.net^
 ||http://phpernote.com/ali
 ||http://phpstudyimg.com/all/renrenxiaxuan980.gif
-||http://pianba.tv/api/new_
+||http://pianba.tv/api/*.js
 ||http://pianjicdn.com^*.php
 ||http://piaodown.com/other/*.js
 ||http://piaodown.com/xtm/
@@ -14097,6 +14098,7 @@
 ||http://boluoxs.com/js/digu.js
 ||http://book9.net^$third-party
 ||http://boomgamescloud-cdn.cn^
+||http://bopbes.cn^
 ||http://boweineng.cn^
 ||http://bpdffh.cn^
 ||http://bqhnj.cn^
@@ -14329,6 +14331,7 @@
 ||http://dxcssc.cn^
 ||http://dxmci.com^
 ||http://dybz8.net/js/htm
+||http://dydd.xyz^
 ||http://dydyhg.com^
 ||http://dyfzyg.com^
 ||http://dzisou.com^
@@ -14970,6 +14973,7 @@
 ||http://mcaik.com^
 ||http://md0z4dh.com^
 ||http://mdashen.vip^
+||http://mdcone.cn^
 ||http://mdous.com^
 ||http://mdsfzh.cn^
 ||http://me0715.top^
@@ -15493,6 +15497,7 @@
 ||http://uqpfh.cn^
 ||http://urlet.cn^
 ||http://usty357a.site^
+||http://uunewcar.com^
 ||http://uuopp.com^
 ||http://uvmqpum.cn^
 ||http://uwmoghx.cn^
@@ -15849,6 +15854,7 @@
 ||http://zhongfujiaoyu.cn^
 ||http://zhongwangmy.cn^
 ||http://zhouqin520.top^
+||http://zhuanrangyun.cn^
 ||http://zhuanyule.cn^
 ||http://zhuifood.top^
 ||http://zhujiafangchan.cn^
@@ -20720,6 +20726,7 @@ https://autohome.com.cn##a[href="https://m.autohome.com.cn/activity/special/auto
 https://2dway.com##a[href="https://www.2dway.com/5244/"]
 https://dzbhdm.com##a[href="https://www.biqudao2.com"]
 https://centoschina.cn##a[href="https://www.linuxprobe.com/"]
+https://ddooo.com##a[href="javascript:;"]:not([onclick])
 https://jandan.net##a[href^="//api.jandan.net/money.php?"]
 https://bigear.cn##a[href^="/?module=dantian&"]
 https://sdgundam.cn##a[href^="/aclk/"]
@@ -21238,6 +21245,7 @@ https://firefoxchina.cn##div[trace-key="ad_theme_skin_link"]
 https://firefoxchina.cn##div[trace-key="mh_channel_rec_tpth"]
 https://zuoye.baidu.com##dl[class="card related"]
 https://douban.com#?#.rec_topics:-abp-has(>.rec_topics_name[href^="https://erebor.douban."])
+https://ddooo.com##dt > a
 https://ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(助))
 https://bbs.my0511.com##embed[width="970"][height="70"]
 https://engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
@@ -21312,6 +21320,7 @@ https://ruanyifeng.com#?#.asset-content > p:-abp-contains(培训)
 https://ruanyifeng.com#?#.asset-content > p:-abp-contains(培训) + p > img
 https://samsung.com#?#.template-item:-abp-has(> .wrap-sub-title > div > .ad)
 https://dilidili.one,gdot.me,sc115.com##script + a
+https://wnacg.com##script + a > img
 https://logo160.com##script + a[href="/"]
 https://xingkbjm.com##script + div + .excerpt
 https://xingkbjm.com##script + div + .excerpt + .excerpt
@@ -26730,6 +26739,7 @@ http://autohome.com.cn##a[href="https://m.autohome.com.cn/activity/special/autoh
 http://2dway.com##a[href="https://www.2dway.com/5244/"]
 http://dzbhdm.com##a[href="https://www.biqudao2.com"]
 http://centoschina.cn##a[href="https://www.linuxprobe.com/"]
+http://ddooo.com##a[href="javascript:;"]:not([onclick])
 http://jandan.net##a[href^="//api.jandan.net/money.php?"]
 http://bigear.cn##a[href^="/?module=dantian&"]
 http://sdgundam.cn##a[href^="/aclk/"]
@@ -27248,6 +27258,7 @@ http://firefoxchina.cn##div[trace-key="ad_theme_skin_link"]
 http://firefoxchina.cn##div[trace-key="mh_channel_rec_tpth"]
 http://zuoye.baidu.com##dl[class="card related"]
 http://douban.com#?#.rec_topics:-abp-has(>.rec_topics_name[href^="https://erebor.douban."])
+http://ddooo.com##dt > a
 http://ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(助))
 http://bbs.my0511.com##embed[width="970"][height="70"]
 http://engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
@@ -27322,6 +27333,7 @@ http://ruanyifeng.com#?#.asset-content > p:-abp-contains(培训)
 http://ruanyifeng.com#?#.asset-content > p:-abp-contains(培训) + p > img
 http://samsung.com#?#.template-item:-abp-has(> .wrap-sub-title > div > .ad)
 http://dilidili.one,gdot.me,sc115.com##script + a
+http://wnacg.com##script + a > img
 http://logo160.com##script + a[href="/"]
 http://xingkbjm.com##script + div + .excerpt
 http://xingkbjm.com##script + div + .excerpt + .excerpt
