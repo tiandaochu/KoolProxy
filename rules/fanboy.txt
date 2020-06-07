@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EqWT0ZSzj5CVq3se4/vlkg
-! Version: 202006052351
+! Checksum: bhsLTpzeTvsmHKdcUZrccQ
+! Version: 202006062351
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Jun 2020 23:51 UTC
+! Last modified: 06 Jun 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -833,7 +833,6 @@
 ||https://thisisdone.com/gdpr/$third-party
 ||https://trustarc.com^$third-party
 ||https://uniconsent.mgr.consensu.org^$third-party
-||https://usercentrics.eu^$third-party
 ||https://vendorlist.consensu.org^$third-party
 ||https://volksbund-cookie.de^$third-party
 ||https://wpcc.io^$third-party
@@ -2171,7 +2170,6 @@
 ||http://thisisdone.com/gdpr/$third-party
 ||http://trustarc.com^$third-party
 ||http://uniconsent.mgr.consensu.org^$third-party
-||http://usercentrics.eu^$third-party
 ||http://vendorlist.consensu.org^$third-party
 ||http://volksbund-cookie.de^$third-party
 ||http://wpcc.io^$third-party
@@ -9135,7 +9133,7 @@ https://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.u
 https://deezer.com##.cookie-banner
 https://theatlantic.com##.cookie-disclaimer
 https://bitfeed.co##.cookiebanner
-https://amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,feelunique.com,forsettlement.com,gartic.io,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pjon.org,playgwent.com,proton.com,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,sharafdg.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
+https://amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,feelunique.com,forsettlement.com,gartic.io,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pics.io,pjon.org,playgwent.com,proton.com,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,sharafdg.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
 https://austrian.com,austrianairlines.ag,austriantechnik.at##.cop
 https://semanticscholar.org##.copyright-banner
 https://bandcamp.com##.corp-banners
@@ -9480,6 +9478,7 @@ https://transamerica.com##div.bannerAlert--isHidden
 https://yahoo.com##div.js-applet-view-container-main > div.fixed-win[style^="background:"]
 https://tacobell.co.uk##div[am-cookie]
 https://patreon.com##div[aria-describedby^="BannerContent"]
+https://revolut.com##div[class*="StyledCookiesBanner"]
 https://inc.com##div[class*="privacyPolicyPopup"]
 https://pri.org##div[class^="CtaMessage_"]
 https://similarsites.com##div[class^="PrivacyNotification"]
@@ -11526,6 +11525,7 @@ https://omroepbrabant.nl##.sticky-footer
 https://maxict.nl##.wallpop-overlay
 https://aboutyou.nl##div[class^="styles__container-"]
 https://waarmaarraar.nl##div[style="margin: 20px; padding-left:20px; padding-right:20px;border: 1px dotted #999999"]
+https://inmicsnebula.fi###alert-message-7
 https://atea.fi###cookie
 https://dna.fi###dna-gdpr-info
 https://kotimaa24.fi###kotimaa-cookie-notification
@@ -12388,7 +12388,7 @@ https://engage.it#@#.block-social
 https://opposingviews.com#@#.block-socialmedia
 https://kcrw.com#@#.bottom-social
 https://login.gog.com,tannico.it#@#.btn--facebook
-https://allegro.pl,eskimi.com,narew.info,nexoneu.com,secure.allocine.fr,techinasia.com#@#.btn-fb
+https://allegro.pl,eskimi.com,narew.info,nexoneu.com,secure.allocine.fr,techinasia.com,tekstowo.pl#@#.btn-fb
 https://appspot.com,younow.com#@#.btn-instagram
 https://appspot.com,foodit.com#@#.btn-linkedin
 https://appspot.com#@#.btn-reddit
@@ -12432,7 +12432,7 @@ https://busqueda.com.uy,modhoster.com,mozillamessaging.com,pinterest.com#@#.face
 https://watchever.de#@#.facebookBtn
 https://okcupid.com,quora.com,rdio.com,ticketabc.com#@#.facebook_button
 https://jappy.de#@#.facebookbutton
-https://airbnb.cat,airbnb.com,airbnb.de,dobreprogramy.pl#@#.fb-button
+https://airbnb.cat,airbnb.com,airbnb.de,dobreprogramy.pl,tekstowo.pl#@#.fb-button
 https://marketdino.pl,mediaexpert.leszczynscy.pl#@#.fb-container
 https://kizlarsoruyor.com#@#.fb-content
 https://firebase.google.com#@#.fb-dialog
@@ -12464,7 +12464,7 @@ https://wpolityce.pl#@#.icon-facebook-official
 https://lockerdome.com#@#.icon-facebook2
 https://eskimi.com,secure.allocine.fr#@#.icon-fb
 https://flattr.com#@#.icon-flickr
-https://chess.com,imgur.com,login.alibaba.com#@#.icon-google
+https://battle.net,chess.com,imgur.com,login.alibaba.com#@#.icon-google
 https://flattr.com,gleam.io#@#.icon-instagram
 https://fora.ie,login.alibaba.com#@#.icon-linkedin
 https://rottentomatoes.com#@#.icon-rss
@@ -12540,7 +12540,7 @@ https://belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 https://bitly.com,framestr.com,nytimes.com#@#.share-btn
 https://kcrw.com,vimeo.com#@#.share-button
 https://bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
-https://aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,zagranie.com#@#.share-container
+https://aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,tdiesel.ru,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,zagranie.com#@#.share-container
 https://podbean.com#@#.share-content
 https://mediafire.com#@#.share-facebook
 https://bild.de#@#.share-fb
@@ -12629,13 +12629,13 @@ https://deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com
 https://attn.com,wonderhowto.com#@#.social-header
 https://counterpunch.org#@#.social-hide
 https://deathandtaxesmag.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
-https://ok.ru,speedtest.net,udemy.com,washingtonexaminer.com#@#.social-icon
+https://battle.net,ok.ru,speedtest.net,udemy.com,washingtonexaminer.com#@#.social-icon
 https://deathandtaxesmag.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
 https://accountkiller.com#@#.social-image
 https://paperblog.com,paperblog.fr#@#.social-inline
 https://swiatebookow.pl#@#.social-label
-https://asos.com,metservice.com#@#.social-link
-https://airbnb.cat,airbnb.com,airbnb.de,autokult.pl,deathfromabove1979.com,fotoblogia.pl,komorkomania.pl,newonce.radio,redhat.com,squarespace.com,time.com#@#.social-links
+https://4pda.ru,asos.com,metservice.com#@#.social-link
+https://airbnb.cat,airbnb.com,airbnb.de,autokult.pl,dcz.gov.ua,deathfromabove1979.com,fotoblogia.pl,komorkomania.pl,newonce.radio,redhat.com,squarespace.com,time.com#@#.social-links
 https://wykop.pl#@#.social-list
 https://coeffee.com,flipboard.com,getyounity.com,howdoyou.do#@#.social-login
 https://ethias.be,technorati.com#@#.social-media
@@ -12972,12 +12972,14 @@ https://farmacja.pl,mgr.farm#@#.rodo-modal
 https://fabrykacukiernika.pl,ostrzegamy.online#@#.rodo-popup
 https://motofaktor.pl#@#.rodo__container
 https://redditinc.com#@#.show-cookie-popup
+https://infogreffe.fr#@#.trackingCookiesDisclaimer
 https://forbes.com,forbes.it,tmz.com#@#.truste_box_overlay
 https://forbes.com,forbes.it,tmz.com#@#.truste_overlay
 https://timeout.com#@#.xs-fixed[data-module="cookie_banner"]
 https://openfiber.it#@#[aria-label="cookieconsent"]
 https://atutszkola.pl,meethue.com,mydziewczyny.pl,philips.ae,philips.am,philips.at,philips.az,philips.be,philips.bg,philips.by,philips.ca,philips.ch,philips.cl,philips.co.id,philips.co.il,philips.co.in,philips.co.jp,philips.co.ke,philips.co.kr,philips.co.nz,philips.co.th,philips.co.uk,philips.co.za,philips.com,philips.com.ar,philips.com.au,philips.com.bh,philips.com.br,philips.com.cn,philips.com.co,philips.com.eg,philips.com.ge,philips.com.gh,philips.com.hk,philips.com.kw,philips.com.lb,philips.com.mx,philips.com.my,philips.com.om,philips.com.pe,philips.com.ph,philips.com.pk,philips.com.qa,philips.com.sg,philips.com.tr,philips.com.tw,philips.com.uy,philips.com.vn,philips.cz,philips.de,philips.dk,philips.ee,philips.es,philips.fi,philips.fr,philips.gr,philips.hr,philips.hu,philips.ie,philips.iq,philips.it,philips.jo,philips.kz,philips.lt,philips.lv,philips.ma,philips.ng,philips.nl,philips.no,philips.pl,philips.pt,philips.ro,philips.rs,philips.ru,philips.sa,philips.se,philips.si,philips.sk,philips.ua,philips.uz#@#[data-cookie-id]
 https://mymuesli.com#@#cookies_consent
+https://ee.co.uk#@#div[class^="cookie-banner"]
 https://birramenabrea.com,marketerplus.pl#@#div[data-cookie]
 https://timeout.com#@#div[data-module="cookie_banner"]
 https://unicode.org#@#div[data-nconvert-cookie]
@@ -19399,7 +19401,7 @@ http://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk
 http://deezer.com##.cookie-banner
 http://theatlantic.com##.cookie-disclaimer
 http://bitfeed.co##.cookiebanner
-http://amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,feelunique.com,forsettlement.com,gartic.io,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pjon.org,playgwent.com,proton.com,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,sharafdg.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
+http://amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,feelunique.com,forsettlement.com,gartic.io,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pics.io,pjon.org,playgwent.com,proton.com,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,sharafdg.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
 http://austrian.com,austrianairlines.ag,austriantechnik.at##.cop
 http://semanticscholar.org##.copyright-banner
 http://bandcamp.com##.corp-banners
@@ -19744,6 +19746,7 @@ http://transamerica.com##div.bannerAlert--isHidden
 http://yahoo.com##div.js-applet-view-container-main > div.fixed-win[style^="background:"]
 http://tacobell.co.uk##div[am-cookie]
 http://patreon.com##div[aria-describedby^="BannerContent"]
+http://revolut.com##div[class*="StyledCookiesBanner"]
 http://inc.com##div[class*="privacyPolicyPopup"]
 http://pri.org##div[class^="CtaMessage_"]
 http://similarsites.com##div[class^="PrivacyNotification"]
@@ -21791,6 +21794,7 @@ http://omroepbrabant.nl##.sticky-footer
 http://maxict.nl##.wallpop-overlay
 http://aboutyou.nl##div[class^="styles__container-"]
 http://waarmaarraar.nl##div[style="margin: 20px; padding-left:20px; padding-right:20px;border: 1px dotted #999999"]
+http://inmicsnebula.fi###alert-message-7
 http://atea.fi###cookie
 http://dna.fi###dna-gdpr-info
 http://kotimaa24.fi###kotimaa-cookie-notification
@@ -22653,7 +22657,7 @@ http://engage.it#@#.block-social
 http://opposingviews.com#@#.block-socialmedia
 http://kcrw.com#@#.bottom-social
 http://login.gog.com,tannico.it#@#.btn--facebook
-http://allegro.pl,eskimi.com,narew.info,nexoneu.com,secure.allocine.fr,techinasia.com#@#.btn-fb
+http://allegro.pl,eskimi.com,narew.info,nexoneu.com,secure.allocine.fr,techinasia.com,tekstowo.pl#@#.btn-fb
 http://appspot.com,younow.com#@#.btn-instagram
 http://appspot.com,foodit.com#@#.btn-linkedin
 http://appspot.com#@#.btn-reddit
@@ -22697,7 +22701,7 @@ http://busqueda.com.uy,modhoster.com,mozillamessaging.com,pinterest.com#@#.faceb
 http://watchever.de#@#.facebookBtn
 http://okcupid.com,quora.com,rdio.com,ticketabc.com#@#.facebook_button
 http://jappy.de#@#.facebookbutton
-http://airbnb.cat,airbnb.com,airbnb.de,dobreprogramy.pl#@#.fb-button
+http://airbnb.cat,airbnb.com,airbnb.de,dobreprogramy.pl,tekstowo.pl#@#.fb-button
 http://marketdino.pl,mediaexpert.leszczynscy.pl#@#.fb-container
 http://kizlarsoruyor.com#@#.fb-content
 http://firebase.google.com#@#.fb-dialog
@@ -22729,7 +22733,7 @@ http://wpolityce.pl#@#.icon-facebook-official
 http://lockerdome.com#@#.icon-facebook2
 http://eskimi.com,secure.allocine.fr#@#.icon-fb
 http://flattr.com#@#.icon-flickr
-http://chess.com,imgur.com,login.alibaba.com#@#.icon-google
+http://battle.net,chess.com,imgur.com,login.alibaba.com#@#.icon-google
 http://flattr.com,gleam.io#@#.icon-instagram
 http://fora.ie,login.alibaba.com#@#.icon-linkedin
 http://rottentomatoes.com#@#.icon-rss
@@ -22805,7 +22809,7 @@ http://belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 http://bitly.com,framestr.com,nytimes.com#@#.share-btn
 http://kcrw.com,vimeo.com#@#.share-button
 http://bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
-http://aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,zagranie.com#@#.share-container
+http://aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,tdiesel.ru,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,zagranie.com#@#.share-container
 http://podbean.com#@#.share-content
 http://mediafire.com#@#.share-facebook
 http://bild.de#@#.share-fb
@@ -22894,13 +22898,13 @@ http://deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#
 http://attn.com,wonderhowto.com#@#.social-header
 http://counterpunch.org#@#.social-hide
 http://deathandtaxesmag.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
-http://ok.ru,speedtest.net,udemy.com,washingtonexaminer.com#@#.social-icon
+http://battle.net,ok.ru,speedtest.net,udemy.com,washingtonexaminer.com#@#.social-icon
 http://deathandtaxesmag.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
 http://accountkiller.com#@#.social-image
 http://paperblog.com,paperblog.fr#@#.social-inline
 http://swiatebookow.pl#@#.social-label
-http://asos.com,metservice.com#@#.social-link
-http://airbnb.cat,airbnb.com,airbnb.de,autokult.pl,deathfromabove1979.com,fotoblogia.pl,komorkomania.pl,newonce.radio,redhat.com,squarespace.com,time.com#@#.social-links
+http://4pda.ru,asos.com,metservice.com#@#.social-link
+http://airbnb.cat,airbnb.com,airbnb.de,autokult.pl,dcz.gov.ua,deathfromabove1979.com,fotoblogia.pl,komorkomania.pl,newonce.radio,redhat.com,squarespace.com,time.com#@#.social-links
 http://wykop.pl#@#.social-list
 http://coeffee.com,flipboard.com,getyounity.com,howdoyou.do#@#.social-login
 http://ethias.be,technorati.com#@#.social-media
@@ -23237,12 +23241,14 @@ http://farmacja.pl,mgr.farm#@#.rodo-modal
 http://fabrykacukiernika.pl,ostrzegamy.online#@#.rodo-popup
 http://motofaktor.pl#@#.rodo__container
 http://redditinc.com#@#.show-cookie-popup
+http://infogreffe.fr#@#.trackingCookiesDisclaimer
 http://forbes.com,forbes.it,tmz.com#@#.truste_box_overlay
 http://forbes.com,forbes.it,tmz.com#@#.truste_overlay
 http://timeout.com#@#.xs-fixed[data-module="cookie_banner"]
 http://openfiber.it#@#[aria-label="cookieconsent"]
 http://atutszkola.pl,meethue.com,mydziewczyny.pl,philips.ae,philips.am,philips.at,philips.az,philips.be,philips.bg,philips.by,philips.ca,philips.ch,philips.cl,philips.co.id,philips.co.il,philips.co.in,philips.co.jp,philips.co.ke,philips.co.kr,philips.co.nz,philips.co.th,philips.co.uk,philips.co.za,philips.com,philips.com.ar,philips.com.au,philips.com.bh,philips.com.br,philips.com.cn,philips.com.co,philips.com.eg,philips.com.ge,philips.com.gh,philips.com.hk,philips.com.kw,philips.com.lb,philips.com.mx,philips.com.my,philips.com.om,philips.com.pe,philips.com.ph,philips.com.pk,philips.com.qa,philips.com.sg,philips.com.tr,philips.com.tw,philips.com.uy,philips.com.vn,philips.cz,philips.de,philips.dk,philips.ee,philips.es,philips.fi,philips.fr,philips.gr,philips.hr,philips.hu,philips.ie,philips.iq,philips.it,philips.jo,philips.kz,philips.lt,philips.lv,philips.ma,philips.ng,philips.nl,philips.no,philips.pl,philips.pt,philips.ro,philips.rs,philips.ru,philips.sa,philips.se,philips.si,philips.sk,philips.ua,philips.uz#@#[data-cookie-id]
 http://mymuesli.com#@#cookies_consent
+http://ee.co.uk#@#div[class^="cookie-banner"]
 http://birramenabrea.com,marketerplus.pl#@#div[data-cookie]
 http://timeout.com#@#div[data-module="cookie_banner"]
 http://unicode.org#@#div[data-nconvert-cookie]
