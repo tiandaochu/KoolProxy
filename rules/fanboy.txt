@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bhsLTpzeTvsmHKdcUZrccQ
-! Version: 202006062351
+! Checksum: OEaS0b1aW0phkHMc7J70kQ
+! Version: 202006072351
 ! Title: Fanboy's Annoyance List
-! Last modified: 06 Jun 2020 23:51 UTC
+! Last modified: 07 Jun 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7828,7 +7828,6 @@ https://glamourmagazine.co.uk##.follow-options-container
 https://metro.co.uk##.follow-promo
 https://gptoday.net##.follow-section
 https://snopes.com##.follow-snopes-on
-https://thehill.com##.follow-the-hill
 https://thetablet.co.uk##.follow-the-tablet
 https://theverge.com##.follow-the-verge
 https://mashable.com##.follow-trigger
@@ -12289,7 +12288,7 @@ https://reddit.com#@#img[alt="submit to reddit"]
 https://audionetwork.com,carlsenfritzoe.no#@##push-container:not(body):not(html)
 https://mega.nz#@#.notification-button
 https://bmwblog.com,carlsenfritzoe.no,meineschufa.de,push.abs-cbn.com,schufa.de#@#.push-container:not(body):not(html)
-https://asbclassic.co.nz,harmoney.co.nz,underconsideration.com#@#.push-wrap:not(body):not(html)
+https://asbclassic.co.nz,harmoney.co.nz,harmoney.com.au,underconsideration.com#@#.push-wrap:not(body):not(html)
 https://arabbank.com.au,operon.pl#@#.push-wrapper:not(body):not(html)
 https://mobi24.net#@#a[href^="http://www.mobi24.net/"]
 https://mobi24.net#@#a[href^="https://www.mobi24.net/"]
@@ -12640,6 +12639,7 @@ https://wykop.pl#@#.social-list
 https://coeffee.com,flipboard.com,getyounity.com,howdoyou.do#@#.social-login
 https://ethias.be,technorati.com#@#.social-media
 https://f-secure.com,howtogeek.com#@#.social-media-buttons
+https://telepolis.pl#@#.social-media-icons
 https://chorus.co.nz#@#.social-media-links
 https://schuermann.eu#@#.social-media-list
 https://insideover.com#@#.social-menu
@@ -18095,7 +18095,6 @@ http://glamourmagazine.co.uk##.follow-options-container
 http://metro.co.uk##.follow-promo
 http://gptoday.net##.follow-section
 http://snopes.com##.follow-snopes-on
-http://thehill.com##.follow-the-hill
 http://thetablet.co.uk##.follow-the-tablet
 http://theverge.com##.follow-the-verge
 http://mashable.com##.follow-trigger
@@ -22558,7 +22557,7 @@ http://reddit.com#@#img[alt="submit to reddit"]
 http://audionetwork.com,carlsenfritzoe.no#@##push-container:not(body):not(html)
 http://mega.nz#@#.notification-button
 http://bmwblog.com,carlsenfritzoe.no,meineschufa.de,push.abs-cbn.com,schufa.de#@#.push-container:not(body):not(html)
-http://asbclassic.co.nz,harmoney.co.nz,underconsideration.com#@#.push-wrap:not(body):not(html)
+http://asbclassic.co.nz,harmoney.co.nz,harmoney.com.au,underconsideration.com#@#.push-wrap:not(body):not(html)
 http://arabbank.com.au,operon.pl#@#.push-wrapper:not(body):not(html)
 http://mobi24.net#@#a[href^="http://www.mobi24.net/"]
 http://mobi24.net#@#a[href^="https://www.mobi24.net/"]
@@ -22909,6 +22908,7 @@ http://wykop.pl#@#.social-list
 http://coeffee.com,flipboard.com,getyounity.com,howdoyou.do#@#.social-login
 http://ethias.be,technorati.com#@#.social-media
 http://f-secure.com,howtogeek.com#@#.social-media-buttons
+http://telepolis.pl#@#.social-media-icons
 http://chorus.co.nz#@#.social-media-links
 http://schuermann.eu#@#.social-media-list
 http://insideover.com#@#.social-menu

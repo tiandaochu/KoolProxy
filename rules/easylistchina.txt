@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: C0IfsfG/dwMIC/S09GGgWA
-! Version: 202006070003
+! Checksum: O79P4/4p+lMm4dGssSKE1A
+! Version: 202006080003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -2067,6 +2067,7 @@
 ||https://ctanet.cn/aqq/JS/
 ||https://ctfile.com/iz.php?
 ||https://ctrip.com/amd/*960x90.
+||https://ctrip.com/Domestic/tool/AjaxGetCPTList.ashx?advpositioncode=
 ||https://cww.net.cn/include/show.asp?boardID=
 ||https://cww.net.cn/js/adspaces.js
 ||https://cww.net.cn/js/urdev.js
@@ -5301,7 +5302,9 @@
 ||https://sinaimg.cn/wap/project/blog_to_news_banner/
 ||https://zikao365.com/upload/js/pfgg/
 ||https://gaosan.com/js/b.js
+||https://igo99.cn/js/freetest.js
 ||https://3158.cn^*_analyser.
+||https://lnd.com.cn/sys/real_calc.js
 ||https://sogou.com/dr/p1.gif
 ||https://pconline.com.cn/ipJson.
 ||https://develenv.com^$third-party
@@ -9789,6 +9792,7 @@
 ||http://ctanet.cn/aqq/JS/
 ||http://ctfile.com/iz.php?
 ||http://ctrip.com/amd/*960x90.
+||http://ctrip.com/Domestic/tool/AjaxGetCPTList.ashx?advpositioncode=
 ||http://cww.net.cn/include/show.asp?boardID=
 ||http://cww.net.cn/js/adspaces.js
 ||http://cww.net.cn/js/urdev.js
@@ -14488,6 +14492,7 @@
 ||http://ggskt.com^
 ||http://ggz55268.com^
 ||http://giroud.top^
+||http://gitma.info^
 ||http://gj632.cn^
 ||http://gjiai.com^
 ||http://gjiak.com^
@@ -16334,7 +16339,10 @@
 ||http://sinaimg.cn/wap/project/blog_to_news_banner/
 ||http://zikao365.com/upload/js/pfgg/
 ||http://gaosan.com/js/b.js
+||http://igo99.cn/js/freetest.js
 ||http://3158.cn^*_analyser.
+||http://tracking.kdnet.net^
+||http://lnd.com.cn/sys/real_calc.js
 ||http://sogou.com/dr/p1.gif
 ||http://stat.jc001.cn^
 ||http://ip.tianqiapi.com^
@@ -18291,7 +18299,7 @@ https://chinamedevice.cn##.ads_img
 https://chinamedevice.cn##.ads_img1
 https://xianliao.me##.ads_popup_small_ads_container
 https://netflav.com##.ads_video_overlay_mobile
-https://199it.com,softwarebrother.com,wholehk.com##.adsbygoogle
+https://199it.com,league-funny.com,softwarebrother.com,wholehk.com##.adsbygoogle
 https://m.kuaidi100.com##.adsbygoogle + a
 https://chtoen.com##.adsbygoogle:not([data-ad-slot="9717665976"])
 https://aibing.cc,htcui.com,uho.com.tw##.adsense
@@ -19848,6 +19856,8 @@ https://htcui.com##.qqanimate
 https://baidu.com##.quality-elinks
 https://muzhi.baidu.com##.quick-ask-2 + .android + div
 https://hualongxiang.com##.quick_reply_ad
+https://3dmgame.com##.quickdown2
+https://3dmgame.com##.quickdown3
 https://im286.net##.qybj
 https://ouyaoxiazai.com##.qzhengfu
 https://ali213.net##.qztf
@@ -21080,6 +21090,7 @@ https://ifeng.com##div[id^="couplet3_"]
 https://jmnews.com.cn##div[id^="couplet_"]
 https://tyenews.com##div[id^="custom_html-"]
 https://banma.com##div[id^="disapper"]
+https://league-funny.com##div[id^="div-gpt-ad"]
 https://discuss.com.hk##div[id^="div-gpt-ad"] + div[id]
 https://gohome.com.hk##div[id^="div-gpt-ad"][style]
 https://zyue.com##div[id^="divad_"]
@@ -21737,13 +21748,13 @@ https://webkaka.com##td[id$="_SPONSOR"]
 https://webkaka.com##td[id*="Mid"]
 https://webkaka.com#?#:-abp-has(>[href*="100/"])
 https://baike567.com,wuhaozhan.net##.aaaaa
-https://baike567.com,wuhaozhan.net##.pure-u-md-8-24 iframe
 https://baike567.com,wuhaozhan.net##[onclick*=".tb.cn"]
 https://baike567.com,wuhaozhan.net##[onclick*="open"]
 https://baike567.com,wuhaozhan.net##a[href*=".click"]
 https://baike567.com,wuhaozhan.net##a[href*="otb."]
-https://baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/年货|红包|支付|天猫/))
+https://baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/京东|年货|红包|支付|天猫/))
 https://baike567.com,wuhaozhan.net#?#:-abp-has(> .ad_top_close)
+https://baike567.com,wuhaozhan.net##div[class*="main-righ"] iframe
 https://baike567.com,wuhaozhan.net##div[class^="hongbao"]
 https://baike567.com,wuhaozhan.net##div[id$="eBox"]
 https://zhangxinxu.com##a[href*=".mawen."]
@@ -21812,6 +21823,8 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://igo99.cn##.adBG
+https://danzhaowang.com##.qxzx_scho
 https://redocn.com##.big_vip_gg
 https://redocn.com##.small_vip_gg
 https://yutu.cn###botfocus-res
@@ -24305,7 +24318,7 @@ http://chinamedevice.cn##.ads_img
 http://chinamedevice.cn##.ads_img1
 http://xianliao.me##.ads_popup_small_ads_container
 http://netflav.com##.ads_video_overlay_mobile
-http://199it.com,softwarebrother.com,wholehk.com##.adsbygoogle
+http://199it.com,league-funny.com,softwarebrother.com,wholehk.com##.adsbygoogle
 http://m.kuaidi100.com##.adsbygoogle + a
 http://chtoen.com##.adsbygoogle:not([data-ad-slot="9717665976"])
 http://aibing.cc,htcui.com,uho.com.tw##.adsense
@@ -25862,6 +25875,8 @@ http://htcui.com##.qqanimate
 http://baidu.com##.quality-elinks
 http://muzhi.baidu.com##.quick-ask-2 + .android + div
 http://hualongxiang.com##.quick_reply_ad
+http://3dmgame.com##.quickdown2
+http://3dmgame.com##.quickdown3
 http://im286.net##.qybj
 http://ouyaoxiazai.com##.qzhengfu
 http://ali213.net##.qztf
@@ -27094,6 +27109,7 @@ http://ifeng.com##div[id^="couplet3_"]
 http://jmnews.com.cn##div[id^="couplet_"]
 http://tyenews.com##div[id^="custom_html-"]
 http://banma.com##div[id^="disapper"]
+http://league-funny.com##div[id^="div-gpt-ad"]
 http://discuss.com.hk##div[id^="div-gpt-ad"] + div[id]
 http://gohome.com.hk##div[id^="div-gpt-ad"][style]
 http://zyue.com##div[id^="divad_"]
@@ -27751,13 +27767,13 @@ http://webkaka.com##td[id$="_SPONSOR"]
 http://webkaka.com##td[id*="Mid"]
 http://webkaka.com#?#:-abp-has(>[href*="100/"])
 http://baike567.com,wuhaozhan.net##.aaaaa
-http://baike567.com,wuhaozhan.net##.pure-u-md-8-24 iframe
 http://baike567.com,wuhaozhan.net##[onclick*=".tb.cn"]
 http://baike567.com,wuhaozhan.net##[onclick*="open"]
 http://baike567.com,wuhaozhan.net##a[href*=".click"]
 http://baike567.com,wuhaozhan.net##a[href*="otb."]
-http://baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/年货|红包|支付|天猫/))
+http://baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/京东|年货|红包|支付|天猫/))
 http://baike567.com,wuhaozhan.net#?#:-abp-has(> .ad_top_close)
+http://baike567.com,wuhaozhan.net##div[class*="main-righ"] iframe
 http://baike567.com,wuhaozhan.net##div[class^="hongbao"]
 http://baike567.com,wuhaozhan.net##div[id$="eBox"]
 http://zhangxinxu.com##a[href*=".mawen."]
@@ -27826,6 +27842,8 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://igo99.cn##.adBG
+http://danzhaowang.com##.qxzx_scho
 http://redocn.com##.big_vip_gg
 http://redocn.com##.small_vip_gg
 http://yutu.cn###botfocus-res
