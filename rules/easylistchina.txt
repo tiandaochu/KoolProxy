@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: O79P4/4p+lMm4dGssSKE1A
-! Version: 202006080003
+! Checksum: eOZsACsVb+JQnBjq2n1h3Q
+! Version: 202006090003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -3415,6 +3415,7 @@
 ||https://nfmovies.com/pic/tu/a191124004.
 ||https://nfmovies.com/pic/tu/a200304_1170x87.png
 ||https://nfmovies.com/pic/tu/ad
+||https://nfmovies.com/pic/tu/banner
 ||https://nfydd.com/template/wap1/js/dd.js
 ||https://nihaovcd.com/js/neirong
 ||https://ningmengzhibo.com/ement/beforeSearchEment.action
@@ -11336,6 +11337,7 @@
 ||http://nfmovies.com/pic/tu/a191124004.
 ||http://nfmovies.com/pic/tu/a200304_1170x87.png
 ||http://nfmovies.com/pic/tu/ad
+||http://nfmovies.com/pic/tu/banner
 ||http://nfydd.com/template/wap1/js/dd.js
 ||http://nihaovcd.com/js/neirong
 ||http://ningmengzhibo.com/ement/beforeSearchEment.action
@@ -14518,6 +14520,7 @@
 ||http://gralfusnzpo003.top^
 ||http://gralfusnzpo004.top^
 ||http://gralfusnzpo006.top^
+||http://gralfusnzpo007.top^
 ||http://gringrin.cn^
 ||http://grjs02.com^
 ||http://grjs06.com^
@@ -15325,6 +15328,7 @@
 ||http://sffxcwc.cn^
 ||http://sguac.com^
 ||http://sgzs999.com^
+||http://shangyingwm.com^
 ||http://shaque.vip^
 ||http://she-ke.cn^
 ||http://shenbimall.com^
@@ -18299,7 +18303,7 @@ https://chinamedevice.cn##.ads_img
 https://chinamedevice.cn##.ads_img1
 https://xianliao.me##.ads_popup_small_ads_container
 https://netflav.com##.ads_video_overlay_mobile
-https://199it.com,league-funny.com,softwarebrother.com,wholehk.com##.adsbygoogle
+https://199it.com,softwarebrother.com,wholehk.com##.adsbygoogle
 https://m.kuaidi100.com##.adsbygoogle + a
 https://chtoen.com##.adsbygoogle:not([data-ad-slot="9717665976"])
 https://aibing.cc,htcui.com,uho.com.tw##.adsense
@@ -21090,7 +21094,6 @@ https://ifeng.com##div[id^="couplet3_"]
 https://jmnews.com.cn##div[id^="couplet_"]
 https://tyenews.com##div[id^="custom_html-"]
 https://banma.com##div[id^="disapper"]
-https://league-funny.com##div[id^="div-gpt-ad"]
 https://discuss.com.hk##div[id^="div-gpt-ad"] + div[id]
 https://gohome.com.hk##div[id^="div-gpt-ad"][style]
 https://zyue.com##div[id^="divad_"]
@@ -21331,6 +21334,7 @@ https://m.thepaper.cn#?#.t_news:-abp-has(img[alt="广告"])
 https://muchong.com#?#.forum_Post_index:-abp-has(nobr:-abp-contains(18))
 https://news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 https://news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
+https://nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
 https://china.com##object[width="360"][height="300"]
 https://sina.com.cn##p + .article-video
 https://muchong.com##p[onclick="view_ok();"]
@@ -24318,7 +24322,7 @@ http://chinamedevice.cn##.ads_img
 http://chinamedevice.cn##.ads_img1
 http://xianliao.me##.ads_popup_small_ads_container
 http://netflav.com##.ads_video_overlay_mobile
-http://199it.com,league-funny.com,softwarebrother.com,wholehk.com##.adsbygoogle
+http://199it.com,softwarebrother.com,wholehk.com##.adsbygoogle
 http://m.kuaidi100.com##.adsbygoogle + a
 http://chtoen.com##.adsbygoogle:not([data-ad-slot="9717665976"])
 http://aibing.cc,htcui.com,uho.com.tw##.adsense
@@ -27109,7 +27113,6 @@ http://ifeng.com##div[id^="couplet3_"]
 http://jmnews.com.cn##div[id^="couplet_"]
 http://tyenews.com##div[id^="custom_html-"]
 http://banma.com##div[id^="disapper"]
-http://league-funny.com##div[id^="div-gpt-ad"]
 http://discuss.com.hk##div[id^="div-gpt-ad"] + div[id]
 http://gohome.com.hk##div[id^="div-gpt-ad"][style]
 http://zyue.com##div[id^="divad_"]
@@ -27350,6 +27353,7 @@ http://m.thepaper.cn#?#.t_news:-abp-has(img[alt="广告"])
 http://muchong.com#?#.forum_Post_index:-abp-has(nobr:-abp-contains(18))
 http://news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 http://news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
+http://nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
 http://china.com##object[width="360"][height="300"]
 http://sina.com.cn##p + .article-video
 http://muchong.com##p[onclick="view_ok();"]
