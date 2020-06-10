@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: eOZsACsVb+JQnBjq2n1h3Q
-! Version: 202006090003
+! Checksum: pBRRLFugzVAFixH2xxb4Qw
+! Version: 202006100003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -7055,6 +7055,7 @@
 ||http://maizhenai.cn^
 ||http://mall043.com^
 ||http://mamamiyu.com^$third-party
+||http://manhuachi.com^
 ||http://manparis.cn^
 ||http://maskbaby.com.cn^
 ||http://mathtag.com^$third-party
@@ -14974,6 +14975,7 @@
 ||http://m4ztka.cn^
 ||http://m652a.cn^
 ||http://m72r.cn^
+||http://mababa.info^
 ||http://maicaoren.cn^
 ||http://maka.im^$third-party
 ||http://mamaailmjz.cn^
@@ -20612,7 +20614,7 @@ https://3322.cc##[onclick*=".gsxzq."]
 https://32r.com##[onclick*="@"]
 https://zhangxinxu.com##[onclick*="Ad"]
 https://42xz.com##[onclick*="godownload"]
-https://duodada.com##[style^="width: 100%; height: auto; position: fixed;"]
+https://duodada.com##[style*="position: fixed; left: 0px;"]
 https://kisssub.org##a > img[src*=".0o0.ooo/"]
 https://5dm.tv##a > img[src*=".sinaimg."]
 https://ruanyifeng.com##a > img[src*="wangbase.com/blogimg/asset/"]
@@ -21827,6 +21829,7 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://douyu.com##.PrivilegeGiftModalDialog
 https://igo99.cn##.adBG
 https://danzhaowang.com##.qxzx_scho
 https://redocn.com##.big_vip_gg
@@ -26631,7 +26634,7 @@ http://3322.cc##[onclick*=".gsxzq."]
 http://32r.com##[onclick*="@"]
 http://zhangxinxu.com##[onclick*="Ad"]
 http://42xz.com##[onclick*="godownload"]
-http://duodada.com##[style^="width: 100%; height: auto; position: fixed;"]
+http://duodada.com##[style*="position: fixed; left: 0px;"]
 http://kisssub.org##a > img[src*=".0o0.ooo/"]
 http://5dm.tv##a > img[src*=".sinaimg."]
 http://ruanyifeng.com##a > img[src*="wangbase.com/blogimg/asset/"]
@@ -27846,6 +27849,7 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://douyu.com##.PrivilegeGiftModalDialog
 http://igo99.cn##.adBG
 http://danzhaowang.com##.qxzx_scho
 http://redocn.com##.big_vip_gg
