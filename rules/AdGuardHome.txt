@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20200607130834
-!TOTAL_LINES=34666
+!VER=20200610142732
+!TOTAL_LINES=34665
 address=/00-gov.cn/
 address=/kwcdn.000dn.com/
 address=/kwcscdn.000dn.com/
@@ -5688,7 +5688,6 @@ address=/bildirnet.com/
 address=/bildirt.com/
 address=/bileth.pw/
 address=/dataflow.biliapi.com/
-address=/data.bilibili.com/
 address=/miniapp.bilibili.com/
 address=/cm.bilibili.com/
 address=/biliqpvehf.com/
