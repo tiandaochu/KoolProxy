@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: D5tnY81sZ/hifkos68NJfQ
-! Version: 202006102351
+! Checksum: 1mZoNhgRCU007sFyWtQqQA
+! Version: 202006112351
 ! Title: Fanboy's Annoyance List
-! Last modified: 10 Jun 2020 23:51 UTC
+! Last modified: 11 Jun 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3263,6 +3263,7 @@ https://seekingalpha.com###floating_bar
 https://allamericanblogger.com,streetinsider.com###floating_footer
 https://computerworld.com,infoworld.com,networkworld.com###floating_tools
 https://fivestargamerz.com,middleeastmonitor.com,newsday.com###floatingbar
+https://vitalmx.com###floatover
 https://wetpaint.com###fluid-sticky
 https://nextmovie.com###fluxContentActionWidget
 https://mma-core.com###flw
@@ -7427,6 +7428,7 @@ https://yahoo.com###mediacontentfollowproperty
 https://yahoo.com###mediasocialchromepromos
 https://reasondigital.com###menu-item-28
 https://reasondigital.com###menu-item-29
+https://vitalmx.com###message_bar
 https://dailygalaxy.com###message_digg
 https://mediafire.com###mf_like_box
 https://lightinthebox.com###mini-joinOurCommunity
@@ -13552,6 +13554,7 @@ http://seekingalpha.com###floating_bar
 http://allamericanblogger.com,streetinsider.com###floating_footer
 http://computerworld.com,infoworld.com,networkworld.com###floating_tools
 http://fivestargamerz.com,middleeastmonitor.com,newsday.com###floatingbar
+http://vitalmx.com###floatover
 http://wetpaint.com###fluid-sticky
 http://nextmovie.com###fluxContentActionWidget
 http://mma-core.com###flw
@@ -17716,6 +17719,7 @@ http://yahoo.com###mediacontentfollowproperty
 http://yahoo.com###mediasocialchromepromos
 http://reasondigital.com###menu-item-28
 http://reasondigital.com###menu-item-29
+http://vitalmx.com###message_bar
 http://dailygalaxy.com###message_digg
 http://mediafire.com###mf_like_box
 http://lightinthebox.com###mini-joinOurCommunity
