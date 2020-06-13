@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1KbRgp4WxCPvHHhRTzn+ng
-! Version: 202006120003
+! Checksum: NDxUiv7EPOzXK0To5w7HLA
+! Version: 202006130003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
+||https://xin365.org^$third-party
 ||https://012.tw^$third-party
 ||https://033.com^$third-party
 ||https://0591101.com^$third-party
@@ -3347,9 +3348,6 @@
 ||https://news.sina.com.cn/pfpnews/js/libweb.js
 ||https://news.sina.com.tw/js/ti.js
 ||https://news18a.com/image/ad_ina/
-||https://newsmth.net/nForum/baiduunion/
-||https://newsmth.net/nForum/files/adv/
-||https://newsmth.net/nForum/googlead/
 ||https://newsres.cn/temp/tempad
 ||https://newume.com/v1/data/ume-
 ||https://newyx.net/j/down_yd.js
@@ -4775,6 +4773,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://doubiy.com/js/top.js
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -4852,6 +4851,8 @@
 ||https://s1-a4.ifvod.tv^$rewrite=abp-resource:blank-mp3
 ||https://dybee.tv/gg
 ||https://hh010.com/static/image/fff/
+||https://biqutxt.com/skin/scripts/97.js
+||https://qishudu.com/css/9
 ||https://0577renliu.
 ||https://23txt.com^$third-party
 ||https://258zw.com^$third-party
@@ -5397,6 +5398,8 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://wanfem.com^
+||http://xin365.org^$third-party
 ||http://0024aaaa.com^
 ||http://00880808.com^
 ||http://008844.cc^
@@ -10873,9 +10876,6 @@
 ||http://news.sina.com.cn/pfpnews/js/libweb.js$domain=~www.sina.com.cn
 ||http://news.sina.com.tw/js/ti.js
 ||http://news18a.com/image/ad_ina/
-||http://newsmth.net/nForum/baiduunion/
-||http://newsmth.net/nForum/files/adv/
-||http://newsmth.net/nForum/googlead/
 ||http://newsres.cn/temp/tempad
 ||http://newume.com/v1/data/ume-
 ||http://newyx.net/j/down_yd.js
@@ -12452,6 +12452,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://doubiy.com/js/top.js
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -13244,6 +13245,14 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://xmseaside.com^
+||http://biqutxt.com/skin/scripts/97.js
+||http://qishudu.com/css/9
+||http://jzn360.cn^
+||http://rzxlszy.vip^
+||http://syooys.com^
+||http://ejee.xyz^
+||http://yauwsd.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -15594,6 +15603,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://acgcku.com##A[href]:not([href*="acgcku."]) > IMG[src*="acgcku.com/wp-content/"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -20569,6 +20579,7 @@ https://i-cable.com#@#.video_ad
 https://bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 https://brandsales.58.com#@#div[id^="ad_"]
 https://gohome.com.hk#@#div[id^="div-gpt-ad"]
+https://logi.im#@#.adsbygoogle
 https://17ce.com###kr_wrap
 https://17ce.com###lr_block
 https://17ce.com###lr_rows
@@ -20713,6 +20724,7 @@ https://hpjav.tv##body > div[style^="position: fixed;"]
 https://verystream.com#@#.adsbox
 https://googleads.g.doubleclick.net###mys-wrapper
 https://xhtml?%22+$script,third-party
+https://dukankan.com,snwx3.com##[style*="position: fixed; left: 0px;"]
 https://52biquge.com##[onclick*="app"]
 https://52biquge.com##a[href^="http://html.350.com/"]
 https://bixia.org##dd[style*="bottom:"]
@@ -21621,6 +21633,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://acgcku.com##A[href]:not([href*="acgcku."]) > IMG[src*="acgcku.com/wp-content/"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -26596,6 +26609,7 @@ http://i-cable.com#@#.video_ad
 http://bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 http://brandsales.58.com#@#div[id^="ad_"]
 http://gohome.com.hk#@#div[id^="div-gpt-ad"]
+http://logi.im#@#.adsbygoogle
 http://17ce.com###kr_wrap
 http://17ce.com###lr_block
 http://17ce.com###lr_rows
@@ -26740,6 +26754,7 @@ http://hpjav.tv##body > div[style^="position: fixed;"]
 http://verystream.com#@#.adsbox
 http://googleads.g.doubleclick.net###mys-wrapper
 http://xhtml?%22+$script,third-party
+http://dukankan.com,snwx3.com##[style*="position: fixed; left: 0px;"]
 http://52biquge.com##[onclick*="app"]
 http://52biquge.com##a[href^="http://html.350.com/"]
 http://bixia.org##dd[style*="bottom:"]
