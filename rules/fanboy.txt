@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EOMfF6CW9zOzZiIgde6rZA
-! Version: 202006122351
+! Checksum: TuJYFQrxGQnflyeEfgtNrQ
+! Version: 202006132351
 ! Title: Fanboy's Annoyance List
-! Last modified: 12 Jun 2020 23:51 UTC
+! Last modified: 13 Jun 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6025,6 +6025,7 @@ https://broadwayworld.com###bounceModal
 https://business-standard.com###box
 https://maxim.com###boxes-box-maxim_newsletter
 https://iafrica.com,marijuanamoment.net,thebaffler.com###boxzilla-overlay
+https://tmz.com###browser-notifications-prompt
 https://telesurenglish.net###bulletin
 https://euractiv.com###capitals_banner
 https://geekwire.com###category-heading-subscribe
@@ -16316,6 +16317,7 @@ http://broadwayworld.com###bounceModal
 http://business-standard.com###box
 http://maxim.com###boxes-box-maxim_newsletter
 http://iafrica.com,marijuanamoment.net,thebaffler.com###boxzilla-overlay
+http://tmz.com###browser-notifications-prompt
 http://telesurenglish.net###bulletin
 http://euractiv.com###capitals_banner
 http://geekwire.com###category-heading-subscribe
