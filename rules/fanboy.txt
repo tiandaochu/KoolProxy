@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kOX6dzRguVdYIG1mbRQHSg
-! Version: 202006142351
+! Checksum: ldMxjeWNZVCtCvOnW9ETww
+! Version: 202006152351
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Jun 2020 23:51 UTC
+! Last modified: 15 Jun 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7234,6 +7234,8 @@ https://fanpage.it##.notifications-badge
 https://annahar.com##.notifications-overlay
 https://fanpage.it##.overlay-content-wrapper
 https://mail.ru##.ph-balloo
+https://9gag.com##.download-app-container
+https://9gag.com##.get-the-app-banner
 https://schufa.de###AC_layout
 https://pcb.cc###Cntnr6
 https://softwares-serials.in###FTslide
@@ -17531,6 +17533,8 @@ http://fanpage.it##.notifications-badge
 http://annahar.com##.notifications-overlay
 http://fanpage.it##.overlay-content-wrapper
 http://mail.ru##.ph-balloo
+http://9gag.com##.download-app-container
+http://9gag.com##.get-the-app-banner
 http://schufa.de###AC_layout
 http://pcb.cc###Cntnr6
 http://softwares-serials.in###FTslide
