@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ldMxjeWNZVCtCvOnW9ETww
-! Version: 202006152351
+! Checksum: PCK29Vj7vKLPfJq3CvQJIA
+! Version: 202006162351
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Jun 2020 23:51 UTC
+! Last modified: 16 Jun 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6501,6 +6501,7 @@ https://macrumors.com##.follow-banner
 https://fool.co.uk##.fool-ecap-type-vanilla
 https://haymarketbooks.org##.footer--subscribe
 https://mediamatters.org##.footer--upper
+https://wccftech.com##.footer-4
 https://thefederalist.com##.footer-email
 https://techjunkie.com##.footer-form
 https://ajc.com,daytondailynews.com##.footer-heading__email-heading
@@ -10215,6 +10216,7 @@ https://dirittierisposte.it###slimheader
 https://amazon.it###smart-app-banner
 https://centrometeolombardo.com###spot_popup
 https://arch.bz.it###srollTop
+https://fides.org###subcribe-nl
 https://fm-world.it###subscribe-form
 https://lavocedeltrentino.it###subscription-form
 https://tp24.it###templatemo_container_barra
@@ -10321,7 +10323,7 @@ https://la7.it##.tgla7-condividi
 https://obi-italia.it##.to-top-nav
 https://anothersound.it##.to_top
 https://mimanchitu.it##.toast
-https://abitare-in-altoadige.it,armietiro.it,automobilismo.it,borse.it,ciclismo.it,corrieredellosport.it,cyclistmagazine.it,evomagazine.it,guidafisco.it,kimbo.it,menshealth.it,motociclismo.it,runnersworld.it,senoecoseno.it,tuttosport.com,velaemotore.it##.top
+https://abitare-in-altoadige.it,armietiro.it,automobilismo.it,borse.it,ciclismo.it,corrieredellosport.it,cyclistmagazine.it,evomagazine.it,guidafisco.it,kimbo.it,lavalsabbina.it,menshealth.it,motociclismo.it,runnersworld.it,senoecoseno.it,tuttosport.com,velaemotore.it##.top
 https://media-mormoni.it##.top-button-container
 https://altadefinizione.ml,cartoonmemories.netsons.org,filmstreamingaltadefinizione.it,guardaserie.site,ilgeniodellostreaming.eu,informazionefiscale.it,streaminghd.online,vedohd.net##.top-page
 https://davinotti.com##.top-scroll
@@ -11702,6 +11704,7 @@ https://inartek.it###discl
 https://nau.it###disclaimer
 https://amref.it###divCk
 https://elevensports.it###elevensports-privacy
+https://solopornoitaliani.xxx###first-visit
 https://mercateo.it###header-popup-info
 https://trovanumeri.com###hid
 https://accessibilitacentristorici.it###htmlbox_div1
@@ -11815,6 +11818,7 @@ https://emma-materasso.it##.ucn-block
 https://cattolica.it##.vgg
 https://aicanet.it,eurojackpot.it,venetobanca.it##.yui3-widget-modal
 https://credimi.com##div[class^="CookieBar-"]
+https://relaxbanking.it##div[class^="cookies-consent-banner"]
 https://forbit.it##div[id^="ni_cookie_"]
 https://clouditalia.com##div[style="background-color: #f0f0f0; font-family: Open Sans; font-size: 12px; line-height: 18px; text-shadow: none; text-align: justify; padding: 25px; border-radius: 4px"]
 https://mimprendo.it##div[style="background-color:#E2E2E2;float:left;position:fixed;top:50px;left:0; height:60px;width:100%;"]
@@ -12807,7 +12811,7 @@ https://pinterest.com#@#a[title="Pin it!"]
 https://flattr.com,tumblr.com#@#a[title="Tumblr"]
 https://livetv210.me#@#a[title="YouTube"]
 https://onlineradiobox.com#@#a[title="ВКонтакте"]
-https://google.com,smugmug.com#@#button[title="Share"]
+https://google.com,office.com,smugmug.com#@#button[title="Share"]
 https://digg.com#@#div[id^="digg-widget-"]
 https://intersport.dk,intersport.es,intersport.nl#@##CookiePopup
 https://sportdiver.com#@##CybotCookiebotDialog
@@ -13011,6 +13015,7 @@ https://pieseauto.ro#@#.page-cookies
 https://google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 https://metallica.com#@#.privacy_policy_message_box
 https://online.no,telenor.no#@#.privacy_prompt
+https://referencerecordings.com#@#.pum[data-popmake*="cookies"]
 https://jyllands-posten.dk#@#.qc-cmp-showing
 https://jyllands-posten.dk#@#.qc-cmp-ui-container
 https://motofaktor.pl#@#.rodo-accept
@@ -16800,6 +16805,7 @@ http://macrumors.com##.follow-banner
 http://fool.co.uk##.fool-ecap-type-vanilla
 http://haymarketbooks.org##.footer--subscribe
 http://mediamatters.org##.footer--upper
+http://wccftech.com##.footer-4
 http://thefederalist.com##.footer-email
 http://techjunkie.com##.footer-form
 http://ajc.com,daytondailynews.com##.footer-heading__email-heading
@@ -20515,6 +20521,7 @@ http://dirittierisposte.it###slimheader
 http://amazon.it###smart-app-banner
 http://centrometeolombardo.com###spot_popup
 http://arch.bz.it###srollTop
+http://fides.org###subcribe-nl
 http://fm-world.it###subscribe-form
 http://lavocedeltrentino.it###subscription-form
 http://tp24.it###templatemo_container_barra
@@ -20621,7 +20628,7 @@ http://la7.it##.tgla7-condividi
 http://obi-italia.it##.to-top-nav
 http://anothersound.it##.to_top
 http://mimanchitu.it##.toast
-http://abitare-in-altoadige.it,armietiro.it,automobilismo.it,borse.it,ciclismo.it,corrieredellosport.it,cyclistmagazine.it,evomagazine.it,guidafisco.it,kimbo.it,menshealth.it,motociclismo.it,runnersworld.it,senoecoseno.it,tuttosport.com,velaemotore.it##.top
+http://abitare-in-altoadige.it,armietiro.it,automobilismo.it,borse.it,ciclismo.it,corrieredellosport.it,cyclistmagazine.it,evomagazine.it,guidafisco.it,kimbo.it,lavalsabbina.it,menshealth.it,motociclismo.it,runnersworld.it,senoecoseno.it,tuttosport.com,velaemotore.it##.top
 http://media-mormoni.it##.top-button-container
 http://altadefinizione.ml,cartoonmemories.netsons.org,filmstreamingaltadefinizione.it,guardaserie.site,ilgeniodellostreaming.eu,informazionefiscale.it,streaminghd.online,vedohd.net##.top-page
 http://davinotti.com##.top-scroll
@@ -22003,6 +22010,7 @@ http://inartek.it###discl
 http://nau.it###disclaimer
 http://amref.it###divCk
 http://elevensports.it###elevensports-privacy
+http://solopornoitaliani.xxx###first-visit
 http://mercateo.it###header-popup-info
 http://trovanumeri.com###hid
 http://accessibilitacentristorici.it###htmlbox_div1
@@ -22116,6 +22124,7 @@ http://emma-materasso.it##.ucn-block
 http://cattolica.it##.vgg
 http://aicanet.it,eurojackpot.it,venetobanca.it##.yui3-widget-modal
 http://credimi.com##div[class^="CookieBar-"]
+http://relaxbanking.it##div[class^="cookies-consent-banner"]
 http://forbit.it##div[id^="ni_cookie_"]
 http://clouditalia.com##div[style="background-color: #f0f0f0; font-family: Open Sans; font-size: 12px; line-height: 18px; text-shadow: none; text-align: justify; padding: 25px; border-radius: 4px"]
 http://mimprendo.it##div[style="background-color:#E2E2E2;float:left;position:fixed;top:50px;left:0; height:60px;width:100%;"]
@@ -23108,7 +23117,7 @@ http://pinterest.com#@#a[title="Pin it!"]
 http://flattr.com,tumblr.com#@#a[title="Tumblr"]
 http://livetv210.me#@#a[title="YouTube"]
 http://onlineradiobox.com#@#a[title="ВКонтакте"]
-http://google.com,smugmug.com#@#button[title="Share"]
+http://google.com,office.com,smugmug.com#@#button[title="Share"]
 http://digg.com#@#div[id^="digg-widget-"]
 http://intersport.dk,intersport.es,intersport.nl#@##CookiePopup
 http://sportdiver.com#@##CybotCookiebotDialog
@@ -23312,6 +23321,7 @@ http://pieseauto.ro#@#.page-cookies
 http://google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 http://metallica.com#@#.privacy_policy_message_box
 http://online.no,telenor.no#@#.privacy_prompt
+http://referencerecordings.com#@#.pum[data-popmake*="cookies"]
 http://jyllands-posten.dk#@#.qc-cmp-showing
 http://jyllands-posten.dk#@#.qc-cmp-ui-container
 http://motofaktor.pl#@#.rodo-accept
