@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: m+JFcwip35Ad+qrWNzzHlA
-! Version: 202006170003
+! Checksum: rtFQKzszeGdYouALxdukWQ
+! Version: 202006180003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1156,6 +1156,7 @@
 ||https://6park.com/img/*0.gif
 ||https://6park.com/parks/$script
 ||https://6park.com^$subdocument
+||https://6tj.com/ent/fkbg/20191220/a46326c6a57fc066a6d985ceabdc42f6.jpg
 ||https://6vhao.tv/d/
 ||https://70.86.24.120:8060/
 ||https://70822.com/agfile/
@@ -4848,6 +4849,10 @@
 ||https://s1-a4.ifvod.tv^$rewrite=abp-resource:blank-mp3
 ||https://dybee.tv/gg
 ||https://hh010.com/static/image/fff/
+||https://pgyzw.com/k
+||https://prpcoin.com/1.
+||https://lnwow.co/1.
+||https://xiashu.cc/template/mobile/public/scripts/dcxfs.js
 ||https://0577renliu.
 ||https://23txt.com^$third-party
 ||https://258zw.com^$third-party
@@ -6350,6 +6355,7 @@
 ||http://gsycl.top^
 ||http://gszbba.cn^
 ||http://gtmucs.cn^
+||http://guang8.cc^
 ||http://guangzizai.com^
 ||http://guduopu.com^
 ||http://gugeys.com^$third-party
@@ -7385,6 +7391,7 @@
 ||http://weareqy.com^$third-party
 ||http://webabcd.com^
 ||http://webofxm.cn^
+||http://wecrtfr.com^
 ||http://weddingeeos.com^$third-party
 ||http://weihuiyungou.com^
 ||http://weiqiqu.cn^
@@ -8361,6 +8368,7 @@
 ||http://6park.com/parks/$script
 ||http://6park.com^$subdocument
 ||http://6ped2nd3yp.com^$domain=nodkey.xyz
+||http://6tj.com/ent/fkbg/20191220/a46326c6a57fc066a6d985ceabdc42f6.jpg
 ||http://6vhao.tv/d/
 ||http://70.86.24.120:8060/
 ||http://70822.com/agfile/
@@ -12629,11 +12637,11 @@
 ||http://abc.douguo.com^
 ||http://abcj.dooccn.com^
 ||http://abds.pingpingw.com^
+||http://ac*.786ip.com^
+||http://ac*.faxingchina.com^
 ||http://ac*.pingguolv.com^
 ||http://ac.86huoche.com^
 ||http://ac.art456.com^
-||http://ac1.786ip.com^
-||http://ac1.faxingchina.com^
 ||http://ac1.pingpingw.com^
 ||http://ad123.ynet.com^
 ||http://adbd.liuxue86.com^
@@ -13246,6 +13254,11 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://pgyzw.com/k
+||http://prpcoin.com/1.
+||http://lnwow.co/1.
+||http://xiashu.cc/template/mobile/public/scripts/dcxfs.js
+||http://sugarpuff.net^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13501,6 +13514,7 @@
 ||http://bentengcn.com^
 ||http://berfd.xyz^
 ||http://betohomeall.com^
+||http://bfbb.xyz^
 ||http://bgcse.cn^
 ||http://bgj216.cn^
 ||http://bgtrtv.top^
@@ -13764,6 +13778,7 @@
 ||http://ff01s.cn^
 ||http://ffanq.com^
 ||http://ffg34fg.78zw.com^
+||http://ffpp.xyz^
 ||http://ffychb.com^
 ||http://fhbv.cn^
 ||http://findx2.info^
@@ -14752,6 +14767,7 @@
 ||http://xn--2qu92fhtx4ff.ren^
 ||http://xn--2qux23c9ziyrq.icu^
 ||http://xn--2qux23confgml.club^
+||http://xn--2ssq0ktxigkq.cc^
 ||http://xn--4gqvdz18f.xyz^
 ||http://xn--ddua45lfy1c.ink^
 ||http://xn--i6qs37am6iwyqffc.com^
@@ -18011,7 +18027,7 @@ https://vhiphop.com##.flexslider
 https://qunar.com##.flight_ad
 https://19lou.com,cqmmgo.com,ihome99.com##.float-ad-wrap
 https://9dog.pw##.float-adv
-https://taoyizhu.com##.float-banner
+https://firefoxchina.cn,taoyizhu.com##.float-banner
 https://csdn.net##.float-left > div[id^="dmp_ad_"]
 https://3boys2girls.com##.float320
 https://ledinside.cn##.floatAD
@@ -18173,6 +18189,7 @@ https://32r.com,ddooo.com,xue51.com##.gsbtn
 https://32r.com##.gscbtn
 https://yxdown.com##.gsdown
 https://33lc.com,cncrk.com##.gsdt
+https://ddooo.com##.gsdt_list
 https://jb51.net##.gsdw
 https://vpsdx.com##.gsfha3-form
 https://kuhou.com,pcsoft.com.cn##.gsxz
@@ -19546,6 +19563,7 @@ https://pc0359.cn##.xx_yd
 https://pc0359.cn##.xx_yd2
 https://ddooo.com,wanyx.com##.xz_down
 https://xixiwg.com##.xz_left > ul:nth-last-child(3)
+https://ddooo.com##.xzags
 https://ddooo.com##.xzbtn
 https://ddooo.com##.xzgsa
 https://ddooo.com##.xzgsb
@@ -20356,6 +20374,7 @@ https://linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared
 https://linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
 https://m.thepaper.cn#?#.t_news:-abp-has(img[alt="广告"])
 https://muchong.com#?#.forum_Post_index:-abp-has(nobr:-abp-contains(18))
+https://mydrivers.com#?#.news_info > p:-abp-has(> b:-abp-contains(惠活))
 https://news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 https://news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
 https://nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
@@ -20612,7 +20631,7 @@ https://17ce.com#?#div:-abp-has(>div>ul>li>a:-abp-contains(/服|高/))
 https://17ce.com##[style*="important"]
 https://17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 https://17ce.com##tr[id^="tr"] > td > a[href^="http"]
-https://18comic.org,18comic.vip##a[href^="http"]:not([href*="18comic"]) > img
+https://18comic.org,18comic.vip##a[href^="http"]:not([href*="18comic."]) > img
 https://18comic.org,18comic.vip##div[style^="position: fixed; top:"]
 https://7255.com###J_search_bd > div:last-child
 https://7255.com###right > div:first-child
@@ -24056,7 +24075,7 @@ http://vhiphop.com##.flexslider
 http://qunar.com##.flight_ad
 http://19lou.com,cqmmgo.com,ihome99.com##.float-ad-wrap
 http://9dog.pw##.float-adv
-http://taoyizhu.com##.float-banner
+http://firefoxchina.cn,taoyizhu.com##.float-banner
 http://csdn.net##.float-left > div[id^="dmp_ad_"]
 http://3boys2girls.com##.float320
 http://ledinside.cn##.floatAD
@@ -24218,6 +24237,7 @@ http://32r.com,ddooo.com,xue51.com##.gsbtn
 http://32r.com##.gscbtn
 http://yxdown.com##.gsdown
 http://33lc.com,cncrk.com##.gsdt
+http://ddooo.com##.gsdt_list
 http://jb51.net##.gsdw
 http://vpsdx.com##.gsfha3-form
 http://kuhou.com,pcsoft.com.cn##.gsxz
@@ -25591,6 +25611,7 @@ http://pc0359.cn##.xx_yd
 http://pc0359.cn##.xx_yd2
 http://ddooo.com,wanyx.com##.xz_down
 http://xixiwg.com##.xz_left > ul:nth-last-child(3)
+http://ddooo.com##.xzags
 http://ddooo.com##.xzbtn
 http://ddooo.com##.xzgsa
 http://ddooo.com##.xzgsb
@@ -26401,6 +26422,7 @@ http://linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-
 http://linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
 http://m.thepaper.cn#?#.t_news:-abp-has(img[alt="广告"])
 http://muchong.com#?#.forum_Post_index:-abp-has(nobr:-abp-contains(18))
+http://mydrivers.com#?#.news_info > p:-abp-has(> b:-abp-contains(惠活))
 http://news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 http://news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
 http://nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
@@ -26657,7 +26679,7 @@ http://17ce.com#?#div:-abp-has(>div>ul>li>a:-abp-contains(/服|高/))
 http://17ce.com##[style*="important"]
 http://17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 http://17ce.com##tr[id^="tr"] > td > a[href^="http"]
-http://18comic.org,18comic.vip##a[href^="http"]:not([href*="18comic"]) > img
+http://18comic.org,18comic.vip##a[href^="http"]:not([href*="18comic."]) > img
 http://18comic.org,18comic.vip##div[style^="position: fixed; top:"]
 http://7255.com###J_search_bd > div:last-child
 http://7255.com###right > div:first-child
