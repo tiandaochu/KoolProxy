@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oEQIIGUPA61z1kptdT99jQ
-! Version: 202006172352
+! Checksum: awRY4lco5Bk3JX1y820U/Q
+! Version: 202006182342
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Jun 2020 23:52 UTC
+! Last modified: 18 Jun 2020 23:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -809,6 +809,7 @@
 ||https://iubenda.com^$third-party
 ||https://jimstatic.com/ckies.js
 ||https://marfeel.mgr.consensu.org^$third-party
+||https://mgr.consensu.org/iframe.html
 ||https://mycookies.it^$third-party
 ||https://oil.axelspringer.com^$third-party
 ||https://onetag.mgr.consensu.org^$third-party
@@ -2152,6 +2153,7 @@
 ||http://iubenda.com^$third-party
 ||http://jimstatic.com/ckies.js
 ||http://marfeel.mgr.consensu.org^$third-party
+||http://mgr.consensu.org/iframe.html
 ||http://mycookies.it^$third-party
 ||http://oil.axelspringer.com^$third-party
 ||http://onetag.mgr.consensu.org^$third-party
@@ -6067,6 +6069,7 @@ https://laptopmag.com,tomshardware.co.uk,tomshardware.com###ec-popup-modal
 https://cbc.ca###em_UpakneeSub
 https://jewishpress.com###ema_signup_form
 https://priceonomics.com###email-island
+https://thehackernews.com###email-outer
 https://gearjunkie.com###email-pop
 https://cityam.com###email-rotator-wrapper
 https://dictionary.com###email-signup
@@ -6846,6 +6849,7 @@ https://politico.com##.story-related
 https://bulletproof.com##.su
 https://reclaimthenet.org##.su-box
 https://blacknews.com##.sub
+https://thehackernews.com##.sub-button
 https://fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.sub-footer-container
 https://irishtimes.com##.sub-prompt
 https://investmentnews.com##.subPopupTop
@@ -8336,6 +8340,7 @@ https://techpp.com##.toolbar-fixed
 https://abc.net.au,autofocus.ca,cp24.com,progressive.org##.tools
 https://businessgreen.com,risk.net,theinquirer.net,v3.co.uk,waterstechnology.com##.tools-container
 https://eenews.net##.tools_wrapper
+https://thehackernews.com##.top-follow
 https://wfc.tv##.top-item__soc
 https://kdramastars.com##.top-sns
 https://gamenguide.com##.top_sns
@@ -12832,7 +12837,7 @@ https://sandisk.ae,sandisk.cn,sandisk.co.jp,sandisk.co.kr,sandisk.co.uk,sandisk.
 https://roussillhotel.com#@##cookie-banner
 https://dm-drogeriemarkt.it#@##cookie-bar
 https://travelchannel.co.uk#@##cookie-body
-https://biotechusa.hu,hscollective.org#@##cookie-consent
+https://biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
 https://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
 https://clever-zoeger.de,ddz24.eu,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
 https://penny.hu,pennymarket.it#@##cookie-message
@@ -12885,6 +12890,7 @@ https://readthedocs.io,sportdiver.com#@##privacy-policy
 https://account.sonymobile.com#@##privacy-statement
 https://totalwar.com#@##privacy_policy
 https://repostuj.pl#@##rodo-modal
+https://litebit.eu#@#.CookieConsent
 https://boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz#@#.Cookies
 https://bancaifis.it#@#.Cookies:not(body)
 https://telegraaf.nl#@#.CookiesOK
@@ -13031,6 +13037,7 @@ https://timeout.com#@#.xs-fixed[data-module="cookie_banner"]
 https://openfiber.it#@#[aria-label="cookieconsent"]
 https://atutszkola.pl,meethue.com,mydziewczyny.pl,philips.ae,philips.am,philips.at,philips.az,philips.be,philips.bg,philips.by,philips.ca,philips.ch,philips.cl,philips.co.id,philips.co.il,philips.co.in,philips.co.jp,philips.co.ke,philips.co.kr,philips.co.nz,philips.co.th,philips.co.uk,philips.co.za,philips.com,philips.com.ar,philips.com.au,philips.com.bh,philips.com.br,philips.com.cn,philips.com.co,philips.com.eg,philips.com.ge,philips.com.gh,philips.com.hk,philips.com.kw,philips.com.lb,philips.com.mx,philips.com.my,philips.com.om,philips.com.pe,philips.com.ph,philips.com.pk,philips.com.qa,philips.com.sg,philips.com.tr,philips.com.tw,philips.com.uy,philips.com.vn,philips.cz,philips.de,philips.dk,philips.ee,philips.es,philips.fi,philips.fr,philips.gr,philips.hr,philips.hu,philips.ie,philips.iq,philips.it,philips.jo,philips.kz,philips.lt,philips.lv,philips.ma,philips.ng,philips.nl,philips.no,philips.pl,philips.pt,philips.ro,philips.rs,philips.ru,philips.sa,philips.se,philips.si,philips.sk,philips.ua,philips.uz#@#[data-cookie-id]
 https://mymuesli.com#@#cookies_consent
+https://litebit.eu#@#div[class*="CookieConsent"]
 https://ee.co.uk#@#div[class^="cookie-banner"]
 https://birramenabrea.com,marketerplus.pl#@#div[data-cookie]
 https://timeout.com#@#div[data-module="cookie_banner"]
@@ -16372,6 +16379,7 @@ http://laptopmag.com,tomshardware.co.uk,tomshardware.com###ec-popup-modal
 http://cbc.ca###em_UpakneeSub
 http://jewishpress.com###ema_signup_form
 http://priceonomics.com###email-island
+http://thehackernews.com###email-outer
 http://gearjunkie.com###email-pop
 http://cityam.com###email-rotator-wrapper
 http://dictionary.com###email-signup
@@ -17151,6 +17159,7 @@ http://politico.com##.story-related
 http://bulletproof.com##.su
 http://reclaimthenet.org##.su-box
 http://blacknews.com##.sub
+http://thehackernews.com##.sub-button
 http://fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.sub-footer-container
 http://irishtimes.com##.sub-prompt
 http://investmentnews.com##.subPopupTop
@@ -18641,6 +18650,7 @@ http://techpp.com##.toolbar-fixed
 http://abc.net.au,autofocus.ca,cp24.com,progressive.org##.tools
 http://businessgreen.com,risk.net,theinquirer.net,v3.co.uk,waterstechnology.com##.tools-container
 http://eenews.net##.tools_wrapper
+http://thehackernews.com##.top-follow
 http://wfc.tv##.top-item__soc
 http://kdramastars.com##.top-sns
 http://gamenguide.com##.top_sns
@@ -23139,7 +23149,7 @@ http://sandisk.ae,sandisk.cn,sandisk.co.jp,sandisk.co.kr,sandisk.co.uk,sandisk.c
 http://roussillhotel.com#@##cookie-banner
 http://dm-drogeriemarkt.it#@##cookie-bar
 http://travelchannel.co.uk#@##cookie-body
-http://biotechusa.hu,hscollective.org#@##cookie-consent
+http://biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
 http://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
 http://clever-zoeger.de,ddz24.eu,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
 http://penny.hu,pennymarket.it#@##cookie-message
@@ -23192,6 +23202,7 @@ http://readthedocs.io,sportdiver.com#@##privacy-policy
 http://account.sonymobile.com#@##privacy-statement
 http://totalwar.com#@##privacy_policy
 http://repostuj.pl#@##rodo-modal
+http://litebit.eu#@#.CookieConsent
 http://boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz#@#.Cookies
 http://bancaifis.it#@#.Cookies:not(body)
 http://telegraaf.nl#@#.CookiesOK
@@ -23338,6 +23349,7 @@ http://timeout.com#@#.xs-fixed[data-module="cookie_banner"]
 http://openfiber.it#@#[aria-label="cookieconsent"]
 http://atutszkola.pl,meethue.com,mydziewczyny.pl,philips.ae,philips.am,philips.at,philips.az,philips.be,philips.bg,philips.by,philips.ca,philips.ch,philips.cl,philips.co.id,philips.co.il,philips.co.in,philips.co.jp,philips.co.ke,philips.co.kr,philips.co.nz,philips.co.th,philips.co.uk,philips.co.za,philips.com,philips.com.ar,philips.com.au,philips.com.bh,philips.com.br,philips.com.cn,philips.com.co,philips.com.eg,philips.com.ge,philips.com.gh,philips.com.hk,philips.com.kw,philips.com.lb,philips.com.mx,philips.com.my,philips.com.om,philips.com.pe,philips.com.ph,philips.com.pk,philips.com.qa,philips.com.sg,philips.com.tr,philips.com.tw,philips.com.uy,philips.com.vn,philips.cz,philips.de,philips.dk,philips.ee,philips.es,philips.fi,philips.fr,philips.gr,philips.hr,philips.hu,philips.ie,philips.iq,philips.it,philips.jo,philips.kz,philips.lt,philips.lv,philips.ma,philips.ng,philips.nl,philips.no,philips.pl,philips.pt,philips.ro,philips.rs,philips.ru,philips.sa,philips.se,philips.si,philips.sk,philips.ua,philips.uz#@#[data-cookie-id]
 http://mymuesli.com#@#cookies_consent
+http://litebit.eu#@#div[class*="CookieConsent"]
 http://ee.co.uk#@#div[class^="cookie-banner"]
 http://birramenabrea.com,marketerplus.pl#@#div[data-cookie]
 http://timeout.com#@#div[data-module="cookie_banner"]
