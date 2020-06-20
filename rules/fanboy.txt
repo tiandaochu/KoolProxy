@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: awRY4lco5Bk3JX1y820U/Q
-! Version: 202006182342
+! Checksum: 080DFE7gmKgMj+WpNg0srg
+! Version: 202006192342
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Jun 2020 23:42 UTC
+! Last modified: 19 Jun 2020 23:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12169,7 +12169,7 @@ https://blogcindario.com##.c01eb8fc
 https://infiniti.com.do,infiniti.com.pa,infiniti.mx,infinitimotors.cl,infinitipr.com##.c_128
 https://psicologia-online.com,uncomo.com##.consent
 https://alcampo.es,gestoriaverdugo.es##.cookie
-https://conforama.es,ebayextra.es,flooxer.com,ing.es,loteriasyapuestas.es,moldurashergon.es,mountainbike.es,nintenderos.com,panamaamerica.com.pa,puntodepartida.com##.cookies
+https://conforama.es,ebayextra.es,flooxer.com,ing.es,loteriasyapuestas.es,moldurashergon.es,mountainbike.es,nintenderos.com,o2online.es,panamaamerica.com.pa,puntodepartida.com,tuenti.es##.cookies
 https://eltiempo.es##.curtain_lightbox
 https://ingemecanica.com##.encabez
 https://bandaancha.eu##.euCk
@@ -12267,6 +12267,7 @@ https://cnn.com#@##outbrain_widget_0
 https://mozilla.org,thunderbird.net,usps.com#@##privacy-policy
 https://onecallinsurance.co.uk#@##scroll-to-top
 https://aval.ua,finanzen100.de#@##scroll-top
+https://catchconnect.com.au#@##scrollTop
 https://catchconnect.com.au,hotel.de#@##scrollTop:not(body):not(html)
 https://thehunt.com#@##signup-popup
 https://wecollect.ch#@##subscribe_email
@@ -13019,6 +13020,7 @@ https://nzpost.co.nz##.notification.cookies:not(body):not(html)
 https://bosch-home.com#@#.o-cookielaw
 https://api.newsguardtech.com,rockpapershotgun.com#@#.optanon-alert-box-wrapper
 https://pieseauto.ro#@#.page-cookies
+https://spotify.com#@#.privacy-modal
 https://google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 https://metallica.com#@#.privacy_policy_message_box
 https://online.no,telenor.no#@#.privacy_prompt
@@ -13042,6 +13044,7 @@ https://ee.co.uk#@#div[class^="cookie-banner"]
 https://birramenabrea.com,marketerplus.pl#@#div[data-cookie]
 https://timeout.com#@#div[data-module="cookie_banner"]
 https://unicode.org#@#div[data-nconvert-cookie]
+https://yoigo.com#@#thor-cookies
 http://ceo.com###ActionBarCont
 http://lawyers.com###ActivityFeedWrap
 http://crutchfield.com###ArchivedArticleModal
@@ -22481,7 +22484,7 @@ http://blogcindario.com##.c01eb8fc
 http://infiniti.com.do,infiniti.com.pa,infiniti.mx,infinitimotors.cl,infinitipr.com##.c_128
 http://psicologia-online.com,uncomo.com##.consent
 http://alcampo.es,gestoriaverdugo.es##.cookie
-http://conforama.es,ebayextra.es,flooxer.com,ing.es,loteriasyapuestas.es,moldurashergon.es,mountainbike.es,nintenderos.com,panamaamerica.com.pa,puntodepartida.com##.cookies
+http://conforama.es,ebayextra.es,flooxer.com,ing.es,loteriasyapuestas.es,moldurashergon.es,mountainbike.es,nintenderos.com,o2online.es,panamaamerica.com.pa,puntodepartida.com,tuenti.es##.cookies
 http://eltiempo.es##.curtain_lightbox
 http://ingemecanica.com##.encabez
 http://bandaancha.eu##.euCk
@@ -22579,6 +22582,7 @@ http://cnn.com#@##outbrain_widget_0
 http://mozilla.org,thunderbird.net,usps.com#@##privacy-policy
 http://onecallinsurance.co.uk#@##scroll-to-top
 http://aval.ua,finanzen100.de#@##scroll-top
+http://catchconnect.com.au#@##scrollTop
 http://catchconnect.com.au,hotel.de#@##scrollTop:not(body):not(html)
 http://thehunt.com#@##signup-popup
 http://wecollect.ch#@##subscribe_email
@@ -23331,6 +23335,7 @@ http://nzpost.co.nz##.notification.cookies:not(body):not(html)
 http://bosch-home.com#@#.o-cookielaw
 http://api.newsguardtech.com,rockpapershotgun.com#@#.optanon-alert-box-wrapper
 http://pieseauto.ro#@#.page-cookies
+http://spotify.com#@#.privacy-modal
 http://google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 http://metallica.com#@#.privacy_policy_message_box
 http://online.no,telenor.no#@#.privacy_prompt
@@ -23354,4 +23359,5 @@ http://ee.co.uk#@#div[class^="cookie-banner"]
 http://birramenabrea.com,marketerplus.pl#@#div[data-cookie]
 http://timeout.com#@#div[data-module="cookie_banner"]
 http://unicode.org#@#div[data-nconvert-cookie]
+http://yoigo.com#@#thor-cookies
 httpstatus.io##.snackbar
