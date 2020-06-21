@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 080DFE7gmKgMj+WpNg0srg
-! Version: 202006192342
+! Checksum: ofc83ImVD0QCO+I0OrK3oA
+! Version: 202006202352
 ! Title: Fanboy's Annoyance List
-! Last modified: 19 Jun 2020 23:42 UTC
+! Last modified: 20 Jun 2020 23:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9127,6 +9127,7 @@ https://23andme.com,tunnelbear.com##.banner-wrap
 https://worthpoint.com##.bannerContainer
 https://caymanchem.com##.bg-darker-gray
 https://bagigia.com##.bica-content
+https://seikowatches.com##.blk-Disclaimer
 https://cvent.com##.block-notifications-block
 https://abplive.in##.blur-bg
 https://studocu.com##.bottom-bar-enter-active
@@ -10310,6 +10311,7 @@ https://ricoh.it##.page-link-top
 https://everyeye.it##.playert
 https://enzopennetta.it##.popmake
 https://tvprato.it##.quinews-header
+https://storicang.it##.recibe
 https://giornalettismo.com##.related-article
 https://bisceglielive.it##.reports
 https://diariodelweb.it,ilfoglio.it,webnews.it##.rss
@@ -12652,6 +12654,7 @@ https://mobiili.fi#@#.sharecontainer
 https://magentacloud.de#@#.sharelink
 https://india.com#@#.sharethis-wrapper
 https://nytimes.com#@#.sharetools
+https://gofundme.com#@#.sharing
 https://vtvgujarati.com#@#.sharing-box
 https://slate.com#@#.sharing-buttons
 https://169.254.1.1,192.168.178.1,192.168.188.1,fritz.box#@#.sharingbox
@@ -19441,6 +19444,7 @@ http://23andme.com,tunnelbear.com##.banner-wrap
 http://worthpoint.com##.bannerContainer
 http://caymanchem.com##.bg-darker-gray
 http://bagigia.com##.bica-content
+http://seikowatches.com##.blk-Disclaimer
 http://cvent.com##.block-notifications-block
 http://abplive.in##.blur-bg
 http://studocu.com##.bottom-bar-enter-active
@@ -20624,6 +20628,7 @@ http://ricoh.it##.page-link-top
 http://everyeye.it##.playert
 http://enzopennetta.it##.popmake
 http://tvprato.it##.quinews-header
+http://storicang.it##.recibe
 http://giornalettismo.com##.related-article
 http://bisceglielive.it##.reports
 http://diariodelweb.it,ilfoglio.it,webnews.it##.rss
@@ -22967,6 +22972,7 @@ http://mobiili.fi#@#.sharecontainer
 http://magentacloud.de#@#.sharelink
 http://india.com#@#.sharethis-wrapper
 http://nytimes.com#@#.sharetools
+http://gofundme.com#@#.sharing
 http://vtvgujarati.com#@#.sharing-box
 http://slate.com#@#.sharing-buttons
 http://169.254.1.1,192.168.178.1,192.168.188.1,fritz.box#@#.sharingbox

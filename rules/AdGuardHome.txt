@@ -1,5 +1,5 @@
 !TITLE=anti-AD
-!VER=20200619130846
+!VER=20200620142259
 !TOTAL_LINES=35396
 address=/00-gov.cn/
 address=/kwcdn.000dn.com/
@@ -505,7 +505,7 @@ address=/ne.1rtb.com/
 address=/ssp.1rtb.com/
 address=/1rx.io/
 address=/1rxntv.io/
-address=/1sapp.com/
+address=/inapp.1sapp.com/
 address=/1sen-pit-fan.com/
 address=/1st2nd.xyz/
 address=/ad.1ting.com/
