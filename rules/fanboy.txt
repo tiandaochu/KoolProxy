@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FM/pnR5WVvVXgEx15cY/KQ
-! Version: 202006242351
+! Checksum: l91RHD3iYPJR92xWH8NYGw
+! Version: 202006252351
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Jun 2020 23:51 UTC
+! Last modified: 25 Jun 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6493,6 +6493,7 @@ https://classicalite.com##.f-subscform
 https://slator.com##.fancybox-desktop
 https://christianpost.com##.fancybox-iframe
 https://slator.com##.fancybox-overlay
+https://theregister.com##.faux-article
 https://corrosionpedia.com##.featured-form
 https://aljazeera.com##.feedback-signForm
 https://guidingtech.com##.fill-bb-light
@@ -9163,6 +9164,7 @@ https://viralnova.com##.cc-banner
 https://wallpapershome.com##.cc-dialog
 https://drakecircus.com##.ccc-widget
 https://orcadian.co.uk##.cd-container
+https://wunderground.com##.cdk-overlay-container
 https://kbs.co.kr##.chrome_pick
 https://stayinwales.co.uk##.ckinfo-panel
 https://singular.com.cy##.cm-notification-container
@@ -16822,6 +16824,7 @@ http://classicalite.com##.f-subscform
 http://slator.com##.fancybox-desktop
 http://christianpost.com##.fancybox-iframe
 http://slator.com##.fancybox-overlay
+http://theregister.com##.faux-article
 http://corrosionpedia.com##.featured-form
 http://aljazeera.com##.feedback-signForm
 http://guidingtech.com##.fill-bb-light
@@ -19493,6 +19496,7 @@ http://viralnova.com##.cc-banner
 http://wallpapershome.com##.cc-dialog
 http://drakecircus.com##.ccc-widget
 http://orcadian.co.uk##.cd-container
+http://wunderground.com##.cdk-overlay-container
 http://kbs.co.kr##.chrome_pick
 http://stayinwales.co.uk##.ckinfo-panel
 http://singular.com.cy##.cm-notification-container
