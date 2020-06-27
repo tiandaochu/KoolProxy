@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: l91RHD3iYPJR92xWH8NYGw
-! Version: 202006252351
+! Checksum: rlm7a1Ebz9uKamGRYPaO+Q
+! Version: 202006262351
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Jun 2020 23:51 UTC
+! Last modified: 26 Jun 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9710,6 +9710,7 @@ https://spektrum.de##.footer__nl
 https://rewe.de##.fragment
 https://luxor.co.at##.info
 https://stuttgarter-nachrichten.de##.js-to-top
+https://kicker.de##.kick__scroll-top-ic
 https://ifun.de,iphone-ticker.de##.mail
 https://weltwoche.ch##.navInner.fixed
 https://diepresse.com,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
@@ -10619,6 +10620,7 @@ https://extratipp.com##.id-Article-actionbox
 https://fantasy.de##.ig
 https://deutschlandfunk.de##.in
 https://rbb-online.de##.include_bookmarks
+https://kicker.de##.kick__article__social
 https://daswetter.com##.liCompartir
 https://swr3.de##.like-settings
 https://ndr.de##.meta
@@ -20042,6 +20044,7 @@ http://spektrum.de##.footer__nl
 http://rewe.de##.fragment
 http://luxor.co.at##.info
 http://stuttgarter-nachrichten.de##.js-to-top
+http://kicker.de##.kick__scroll-top-ic
 http://ifun.de,iphone-ticker.de##.mail
 http://weltwoche.ch##.navInner.fixed
 http://diepresse.com,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
@@ -20951,6 +20954,7 @@ http://extratipp.com##.id-Article-actionbox
 http://fantasy.de##.ig
 http://deutschlandfunk.de##.in
 http://rbb-online.de##.include_bookmarks
+http://kicker.de##.kick__article__social
 http://daswetter.com##.liCompartir
 http://swr3.de##.like-settings
 http://ndr.de##.meta
