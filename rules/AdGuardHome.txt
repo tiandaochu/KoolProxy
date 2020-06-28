@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20200625130851
-!TOTAL_LINES=35387
+!VER=20200627073555
+!TOTAL_LINES=35386
 address=/00-gov.cn/
 address=/kwcdn.000dn.com/
 address=/kwcscdn.000dn.com/
@@ -15891,7 +15891,6 @@ address=/mpb2.iteye.com/
 address=/rabc2.iteye.com/
 address=/sp.ithacajournal.com/
 address=/ithinkthereforeiam.net/
-address=/dyn.ithome.com/
 address=/a.itiexue.net/
 address=/jph.itiexue.net/
 address=/itllnww6x277.com/

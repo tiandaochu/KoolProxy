@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rlm7a1Ebz9uKamGRYPaO+Q
-! Version: 202006262351
+! Checksum: ZYYSqOa8NEunb3nsTqIGjg
+! Version: 202006272351
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Jun 2020 23:51 UTC
+! Last modified: 27 Jun 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7753,6 +7753,7 @@ https://climate.nasa.gov##.chertools_floater
 https://progressive.org##.chicklets
 https://cheezburger.com##.chz-social
 https://omny.fm##.clip-share
+https://cryptonews.com##.cn-invite-fixed
 https://neatorama.com##.col-4
 https://gamingonlinux.com##.col-md-12 > .greybackground
 https://goibibo.com##.color666666 + .inline
@@ -8289,6 +8290,7 @@ https://2tout2rien.fr,lordofthelasersword.com,newsledge.com,popmythology.com,the
 https://thestack.com##.spu-float-left
 https://virgin.com##.ss-cnnct
 https://olympicchannel.com##.ssba
+https://cryptonews.com##.ssk
 https://mp3.com##.ssk-sm
 https://trak.in##.sss_kk_main
 https://sonymobile.com##.stay-connected
@@ -9731,7 +9733,7 @@ https://svp.eu,wohnen-in-suedtirol.it##.top
 https://baden.fm##.top-clone
 https://hofbraeu-muenchen.de,visitberlin.de##.top-link
 https://servus.com##.topLink
-https://hr.de##.toplink
+https://hessenschau.de,hr-bigband.de,hr-fernsehen.de,hr-inforadio.de,hr-rundfunkrat.de,hr-sinfonieorchester.de,hr-werbung.de,hr.de,hr1.de,hr2.de,hr3.de,hr4.de,you-fm.de##.toplink
 https://tagesspiegel.de##.ts-up-button
 https://deutzforum.de##.userNotice
 https://sportnews.bz##.whatsapp
@@ -11718,7 +11720,7 @@ https://cassaforense.it,cfnews.it###cassaforense-cookies
 https://centrometeolombardo.com###cc_div
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
-https://aeo.it,bookingaltoadige.com,chiesi.com,citroen-club.it,confidisystema.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,tecnocasa.it,wd40.it###cookie
+https://aeo.it,bookingaltoadige.com,chiesi.com,citroen-club.it,confidisystema.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,spesati.it,tecnocasa.it,wd40.it###cookie
 https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it,wind.it###cookies
 https://majani.it###cs-banner
 https://netflixlovers.it###cs_container
@@ -11853,6 +11855,7 @@ https://leone1947.com##div[style="box-sizing: border-box; bottom: 0px; position:
 https://tuttosexyshop.it##div[style="font-size: 12px;float:left; width: 100%; text-align:center;"]
 https://enerpoint.it##div[style="padding:10px;background:#f77900;text-align:center;font-size:12px;margin-bottom:15px;"]
 https://gomme-auto.it##div[style="position: fixed; z-index: 999; bottom: 0px; left: 0px; right: 0px; margin: 0px auto; max-width: 960px; min-width: 360px; overflow: hidden;"]
+https://frescomarket.it##div[style="width: 100%; position: fixed; bottom: 0px; z-index:10001;  background-color: white; color:#006F49;"]
 https://clouditalia.com##div[style="width: 1349px; height: 3289px; opacity: 0.8; display: block;"]
 https://arsludica.org##div[style^="padding: 0.5em 0px 0.5em"]
 https://atrio.it##div[style^="position: absolute; top:"]
@@ -18086,6 +18089,7 @@ http://climate.nasa.gov##.chertools_floater
 http://progressive.org##.chicklets
 http://cheezburger.com##.chz-social
 http://omny.fm##.clip-share
+http://cryptonews.com##.cn-invite-fixed
 http://neatorama.com##.col-4
 http://gamingonlinux.com##.col-md-12 > .greybackground
 http://goibibo.com##.color666666 + .inline
@@ -18622,6 +18626,7 @@ http://2tout2rien.fr,lordofthelasersword.com,newsledge.com,popmythology.com,thek
 http://thestack.com##.spu-float-left
 http://virgin.com##.ss-cnnct
 http://olympicchannel.com##.ssba
+http://cryptonews.com##.ssk
 http://mp3.com##.ssk-sm
 http://trak.in##.sss_kk_main
 http://sonymobile.com##.stay-connected
@@ -20065,7 +20070,7 @@ http://svp.eu,wohnen-in-suedtirol.it##.top
 http://baden.fm##.top-clone
 http://hofbraeu-muenchen.de,visitberlin.de##.top-link
 http://servus.com##.topLink
-http://hr.de##.toplink
+http://hessenschau.de,hr-bigband.de,hr-fernsehen.de,hr-inforadio.de,hr-rundfunkrat.de,hr-sinfonieorchester.de,hr-werbung.de,hr.de,hr1.de,hr2.de,hr3.de,hr4.de,you-fm.de##.toplink
 http://tagesspiegel.de##.ts-up-button
 http://deutzforum.de##.userNotice
 http://sportnews.bz##.whatsapp
@@ -22053,7 +22058,7 @@ http://cassaforense.it,cfnews.it###cassaforense-cookies
 http://centrometeolombardo.com###cc_div
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
-http://aeo.it,bookingaltoadige.com,chiesi.com,citroen-club.it,confidisystema.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,tecnocasa.it,wd40.it###cookie
+http://aeo.it,bookingaltoadige.com,chiesi.com,citroen-club.it,confidisystema.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,spesati.it,tecnocasa.it,wd40.it###cookie
 http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it,wind.it###cookies
 http://majani.it###cs-banner
 http://netflixlovers.it###cs_container
@@ -22188,6 +22193,7 @@ http://leone1947.com##div[style="box-sizing: border-box; bottom: 0px; position: 
 http://tuttosexyshop.it##div[style="font-size: 12px;float:left; width: 100%; text-align:center;"]
 http://enerpoint.it##div[style="padding:10px;background:#f77900;text-align:center;font-size:12px;margin-bottom:15px;"]
 http://gomme-auto.it##div[style="position: fixed; z-index: 999; bottom: 0px; left: 0px; right: 0px; margin: 0px auto; max-width: 960px; min-width: 360px; overflow: hidden;"]
+http://frescomarket.it##div[style="width: 100%; position: fixed; bottom: 0px; z-index:10001;  background-color: white; color:#006F49;"]
 http://clouditalia.com##div[style="width: 1349px; height: 3289px; opacity: 0.8; display: block;"]
 http://arsludica.org##div[style^="padding: 0.5em 0px 0.5em"]
 http://atrio.it##div[style^="position: absolute; top:"]
