@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZYYSqOa8NEunb3nsTqIGjg
-! Version: 202006272351
+! Checksum: KC/TWJbuHu0mvL7NgM33Zw
+! Version: 202006282351
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Jun 2020 23:51 UTC
+! Last modified: 28 Jun 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2839,7 +2839,6 @@ https://stv.tv###announcements
 https://tapiture.com###annoy-non-users
 https://booksnreview.com,classicalite.com,counselheal.com,designntrend.com,enstarz.com,franchiseherald.com,gamenguide.com,hngn.com,kdramastars.com,kpopstarz.com,latinopost.com,latinospost.com,latinpost.com,mobilenapps.com,musictimes.com,natureworldnews.com,parentherald.com,scienceworldreport.com,techtimes.com,universityherald.com,vcpost.com,yibada.com###anotherBox
 https://aol.co.uk###aol-snf-wrapper
-https://minus.com###app-promo-overlay
 https://indianexpress.com###append_breaking_box
 https://stitcher.com###appnag
 https://huffingtonpost.co.uk,huffingtonpost.com,moviefone.com,news.moviefone.ca###apps-feeds
@@ -3446,6 +3445,7 @@ https://sandiego6.com###imware
 https://dailyhealthpost.com,fastdiscountfinder.com###imwb_cabim_panel
 https://arstechnica.com###in-the-know
 https://duffelblog.com###inPopUp
+https://bizarrepedia.com###in_and_out
 https://soft32.com###in_touch
 https://bloomberg.com###ind_job_widget
 https://time.com###indeed_widget_wrapper
@@ -4007,9 +4007,6 @@ https://tv3.co.nz###sm
 https://howstuffworks.com###smToolBar
 https://howstuffworks.com###smToolBarSpacer
 https://theweek.com###sm_iconset
-https://cbsnews.com,yelp.com###smart-banner
-https://dailymail.co.uk,m.jpost.com###smartBanner
-https://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com###smartbanner
 https://pcworld.com###smbRightSubscribe
 https://socialhype.com###smfoot
 https://apartmentguide.com###snap_bar_background
@@ -5599,7 +5596,6 @@ https://bleacherreport.com##.slideshowNav
 https://fastcompany.com##.slideshowlinks
 https://freeenterprise.com##.sliding-panel-trigger
 https://udemy.com##.slp-container
-https://imgur.com,sowetanlive.co.za##.smartbanner
 https://hindustantimes.com##.sml_col2
 https://bing.com##.sn_container
 https://techtimes.com##.sns
@@ -6194,6 +6190,7 @@ https://thegolfnewsnet.com###popup-box-gfcr-1
 https://space.com,tomshardware.co.uk,tomshardware.com###popup-modal
 https://thrillist.com###popup-signup
 https://worldreligionnews.com###post_footer_promo
+https://scientificamerican.com###promo-header
 https://sperry.com,striderite.com###promotionalPopup
 https://poolsupplies.com###ps-email-signup
 https://egmnow.com###pt_dark_over
@@ -7197,7 +7194,6 @@ https://calgaryherald.com,edmontonjournal.com,montrealgazette.com,ottawacitizen.
 https://cio.co.nz,cio.com.au,cmo.com.au,computerworld.co.nz,computerworld.com.au,cso.com.au,pcworld.co.nz###quick-signup-article-widget
 https://computerworld.co.nz,computerworld.com.au,cso.com.au###rhs_newsletter
 https://computerworld.co.nz###rhs_techjobs
-https://spiegel.de###smartbanner
 https://cwtv.com###user_optin_banner
 https://menshealth.com,runnersworld.com##.OUTBRAIN
 https://ibtimes.co.uk##.anchored--newsletter
@@ -7245,8 +7241,12 @@ https://annahar.com##.notifications-overlay
 https://fanpage.it##.overlay-content-wrapper
 https://mail.ru##.ph-balloo
 https://estadao.com.br##.push-body
+https://cbsnews.com,yelp.com###smart-banner
+https://dailymail.co.uk,m.jpost.com###smartBanner
+https://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
 https://9gag.com##.download-app-container
 https://9gag.com##.get-the-app-banner
+https://imgur.com,sowetanlive.co.za##.smartbanner
 https://schufa.de###AC_layout
 https://pcb.cc###Cntnr6
 https://softwares-serials.in###FTslide
@@ -8238,7 +8238,7 @@ https://econotimes.com##.snsBookmarkTop
 https://buyee.jp,kbs.co.kr##.sns_list
 https://nikkei.com##.snsicon-list
 https://cnn.com##.so_links
-https://porngals4.com,psychologies.co.uk##.soc
+https://bizarrepedia.com,porngals4.com,psychologies.co.uk##.soc
 https://wine-searcher.com##.soc-box
 https://designntrend.com##.soc_box
 https://onlineprnews.com##.soc_box[style=" margin-bottom:10px; border:solid 1px #EEEEEE; clear:both"]
@@ -10294,6 +10294,8 @@ https://ilsicilia.it##.feed
 https://tomshw.it##.fixed_arrows
 https://laleggepertutti.it##.footer-top-feild
 https://repubblica.it##.footer_back-top
+https://forbes.it##.forbes-newsletter
+https://forbes.it##.forbes-newsletter-invite
 https://hwupgrade.it##.form-offerte
 https://my-personaltrainer.it##.frecciabg
 https://corriere.it##.glightbox-container
@@ -13174,7 +13176,6 @@ http://stv.tv###announcements
 http://tapiture.com###annoy-non-users
 http://booksnreview.com,classicalite.com,counselheal.com,designntrend.com,enstarz.com,franchiseherald.com,gamenguide.com,hngn.com,kdramastars.com,kpopstarz.com,latinopost.com,latinospost.com,latinpost.com,mobilenapps.com,musictimes.com,natureworldnews.com,parentherald.com,scienceworldreport.com,techtimes.com,universityherald.com,vcpost.com,yibada.com###anotherBox
 http://aol.co.uk###aol-snf-wrapper
-http://minus.com###app-promo-overlay
 http://indianexpress.com###append_breaking_box
 http://stitcher.com###appnag
 http://huffingtonpost.co.uk,huffingtonpost.com,moviefone.com,news.moviefone.ca###apps-feeds
@@ -13782,6 +13783,7 @@ http://sandiego6.com###imware
 http://dailyhealthpost.com,fastdiscountfinder.com###imwb_cabim_panel
 http://arstechnica.com###in-the-know
 http://duffelblog.com###inPopUp
+http://bizarrepedia.com###in_and_out
 http://soft32.com###in_touch
 http://bloomberg.com###ind_job_widget
 http://time.com###indeed_widget_wrapper
@@ -14343,9 +14345,6 @@ http://tv3.co.nz###sm
 http://howstuffworks.com###smToolBar
 http://howstuffworks.com###smToolBarSpacer
 http://theweek.com###sm_iconset
-http://cbsnews.com,yelp.com###smart-banner
-http://dailymail.co.uk,m.jpost.com###smartBanner
-http://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com###smartbanner
 http://pcworld.com###smbRightSubscribe
 http://socialhype.com###smfoot
 http://apartmentguide.com###snap_bar_background
@@ -15935,7 +15934,6 @@ http://bleacherreport.com##.slideshowNav
 http://fastcompany.com##.slideshowlinks
 http://freeenterprise.com##.sliding-panel-trigger
 http://udemy.com##.slp-container
-http://imgur.com,sowetanlive.co.za##.smartbanner
 http://hindustantimes.com##.sml_col2
 http://bing.com##.sn_container
 http://techtimes.com##.sns
@@ -16530,6 +16528,7 @@ http://thegolfnewsnet.com###popup-box-gfcr-1
 http://space.com,tomshardware.co.uk,tomshardware.com###popup-modal
 http://thrillist.com###popup-signup
 http://worldreligionnews.com###post_footer_promo
+http://scientificamerican.com###promo-header
 http://sperry.com,striderite.com###promotionalPopup
 http://poolsupplies.com###ps-email-signup
 http://egmnow.com###pt_dark_over
@@ -17533,7 +17532,6 @@ http://calgaryherald.com,edmontonjournal.com,montrealgazette.com,ottawacitizen.c
 http://cio.co.nz,cio.com.au,cmo.com.au,computerworld.co.nz,computerworld.com.au,cso.com.au,pcworld.co.nz###quick-signup-article-widget
 http://computerworld.co.nz,computerworld.com.au,cso.com.au###rhs_newsletter
 http://computerworld.co.nz###rhs_techjobs
-http://spiegel.de###smartbanner
 http://cwtv.com###user_optin_banner
 http://menshealth.com,runnersworld.com##.OUTBRAIN
 http://ibtimes.co.uk##.anchored--newsletter
@@ -17581,8 +17579,12 @@ http://annahar.com##.notifications-overlay
 http://fanpage.it##.overlay-content-wrapper
 http://mail.ru##.ph-balloo
 http://estadao.com.br##.push-body
+http://cbsnews.com,yelp.com###smart-banner
+http://dailymail.co.uk,m.jpost.com###smartBanner
+http://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
 http://9gag.com##.download-app-container
 http://9gag.com##.get-the-app-banner
+http://imgur.com,sowetanlive.co.za##.smartbanner
 http://schufa.de###AC_layout
 http://pcb.cc###Cntnr6
 http://softwares-serials.in###FTslide
@@ -18574,7 +18576,7 @@ http://econotimes.com##.snsBookmarkTop
 http://buyee.jp,kbs.co.kr##.sns_list
 http://nikkei.com##.snsicon-list
 http://cnn.com##.so_links
-http://porngals4.com,psychologies.co.uk##.soc
+http://bizarrepedia.com,porngals4.com,psychologies.co.uk##.soc
 http://wine-searcher.com##.soc-box
 http://designntrend.com##.soc_box
 http://onlineprnews.com##.soc_box[style=" margin-bottom:10px; border:solid 1px #EEEEEE; clear:both"]
@@ -20631,6 +20633,8 @@ http://ilsicilia.it##.feed
 http://tomshw.it##.fixed_arrows
 http://laleggepertutti.it##.footer-top-feild
 http://repubblica.it##.footer_back-top
+http://forbes.it##.forbes-newsletter
+http://forbes.it##.forbes-newsletter-invite
 http://hwupgrade.it##.form-offerte
 http://my-personaltrainer.it##.frecciabg
 http://corriere.it##.glightbox-container
