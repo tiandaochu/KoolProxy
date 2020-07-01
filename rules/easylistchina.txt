@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: yaw1Ba9DwPmRgT+dHzESww
-! Version: 202006300003
+! Checksum: NW5Kknnm881NX2qpC/xIDA
+! Version: 202007010013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1930,6 +1930,7 @@
 ||https://clouddn.com/960x60.gif
 ||https://cloudflare.com/ajax/libs/jquery.blockUI/
 ||https://cloudfront-666.kxcdn.com/v4.js
+||https://cloudfront.net/?
 ||https://cloudfront.net/images/K10/adv/
 ||https://cmdy5.com/js/300.js
 ||https://cmdy5.com/js/waptbplay
@@ -9288,6 +9289,7 @@
 ||http://clouddn.com/960x60.gif
 ||http://cloudflare.com/ajax/libs/jquery.blockUI/$domain=wantgoo.com
 ||http://cloudfront-666.kxcdn.com/v4.js
+||http://cloudfront.net/?$domain=olevod.com
 ||http://cloudfront.net/images/K10/adv/
 ||http://cmdy5.com/js/300.js
 ||http://cmdy5.com/js/waptbplay
@@ -11566,6 +11568,7 @@
 ||http://ssnn.net^*-200-250.jpg
 ||http://ssp.hinet.net^
 ||http://ssp.kdnet.net^
+||http://ssp.njxzwh.com^
 ||http://ssp.zf313.com^
 ||http://sspai.com/api/v1/recommends?*=article_
 ||http://sspai.com/attachment/sponsor/
@@ -13296,6 +13299,7 @@
 ||http://0577renliu.
 ||http://0601chruopjsm.xyz^
 ||http://0615nxbsho.xyz^
+||http://0629ohfsx.xyz^
 ||http://0755man.cn^
 ||http://0851ok.com^
 ||http://0923csfsteibv12.xyz^
@@ -13673,6 +13677,7 @@
 ||http://cs12d.com^
 ||http://csalsylqx.com^
 ||http://cshwhy.cn^
+||http://cssjs.info^
 ||http://cuoas.com^
 ||http://cuoss.com^
 ||http://cwj2h.cn^
@@ -14729,6 +14734,7 @@
 ||http://weikefanli.com^
 ||http://weimeicar.cn^
 ||http://weiziqiang.top^
+||http://welted.cn^
 ||http://wenbangsh.com.cn^
 ||http://wenzhougy.cn^
 ||http://wervp.com^
@@ -15679,6 +15685,8 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://ddooo.com##.guosu
+https://ddooo.com##.dbbnt_list
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -15955,6 +15963,7 @@ https://uestc.edu.cn###bar
 https://c114.com.cn###barrage_ad
 https://c114.com.cn###barrage_bg
 https://hao.rising.cn###bbTao
+https://my0511.com###bbdcc
 https://gamme.com.tw###bd
 https://acfun.cn###bd_ad1
 https://makaidong.com###bdcs
@@ -16096,6 +16105,7 @@ https://iask.sina.com.cn###daily_topic_flnr
 https://mydrivers.com###dangbei_down
 https://kpw6.com###daojs
 https://fzdao.cn###datu
+https://my0511.com###dbdcc
 https://ytbbs.com###dd1
 https://4399.com###defaultbglink
 https://fastadmin.net###detail-recommend
@@ -16243,6 +16253,7 @@ https://bitauto.com###folieAdNews
 https://wdzj.com###footbanner
 https://jxedt.com###footer
 https://ttzmz.vip###footer > div[style]
+https://my0511.com###footerbannerad
 https://ettoday.net###for-ec
 https://uwants.com###foruminfo + div[align="center"]
 https://my0511.com###forumtextad
@@ -16392,6 +16403,7 @@ https://narutom.com###hy_float
 https://mzyz.com###idTransformView2
 https://tlanyan.me###id_ad_field
 https://nownews.com###idle-layer
+https://my0511.com###idxtelecom
 https://tingroom.com###ifram_563
 https://hao.360.cn###iguess
 https://ck101.com###image_ad_long
@@ -16714,6 +16726,7 @@ https://duba.com,uu114.cn###redbagRain
 https://image.baidu.com###relEcom
 https://baidu.com###relative_shop_flow
 https://image.baidu.com###relecom54
+https://my0511.com###renmenzwad
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###replyBusinessImg
 https://qxfun.com###reward-me > figure:nth-child(n+2)
 https://2345.com,hao774.com###right > div:first-child
@@ -17099,6 +17112,7 @@ https://duba.com##.J_side_activity
 https://dasai8.com##.L > font[color="#0000FF"]
 https://oilchem.net##.LzAdv
 https://price.com.hk,uwants.com##.MFV
+https://my0511.com##.MY0511-broadcast
 https://shenchuang.com##.MainR_ad3
 https://ltn.com.tw##.NC3
 https://taoguba.com.cn##.NH_ad
@@ -17730,6 +17744,7 @@ https://lenniu.com##.caClass
 https://hao.360.cn##.cangbao_redbags
 https://qihoo.com##.car-ercode
 https://duba.com##.car_ads
+https://steamstats.cn##.card-link
 https://16888.com##.cardataclass
 https://htcui.com##.carousel
 https://byxx.com##.cataAD
@@ -19486,6 +19501,7 @@ https://autohome.com.cn##.union-ad-placeholder
 https://rijutv.com##.union-list-item
 https://baidu.com##.union-tg
 https://baidu.com##.v-s-tuiguang-wrap
+https://steamstats.cn##.v-window
 https://0598yu.com##.v1100_ad
 https://ifeng.com##.vAdImg
 https://ifeng.com##.vAdbox
@@ -20120,6 +20136,7 @@ https://mail.126.com,mail.163.com##div[id$="_FooterDiv"]
 https://anoneko.com,dmhy.org##div[id$="_ad"] > a:first-child > img
 https://58.com##div[id$="_gdbg"]
 https://mail.126.com,mail.163.com##div[id$="_succAd"]
+https://my0511.com##div[id$="bdbc"]
 https://pixnet.net##div[id*="-AD-"]
 https://pixnet.net##div[id*="-Ad-"]
 https://yahoo.com##div[id*="-Stream-ad-"]
@@ -20426,10 +20443,10 @@ https://0573ren.com##li[data-sort] > a[href^="http://app-api.0573ren.com/store-v
 https://13mv.com##li[id^="media_image-"]
 https://linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
 https://linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
-https://m.mydrivers.com#?#.cnewsinfo > p:-abp-has(strong ~ .f14_link)
+https://m.mydrivers.com#?#.cnewsinfo > p:-abp-has(.f14_link + br + .f14_link)
 https://m.thepaper.cn#?#.t_news:-abp-has(img[alt="广告"])
 https://muchong.com#?#.forum_Post_index:-abp-has(nobr:-abp-contains(18))
-https://mydrivers.com#?#.news_info > p:-abp-has(strong ~ .f14_link)
+https://mydrivers.com#?#.news_info > p:-abp-has(.f14_link + br + .f14_link)
 https://news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 https://news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
 https://nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
@@ -20819,17 +20836,17 @@ https://hpjav.tv##body > div[style^="position: fixed;"]
 https://verystream.com#@#.adsbox
 https://googleads.g.doubleclick.net###mys-wrapper
 https://xhtml?%22+$script,third-party
-https://52biquge.com##[onclick*="app"]
-https://52biquge.com##a[href^="http://html.350.com/"]
-https://biqubao.com##div[style="width:976px;"]
-https://bixia.org##dd[style*="bottom:"]
 https://bxwx666.org###addiv3
-https://duanwenxue.com##.qgzdwx
-https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-https://jx.la##div[onclick*="apk"]
 https://piaotian5.com##.layui-row
-https://piaotian5.com##script + div[style="padding:15px;"]
+https://duanwenxue.com##.qgzdwx
 https://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
+https://52biquge.com##[onclick*="app"]
+https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
+https://52biquge.com##a[href^="http://html.350.com/"]
+https://bixia.org##dd[style*="bottom:"]
+https://jx.la##div[onclick*="apk"]
+https://biqubao.com##div[style="width:976px;"]
+https://piaotian5.com##script + div[style="padding:15px;"]
 https://onemanhua.com##.mn-thumb:nth-child(n+2)
 https://onemanhua.com##[id*="ScriptRoot"]
 https://getrelax.cc,sexylove.club##.loaded-popup-wrapper
@@ -21745,6 +21762,8 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://ddooo.com##.guosu
+http://ddooo.com##.dbbnt_list
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -22021,6 +22040,7 @@ http://uestc.edu.cn###bar
 http://c114.com.cn###barrage_ad
 http://c114.com.cn###barrage_bg
 http://hao.rising.cn###bbTao
+http://my0511.com###bbdcc
 http://gamme.com.tw###bd
 http://acfun.cn###bd_ad1
 http://makaidong.com###bdcs
@@ -22162,6 +22182,7 @@ http://iask.sina.com.cn###daily_topic_flnr
 http://mydrivers.com###dangbei_down
 http://kpw6.com###daojs
 http://fzdao.cn###datu
+http://my0511.com###dbdcc
 http://ytbbs.com###dd1
 http://4399.com###defaultbglink
 http://fastadmin.net###detail-recommend
@@ -22309,6 +22330,7 @@ http://bitauto.com###folieAdNews
 http://wdzj.com###footbanner
 http://jxedt.com###footer
 http://ttzmz.vip###footer > div[style]
+http://my0511.com###footerbannerad
 http://ettoday.net###for-ec
 http://uwants.com###foruminfo + div[align="center"]
 http://my0511.com###forumtextad
@@ -22458,6 +22480,7 @@ http://narutom.com###hy_float
 http://mzyz.com###idTransformView2
 http://tlanyan.me###id_ad_field
 http://nownews.com###idle-layer
+http://my0511.com###idxtelecom
 http://tingroom.com###ifram_563
 http://hao.360.cn###iguess
 http://ck101.com###image_ad_long
@@ -22780,6 +22803,7 @@ http://duba.com,uu114.cn###redbagRain
 http://image.baidu.com###relEcom
 http://baidu.com###relative_shop_flow
 http://image.baidu.com###relecom54
+http://my0511.com###renmenzwad
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###replyBusinessImg
 http://qxfun.com###reward-me > figure:nth-child(n+2)
 http://2345.com,hao774.com###right > div:first-child
@@ -23165,6 +23189,7 @@ http://duba.com##.J_side_activity
 http://dasai8.com##.L > font[color="#0000FF"]
 http://oilchem.net##.LzAdv
 http://price.com.hk,uwants.com##.MFV
+http://my0511.com##.MY0511-broadcast
 http://shenchuang.com##.MainR_ad3
 http://ltn.com.tw##.NC3
 http://taoguba.com.cn##.NH_ad
@@ -23796,6 +23821,7 @@ http://lenniu.com##.caClass
 http://hao.360.cn##.cangbao_redbags
 http://qihoo.com##.car-ercode
 http://duba.com##.car_ads
+http://steamstats.cn##.card-link
 http://16888.com##.cardataclass
 http://htcui.com##.carousel
 http://byxx.com##.cataAD
@@ -25552,6 +25578,7 @@ http://autohome.com.cn##.union-ad-placeholder
 http://rijutv.com##.union-list-item
 http://baidu.com##.union-tg
 http://baidu.com##.v-s-tuiguang-wrap
+http://steamstats.cn##.v-window
 http://0598yu.com##.v1100_ad
 http://ifeng.com##.vAdImg
 http://ifeng.com##.vAdbox
@@ -26186,6 +26213,7 @@ http://mail.126.com,mail.163.com##div[id$="_FooterDiv"]
 http://anoneko.com,dmhy.org##div[id$="_ad"] > a:first-child > img
 http://58.com##div[id$="_gdbg"]
 http://mail.126.com,mail.163.com##div[id$="_succAd"]
+http://my0511.com##div[id$="bdbc"]
 http://pixnet.net##div[id*="-AD-"]
 http://pixnet.net##div[id*="-Ad-"]
 http://yahoo.com##div[id*="-Stream-ad-"]
@@ -26492,10 +26520,10 @@ http://0573ren.com##li[data-sort] > a[href^="http://app-api.0573ren.com/store-vi
 http://13mv.com##li[id^="media_image-"]
 http://linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
 http://linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
-http://m.mydrivers.com#?#.cnewsinfo > p:-abp-has(strong ~ .f14_link)
+http://m.mydrivers.com#?#.cnewsinfo > p:-abp-has(.f14_link + br + .f14_link)
 http://m.thepaper.cn#?#.t_news:-abp-has(img[alt="广告"])
 http://muchong.com#?#.forum_Post_index:-abp-has(nobr:-abp-contains(18))
-http://mydrivers.com#?#.news_info > p:-abp-has(strong ~ .f14_link)
+http://mydrivers.com#?#.news_info > p:-abp-has(.f14_link + br + .f14_link)
 http://news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 http://news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
 http://nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
@@ -26885,17 +26913,17 @@ http://hpjav.tv##body > div[style^="position: fixed;"]
 http://verystream.com#@#.adsbox
 http://googleads.g.doubleclick.net###mys-wrapper
 http://xhtml?%22+$script,third-party
-http://52biquge.com##[onclick*="app"]
-http://52biquge.com##a[href^="http://html.350.com/"]
-http://biqubao.com##div[style="width:976px;"]
-http://bixia.org##dd[style*="bottom:"]
 http://bxwx666.org###addiv3
-http://duanwenxue.com##.qgzdwx
-http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-http://jx.la##div[onclick*="apk"]
 http://piaotian5.com##.layui-row
-http://piaotian5.com##script + div[style="padding:15px;"]
+http://duanwenxue.com##.qgzdwx
 http://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
+http://52biquge.com##[onclick*="app"]
+http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
+http://52biquge.com##a[href^="http://html.350.com/"]
+http://bixia.org##dd[style*="bottom:"]
+http://jx.la##div[onclick*="apk"]
+http://biqubao.com##div[style="width:976px;"]
+http://piaotian5.com##script + div[style="padding:15px;"]
 http://onemanhua.com##.mn-thumb:nth-child(n+2)
 http://onemanhua.com##[id*="ScriptRoot"]
 http://getrelax.cc,sexylove.club##.loaded-popup-wrapper

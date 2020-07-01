@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UBLM/pKy4oJtkitwb6ZzJQ
-! Version: 202006292351
+! Checksum: m9hBVNwbUPy28NzPmMMg+w
+! Version: 202006302351
 ! Title: Fanboy's Annoyance List
-! Last modified: 29 Jun 2020 23:51 UTC
+! Last modified: 30 Jun 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -880,6 +880,7 @@
 ||https://rudaw.net/images/icsubscribe.
 ||https://sabcnews.com^*-iabsa-
 ||https://scmp.com/misc/abacus_
+||https://sfstatic.net/build/experiment/helperWidget-
 ||https://snip.ly^$script
 ||https://space.com/images/site/social/
 ||https://thesouthafrican.com^*/iab_
@@ -2229,6 +2230,7 @@
 ||http://rudaw.net/images/icsubscribe.
 ||http://sabcnews.com^*-iabsa-
 ||http://scmp.com/misc/abacus_
+||http://sfstatic.net/build/experiment/helperWidget-
 ||http://snip.ly^$script
 ||http://space.com/images/site/social/
 ||http://thesouthafrican.com^*/iab_
@@ -4426,6 +4428,7 @@ https://livejournal.com##.b-fader
 https://rt.com##.b-main_extension
 https://clatl.com,lifebuzz.com##.b-modal
 https://newyorker.com##.b-modal-overlay
+https://savefrom.net##.b-widget-right
 https://forexminute.com##.bModal
 https://hellomagazine.com##.back-top
 https://scientificamerican.com##.badges
@@ -6683,6 +6686,7 @@ https://comicbook.com##.newsletterdiv_cmp
 https://buffalonews.com,consumerreports.org,marketwatch.com,oxforddictionaries.com##.newsletters
 https://audioholics.com##.newssidebar
 https://themeditelegraph.com##.nl-article-box
+https://journaldesfemmes.fr##.nl-box
 https://everydayhealth.com##.nl-container
 https://health.com##.nl-healthy
 https://babble.com##.nl-interstitial-box
@@ -9621,6 +9625,7 @@ https://avaz.ba##.float-top
 https://beritaharian.sg##.subscribe
 https://businessnews.com.tn###block-webform-client-block-281
 https://aljadeed.tv###formNL
+https://mawdoo3.com###move-down
 https://adsports.ae###movetop
 https://sasapost.com##.email-subscription-footer
 https://thawrah2day.com##.featured-post
@@ -9983,8 +9988,8 @@ https://lesechos.fr##.liennavigation
 https://minutebuzz.com##.likePopin
 https://lecho.be##.linkWithinBlock
 https://logitheque.com##.mailpoet_form
-https://ffr.fr##.modal
-https://fnacspectacles.com,largus.fr##.modal-backdrop
+https://algerie360.com,ffr.fr##.modal
+https://algerie360.com,fnacspectacles.com,largus.fr##.modal-backdrop
 https://futura-sciences.com##.module-propal-nl
 https://dealabs.com##.nav-banner
 https://silicon.fr##.nav-next
@@ -11053,6 +11058,7 @@ https://tunisiatv.tn,watania1.tn###block-block-5
 https://qnbalahli.com###follow
 https://alforatnews.com###socialnetwork
 https://mc-doualiya.com##.actions
+https://dzair-tube.online##.dzicon-bar
 https://wesalhaq.tv##.face
 https://elsharq.org##.facebook
 https://skynewsarabia.com##.fb_messanger
@@ -11066,7 +11072,7 @@ https://hannibaltv.com.tn##.rs_bas
 https://maannews.net##.sc
 https://aljazeera.net,autoline-arabic.com,maannews.net##.share
 https://waraa-elahdath.com##.smedia
-https://akhbaralsabah.com,al-akhbar.com,algerietelecom.dz,alkessa.com,almirbad.com,aqsatv.ps,ceroms.com,egyrep.com,europages.ma,fakartany.com,felesteen.ps,fxnewstoday.ae,hamas.ps,hannibaltv.com.tn,midad.com,nessma.tv,raseef22.com,rotana.net,sbc.sa,tunisna.tv##.social
+https://akhbaralsabah.com,al-akhbar.com,algerietelecom.dz,alkessa.com,almirbad.com,aqsatv.ps,ceroms.com,dzair-tube.com,egyrep.com,europages.ma,fakartany.com,felesteen.ps,fxnewstoday.ae,hamas.ps,hannibaltv.com.tn,midad.com,nessma.tv,raseef22.com,rotana.net,sbc.sa,tunisna.tv##.social
 https://midad.com##.social-app
 https://alahlionline.com##.social-network
 https://nooun.net##.socila
@@ -14764,6 +14770,7 @@ http://livejournal.com##.b-fader
 http://rt.com##.b-main_extension
 http://clatl.com,lifebuzz.com##.b-modal
 http://newyorker.com##.b-modal-overlay
+http://savefrom.net##.b-widget-right
 http://forexminute.com##.bModal
 http://hellomagazine.com##.back-top
 http://scientificamerican.com##.badges
@@ -17021,6 +17028,7 @@ http://comicbook.com##.newsletterdiv_cmp
 http://buffalonews.com,consumerreports.org,marketwatch.com,oxforddictionaries.com##.newsletters
 http://audioholics.com##.newssidebar
 http://themeditelegraph.com##.nl-article-box
+http://journaldesfemmes.fr##.nl-box
 http://everydayhealth.com##.nl-container
 http://health.com##.nl-healthy
 http://babble.com##.nl-interstitial-box
@@ -19960,6 +19968,7 @@ http://avaz.ba##.float-top
 http://beritaharian.sg##.subscribe
 http://businessnews.com.tn###block-webform-client-block-281
 http://aljadeed.tv###formNL
+http://mawdoo3.com###move-down
 http://adsports.ae###movetop
 http://sasapost.com##.email-subscription-footer
 http://thawrah2day.com##.featured-post
@@ -20322,8 +20331,8 @@ http://lesechos.fr##.liennavigation
 http://minutebuzz.com##.likePopin
 http://lecho.be##.linkWithinBlock
 http://logitheque.com##.mailpoet_form
-http://ffr.fr##.modal
-http://fnacspectacles.com,largus.fr##.modal-backdrop
+http://algerie360.com,ffr.fr##.modal
+http://algerie360.com,fnacspectacles.com,largus.fr##.modal-backdrop
 http://futura-sciences.com##.module-propal-nl
 http://dealabs.com##.nav-banner
 http://silicon.fr##.nav-next
@@ -21393,6 +21402,7 @@ http://tunisiatv.tn,watania1.tn###block-block-5
 http://qnbalahli.com###follow
 http://alforatnews.com###socialnetwork
 http://mc-doualiya.com##.actions
+http://dzair-tube.online##.dzicon-bar
 http://wesalhaq.tv##.face
 http://elsharq.org##.facebook
 http://skynewsarabia.com##.fb_messanger
@@ -21406,7 +21416,7 @@ http://hannibaltv.com.tn##.rs_bas
 http://maannews.net##.sc
 http://aljazeera.net,autoline-arabic.com,maannews.net##.share
 http://waraa-elahdath.com##.smedia
-http://akhbaralsabah.com,al-akhbar.com,algerietelecom.dz,alkessa.com,almirbad.com,aqsatv.ps,ceroms.com,egyrep.com,europages.ma,fakartany.com,felesteen.ps,fxnewstoday.ae,hamas.ps,hannibaltv.com.tn,midad.com,nessma.tv,raseef22.com,rotana.net,sbc.sa,tunisna.tv##.social
+http://akhbaralsabah.com,al-akhbar.com,algerietelecom.dz,alkessa.com,almirbad.com,aqsatv.ps,ceroms.com,dzair-tube.com,egyrep.com,europages.ma,fakartany.com,felesteen.ps,fxnewstoday.ae,hamas.ps,hannibaltv.com.tn,midad.com,nessma.tv,raseef22.com,rotana.net,sbc.sa,tunisna.tv##.social
 http://midad.com##.social-app
 http://alahlionline.com##.social-network
 http://nooun.net##.socila
