@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nlaWZj9chefFKMooAcuRww
-! Version: 202007012351
+! Checksum: QUrTkRHys6cmgD9vnwj/qg
+! Version: 202007022351
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Jul 2020 23:51 UTC
+! Last modified: 02 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -259,6 +259,7 @@
 ||https://promoshq.wildfireapp.com^$third-party
 ||https://promotion.monster.com^$third-party
 ||https://promotions.newegg.com^$third-party
+||https://provesrc.com^$third-party
 ||https://pubexchange.com^$third-party
 ||https://publisher.monster.com^$third-party
 ||https://punchtab.com^$third-party
@@ -1308,6 +1309,7 @@
 ||https://bastabugie.it/it/cookies.js
 ||https://cippy.it/Scripts/toastr.js
 ||https://cms24.it/js/kekse.js
+||https://cookierulez.sqrt64.it^$third-party
 ||https://creaweb.it/cookie/
 ||https://cure-naturali.it/cookies?
 ||https://effekt.it/analytics/
@@ -1589,6 +1591,7 @@
 ||http://promoshq.wildfireapp.com^$third-party
 ||http://promotion.monster.com^$third-party
 ||http://promotions.newegg.com^$third-party
+||http://provesrc.com^$third-party
 ||http://pubexchange.com^$third-party
 ||http://publisher.monster.com^$third-party
 ||http://punchtab.com^$third-party
@@ -2702,6 +2705,7 @@
 ||http://cippy.it/Scripts/toastr.js
 ||http://cms24.it/js/kekse.js
 ||http://cookie.aerostatonet.it^
+||http://cookierulez.sqrt64.it^$third-party
 ||http://cookies.gardena.net^
 ||http://creaweb.it/cookie/
 ||http://cure-naturali.it/cookies?
@@ -12670,6 +12674,7 @@ https://nytimes.com#@#.shareToolsItem
 https://rambler.ru#@#.share__list
 https://webmd.com#@#.share_bar
 https://vk.com#@#.share_bottom
+https://vk.com#@#.share_cont
 https://idrive.com#@#.share_container
 https://ezhikezhik.ru#@#.share_content
 https://radiolodz.pl#@#.share_icons
@@ -23014,6 +23019,7 @@ http://nytimes.com#@#.shareToolsItem
 http://rambler.ru#@#.share__list
 http://webmd.com#@#.share_bar
 http://vk.com#@#.share_bottom
+http://vk.com#@#.share_cont
 http://idrive.com#@#.share_container
 http://ezhikezhik.ru#@#.share_content
 http://radiolodz.pl#@#.share_icons
