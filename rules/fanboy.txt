@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QUrTkRHys6cmgD9vnwj/qg
-! Version: 202007022351
+! Checksum: 8cq7QG6TNRLslbiNWVB+fg
+! Version: 202007032351
 ! Title: Fanboy's Annoyance List
-! Last modified: 02 Jul 2020 23:51 UTC
+! Last modified: 03 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4553,6 +4553,7 @@ https://radionz.co.nz##.c-aside--subscribe
 https://plus.google.com##.c-zh-Wf
 https://appeggs.com,downloadatoz.com##.c_scrollbar
 https://econsultancy.com##.call-to-action-pod
+https://propublica.org##.canned-promo
 https://bellinghamherald.com,mail.com##.careerbuilder
 https://v3.co.uk##.case_studies_parent_block
 https://womenshealthmag.com##.caspromobox
@@ -4998,6 +4999,7 @@ https://dn.se##.js-article-preview
 https://pri.org##.js-cta_prompt
 https://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.js-dismissable-hero
 https://wellandgood.com##.js-flying
+https://hotukdeals.com##.js-keyword-alerts
 https://wired.com##.js-prefooter-rad
 https://medium.com##.js-promoCardWrapper
 https://haaretz.com##.jumping-jack-wrapper
@@ -6825,8 +6827,10 @@ https://searchenginewatch.com##.signup-banner
 https://mrctv.org##.signup-block
 https://gfycat.com##.signup-call-to-action
 https://standard.co.uk##.signup-comp
+https://tvnz.co.nz##.signup-content
 https://vouchercodes.co.uk##.signup-custom
 https://xbiz.com##.signup-form
+https://tvnz.co.nz##.signup-image
 https://futurity.org##.signup-section
 https://clashdaily.com##.signup1
 https://wbez.org##.signup_email
@@ -14896,6 +14900,7 @@ http://radionz.co.nz##.c-aside--subscribe
 http://plus.google.com##.c-zh-Wf
 http://appeggs.com,downloadatoz.com##.c_scrollbar
 http://econsultancy.com##.call-to-action-pod
+http://propublica.org##.canned-promo
 http://bellinghamherald.com,mail.com##.careerbuilder
 http://v3.co.uk##.case_studies_parent_block
 http://womenshealthmag.com##.caspromobox
@@ -15341,6 +15346,7 @@ http://dn.se##.js-article-preview
 http://pri.org##.js-cta_prompt
 http://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.js-dismissable-hero
 http://wellandgood.com##.js-flying
+http://hotukdeals.com##.js-keyword-alerts
 http://wired.com##.js-prefooter-rad
 http://medium.com##.js-promoCardWrapper
 http://haaretz.com##.jumping-jack-wrapper
@@ -17168,8 +17174,10 @@ http://searchenginewatch.com##.signup-banner
 http://mrctv.org##.signup-block
 http://gfycat.com##.signup-call-to-action
 http://standard.co.uk##.signup-comp
+http://tvnz.co.nz##.signup-content
 http://vouchercodes.co.uk##.signup-custom
 http://xbiz.com##.signup-form
+http://tvnz.co.nz##.signup-image
 http://futurity.org##.signup-section
 http://clashdaily.com##.signup1
 http://wbez.org##.signup_email
