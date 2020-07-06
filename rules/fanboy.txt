@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UaeAbwvdPILKSpjuHAT6Bg
-! Version: 202007042351
+! Checksum: uovAElkgI+qu9qXDvFruDQ
+! Version: 202007052351
 ! Title: Fanboy's Annoyance List
-! Last modified: 04 Jul 2020 23:51 UTC
+! Last modified: 05 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -654,6 +654,7 @@
 ||https://networkedblogs.com^$third-party
 ||https://newsharecounts.com^$third-party
 ||https://opensharecount.com^$third-party
+||https://pepper.com^$third-party
 ||https://pinterest.com/images/$third-party
 ||https://pinterest.com/js/pinit_main.js$third-party
 ||https://pinterest.com/v1/urls/count.json$third-party
@@ -1313,6 +1314,7 @@
 ||https://creaweb.it/cookie/
 ||https://cure-naturali.it/cookies?
 ||https://effekt.it/analytics/
+||https://ok-salute.it^*/cookie-law-info-public-
 ||https://plug.it^*/cmp.min.js
 ||https://rcsobjects.it/rcs_cpmt/
 ||https://spesasicura.com/Scripts/cookie.js
@@ -1992,6 +1994,7 @@
 ||http://networkedblogs.com^$third-party
 ||http://newsharecounts.com^$third-party
 ||http://opensharecount.com^$third-party
+||http://pepper.com^$third-party
 ||http://pinterest.com/images/$third-party
 ||http://pinterest.com/js/pinit_main.js$third-party
 ||http://pinterest.com/v1/urls/count.json$third-party
@@ -2710,6 +2713,7 @@
 ||http://creaweb.it/cookie/
 ||http://cure-naturali.it/cookies?
 ||http://effekt.it/analytics/
+||http://ok-salute.it^*/cookie-law-info-public-
 ||http://plug.it^*/cmp.min.js
 ||http://privacyportal.fatergroup.com^
 ||http://rcsobjects.it/rcs_cpmt/
@@ -10180,6 +10184,7 @@ https://infobuildenergia.it###IscrivitiBox
 https://katorishintoryu.it###POPUPS_ROOT
 https://evomagazine.it###RegSito
 https://comingsoon.it###TGCom24
+https://superguidatv.it###TGCom24HeaderBanner
 https://crescita-personale.it,cure-naturali.it###adv_on_footer
 https://tiendeo.it###alert-bar-footer
 https://gds.it###alert_container
@@ -10277,6 +10282,7 @@ https://edilportale.com##.article-right
 https://multiplayer.it##.article_nav
 https://tempi.it##.article_newls_box
 https://iltempo.it##.articoli_correlati
+https://globalist.it##.back
 https://agi.it##.banner-register
 https://agendadigitale.eu,corrierecomunicazioni.it,economyup.it,insuranceup.it##.bottom-bar__up
 https://guardaserie.watch##.bottom-button-top
@@ -10287,6 +10293,7 @@ https://liquiriziacalabrese.it##.btn-top
 https://pagamentidigitali.it##.btn_iscriviti
 https://lastampa.it##.call-iscrizione
 https://bmw.it,calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,filmatipornohd.com,kellergrigliati.it,maximitalia.it,mdspa.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
+https://sportitaliabet.it##.cg-top-arrow
 https://primaonline.it##.col-nl
 https://lastampa.it##.conferma_reg_nl
 https://ilfarmacistaonline.it##.containerBannerBox
@@ -11737,7 +11744,7 @@ https://centrometeolombardo.com###cc_div
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
 https://aeo.it,bookingaltoadige.com,chiesi.com,citroen-club.it,confidisystema.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,spesati.it,tecnocasa.it,wd40.it###cookie
-https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it,wind.it###cookies
+https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 https://majani.it###cs-banner
 https://netflixlovers.it###cs_container
 https://staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
@@ -11754,8 +11761,8 @@ https://legea.it###infobarDiv
 https://lostrillone.tv###informativa
 https://musicworks.it###infromativap
 https://vmmotori.it###ll_banner
+https://programmitv.it###mag
 https://marbaro.it###marbaro_cookielaw_banner
-https://grandecinema3.it###mask
 https://iit.it###messageContainer
 https://molgroupitaly.it###mgit_notification
 https://playme.it###msg-close
@@ -12184,6 +12191,7 @@ https://lexus.si##.disclaimer
 https://delo.si,deloindom.si,pogledi.si,polet.si,slovenskenovice.si##.notice
 https://lidl.si##.notification
 https://pacma.es###aceptacion_politicas
+https://electrocosto.com###bottom
 https://aristeguinoticias.com###comparte
 https://cifempleo.com,ferrovial.com,gaes.es,infodefensa.com,moviles.com,movistarriders.gg,pcbox.com,santalucia.es,tecnicasreunidas.es,vodafone.es###cookies
 https://ssangyong.es###eltexto
@@ -12220,6 +12228,7 @@ https://hofmann.es##.muuSm
 https://nomada.gt##.noma-privacy
 https://jaguar.es,landrover.es##.notificationBars
 https://arsys.es##.notifications
+https://chollometro.com##.softMessages-item
 https://contarcaracteres.com##.top-header
 https://in4.es##.uk-position-fixed
 https://recepedia.com##div[style^="position: fixed; top:"]
@@ -20528,6 +20537,7 @@ http://infobuildenergia.it###IscrivitiBox
 http://katorishintoryu.it###POPUPS_ROOT
 http://evomagazine.it###RegSito
 http://comingsoon.it###TGCom24
+http://superguidatv.it###TGCom24HeaderBanner
 http://crescita-personale.it,cure-naturali.it###adv_on_footer
 http://tiendeo.it###alert-bar-footer
 http://gds.it###alert_container
@@ -20625,6 +20635,7 @@ http://edilportale.com##.article-right
 http://multiplayer.it##.article_nav
 http://tempi.it##.article_newls_box
 http://iltempo.it##.articoli_correlati
+http://globalist.it##.back
 http://agi.it##.banner-register
 http://agendadigitale.eu,corrierecomunicazioni.it,economyup.it,insuranceup.it##.bottom-bar__up
 http://guardaserie.watch##.bottom-button-top
@@ -20635,6 +20646,7 @@ http://liquiriziacalabrese.it##.btn-top
 http://pagamentidigitali.it##.btn_iscriviti
 http://lastampa.it##.call-iscrizione
 http://bmw.it,calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,filmatipornohd.com,kellergrigliati.it,maximitalia.it,mdspa.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
+http://sportitaliabet.it##.cg-top-arrow
 http://primaonline.it##.col-nl
 http://lastampa.it##.conferma_reg_nl
 http://ilfarmacistaonline.it##.containerBannerBox
@@ -22086,7 +22098,7 @@ http://centrometeolombardo.com###cc_div
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
 http://aeo.it,bookingaltoadige.com,chiesi.com,citroen-club.it,confidisystema.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,spesati.it,tecnocasa.it,wd40.it###cookie
-http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it,wind.it###cookies
+http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 http://majani.it###cs-banner
 http://netflixlovers.it###cs_container
 http://staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
@@ -22103,8 +22115,8 @@ http://legea.it###infobarDiv
 http://lostrillone.tv###informativa
 http://musicworks.it###infromativap
 http://vmmotori.it###ll_banner
+http://programmitv.it###mag
 http://marbaro.it###marbaro_cookielaw_banner
-http://grandecinema3.it###mask
 http://iit.it###messageContainer
 http://molgroupitaly.it###mgit_notification
 http://playme.it###msg-close
@@ -22533,6 +22545,7 @@ http://lexus.si##.disclaimer
 http://delo.si,deloindom.si,pogledi.si,polet.si,slovenskenovice.si##.notice
 http://lidl.si##.notification
 http://pacma.es###aceptacion_politicas
+http://electrocosto.com###bottom
 http://aristeguinoticias.com###comparte
 http://cifempleo.com,ferrovial.com,gaes.es,infodefensa.com,moviles.com,movistarriders.gg,pcbox.com,santalucia.es,tecnicasreunidas.es,vodafone.es###cookies
 http://ssangyong.es###eltexto
@@ -22569,6 +22582,7 @@ http://hofmann.es##.muuSm
 http://nomada.gt##.noma-privacy
 http://jaguar.es,landrover.es##.notificationBars
 http://arsys.es##.notifications
+http://chollometro.com##.softMessages-item
 http://contarcaracteres.com##.top-header
 http://in4.es##.uk-position-fixed
 http://recepedia.com##div[style^="position: fixed; top:"]
