@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 49njR+W4A4pTLF+6ZO1jwg
-! Version: 202007060013
+! Checksum: nL91TVI/70/LMc38dn7/AQ
+! Version: 202007070013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3039,8 +3039,7 @@
 ||https://leju.com/abp/cmslead_new.v2.js
 ||https://leju.com/scripts/app/pc/indexlayer/v1/indexlayer.js
 ||https://leju.com^*=abs.processReqChange
-||https://lele36.com/p/640x150.
-||https://lele36.com/p/img/
+||https://lele36.com/p/*.gif
 ||https://lelekan.com/sp/fmt.js
 ||https://leleketang.com/dat/a/
 ||https://lenovo.com.cn/cms/2018-07-20/201807201014498251793.png
@@ -4781,6 +4780,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://qqvip.info/baidu
+||https://meituing.com/baidu
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5413,6 +5414,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://xn--4gqqc629gbju.com^
 ||http://0024aaaa.com^
 ||http://00880808.com^
 ||http://008844.cc^
@@ -10576,8 +10578,7 @@
 ||http://leju.com/abp/cmslead_new.v2.js
 ||http://leju.com/scripts/app/pc/indexlayer/v1/indexlayer.js
 ||http://leju.com^*=abs.processReqChange
-||http://lele36.com/p/640x150.
-||http://lele36.com/p/img/
+||http://lele36.com/p/*.gif
 ||http://lelekan.com/sp/fmt.js
 ||http://leleketang.com/dat/a/
 ||http://lenovo.com.cn/cms/2018-07-20/201807201014498251793.png
@@ -12496,6 +12497,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://qqvip.info/baidu
+||http://meituing.com/baidu
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -15716,6 +15719,8 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://wnacg.com,wnacg.org##A[href*="tyrantdb.com"]
+https://zhicheng.com##DIV[class^="all-"][style^="position:relative;width:50%;float:"]
 https://99syy1.com##DIV[class^="ps_"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
@@ -17321,10 +17326,9 @@ https://sina.com.cn##.ad_01_right
 https://ifeng.com##.ad_04
 https://ifeng.com##.ad_09
 https://szonline.net##.ad_1000_90
-https://ifeng.com,nnnews.net##.ad_12
+https://ifeng.com##.ad_12
 https://51wangdai.com##.ad_123_AD
 https://jurong.cn##.ad_190_60_5s
-https://nnnews.net##.ad_24
 https://1688.com.au##.ad_300_p
 https://eol.cn##.ad_490
 https://ttys5.com##.ad_580
@@ -20432,7 +20436,6 @@ https://szhk.com##img[id^="adp"]
 https://jspoo.com##img[id^="float_img_"]
 https://nicemoe11.com##img[src*=".sinaimg."][style="width:100%;margin-top:0px;"]
 https://bccn.net##img[src*="data:"]
-https://18comic.org,18comic.vip##img[style*="300px"]
 https://jiangjunzy.com##img[style="height:75px;width: 100%"]
 https://btring.com##img[style="width: 25%"]
 https://tcfzb.com##img[style="width:1180px;height:60px;margin-top:3px;border:1px solid #CDCDCD;"]
@@ -20743,6 +20746,7 @@ https://17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 https://17ce.com##tr[id^="tr"] > td > a[href^="http"]
 https://18comic.org,18comic.vip##a[href^="http"]:not([href*="18comic."]) > img
 https://18comic.org,18comic.vip##div[style^="position: fixed; top:"]
+https://18comic.org,18comic.vip##img[style*="300px"]
 https://7255.com###J_search_bd > div:last-child
 https://7255.com###right > div:first-child
 https://7255.com##.act-search-tab
@@ -21801,6 +21805,8 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://wnacg.com,wnacg.org##A[href*="tyrantdb.com"]
+http://zhicheng.com##DIV[class^="all-"][style^="position:relative;width:50%;float:"]
 http://99syy1.com##DIV[class^="ps_"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
@@ -23406,10 +23412,9 @@ http://sina.com.cn##.ad_01_right
 http://ifeng.com##.ad_04
 http://ifeng.com##.ad_09
 http://szonline.net##.ad_1000_90
-http://ifeng.com,nnnews.net##.ad_12
+http://ifeng.com##.ad_12
 http://51wangdai.com##.ad_123_AD
 http://jurong.cn##.ad_190_60_5s
-http://nnnews.net##.ad_24
 http://1688.com.au##.ad_300_p
 http://eol.cn##.ad_490
 http://ttys5.com##.ad_580
@@ -26517,7 +26522,6 @@ http://szhk.com##img[id^="adp"]
 http://jspoo.com##img[id^="float_img_"]
 http://nicemoe11.com##img[src*=".sinaimg."][style="width:100%;margin-top:0px;"]
 http://bccn.net##img[src*="data:"]
-http://18comic.org,18comic.vip##img[style*="300px"]
 http://jiangjunzy.com##img[style="height:75px;width: 100%"]
 http://btring.com##img[style="width: 25%"]
 http://tcfzb.com##img[style="width:1180px;height:60px;margin-top:3px;border:1px solid #CDCDCD;"]
@@ -26828,6 +26832,7 @@ http://17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 http://17ce.com##tr[id^="tr"] > td > a[href^="http"]
 http://18comic.org,18comic.vip##a[href^="http"]:not([href*="18comic."]) > img
 http://18comic.org,18comic.vip##div[style^="position: fixed; top:"]
+http://18comic.org,18comic.vip##img[style*="300px"]
 http://7255.com###J_search_bd > div:last-child
 http://7255.com###right > div:first-child
 http://7255.com##.act-search-tab

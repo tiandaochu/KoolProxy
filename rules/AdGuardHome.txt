@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20200701130920
-!TOTAL_LINES=35250
+!VER=20200706052121
+!TOTAL_LINES=35249
 address=/00-gov.cn/
 address=/kwcdn.000dn.com/
 address=/kwcscdn.000dn.com/
@@ -18171,7 +18171,6 @@ address=/liveprivates.com/
 address=/livepromotools.com/
 address=/liverail.com/
 address=/ad.livere.co.kr/
-address=/livere.com/
 address=/liversely.net/
 address=/ttauri.livescience.com/
 address=/livesegmentservice.com/
