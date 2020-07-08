@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dMAKj0P9GlSwH2wI+25Y6g
-! Version: 202007062351
+! Checksum: fxBphxRfaOIhBpIbXrMM+g
+! Version: 202007072351
 ! Title: Fanboy's Annoyance List
-! Last modified: 06 Jul 2020 23:51 UTC
+! Last modified: 07 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -443,6 +443,7 @@
 ||https://feedify.net^$third-party
 ||https://feraciumus.com^$third-party
 ||https://fernomius.com^$third-party
+||https://fkondate.com^$third-party
 ||https://fortpush.com^$third-party
 ||https://foxpush.com^$third-party
 ||https://foxpush.net^$third-party
@@ -1779,6 +1780,7 @@
 ||http://feedify.net^$third-party
 ||http://feraciumus.com^$third-party
 ||http://fernomius.com^$third-party
+||http://fkondate.com^$third-party
 ||http://fortpush.com^$third-party
 ||http://foxpush.com^$third-party
 ||http://foxpush.net^$third-party
@@ -6181,6 +6183,7 @@ https://hardware.info###newsletterForm
 https://newyorker.com###newsletter_form
 https://eweek.com,yesmagazine.org###newsletterform
 https://bleacherreport.com,macworld.com,myjewishlearning.com,pcworld.com,techhive.com,theatlantic.com###newsletters
+https://inkppl.com###newsmessage
 https://nhs.uk###nhsuk-feedback-banner
 https://bustedcoverage.com,coed.com###nl-container
 https://qz.com###nl-form
@@ -7170,7 +7173,7 @@ https://worldstream.nl##.sticky-content
 https://brecorder.com##.subhtop
 https://galicianfilmforum.gal,openid.net##.tc-btt-wrapper
 https://tudorwatch.com##.tdr-footer__block-c
-https://abc.net.au,bostonherald.com,chron.com,dailysignal.com,foxnews.com,freeviewnz.tv,germany.travel,haier.com,indianewsmax.com,sampsonhart.com,seattlepi.com,sfgate.com,sivtimes.com,strategic-culture.org,taipeitimes.com,thefappening.wiki,timesunion.com##.top
+https://abc.net.au,bostonherald.com,chron.com,dailysignal.com,foxnews.com,freeviewnz.tv,germany.travel,haier.com,indianewsmax.com,sampsonhart.com,seattlepi.com,sfgate.com,sivtimes.com,strategic-culture.org,taipeitimes.com,thefappening.wiki,timesunion.com,visitnsw.com##.top
 https://wbal.com##.top-link
 https://c123movies.com##.top-page
 https://canadianbusiness.com,fstoppers.com##.top-scroll
@@ -16533,6 +16536,7 @@ http://hardware.info###newsletterForm
 http://newyorker.com###newsletter_form
 http://eweek.com,yesmagazine.org###newsletterform
 http://bleacherreport.com,macworld.com,myjewishlearning.com,pcworld.com,techhive.com,theatlantic.com###newsletters
+http://inkppl.com###newsmessage
 http://nhs.uk###nhsuk-feedback-banner
 http://bustedcoverage.com,coed.com###nl-container
 http://qz.com###nl-form
@@ -17522,7 +17526,7 @@ http://worldstream.nl##.sticky-content
 http://brecorder.com##.subhtop
 http://galicianfilmforum.gal,openid.net##.tc-btt-wrapper
 http://tudorwatch.com##.tdr-footer__block-c
-http://abc.net.au,bostonherald.com,chron.com,dailysignal.com,foxnews.com,freeviewnz.tv,germany.travel,haier.com,indianewsmax.com,sampsonhart.com,seattlepi.com,sfgate.com,sivtimes.com,strategic-culture.org,taipeitimes.com,thefappening.wiki,timesunion.com##.top
+http://abc.net.au,bostonherald.com,chron.com,dailysignal.com,foxnews.com,freeviewnz.tv,germany.travel,haier.com,indianewsmax.com,sampsonhart.com,seattlepi.com,sfgate.com,sivtimes.com,strategic-culture.org,taipeitimes.com,thefappening.wiki,timesunion.com,visitnsw.com##.top
 http://wbal.com##.top-link
 http://c123movies.com##.top-page
 http://canadianbusiness.com,fstoppers.com##.top-scroll
