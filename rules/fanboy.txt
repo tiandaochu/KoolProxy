@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pxvjOpvuEl/g+En6A5ziaQ
-! Version: 202007122351
+! Checksum: 7qAvW9O563flWS7SPy0Sbg
+! Version: 202007132351
 ! Title: Fanboy's Annoyance List
-! Last modified: 12 Jul 2020 23:51 UTC
+! Last modified: 13 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -173,7 +173,6 @@
 ||https://internetdefenseleague.org^$third-party
 ||https://invite.linescale.com^$third-party
 ||https://izooto.com^$third-party
-||https://jeeng.com^$third-party
 ||https://jisbar.com^$third-party
 ||https://jobamatic.com^$third-party
 ||https://jobs.thejobnetwork.com^$third-party
@@ -412,30 +411,19 @@
 ||https://vrt.outbrain.com^$third-party
 ||https://widgets.outbrain.com^$third-party
 ||https://sendtonews.com/player/sidebar.php?$third-party
-||https://accengage.net^$third-party
-||https://aimtell.com^$third-party
-||https://alertme.news^$third-party
-||https://aswpsdkus.com^$third-party
-||https://basepush.com^$third-party
 ||https://bildirnet.com^$third-party
 ||https://braze.com^$third-party
-||https://browserpusher.com^$third-party
 ||https://centrnotify.com^$third-party
-||https://chaghets.net^$third-party
 ||https://checkpost.club^$third-party
 ||https://conforama-push.com^$third-party
 ||https://contentsitesrv.com/js/push/$third-party
-||https://cracataum.com^$third-party
 ||https://danorenius.com^$third-party
 ||https://easyfeeed.com^$third-party
 ||https://edrone.me^$third-party
 ||https://farteniuson.com^$third-party
 ||https://feedify.net^$third-party
 ||https://fernomius.com^$third-party
-||https://foxpush.com^$third-party
-||https://foxpush.net^$third-party
 ||https://getback.ch^$third-party
-||https://heroesdom.com^$third-party
 ||https://hitplus.net^$third-party
 ||https://ichecknotifyfriends.info^$third-party
 ||https://iopushtech.com^$third-party
@@ -448,9 +436,7 @@
 ||https://ntvsw.com^$third-party
 ||https://partishion.com^$third-party
 ||https://pathlime.com^$third-party
-||https://propu.sh^$third-party
 ||https://propush.net^$third-party
-||https://psh.one^$third-party
 ||https://puscomosca.com^$third-party
 ||https://push-centr.com^$third-party
 ||https://push-centr.net^$third-party
@@ -519,38 +505,53 @@
 ||https://worldpush.co^$third-party
 ||https://wpush.biz^$third-party
 ||https://wwclicknews.club^$third-party
-||https://xtremepush.com^$third-party
+||https://accengage.net^$third-party
 ||https://actirinius.com^$third-party
+||https://aimtell.com^$third-party
+||https://alertme.news^$third-party
+||https://amazonaws.com/cdn.aimtell.com/
+||https://aswpsdkus.com^$third-party
 ||https://bildirt.com^$third-party
 ||https://bosspush.com^$third-party
+||https://browserpusher.com^$third-party
 ||https://cdn-sitegainer.com^$third-party
 ||https://centrpush.com^$third-party
 ||https://cleverpush.com^$third-party
 ||https://copush.com^$third-party
+||https://cracataum.com^$third-party
 ||https://digitalpush.org^$third-party
 ||https://feraciumus.com^$third-party
 ||https://fkondate.com^$third-party
+||https://foxpush.com^$third-party
+||https://foxpush.net^$third-party
 ||https://getpushmonkey.com^$third-party
 ||https://getsupernova.com^$third-party
 ||https://gravitec.net^$third-party
+||https://heroesdom.com^$third-party
+||https://jeeng.com^$third-party
 ||https://kattepush.com^$third-party
 ||https://master-push.com^$third-party
 ||https://master-push.net^$third-party
+||https://misrepush.com^$third-party
 ||https://moengage.com^$third-party
 ||https://nativesubscribe.pro^$third-party
 ||https://notifadz.com^$third-party
 ||https://notifpush.com^$third-party
+||https://notify.solutions^$third-party
 ||https://olgtex.com^$third-party
 ||https://on-push.com^$third-party
 ||https://onesignal.com^$third-party
 ||https://provesrc.com^$third-party
+||https://psh.one^$third-party
 ||https://push-ad.com^$third-party
 ||https://push-house.net^$third-party
 ||https://pushalert.co^$third-party
 ||https://pushengage.com^$third-party
 ||https://reprocautious.com^$third-party
+||https://snd.tc^$third-party
 ||https://truepush.com^$third-party
 ||https://viapush.com^$third-party
+||https://xtremepush.com^$third-party
 ||https://mobi24.net^$third-party
 ||https://addnow.com^$third-party
 ||https://addthis.com^$third-party
@@ -1509,7 +1510,6 @@
 ||http://internetdefenseleague.org^$third-party
 ||http://invite.linescale.com^$third-party
 ||http://izooto.com^$third-party
-||http://jeeng.com^$third-party
 ||http://jisbar.com^$third-party
 ||http://jobamatic.com^$third-party
 ||http://jobs.thejobnetwork.com^$third-party
@@ -1751,20 +1751,12 @@
 ||http://vrt.outbrain.com^$third-party
 ||http://widgets.outbrain.com^$third-party
 ||http://sendtonews.com/player/sidebar.php?$third-party
-||http://accengage.net^$third-party
-||http://aimtell.com^$third-party
-||http://alertme.news^$third-party
-||http://aswpsdkus.com^$third-party
-||http://basepush.com^$third-party
 ||http://bildirnet.com^$third-party
 ||http://braze.com^$third-party
-||http://browserpusher.com^$third-party
 ||http://centrnotify.com^$third-party
-||http://chaghets.net^$third-party
 ||http://checkpost.club^$third-party
 ||http://conforama-push.com^$third-party
 ||http://contentsitesrv.com/js/push/$third-party
-||http://cracataum.com^$third-party
 ||http://d2r1yp2w7bby2u.cloudfront.net^
 ||http://danorenius.com^$third-party
 ||http://easyfeeed.com^$third-party
@@ -1772,10 +1764,7 @@
 ||http://farteniuson.com^$third-party
 ||http://feedify.net^$third-party
 ||http://fernomius.com^$third-party
-||http://foxpush.com^$third-party
-||http://foxpush.net^$third-party
 ||http://getback.ch^$third-party
-||http://heroesdom.com^$third-party
 ||http://hitplus.net^$third-party
 ||http://ichecknotifyfriends.info^$third-party
 ||http://iopushtech.com^$third-party
@@ -1789,9 +1778,7 @@
 ||http://ntvsw.com^$third-party
 ||http://partishion.com^$third-party
 ||http://pathlime.com^$third-party
-||http://propu.sh^$third-party
 ||http://propush.net^$third-party
-||http://psh.one^$third-party
 ||http://puscomosca.com^$third-party
 ||http://push-centr.com^$third-party
 ||http://push-centr.net^$third-party
@@ -1861,38 +1848,53 @@
 ||http://worldpush.co^$third-party
 ||http://wpush.biz^$third-party
 ||http://wwclicknews.club^$third-party
-||http://xtremepush.com^$third-party
+||http://accengage.net^$third-party
 ||http://actirinius.com^$third-party
+||http://aimtell.com^$third-party
+||http://alertme.news^$third-party
+||http://amazonaws.com/cdn.aimtell.com/
+||http://aswpsdkus.com^$third-party
 ||http://bildirt.com^$third-party
 ||http://bosspush.com^$third-party
+||http://browserpusher.com^$third-party
 ||http://cdn-sitegainer.com^$third-party
 ||http://centrpush.com^$third-party
 ||http://cleverpush.com^$third-party
 ||http://copush.com^$third-party
+||http://cracataum.com^$third-party
 ||http://digitalpush.org^$third-party
 ||http://feraciumus.com^$third-party
 ||http://fkondate.com^$third-party
+||http://foxpush.com^$third-party
+||http://foxpush.net^$third-party
 ||http://getpushmonkey.com^$third-party
 ||http://getsupernova.com^$third-party
 ||http://gravitec.net^$third-party
+||http://heroesdom.com^$third-party
+||http://jeeng.com^$third-party
 ||http://kattepush.com^$third-party
 ||http://master-push.com^$third-party
 ||http://master-push.net^$third-party
+||http://misrepush.com^$third-party
 ||http://moengage.com^$third-party
 ||http://nativesubscribe.pro^$third-party
 ||http://notifadz.com^$third-party
 ||http://notifpush.com^$third-party
+||http://notify.solutions^$third-party
 ||http://olgtex.com^$third-party
 ||http://on-push.com^$third-party
 ||http://onesignal.com^$third-party
 ||http://provesrc.com^$third-party
+||http://psh.one^$third-party
 ||http://push-ad.com^$third-party
 ||http://push-house.net^$third-party
 ||http://pushalert.co^$third-party
 ||http://pushengage.com^$third-party
 ||http://reprocautious.com^$third-party
+||http://snd.tc^$third-party
 ||http://truepush.com^$third-party
 ||http://viapush.com^$third-party
+||http://xtremepush.com^$third-party
 ||http://mobi24.net^$third-party
 ||http://addnow.com^$third-party
 ||http://addthis.com^$third-party
@@ -6782,6 +6784,7 @@ https://techvibes.com##.pre-footer
 https://kob.com,redstate.com,thegrio.com##.preloaded_lightbox
 https://smashingmagazine.com##.product-panel--book
 https://theconversation.com##.promo
+https://whyy.org##.promo-block
 https://jamf.com##.promo-box
 https://eonline.com##.promo_dialog
 https://propublica.org##.promotion
@@ -7586,7 +7589,7 @@ https://prlog.org###smx
 https://prlog.org###smx2
 https://worldreview.info###sn
 https://play-asia.com###soc
-https://amartus.com,amazinglytimedphotos.com,androidzoom.com,ask.com,barneys.com,beefjack.com,bitcoinblackfriday.com,bubblews.com,businessinsider.com,businessinsider.com.au,chnetwork.org,classicreload.com,cmt.com,cnalicense.org,consumerist.com,distance-calculator.co.uk,dogandponyshowwebsite.com,donnahay.com.au,ekathimerini.com,electrictoolbox.com,g2a.com,gamingonlinux.com,gamrreview.com,geekosystem.com,giantfreakinrobot.com,gizmodo.com.au,globes.co.il,goutsa.com,haydenplanetarium.org,hccs.edu,highlandcapital.com,hollywire.com,hostcabi.net,hotscripts.com,humorhub.org,humourtube.org,imgur.com,ini.tv,inkscape.org,joburg.org.za,justrewards.co.za,kinguin.net,kotaku.com.au,latimes.com,lawyersweekly.com.au,legitreviews.com,lifehacker.com.au,mail.opera.com,makeuseof.com,mayoclinic.com,meteoblue.com,meteovista.co.uk,meteovista.com,mtv.com,musicfeeds.com.au,namecheap.com,nzmusicmonth.co.nz,onlineeducation.net,openculture.com,penny-arcade.com,pixiq.com,play-asia.com,presidenthotel.co.za,producersguild.org,radiovaticana.va,ratemyprofessors.com,ryot.org,sfchamber.com,skift.com,smhlmao.com,stileproject.com,stoppress.co.nz,swapit.co.uk,systemrequirementslab.com,talkingpointsmemo.com,tesco.com,the-diplomat.com,theedge.co.nz,theepochtimes.com,theparisreview.org,thepiratebay.org,theroar.com.au,ucl.ac.uk,vimeopro.com,virginactive.co.uk,virginactive.co.za,washingtonblade.com,waterfoxproject.org,wbs-law.de,webglearth.com,whatpeoplesayonline.com,whimn.com.au,whtop.com,wired.com,xda-developers.com###social
+https://amartus.com,amazinglytimedphotos.com,androidzoom.com,ask.com,barneys.com,beefjack.com,bitcoinblackfriday.com,bubblews.com,businessinsider.com,businessinsider.com.au,chnetwork.org,classicreload.com,cmt.com,cnalicense.org,consumerist.com,distance-calculator.co.uk,dogandponyshowwebsite.com,donnahay.com.au,ekathimerini.com,electrictoolbox.com,g2a.com,gamingonlinux.com,gamrreview.com,geekosystem.com,giantfreakinrobot.com,gizmodo.com.au,globes.co.il,goutsa.com,haydenplanetarium.org,hccs.edu,highlandcapital.com,hollywire.com,hostcabi.net,hotscripts.com,humorhub.org,humourtube.org,imgur.com,ini.tv,inkscape.org,joburg.org.za,justrewards.co.za,kinguin.net,kotaku.com.au,latimes.com,lawyersweekly.com.au,legitreviews.com,lifehacker.com.au,mail.opera.com,makeuseof.com,mayoclinic.com,meteoblue.com,meteovista.co.uk,meteovista.com,mtv.com,musicfeeds.com.au,namecheap.com,nzmusicmonth.co.nz,onlineeducation.net,openculture.com,penny-arcade.com,phoronix.com,pixiq.com,play-asia.com,presidenthotel.co.za,producersguild.org,radiovaticana.va,ratemyprofessors.com,ryot.org,sfchamber.com,skift.com,smhlmao.com,stileproject.com,stoppress.co.nz,swapit.co.uk,systemrequirementslab.com,talkingpointsmemo.com,tesco.com,the-diplomat.com,theedge.co.nz,theepochtimes.com,theparisreview.org,thepiratebay.org,theroar.com.au,ucl.ac.uk,vimeopro.com,virginactive.co.uk,virginactive.co.za,washingtonblade.com,waterfoxproject.org,wbs-law.de,webglearth.com,whatpeoplesayonline.com,whimn.com.au,whtop.com,wired.com,xda-developers.com###social
 https://christianpost.com###social-apps
 https://animenewsnetwork.com###social-bookmarks
 https://cafemom.com###social-comment
@@ -12932,7 +12935,7 @@ https://power.fi#@##cookie-notification
 https://danbolig.dk#@##cookie-overlay
 https://patient.info#@##cookie-policy
 https://flybe.com#@##cookie-policy-modal
-https://bk.com#@##cookie-popup
+https://bk.com,burgerking.co.nz###cookie-popup:not(html):not(body)
 https://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-wrapper
 https://ad.win.nl,dehn.de,techopital.com#@##cookieConsent
 https://ad.win.nl#@##cookieConsentBox
@@ -17159,6 +17162,7 @@ http://techvibes.com##.pre-footer
 http://kob.com,redstate.com,thegrio.com##.preloaded_lightbox
 http://smashingmagazine.com##.product-panel--book
 http://theconversation.com##.promo
+http://whyy.org##.promo-block
 http://jamf.com##.promo-box
 http://eonline.com##.promo_dialog
 http://propublica.org##.promotion
@@ -17963,7 +17967,7 @@ http://prlog.org###smx
 http://prlog.org###smx2
 http://worldreview.info###sn
 http://play-asia.com###soc
-http://amartus.com,amazinglytimedphotos.com,androidzoom.com,ask.com,barneys.com,beefjack.com,bitcoinblackfriday.com,bubblews.com,businessinsider.com,businessinsider.com.au,chnetwork.org,classicreload.com,cmt.com,cnalicense.org,consumerist.com,distance-calculator.co.uk,dogandponyshowwebsite.com,donnahay.com.au,ekathimerini.com,electrictoolbox.com,g2a.com,gamingonlinux.com,gamrreview.com,geekosystem.com,giantfreakinrobot.com,gizmodo.com.au,globes.co.il,goutsa.com,haydenplanetarium.org,hccs.edu,highlandcapital.com,hollywire.com,hostcabi.net,hotscripts.com,humorhub.org,humourtube.org,imgur.com,ini.tv,inkscape.org,joburg.org.za,justrewards.co.za,kinguin.net,kotaku.com.au,latimes.com,lawyersweekly.com.au,legitreviews.com,lifehacker.com.au,mail.opera.com,makeuseof.com,mayoclinic.com,meteoblue.com,meteovista.co.uk,meteovista.com,mtv.com,musicfeeds.com.au,namecheap.com,nzmusicmonth.co.nz,onlineeducation.net,openculture.com,penny-arcade.com,pixiq.com,play-asia.com,presidenthotel.co.za,producersguild.org,radiovaticana.va,ratemyprofessors.com,ryot.org,sfchamber.com,skift.com,smhlmao.com,stileproject.com,stoppress.co.nz,swapit.co.uk,systemrequirementslab.com,talkingpointsmemo.com,tesco.com,the-diplomat.com,theedge.co.nz,theepochtimes.com,theparisreview.org,thepiratebay.org,theroar.com.au,ucl.ac.uk,vimeopro.com,virginactive.co.uk,virginactive.co.za,washingtonblade.com,waterfoxproject.org,wbs-law.de,webglearth.com,whatpeoplesayonline.com,whimn.com.au,whtop.com,wired.com,xda-developers.com###social
+http://amartus.com,amazinglytimedphotos.com,androidzoom.com,ask.com,barneys.com,beefjack.com,bitcoinblackfriday.com,bubblews.com,businessinsider.com,businessinsider.com.au,chnetwork.org,classicreload.com,cmt.com,cnalicense.org,consumerist.com,distance-calculator.co.uk,dogandponyshowwebsite.com,donnahay.com.au,ekathimerini.com,electrictoolbox.com,g2a.com,gamingonlinux.com,gamrreview.com,geekosystem.com,giantfreakinrobot.com,gizmodo.com.au,globes.co.il,goutsa.com,haydenplanetarium.org,hccs.edu,highlandcapital.com,hollywire.com,hostcabi.net,hotscripts.com,humorhub.org,humourtube.org,imgur.com,ini.tv,inkscape.org,joburg.org.za,justrewards.co.za,kinguin.net,kotaku.com.au,latimes.com,lawyersweekly.com.au,legitreviews.com,lifehacker.com.au,mail.opera.com,makeuseof.com,mayoclinic.com,meteoblue.com,meteovista.co.uk,meteovista.com,mtv.com,musicfeeds.com.au,namecheap.com,nzmusicmonth.co.nz,onlineeducation.net,openculture.com,penny-arcade.com,phoronix.com,pixiq.com,play-asia.com,presidenthotel.co.za,producersguild.org,radiovaticana.va,ratemyprofessors.com,ryot.org,sfchamber.com,skift.com,smhlmao.com,stileproject.com,stoppress.co.nz,swapit.co.uk,systemrequirementslab.com,talkingpointsmemo.com,tesco.com,the-diplomat.com,theedge.co.nz,theepochtimes.com,theparisreview.org,thepiratebay.org,theroar.com.au,ucl.ac.uk,vimeopro.com,virginactive.co.uk,virginactive.co.za,washingtonblade.com,waterfoxproject.org,wbs-law.de,webglearth.com,whatpeoplesayonline.com,whimn.com.au,whtop.com,wired.com,xda-developers.com###social
 http://christianpost.com###social-apps
 http://animenewsnetwork.com###social-bookmarks
 http://cafemom.com###social-comment
@@ -23311,7 +23315,7 @@ http://power.fi#@##cookie-notification
 http://danbolig.dk#@##cookie-overlay
 http://patient.info#@##cookie-policy
 http://flybe.com#@##cookie-policy-modal
-http://bk.com#@##cookie-popup
+http://bk.com,burgerking.co.nz###cookie-popup:not(html):not(body)
 http://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-wrapper
 http://ad.win.nl,dehn.de,techopital.com#@##cookieConsent
 http://ad.win.nl#@##cookieConsentBox
