@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lPTdrAlGBuilfz7Rcf4VMQ
-! Version: 202007142351
+! Checksum: jSYOoSNMm81S/vuESQVn+w
+! Version: 202007152351
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Jul 2020 23:51 UTC
+! Last modified: 15 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4676,6 +4676,7 @@ https://harvard.edu##.daily-gazette
 https://good.is##.daily-good
 https://republicreport.org##.daily-updates
 https://dane101.com##.dane101Feeds
+https://rdocumentation.org##.dc-footer
 https://ebay.com##.dd-hero-share
 https://duckduckgo.com##.ddg-extension-hide
 https://pcworld.com##.dealpost-mod
@@ -6800,6 +6801,7 @@ https://qz.com##.quartz.context-default
 https://tmz.com##.quick-subscribe-form
 https://engadget.com##.rail-followus
 https://allure.com##.railNLUnit
+https://theinformation.com##.read-this-article-banner-container
 https://bonappetit.com##.recipe__signup__form
 https://merriam-webster.com##.recirc-card
 https://forward.com##.recommend-box
@@ -12759,7 +12761,7 @@ https://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,g
 https://bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 https://buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 https://chess.com#@#.social-btns
-https://disqus.com,fastcompany.com,golem.de,nu.nl#@#.social-button
+https://4shared.com,disqus.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 https://adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
 https://pioneer-iot.com,workroom-myata.ru#@#.social-circle
 https://cheezburger.com,epicgames.com#@#.social-container
@@ -15059,6 +15061,7 @@ http://harvard.edu##.daily-gazette
 http://good.is##.daily-good
 http://republicreport.org##.daily-updates
 http://dane101.com##.dane101Feeds
+http://rdocumentation.org##.dc-footer
 http://ebay.com##.dd-hero-share
 http://duckduckgo.com##.ddg-extension-hide
 http://pcworld.com##.dealpost-mod
@@ -17183,6 +17186,7 @@ http://qz.com##.quartz.context-default
 http://tmz.com##.quick-subscribe-form
 http://engadget.com##.rail-followus
 http://allure.com##.railNLUnit
+http://theinformation.com##.read-this-article-banner-container
 http://bonappetit.com##.recipe__signup__form
 http://merriam-webster.com##.recirc-card
 http://forward.com##.recommend-box
@@ -23144,7 +23148,7 @@ http://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,ga
 http://bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 http://buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 http://chess.com#@#.social-btns
-http://disqus.com,fastcompany.com,golem.de,nu.nl#@#.social-button
+http://4shared.com,disqus.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 http://adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
 http://pioneer-iot.com,workroom-myata.ru#@#.social-circle
 http://cheezburger.com,epicgames.com#@#.social-container
