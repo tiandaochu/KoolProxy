@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jSYOoSNMm81S/vuESQVn+w
-! Version: 202007152351
+! Checksum: 8JBxLSpS57fdFabzdMs/Tw
+! Version: 202007162351
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Jul 2020 23:51 UTC
+! Last modified: 16 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -84,6 +84,7 @@
 ||https://content-recommendation.net^$third-party
 ||https://contentexchange.me^$third-party
 ||https://contextly.com^$third-party
+||https://convertflow.co^$third-party
 ||https://convertsocial.com^$third-party
 ||https://ctctcdn.com/js/signup-form-widget/$third-party
 ||https://curiyo.com^$third-party
@@ -417,20 +418,16 @@
 ||https://checkpost.club^$third-party
 ||https://conforama-push.com^$third-party
 ||https://contentsitesrv.com/js/push/$third-party
-||https://danorenius.com^$third-party
 ||https://easyfeeed.com^$third-party
-||https://edrone.me^$third-party
 ||https://farteniuson.com^$third-party
 ||https://feedify.net^$third-party
 ||https://fernomius.com^$third-party
-||https://getback.ch^$third-party
 ||https://hitplus.net^$third-party
 ||https://ichecknotifyfriends.info^$third-party
 ||https://iopushtech.com^$third-party
 ||https://irpush.com^$third-party
 ||https://jubi.ai/buttonbot/$script,third-party
 ||https://luravius.com^$third-party
-||https://najva.com^$third-party
 ||https://news2day.me^$third-party
 ||https://notification-time.com^$third-party
 ||https://ntvsw.com^$third-party
@@ -519,11 +516,14 @@
 ||https://cleverpush.com^$third-party
 ||https://copush.com^$third-party
 ||https://cracataum.com^$third-party
+||https://danorenius.com^$third-party
 ||https://digitalpush.org^$third-party
+||https://edrone.me^$third-party
 ||https://feraciumus.com^$third-party
 ||https://fkondate.com^$third-party
 ||https://foxpush.com^$third-party
 ||https://foxpush.net^$third-party
+||https://getback.ch^$third-party
 ||https://getpushmonkey.com^$third-party
 ||https://getsupernova.com^$third-party
 ||https://gravitec.net^$third-party
@@ -534,6 +534,7 @@
 ||https://master-push.net^$third-party
 ||https://misrepush.com^$third-party
 ||https://moengage.com^$third-party
+||https://najva.com^$third-party
 ||https://nativesubscribe.pro^$third-party
 ||https://notifadz.com^$third-party
 ||https://notifpush.com^$third-party
@@ -1416,6 +1417,7 @@
 ||http://content-recommendation.net^$third-party
 ||http://contentexchange.me^$third-party
 ||http://contextly.com^$third-party
+||http://convertflow.co^$third-party
 ||http://convertsocial.com^$third-party
 ||http://ctctcdn.com/js/signup-form-widget/$third-party
 ||http://curiyo.com^$third-party
@@ -1758,20 +1760,16 @@
 ||http://conforama-push.com^$third-party
 ||http://contentsitesrv.com/js/push/$third-party
 ||http://d2r1yp2w7bby2u.cloudfront.net^
-||http://danorenius.com^$third-party
 ||http://easyfeeed.com^$third-party
-||http://edrone.me^$third-party
 ||http://farteniuson.com^$third-party
 ||http://feedify.net^$third-party
 ||http://fernomius.com^$third-party
-||http://getback.ch^$third-party
 ||http://hitplus.net^$third-party
 ||http://ichecknotifyfriends.info^$third-party
 ||http://iopushtech.com^$third-party
 ||http://irpush.com^$third-party
 ||http://jubi.ai/buttonbot/$script,third-party
 ||http://luravius.com^$third-party
-||http://najva.com^$third-party
 ||http://news2day.me^$third-party
 ||http://notification-time.com^$third-party
 ||http://notification.tubecup.net^
@@ -1862,11 +1860,14 @@
 ||http://cleverpush.com^$third-party
 ||http://copush.com^$third-party
 ||http://cracataum.com^$third-party
+||http://danorenius.com^$third-party
 ||http://digitalpush.org^$third-party
+||http://edrone.me^$third-party
 ||http://feraciumus.com^$third-party
 ||http://fkondate.com^$third-party
 ||http://foxpush.com^$third-party
 ||http://foxpush.net^$third-party
+||http://getback.ch^$third-party
 ||http://getpushmonkey.com^$third-party
 ||http://getsupernova.com^$third-party
 ||http://gravitec.net^$third-party
@@ -1877,6 +1878,7 @@
 ||http://master-push.net^$third-party
 ||http://misrepush.com^$third-party
 ||http://moengage.com^$third-party
+||http://najva.com^$third-party
 ||http://nativesubscribe.pro^$third-party
 ||http://notifadz.com^$third-party
 ||http://notifpush.com^$third-party
