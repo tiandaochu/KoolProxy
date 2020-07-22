@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: l9ns7SOdETtaw3OySjnNMQ
-! Version: 202007202351
+! Checksum: 6KReJtcHbGwTKWCMFpZ8uA
+! Version: 202007212351
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Jul 2020 23:51 UTC
+! Last modified: 21 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7809,7 +7809,7 @@ https://care2.com##.care2_side_float
 https://inquirer.net##.cct-socmed
 https://cambridge.org##.cdo-hdr__soc
 https://wsws.org##.censorship
-https://climate.nasa.gov##.chertools_floater
+https://nasa.gov##.chertools_floater
 https://progressive.org##.chicklets
 https://cheezburger.com##.chz-social
 https://omny.fm##.clip-share
@@ -11139,6 +11139,7 @@ https://cadenaser.com##.modulo_compartir
 https://de10.com.mx##.pane-rate-widgetk
 https://crea-mexico.com,futbol.com.uy,marca.com,montevideo.com.uy,mvsnoticias.com,pantallazo.com.uy,telesurtv.net##.redes
 https://cadenaser.com##.rrss
+https://aurora-israel.co.il##.rrss-link
 https://autoline-market.cl,autoline.bo,autoline.com.py,autoline.es,autoline.pe,clarin.com,elperiodico.cat,elperiodico.com,gettyimages.es,hispantv.com,lagranepoca.com,landrover.es,viveusa.mx##.share
 https://tn.com.ar##.shares
 https://20minutos.es,clarin.com,diarioti.com,estrellatv.com,europages.es,europapress.es,informador.mx,paginasamarillas.es,publico.es,todomercadoweb.es##.social
@@ -12358,7 +12359,6 @@ https://landrover.ua##.notificationBars
 https://ua-football.com##.policy-mes
 https://kinoafisha.ua##.privacy-modal
 https://infiniti-vietnam.com.vn##.c_128
-https://360.cymru##.hero
 https://nasa.gov#@##BackToTop
 https://billabong.com#@##NewsletterSignup
 https://autotrader.com,brydge.com,liputan6.com#@##back-to-top
@@ -18210,7 +18210,7 @@ http://care2.com##.care2_side_float
 http://inquirer.net##.cct-socmed
 http://cambridge.org##.cdo-hdr__soc
 http://wsws.org##.censorship
-http://climate.nasa.gov##.chertools_floater
+http://nasa.gov##.chertools_floater
 http://progressive.org##.chicklets
 http://cheezburger.com##.chz-social
 http://omny.fm##.clip-share
@@ -21542,6 +21542,7 @@ http://cadenaser.com##.modulo_compartir
 http://de10.com.mx##.pane-rate-widgetk
 http://crea-mexico.com,futbol.com.uy,marca.com,montevideo.com.uy,mvsnoticias.com,pantallazo.com.uy,telesurtv.net##.redes
 http://cadenaser.com##.rrss
+http://aurora-israel.co.il##.rrss-link
 http://autoline-market.cl,autoline.bo,autoline.com.py,autoline.es,autoline.pe,clarin.com,elperiodico.cat,elperiodico.com,gettyimages.es,hispantv.com,lagranepoca.com,landrover.es,viveusa.mx##.share
 http://tn.com.ar##.shares
 http://20minutos.es,clarin.com,diarioti.com,estrellatv.com,europages.es,europapress.es,informador.mx,paginasamarillas.es,publico.es,todomercadoweb.es##.social
@@ -22761,7 +22762,6 @@ http://landrover.ua##.notificationBars
 http://ua-football.com##.policy-mes
 http://kinoafisha.ua##.privacy-modal
 http://infiniti-vietnam.com.vn##.c_128
-http://360.cymru##.hero
 http://nasa.gov#@##BackToTop
 http://billabong.com#@##NewsletterSignup
 http://autotrader.com,brydge.com,liputan6.com#@##back-to-top
