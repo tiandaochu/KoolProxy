@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6KReJtcHbGwTKWCMFpZ8uA
-! Version: 202007212351
+! Checksum: KYlWdfHRLF12x9M9EE4TyQ
+! Version: 202007222352
 ! Title: Fanboy's Annoyance List
-! Last modified: 21 Jul 2020 23:51 UTC
+! Last modified: 22 Jul 2020 23:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7298,8 +7298,10 @@ https://cbsnews.com,yelp.com###smart-banner
 https://dailymail.co.uk,m.jpost.com###smartBanner
 https://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
 https://indianexpress.com##.app-btn
+https://sportskeeda.com##.app-download-modal
 https://9gag.com##.download-app-container
 https://9gag.com##.get-the-app-banner
+https://sportskeeda.com##.sidebar-app-download
 https://imgur.com,sowetanlive.co.za##.smartbanner
 https://schufa.de###AC_layout
 https://pcb.cc###Cntnr6
@@ -10164,6 +10166,7 @@ https://tempi.it##.header_sidebar
 https://radioitaliaannisessanta.it##.hm_go_top
 https://ilmetapontino.it##.icon-caret-up
 https://francescocosta.net,wittgenstein.it##.ilpost-header
+https://astrooroscopo.it##.in
 https://condominio.com,libero.it,mondomobileweb.it##.ir-arriba
 https://bastabugie.it##.iscrizione
 https://sky.it##.j-navTop
@@ -10176,7 +10179,7 @@ https://spaziogames.it##.nav-reveal
 https://everyeye.it##.nav_articoli
 https://ilsitodellozoo.com##.navbar-alt
 https://laleggepertutti.it##.news-letter
-https://01net.it,advisoronline.it,aeroporto.net,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
+https://01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 https://ravennanotizie.it##.newsletter-section
 https://starbene.it##.nlslim
 https://systems.bz##.on-top
@@ -10184,6 +10187,7 @@ https://blauerusa.com##.onTop
 https://ricoh.it##.page-link-top
 https://everyeye.it##.playert
 https://enzopennetta.it##.popmake
+https://astrooroscopo.it##.popup
 https://tvprato.it##.quinews-header
 https://storicang.it##.recibe
 https://giornalettismo.com##.related-article
@@ -17699,8 +17703,10 @@ http://cbsnews.com,yelp.com###smart-banner
 http://dailymail.co.uk,m.jpost.com###smartBanner
 http://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
 http://indianexpress.com##.app-btn
+http://sportskeeda.com##.app-download-modal
 http://9gag.com##.download-app-container
 http://9gag.com##.get-the-app-banner
+http://sportskeeda.com##.sidebar-app-download
 http://imgur.com,sowetanlive.co.za##.smartbanner
 http://schufa.de###AC_layout
 http://pcb.cc###Cntnr6
@@ -20566,6 +20572,7 @@ http://tempi.it##.header_sidebar
 http://radioitaliaannisessanta.it##.hm_go_top
 http://ilmetapontino.it##.icon-caret-up
 http://francescocosta.net,wittgenstein.it##.ilpost-header
+http://astrooroscopo.it##.in
 http://condominio.com,libero.it,mondomobileweb.it##.ir-arriba
 http://bastabugie.it##.iscrizione
 http://sky.it##.j-navTop
@@ -20578,7 +20585,7 @@ http://spaziogames.it##.nav-reveal
 http://everyeye.it##.nav_articoli
 http://ilsitodellozoo.com##.navbar-alt
 http://laleggepertutti.it##.news-letter
-http://01net.it,advisoronline.it,aeroporto.net,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
+http://01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 http://ravennanotizie.it##.newsletter-section
 http://starbene.it##.nlslim
 http://systems.bz##.on-top
@@ -20586,6 +20593,7 @@ http://blauerusa.com##.onTop
 http://ricoh.it##.page-link-top
 http://everyeye.it##.playert
 http://enzopennetta.it##.popmake
+http://astrooroscopo.it##.popup
 http://tvprato.it##.quinews-header
 http://storicang.it##.recibe
 http://giornalettismo.com##.related-article
