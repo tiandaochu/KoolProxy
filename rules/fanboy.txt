@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KYlWdfHRLF12x9M9EE4TyQ
-! Version: 202007222352
+! Checksum: ofFmZfqEmDAuUg7PB3W7RQ
+! Version: 202007232351
 ! Title: Fanboy's Annoyance List
-! Last modified: 22 Jul 2020 23:52 UTC
+! Last modified: 23 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -8266,6 +8266,7 @@ https://vh1.com##.shareholder
 https://worldwideinterweb.com##.sharepoint
 https://ign.com,newsday.com##.sharer
 https://bulawayo24.com,foodbeast.com,glogster.com,good.is,hereisthecity.com,independent.co.uk,petapixel.com,trtworld.com,twistedfood.co.uk##.shares
+https://wizards.com##.sharing
 https://theregister.com##.sharing_widget
 https://recode.net##.shoutout
 https://nationalpost.com##.shr
@@ -11317,6 +11318,7 @@ https://doctolib.de##.dl-drawer-bottom
 https://rtl-living.de,rtl.de,vox.de##.dnt__container
 https://i-dex.de,i-love-tec.de,moebel-und-garten.de##.dsgvo
 https://waff.at##.en-notification
+https://audi.de##.ensNotifyBannerWrapper
 https://fgh-info.de##.fade.alert-warning.alert
 https://speisebaron.de##.fixed-bottom.navbar
 https://bss-sichelstiel.de,smimea.info##.fixed-note
@@ -13040,7 +13042,7 @@ https://lg.com#@#.cookie-check
 https://zwijsen.nl#@#.cookie-consent-container
 https://zwijsen.nl#@#.cookie-consent-content
 https://zwijsen.nl#@#.cookie-consent-wrapper
-https://codra.net#@#.cookie-consent:not(body)
+https://codra.net,dovoba.de#@#.cookie-consent:not(body)
 https://bokadirekt.se,danbolig.dk,hongkong.fi,rusta.com,xmradio.nl#@#.cookie-content
 https://danbolig.dk#@#.cookie-dialog
 https://ikks.com#@#.cookie-footer
@@ -13164,6 +13166,7 @@ https://atutszkola.pl,meethue.com,mydziewczyny.pl,philips-hue.com,philips.ae,phi
 https://mymuesli.com#@#cookies_consent
 https://litebit.eu#@#div[class*="CookieConsent"]
 https://ee.co.uk#@#div[class^="cookie-banner"]
+https://dovoba.de#@#div[class^="cookie-consent_"]
 https://birramenabrea.com,marketerplus.pl,myspeed.pl#@#div[data-cookie]
 https://timeout.com#@#div[data-module="cookie_banner"]
 https://konarzewski.com.pl,unicode.org#@#div[data-nconvert-cookie]
@@ -18671,6 +18674,7 @@ http://vh1.com##.shareholder
 http://worldwideinterweb.com##.sharepoint
 http://ign.com,newsday.com##.sharer
 http://bulawayo24.com,foodbeast.com,glogster.com,good.is,hereisthecity.com,independent.co.uk,petapixel.com,trtworld.com,twistedfood.co.uk##.shares
+http://wizards.com##.sharing
 http://theregister.com##.sharing_widget
 http://recode.net##.shoutout
 http://nationalpost.com##.shr
@@ -21724,6 +21728,7 @@ http://doctolib.de##.dl-drawer-bottom
 http://rtl-living.de,rtl.de,vox.de##.dnt__container
 http://i-dex.de,i-love-tec.de,moebel-und-garten.de##.dsgvo
 http://waff.at##.en-notification
+http://audi.de##.ensNotifyBannerWrapper
 http://fgh-info.de##.fade.alert-warning.alert
 http://speisebaron.de##.fixed-bottom.navbar
 http://bss-sichelstiel.de,smimea.info##.fixed-note
@@ -23447,7 +23452,7 @@ http://lg.com#@#.cookie-check
 http://zwijsen.nl#@#.cookie-consent-container
 http://zwijsen.nl#@#.cookie-consent-content
 http://zwijsen.nl#@#.cookie-consent-wrapper
-http://codra.net#@#.cookie-consent:not(body)
+http://codra.net,dovoba.de#@#.cookie-consent:not(body)
 http://bokadirekt.se,danbolig.dk,hongkong.fi,rusta.com,xmradio.nl#@#.cookie-content
 http://danbolig.dk#@#.cookie-dialog
 http://ikks.com#@#.cookie-footer
@@ -23571,6 +23576,7 @@ http://atutszkola.pl,meethue.com,mydziewczyny.pl,philips-hue.com,philips.ae,phil
 http://mymuesli.com#@#cookies_consent
 http://litebit.eu#@#div[class*="CookieConsent"]
 http://ee.co.uk#@#div[class^="cookie-banner"]
+http://dovoba.de#@#div[class^="cookie-consent_"]
 http://birramenabrea.com,marketerplus.pl,myspeed.pl#@#div[data-cookie]
 http://timeout.com#@#div[data-module="cookie_banner"]
 http://konarzewski.com.pl,unicode.org#@#div[data-nconvert-cookie]

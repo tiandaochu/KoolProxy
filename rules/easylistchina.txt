@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: zSFOZPKqOY/kuNKR8WS0RQ
-! Version: 202007230013
+! Checksum: pTLwrpoZYYxinHWKwGZY8g
+! Version: 202007240013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2463,6 +2463,7 @@
 ||https://gtimg.com/newsapp_ls/0/27161189/0
 ||https://gtimg.com/pingjs/ext2020/dc/module/GJ/
 ||https://gtimg.com/qqlive/
+||https://gtimg.com/rain/bl20/json/
 ||https://gtimg.com/sports/*.swf
 ||https://gtimg.com/sports/000/
 ||https://gtimg.com/sports/000_AD/
@@ -4135,7 +4136,9 @@
 ||https://tv432.com/templets/gg.js
 ||https://tv699.com/AllTemplet/js/
 ||https://tv699.com/Templet699/js/
+||https://tv7box.com/Runtime/Js/
 ||https://tv887.com/js/pingbi.js
+||https://tv8box.com/Runtime/Js/
 ||https://tvbwind.com/Public/90tvb/js/tvbwind.js
 ||https://tvmao.com/images/style/yx500x160.gif
 ||https://tvsou.com/js/360ad.js
@@ -4543,6 +4546,7 @@
 ||https://yibo5.cn/img0
 ||https://yigujin.cn/faaa/
 ||https://yigujin.cn/img/abc/
+||https://yigujin.cn/tp/*_hengchuangfuwqi.
 ||https://yigujin.cn/tp/abc/*yun
 ||https://yigujin.cn/wp-content/themes/Three/js/cebian
 ||https://yigujin.cn/wp-content/themes/Three/js/dibu
@@ -4779,7 +4783,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://yigujin.cn/tp/*_hengchuangfuwqi.
+||https://fijipic.xyz/bit20/upload/image/20200721/72100040886.gif
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -7775,6 +7779,7 @@
 ||http://zhinengap.com^
 ||http://zhiong.net^
 ||http://zhixiuchang.com^
+||http://zhizones.com^
 ||http://zhjfad.com^
 ||http://zhongdoulicai.com^
 ||http://zhongjiangguoji.org^
@@ -9954,6 +9959,7 @@
 ||http://gtimg.com/newsapp_ls/0/27161189/0
 ||http://gtimg.com/pingjs/ext2020/dc/module/GJ/
 ||http://gtimg.com/qqlive/
+||http://gtimg.com/rain/bl20/json/
 ||http://gtimg.com/sports/*.swf
 ||http://gtimg.com/sports/000/
 ||http://gtimg.com/sports/000_AD/
@@ -11822,7 +11828,9 @@
 ||http://tv432.com/templets/gg.js
 ||http://tv699.com/AllTemplet/js/
 ||http://tv699.com/Templet699/js/
+||http://tv7box.com/Runtime/Js/
 ||http://tv887.com/js/pingbi.js
+||http://tv8box.com/Runtime/Js/
 ||http://tvbwind.com/Public/90tvb/js/tvbwind.js
 ||http://tvmao.com/images/style/yx500x160.gif
 ||http://tvsou.com/js/360ad.js
@@ -12264,6 +12272,7 @@
 ||http://yibo5.cn/img0
 ||http://yigujin.cn/faaa/
 ||http://yigujin.cn/img/abc/
+||http://yigujin.cn/tp/*_hengchuangfuwqi.
 ||http://yigujin.cn/tp/abc/*yun
 ||http://yigujin.cn/wp-content/themes/Three/js/cebian
 ||http://yigujin.cn/wp-content/themes/Three/js/dibu
@@ -12517,7 +12526,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://yigujin.cn/tp/*_hengchuangfuwqi.
+||http://fijipic.xyz/bit20/upload/image/20200721/72100040886.gif
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -12683,6 +12692,7 @@
 ||http://a1.twtym.com^
 ||http://a15d55423.5tps.xyz^
 ||http://a3.jandan.net^
+||http://aa.0755rc.com^
 ||http://aa.gushiwen.org^
 ||http://aa.ninze.com^
 ||http://aa.xiangxiangmf.com^
@@ -12701,6 +12711,7 @@
 ||http://adbd.liuxue86.com^
 ||http://adccoo.cn^
 ||http://adjb.5nd.com^
+||http://ag1.zuszw.com^
 ||http://aili.com^$third-party
 ||http://aiwen.cc^
 ||http://al.newxue.com^
@@ -13093,6 +13104,7 @@
 ||http://shili.downxia.com^
 ||http://sjbaiduadv1.redou.com^
 ||http://snzfj.net^$third-party
+||http://so.auto999.cn^
 ||http://sp.dnqc.com^
 ||http://ss.ting55.com^
 ||http://ssb.ah499.com^
@@ -13635,6 +13647,7 @@
 ||http://bqqsdv73724.cn^
 ||http://brysj.vip^
 ||http://bslmw.com^
+||http://btnvlvt.cn^
 ||http://bugcreator.cn^
 ||http://bulkeach.com^
 ||http://bvoer.com^
@@ -13694,6 +13707,7 @@
 ||http://chuzrra.cn^
 ||http://cike666.com^
 ||http://city009.com^
+||http://cityb.xyz^
 ||http://cityd.xyz^
 ||http://cityf.xyz^
 ||http://cjh9.cn^
@@ -13864,6 +13878,7 @@
 ||http://fdbpnqh.cn^
 ||http://fdoun.com^
 ||http://feifish66.com^
+||http://feimotailan.cn^
 ||http://feipaihehuoren.cn^
 ||http://feixs.com/style/t.js
 ||http://fenbengpan.cn^
@@ -14397,6 +14412,7 @@
 ||http://nlzq888.com^
 ||http://nmqdnykj.com^
 ||http://nmtouzi.com^
+||http://nouzhu.cn^
 ||http://nqfwx.cn^
 ||http://nsjpu.com^
 ||http://nthfds.xyz^
@@ -14442,6 +14458,7 @@
 ||http://oulvtrip.com^
 ||http://ow*.biqugego.com^
 ||http://ox11.com^
+||http://oycslia.xyz^
 ||http://oycslib.xyz^
 ||http://p1wr6.cn^
 ||http://paerst.cn^
@@ -14876,6 +14893,7 @@
 ||http://xafxs.cn^
 ||http://xamaky.top^
 ||http://xamiqi.top^
+||http://xatczs.cn^
 ||http://xavingtsun.com^
 ||http://xb29h.cn^
 ||http://xbiqugecc.com/bcc/
@@ -14918,6 +14936,7 @@
 ||http://xn--2qu92fhtx4ff.ren^
 ||http://xn--2qu92fhtx4ff.video^
 ||http://xn--2qux23c9ziyrq.icu^
+||http://xn--2qux23c9ziyrq.ink^
 ||http://xn--2qux23confgml.club^
 ||http://xn--2ssq0ktxigkq.cc^
 ||http://xn--4gqvdz18f.xyz^
@@ -16709,8 +16728,8 @@ https://ifeng.com###optimusPrimeContentId
 https://ifeng.com###optimusPrimeContentId_left
 https://jiyingdm.com###otherWindowBox
 https://ttzmz.vip###otherad
-https://rrys2020.com###output > li > a:not([href*="/focusurl/"])
-https://rrys2020.com###output > li > a:not([href*="/focusurl/"]) + h2
+https://rrys2020.com###output > li > a:not([href*="/resource/"])
+https://rrys2020.com###output > li > a:not([href*="/resource/"]) + h2
 https://lalulalu.com###overture-side-bar-ads
 https://3boys2girls.com###overture_ads_long
 https://lalulalu.com###overture_main_banner
@@ -17468,6 +17487,7 @@ https://duba.com,uu114.cn##.adfixed
 https://1kkk.com,dm5.com,dm5.hk##.adform_1
 https://1kkk.com,dm5.com,dm5.hk##.adform_2
 https://xineurope.com##.adft
+https://11px.cn##.adg
 https://92wy.com##.adhengfu
 https://jxdbg.com##.adindex
 https://huanqiu.com##.adindexList
@@ -20644,6 +20664,7 @@ https://zdfans.com##ul[id^="gaosuxiazai"]
 https://firefoxchina.cn##ul[track-key="adv_links"]
 https://weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
 https://weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
+https://x3cn.com#?#.commonDiv:-abp-has(.ad)
 https://x6d.com#?#li:-abp-has(>.myad)
 https://xbyuan.com#?#li:-abp-has(>.myad)
 https://yahoo.com#?#.js-stream-content:-abp-has(div:-abp-contains(雅虎搜尋))
@@ -22780,8 +22801,8 @@ http://ifeng.com###optimusPrimeContentId
 http://ifeng.com###optimusPrimeContentId_left
 http://jiyingdm.com###otherWindowBox
 http://ttzmz.vip###otherad
-http://rrys2020.com###output > li > a:not([href*="/focusurl/"])
-http://rrys2020.com###output > li > a:not([href*="/focusurl/"]) + h2
+http://rrys2020.com###output > li > a:not([href*="/resource/"])
+http://rrys2020.com###output > li > a:not([href*="/resource/"]) + h2
 http://lalulalu.com###overture-side-bar-ads
 http://3boys2girls.com###overture_ads_long
 http://lalulalu.com###overture_main_banner
@@ -23539,6 +23560,7 @@ http://duba.com,uu114.cn##.adfixed
 http://1kkk.com,dm5.com,dm5.hk##.adform_1
 http://1kkk.com,dm5.com,dm5.hk##.adform_2
 http://xineurope.com##.adft
+http://11px.cn##.adg
 http://92wy.com##.adhengfu
 http://jxdbg.com##.adindex
 http://huanqiu.com##.adindexList
@@ -26715,6 +26737,7 @@ http://zdfans.com##ul[id^="gaosuxiazai"]
 http://firefoxchina.cn##ul[track-key="adv_links"]
 http://weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
 http://weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
+http://x3cn.com#?#.commonDiv:-abp-has(.ad)
 http://x6d.com#?#li:-abp-has(>.myad)
 http://xbyuan.com#?#li:-abp-has(>.myad)
 http://yahoo.com#?#.js-stream-content:-abp-has(div:-abp-contains(雅虎搜尋))
