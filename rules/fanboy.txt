@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YqDdfnR23Xg0iUlCMu7gdg
-! Version: 202007242351
+! Checksum: Lwyo6KSam4208BjIFUY4HA
+! Version: 202007252351
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Jul 2020 23:51 UTC
+! Last modified: 25 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -420,8 +420,6 @@
 ||https://contentsitesrv.com/js/push/$third-party
 ||https://easyfeeed.com^$third-party
 ||https://farteniuson.com^$third-party
-||https://feedify.net^$third-party
-||https://fernomius.com^$third-party
 ||https://ichecknotifyfriends.info^$third-party
 ||https://iopushtech.com^$third-party
 ||https://irpush.com^$third-party
@@ -445,10 +443,8 @@
 ||https://pushango.com^$third-party
 ||https://pushassist.com^$third-party
 ||https://pushaya.com^$third-party
-||https://pushbird.com^$third-party
 ||https://pushbots.com^$third-party
 ||https://pushbox.info^$third-party
-||https://pushbullet.com^$third-party
 ||https://pushcentr.com^$third-party
 ||https://pushchev.info^$third-party
 ||https://pushcrew.com^$third-party
@@ -508,7 +504,9 @@
 ||https://danorenius.com^$third-party
 ||https://digitalpush.org^$third-party
 ||https://edrone.me^$third-party
+||https://feedify.net^$third-party
 ||https://feraciumus.com^$third-party
+||https://fernomius.com^$third-party
 ||https://fkondate.com^$third-party
 ||https://foxpush.com^$third-party
 ||https://foxpush.net^$third-party
@@ -523,6 +521,7 @@
 ||https://master-push.net^$third-party
 ||https://misrepush.com^$third-party
 ||https://moengage.com^$third-party
+||https://mp3vizor.com^$third-party
 ||https://najva.com^$third-party
 ||https://nativesubscribe.pro^$third-party
 ||https://notifadz.com^$third-party
@@ -536,6 +535,8 @@
 ||https://push-ad.com^$third-party
 ||https://push-house.net^$third-party
 ||https://pushalert.co^$third-party
+||https://pushbird.com^$third-party
+||https://pushbullet.com^$third-party
 ||https://pushengage.com^$third-party
 ||https://pushex.io^$third-party
 ||https://pushify.com^$third-party
@@ -701,6 +702,7 @@
 ||https://socialproof.it^$third-party
 ||https://socialrest.com^$third-party
 ||https://socialtools.fm^$third-party
+||https://softwebzone.com^$third-party
 ||https://spiceworks.com/share/$third-party
 ||https://spotify.com/follow/$third-party
 ||https://static.delicious.com^$third-party
@@ -1763,8 +1765,6 @@
 ||http://d2r1yp2w7bby2u.cloudfront.net^
 ||http://easyfeeed.com^$third-party
 ||http://farteniuson.com^$third-party
-||http://feedify.net^$third-party
-||http://fernomius.com^$third-party
 ||http://ichecknotifyfriends.info^$third-party
 ||http://iopushtech.com^$third-party
 ||http://irpush.com^$third-party
@@ -1790,10 +1790,8 @@
 ||http://pushango.com^$third-party
 ||http://pushassist.com^$third-party
 ||http://pushaya.com^$third-party
-||http://pushbird.com^$third-party
 ||http://pushbots.com^$third-party
 ||http://pushbox.info^$third-party
-||http://pushbullet.com^$third-party
 ||http://pushcentr.com^$third-party
 ||http://pushchev.info^$third-party
 ||http://pushcrew.com^$third-party
@@ -1853,7 +1851,9 @@
 ||http://danorenius.com^$third-party
 ||http://digitalpush.org^$third-party
 ||http://edrone.me^$third-party
+||http://feedify.net^$third-party
 ||http://feraciumus.com^$third-party
+||http://fernomius.com^$third-party
 ||http://fkondate.com^$third-party
 ||http://foxpush.com^$third-party
 ||http://foxpush.net^$third-party
@@ -1868,6 +1868,7 @@
 ||http://master-push.net^$third-party
 ||http://misrepush.com^$third-party
 ||http://moengage.com^$third-party
+||http://mp3vizor.com^$third-party
 ||http://najva.com^$third-party
 ||http://nativesubscribe.pro^$third-party
 ||http://notifadz.com^$third-party
@@ -1881,6 +1882,8 @@
 ||http://push-ad.com^$third-party
 ||http://push-house.net^$third-party
 ||http://pushalert.co^$third-party
+||http://pushbird.com^$third-party
+||http://pushbullet.com^$third-party
 ||http://pushengage.com^$third-party
 ||http://pushex.io^$third-party
 ||http://pushify.com^$third-party
@@ -2048,6 +2051,7 @@
 ||http://socialproof.it^$third-party
 ||http://socialrest.com^$third-party
 ||http://socialtools.fm^$third-party
+||http://softwebzone.com^$third-party
 ||http://spiceworks.com/share/$third-party
 ||http://spotify.com/follow/$third-party
 ||http://static*.linkedin.com/scds/common/$image,third-party
@@ -9196,11 +9200,13 @@ https://leo.org##.app-footer-content
 https://start.me##.app__message
 https://annualreviews.org##.ar-news-footer
 https://argaam.com##.argaam-policy
+https://linkedin.com##.artdeco-global-alert
 https://leo.org##.as-oil
 https://businessinsider.com##.as-oil-content-overlay
 https://which.co.uk##.b_g
 https://uber.com##.banner--bottom
 https://makeprintable.com##.banner-hints
+https://nuget.org##.banner-notice
 https://23andme.com,tunnelbear.com##.banner-wrap
 https://worthpoint.com##.bannerContainer
 https://caymanchem.com##.bg-darker-gray
@@ -9535,7 +9541,7 @@ https://meteoblue.com##.successMessage
 https://spiceworks.com##.sui-site-message-container
 https://haier.com##.swiper-slide-img-txt
 https://tudorwatch.com##.tdr-ribbon
-https://finance.yahoo.com##.tdv2-applet-nagbar
+https://yahoo.com##.tdv2-applet-nagbar
 https://abcnews.go.com##.terms-alert-fixed
 https://fijiairways.com##.terms-of-use
 https://adelaidenow.com.au,cairnspost.com.au,couriermail.com.au,dailytelegraph.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,heraldsun.com.au,ntnews.com.au,themercury.com.au,townsvillebulletin.com.au,weeklytimesnow.com.au##.tgc-footer_disclaimer
@@ -10941,7 +10947,7 @@ https://nationalgeographic.it##.segui-ng
 https://lescienze.it,unica.it##.seguici
 https://askanews.it##.seguici_footer
 https://chiesi.com##.seguicisu
-https://amica.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
+https://amica.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
 https://mediaset.it,meteo.it##.shr
 https://assopoker.com##.singlemeta
 https://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
@@ -11866,7 +11872,7 @@ https://intrage.it##.BoxPrivacy
 https://rivistastudio.com##.SCK_Banner
 https://abruzzo24ore.tv,capoluogo.com,economia24ore.it,fosse-biologiche.it,gossip24ore.it,il24ore.it,ilmeteo24ore.it,occhioallook.it,recensioni.tv,tuttosport24ore.it##._CL_main
 https://agenziagiovani.it,assocarta.it,cassoni-usati.it,farmenspa.it,salvaunbambino.it##.activebar-container
-https://cafassoefigli.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,uabstyle.it,voglioviverecosi.com##.alert
+https://cafassoefigli.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,tufanogomme.com,uabstyle.it,voglioviverecosi.com##.alert
 https://intimerie.com##.alert-info
 https://lainox.it##.background_overlay
 https://elettrocasa.it##.banner
@@ -19611,11 +19617,13 @@ http://leo.org##.app-footer-content
 http://start.me##.app__message
 http://annualreviews.org##.ar-news-footer
 http://argaam.com##.argaam-policy
+http://linkedin.com##.artdeco-global-alert
 http://leo.org##.as-oil
 http://businessinsider.com##.as-oil-content-overlay
 http://which.co.uk##.b_g
 http://uber.com##.banner--bottom
 http://makeprintable.com##.banner-hints
+http://nuget.org##.banner-notice
 http://23andme.com,tunnelbear.com##.banner-wrap
 http://worthpoint.com##.bannerContainer
 http://caymanchem.com##.bg-darker-gray
@@ -19950,7 +19958,7 @@ http://meteoblue.com##.successMessage
 http://spiceworks.com##.sui-site-message-container
 http://haier.com##.swiper-slide-img-txt
 http://tudorwatch.com##.tdr-ribbon
-http://finance.yahoo.com##.tdv2-applet-nagbar
+http://yahoo.com##.tdv2-applet-nagbar
 http://abcnews.go.com##.terms-alert-fixed
 http://fijiairways.com##.terms-of-use
 http://adelaidenow.com.au,cairnspost.com.au,couriermail.com.au,dailytelegraph.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,heraldsun.com.au,ntnews.com.au,themercury.com.au,townsvillebulletin.com.au,weeklytimesnow.com.au##.tgc-footer_disclaimer
@@ -21356,7 +21364,7 @@ http://nationalgeographic.it##.segui-ng
 http://lescienze.it,unica.it##.seguici
 http://askanews.it##.seguici_footer
 http://chiesi.com##.seguicisu
-http://amica.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
+http://amica.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
 http://mediaset.it,meteo.it##.shr
 http://assopoker.com##.singlemeta
 http://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
@@ -22282,7 +22290,7 @@ http://intrage.it##.BoxPrivacy
 http://rivistastudio.com##.SCK_Banner
 http://abruzzo24ore.tv,capoluogo.com,economia24ore.it,fosse-biologiche.it,gossip24ore.it,il24ore.it,ilmeteo24ore.it,occhioallook.it,recensioni.tv,tuttosport24ore.it##._CL_main
 http://agenziagiovani.it,assocarta.it,cassoni-usati.it,farmenspa.it,salvaunbambino.it##.activebar-container
-http://cafassoefigli.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,uabstyle.it,voglioviverecosi.com##.alert
+http://cafassoefigli.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,tufanogomme.com,uabstyle.it,voglioviverecosi.com##.alert
 http://intimerie.com##.alert-info
 http://lainox.it##.background_overlay
 http://elettrocasa.it##.banner
