@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: La0evasuhXSiEsd0I6FD4g
-! Version: 202007272351
+! Checksum: l/lOTnVzLvByxDxXJDsYTQ
+! Version: 202007282351
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Jul 2020 23:51 UTC
+! Last modified: 28 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -480,6 +480,7 @@
 ||https://amazonaws.com/cdn.aimtell.com/
 ||https://aswpsdkus.com^$third-party
 ||https://bildirt.com^$third-party
+||https://bmfeed.ru^$third-party
 ||https://bosspush.com^$third-party
 ||https://browserpusher.com^$third-party
 ||https://cdn-sitegainer.com^$third-party
@@ -1801,6 +1802,7 @@
 ||http://amazonaws.com/cdn.aimtell.com/
 ||http://aswpsdkus.com^$third-party
 ||http://bildirt.com^$third-party
+||http://bmfeed.ru^$third-party
 ||http://bosspush.com^$third-party
 ||http://browserpusher.com^$third-party
 ||http://cdn-sitegainer.com^$third-party
@@ -12690,7 +12692,7 @@ https://flickr.com,fxhome.com#@#.share-options
 https://dropbox.com,ge.tt,gfycat.com,recite.com#@#.share-page
 https://flickr.com,imgur.com,tobii.com,youtube.com#@#.share-panel
 https://mediafire.com#@#.share-popup
-https://simpletax.ca#@#.share-section
+https://inman.com,simpletax.ca#@#.share-section
 https://bild.de#@#.share-text
 https://linkedin.com#@#.share-title
 https://mediafire.com#@#.share-twitter
@@ -23108,7 +23110,7 @@ http://flickr.com,fxhome.com#@#.share-options
 http://dropbox.com,ge.tt,gfycat.com,recite.com#@#.share-page
 http://flickr.com,imgur.com,tobii.com,youtube.com#@#.share-panel
 http://mediafire.com#@#.share-popup
-http://simpletax.ca#@#.share-section
+http://inman.com,simpletax.ca#@#.share-section
 http://bild.de#@#.share-text
 http://linkedin.com#@#.share-title
 http://mediafire.com#@#.share-twitter
