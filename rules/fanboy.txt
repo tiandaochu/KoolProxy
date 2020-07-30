@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: l/lOTnVzLvByxDxXJDsYTQ
-! Version: 202007282351
+! Checksum: EWNMHxy0E5apvbPWnx8+dQ
+! Version: 202007292351
 ! Title: Fanboy's Annoyance List
-! Last modified: 28 Jul 2020 23:51 UTC
+! Last modified: 29 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1146,8 +1146,6 @@
 ||https://ladyblitz.it^*/IAS_
 ||https://ladyblitz.it^*/System24_
 ||https://lastampa.it^*/NL-topNews2.
-||https://linkwelove.com^$third-party
-||https://linkwelove.it^$third-party
 ||https://mastertop100.org^$third-party
 ||https://milanofinanza.it/img/top.png
 ||https://monovolume.cc^*/up_btn.
@@ -2512,8 +2510,6 @@
 ||http://ladyblitz.it^*/IAS_
 ||http://ladyblitz.it^*/System24_
 ||http://lastampa.it^*/NL-topNews2.
-||http://linkwelove.com^$third-party
-||http://linkwelove.it^$third-party
 ||http://mastertop100.org^$third-party
 ||http://milanofinanza.it/img/top.png
 ||http://monovolume.cc^*/up_btn.
@@ -10020,7 +10016,7 @@ https://eprice.it###moveUp
 https://gazzetta.it###multifunctionBar-container
 https://callipo.com###nav_up
 https://sacecomponents.com###neko-to-top
-https://lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
+https://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
 https://distribuzionemoderna.info###nsl
 https://lasicilia.it###overbox_ticker_newsstand
 https://it.hisamitsu###pageTop
@@ -10034,7 +10030,6 @@ https://monclick.it###scroll-top-container
 https://dottori.it,ildubbio.news###scroll_top
 https://vloungebeach.tv###scroll_up
 https://mobimart.it###scrollblock
-https://cb01.best###scroller
 https://chiesi.com###scrolltab
 https://uniroma1.it###sdb-wrapper
 https://tuttoandroid.net###sh_local
@@ -10811,7 +10806,6 @@ https://centrometeoitaliano.it###widgetSeguici
 https://aboutamazon.it##.ActionBar
 https://evomagazine.it,rai.it##.Facebook
 https://rai.it##.Invia
-https://cineblog.club##.ListPOpt
 https://rai.tv##.Mail
 https://rai.tv##.Opzioni
 https://focusjunior.it##.SATover
@@ -10826,6 +10820,7 @@ https://studenti.it##.azioni-tools
 https://provincia.bz.it,provinzia.bz.it##.banner_facebook
 https://barfuss.it##.barfuss-fblikebox
 https://nurse24.it##.block-segui-nurse24it
+https://gamershqitalia.it##.bottoniera-social
 https://comingsoon.it##.box-tags
 https://ansa.it##.bt-suggest
 https://fantagazzetta.com##.btn-sm
@@ -10842,7 +10837,7 @@ https://mediaset.it##.dsoc
 https://frasicelebri.it##.email
 https://madeinbz.info##.fa-facebook
 https://madeinbz.info##.fa-twitter
-https://agenziacasaclima.it,cinemalibero.news,ilfoglio.it,startromagna.it,teleticino.ch,tuttomercatoweb.com,webnews.it##.facebook
+https://agenziacasaclima.it,ilfoglio.it,startromagna.it,teleticino.ch,tuttomercatoweb.com,webnews.it##.facebook
 https://iphoneitalia.com##.faicosoc
 https://crocebianca.bz.it,gianlucadimarzio.com,leitgamhof.com##.fb
 https://mezzicommerciali.it##.fb-menu
@@ -10903,11 +10898,11 @@ https://mediaset.it,meteo.it##.shr
 https://assopoker.com##.singlemeta
 https://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 https://quickparking.it##.soc-icon-container
-https://affaritaliani.it,altadefinizione01.cloud,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lafeltrinelli.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+https://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lafeltrinelli.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 https://davinotti.com##.social__variant
 https://investireoggi.it##.social_menu
 https://gametimers.it,ilsicilia.it,kontrokultura.it##.ss-ic
-https://cinemalibero.news,tuttomercatoweb.com##.telegram
+https://tuttomercatoweb.com##.telegram
 https://agensir.it##.temporary-skin-adv
 https://nurse24.it##.toolbar
 https://epochtimes.it##.tools
@@ -11819,6 +11814,7 @@ https://scuolerimini.it###upper_div
 https://puglialive.net###visitor_info
 https://farmacieaperte.it###warning-popup
 https://ativa.it###widget-privacy
+https://gamershqitalia.it###wrapDisclaimer
 https://meyer.it###zf--alerts-panel
 https://intrage.it##.BoxPrivacy
 https://rivistastudio.com##.SCK_Banner
@@ -12651,7 +12647,7 @@ https://needlenthread.com#@#.pinterest1
 https://pinterest.com#@#.pinterestComponentShare
 https://marieclaire.ru#@#.pinterestShare
 https://privatecore.com#@#.post-fb
-https://23-59.com.ua,dietetycy.org.pl,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
+https://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
 https://imgur.com#@#.post-share-panel
 https://reddit.com#@#.post-sharing
 https://guildwars2.com#@#.post-social
@@ -12792,6 +12788,7 @@ https://golem.de#@#.social-tools
 https://gamesrepublic.com#@#.social-top
 https://gallerix.asia,gallerix.org#@#.social-tumblr
 https://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
+https://medialeaks.ru#@#.social-widgets
 https://bronchiectasisandntminitiative.org,copdfoundation.org,viralnova.com#@#.social-wrap
 https://dreuz.info,foxnews.com,manager.paczkomaty.pl#@#.social-wrapper
 https://coub.com#@#.socialBlock
@@ -20437,7 +20434,7 @@ http://eprice.it###moveUp
 http://gazzetta.it###multifunctionBar-container
 http://callipo.com###nav_up
 http://sacecomponents.com###neko-to-top
-http://lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
+http://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
 http://distribuzionemoderna.info###nsl
 http://lasicilia.it###overbox_ticker_newsstand
 http://it.hisamitsu###pageTop
@@ -20451,7 +20448,6 @@ http://monclick.it###scroll-top-container
 http://dottori.it,ildubbio.news###scroll_top
 http://vloungebeach.tv###scroll_up
 http://mobimart.it###scrollblock
-http://cb01.best###scroller
 http://chiesi.com###scrolltab
 http://uniroma1.it###sdb-wrapper
 http://tuttoandroid.net###sh_local
@@ -21228,7 +21224,6 @@ http://centrometeoitaliano.it###widgetSeguici
 http://aboutamazon.it##.ActionBar
 http://evomagazine.it,rai.it##.Facebook
 http://rai.it##.Invia
-http://cineblog.club##.ListPOpt
 http://rai.tv##.Mail
 http://rai.tv##.Opzioni
 http://focusjunior.it##.SATover
@@ -21243,6 +21238,7 @@ http://studenti.it##.azioni-tools
 http://provincia.bz.it,provinzia.bz.it##.banner_facebook
 http://barfuss.it##.barfuss-fblikebox
 http://nurse24.it##.block-segui-nurse24it
+http://gamershqitalia.it##.bottoniera-social
 http://comingsoon.it##.box-tags
 http://ansa.it##.bt-suggest
 http://fantagazzetta.com##.btn-sm
@@ -21259,7 +21255,7 @@ http://mediaset.it##.dsoc
 http://frasicelebri.it##.email
 http://madeinbz.info##.fa-facebook
 http://madeinbz.info##.fa-twitter
-http://agenziacasaclima.it,cinemalibero.news,ilfoglio.it,startromagna.it,teleticino.ch,tuttomercatoweb.com,webnews.it##.facebook
+http://agenziacasaclima.it,ilfoglio.it,startromagna.it,teleticino.ch,tuttomercatoweb.com,webnews.it##.facebook
 http://iphoneitalia.com##.faicosoc
 http://crocebianca.bz.it,gianlucadimarzio.com,leitgamhof.com##.fb
 http://mezzicommerciali.it##.fb-menu
@@ -21320,11 +21316,11 @@ http://mediaset.it,meteo.it##.shr
 http://assopoker.com##.singlemeta
 http://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 http://quickparking.it##.soc-icon-container
-http://affaritaliani.it,altadefinizione01.cloud,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lafeltrinelli.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+http://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lafeltrinelli.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 http://davinotti.com##.social__variant
 http://investireoggi.it##.social_menu
 http://gametimers.it,ilsicilia.it,kontrokultura.it##.ss-ic
-http://cinemalibero.news,tuttomercatoweb.com##.telegram
+http://tuttomercatoweb.com##.telegram
 http://agensir.it##.temporary-skin-adv
 http://nurse24.it##.toolbar
 http://epochtimes.it##.tools
@@ -22237,6 +22233,7 @@ http://scuolerimini.it###upper_div
 http://puglialive.net###visitor_info
 http://farmacieaperte.it###warning-popup
 http://ativa.it###widget-privacy
+http://gamershqitalia.it###wrapDisclaimer
 http://meyer.it###zf--alerts-panel
 http://intrage.it##.BoxPrivacy
 http://rivistastudio.com##.SCK_Banner
@@ -23069,7 +23066,7 @@ http://needlenthread.com#@#.pinterest1
 http://pinterest.com#@#.pinterestComponentShare
 http://marieclaire.ru#@#.pinterestShare
 http://privatecore.com#@#.post-fb
-http://23-59.com.ua,dietetycy.org.pl,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
+http://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
 http://imgur.com#@#.post-share-panel
 http://reddit.com#@#.post-sharing
 http://guildwars2.com#@#.post-social
@@ -23210,6 +23207,7 @@ http://golem.de#@#.social-tools
 http://gamesrepublic.com#@#.social-top
 http://gallerix.asia,gallerix.org#@#.social-tumblr
 http://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
+http://medialeaks.ru#@#.social-widgets
 http://bronchiectasisandntminitiative.org,copdfoundation.org,viralnova.com#@#.social-wrap
 http://dreuz.info,foxnews.com,manager.paczkomaty.pl#@#.social-wrapper
 http://coub.com#@#.socialBlock
