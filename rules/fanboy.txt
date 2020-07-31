@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EWNMHxy0E5apvbPWnx8+dQ
-! Version: 202007292351
+! Checksum: QEhOU0uSEr46B1jjAp01mA
+! Version: 202007302351
 ! Title: Fanboy's Annoyance List
-! Last modified: 29 Jul 2020 23:51 UTC
+! Last modified: 30 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -8833,6 +8833,7 @@ https://bing.com###b_notificationContainer
 https://uktv.co.uk###back-to-old-site
 https://cc.com###balaMainContainer
 https://best-sound.com,shadycharacters.co.uk,whatsapp.com###banner
+https://bitly.com###banner-spacer
 https://area-codes.org.uk###baselink
 https://thebanker.com###bdbanner
 https://europa.eu###block-esm-base-cookie-message-footer
@@ -9733,8 +9734,10 @@ https://acpm.fr###newsletter
 https://bpostbank.be###notificationpanel
 https://savi-france.fr###notifybar
 https://aol.fr###ooCont
+https://mimibuzz.com###page_arrowUp
 https://smile.fr###popup
 https://lequipe.fr###rebonds
+https://elle.fr###scroll_top
 https://fonepaw.fr###sendemail
 https://gentside.com###signup-holder
 https://boingtv.fr,coreight.com,editions-hatier.fr,igen.fr,macg.co,novaplanet.com###sliding-popup
@@ -9825,9 +9828,6 @@ https://larousse.fr##.ui-dialog
 https://larousse.fr##.ui-widget-overlay
 https://meteomedia.com##.woahbar
 https://algerie-eco.com#ae-fbp
-https://video-buzz.eu##div[style="position:fixed;top:220px;left:0px;width:110px;-moz-border-radius:0px 5px 5px 0px;-webkit-border-radius:0px 5px 5px 0px;background-color:#ffffff;z-index:50;padding:10px;padding-left:0px;padding-top:50px;border:1px solid #000000;border-left:0px solid #000000;box-shadow: 1px 1px 4px #aaa;"]
-https://video-buzz.eu##div[style="position:relative;height:335px;background-color:#ebebeb;overflow:hidden;border:2px solid #222222;"]
-https://video-buzz.eu##div[style="position:relative;height:38px;background-color:#ebebeb;overflow:hidden;border:2px solid #222222;padding-top:15px;padding-left:56px;"]
 https://challenges.fr,nouvelobs.com,sciencesetavenir.fr##div[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 https://buzger.com##div[style="z-index:10000000; position:fixed; padding:10px; top:0px; width:100%; background-color:#fff; color:#888; "]
 https://hsbc.fr##div[style^="display: block; margin: 20px 0px 0px 0px;"]
@@ -9993,6 +9993,7 @@ https://digitaleterrestrefacile.it###custom_html-9
 https://rockit.it###fangate-container
 https://eprice.it###fastRegBottom
 https://bastabugie.it###feed
+https://creditofondiario.eu###financity-footer-back-to-top-button
 https://ilgiornale.it###footer_map_col_1
 https://ilquotidianodellazio.it###form-newsletter
 https://advisoronline.it###formSubscriptionDiv
@@ -10095,7 +10096,7 @@ https://webnews.it##.email
 https://eprice.it##.ep_GoTop
 https://policymakermag.it,startmag.it##.essb-subscribe-form
 https://pambianconews.com,tecnoandroid.it##.essb_mailform
-https://corriere.it##.fancybox-overlay
+https://corriere.it,proiezionidiborsa.it##.fancybox-overlay
 https://ilsicilia.it##.feed
 https://tomshw.it##.fixed_arrows
 https://laleggepertutti.it##.footer-top-feild
@@ -11884,6 +11885,7 @@ https://prelex.it##.rstboxes
 https://ogrtorino.it##.sc-dxgOiQ
 https://larrysmith.it##.scroll-banner
 https://teleradiopadrepio.it##.spu-bg
+https://close-up.it##.stickyFooter
 https://boxannunci.com##.terms
 https://regalideidesideri.it##.topBanner__content
 https://ingdirect.it##.topalertbanner
@@ -19251,6 +19253,7 @@ http://bing.com###b_notificationContainer
 http://uktv.co.uk###back-to-old-site
 http://cc.com###balaMainContainer
 http://best-sound.com,shadycharacters.co.uk,whatsapp.com###banner
+http://bitly.com###banner-spacer
 http://area-codes.org.uk###baselink
 http://thebanker.com###bdbanner
 http://europa.eu###block-esm-base-cookie-message-footer
@@ -20151,8 +20154,10 @@ http://acpm.fr###newsletter
 http://bpostbank.be###notificationpanel
 http://savi-france.fr###notifybar
 http://aol.fr###ooCont
+http://mimibuzz.com###page_arrowUp
 http://smile.fr###popup
 http://lequipe.fr###rebonds
+http://elle.fr###scroll_top
 http://fonepaw.fr###sendemail
 http://gentside.com###signup-holder
 http://boingtv.fr,coreight.com,editions-hatier.fr,igen.fr,macg.co,novaplanet.com###sliding-popup
@@ -20243,9 +20248,6 @@ http://larousse.fr##.ui-dialog
 http://larousse.fr##.ui-widget-overlay
 http://meteomedia.com##.woahbar
 http://algerie-eco.com#ae-fbp
-http://video-buzz.eu##div[style="position:fixed;top:220px;left:0px;width:110px;-moz-border-radius:0px 5px 5px 0px;-webkit-border-radius:0px 5px 5px 0px;background-color:#ffffff;z-index:50;padding:10px;padding-left:0px;padding-top:50px;border:1px solid #000000;border-left:0px solid #000000;box-shadow: 1px 1px 4px #aaa;"]
-http://video-buzz.eu##div[style="position:relative;height:335px;background-color:#ebebeb;overflow:hidden;border:2px solid #222222;"]
-http://video-buzz.eu##div[style="position:relative;height:38px;background-color:#ebebeb;overflow:hidden;border:2px solid #222222;padding-top:15px;padding-left:56px;"]
 http://challenges.fr,nouvelobs.com,sciencesetavenir.fr##div[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 http://buzger.com##div[style="z-index:10000000; position:fixed; padding:10px; top:0px; width:100%; background-color:#fff; color:#888; "]
 http://hsbc.fr##div[style^="display: block; margin: 20px 0px 0px 0px;"]
@@ -20411,6 +20413,7 @@ http://digitaleterrestrefacile.it###custom_html-9
 http://rockit.it###fangate-container
 http://eprice.it###fastRegBottom
 http://bastabugie.it###feed
+http://creditofondiario.eu###financity-footer-back-to-top-button
 http://ilgiornale.it###footer_map_col_1
 http://ilquotidianodellazio.it###form-newsletter
 http://advisoronline.it###formSubscriptionDiv
@@ -20513,7 +20516,7 @@ http://webnews.it##.email
 http://eprice.it##.ep_GoTop
 http://policymakermag.it,startmag.it##.essb-subscribe-form
 http://pambianconews.com,tecnoandroid.it##.essb_mailform
-http://corriere.it##.fancybox-overlay
+http://corriere.it,proiezionidiborsa.it##.fancybox-overlay
 http://ilsicilia.it##.feed
 http://tomshw.it##.fixed_arrows
 http://laleggepertutti.it##.footer-top-feild
@@ -22303,6 +22306,7 @@ http://prelex.it##.rstboxes
 http://ogrtorino.it##.sc-dxgOiQ
 http://larrysmith.it##.scroll-banner
 http://teleradiopadrepio.it##.spu-bg
+http://close-up.it##.stickyFooter
 http://boxannunci.com##.terms
 http://regalideidesideri.it##.topBanner__content
 http://ingdirect.it##.topalertbanner

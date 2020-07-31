@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GndAV2LZrg6Ll/ENWidp8Q
-! Version: 202007300013
+! Checksum: ODIrvjQRcQDEQqZk1M1vQQ
+! Version: 202007310013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4755,7 +4755,6 @@
 ||https://zuixingkong.com/gao/
 ||https://zuixingkong.com/show-g/
 ||https://zuixingkong.com^*mygg/
-||https://zuoche.com/promo/*.jspx
 ||https://zuofang05.com/template/mytheme/statics/image/1/
 ||https://zuoyebang.cc/static/question/pkg/wap-qb_
 ||https://zwwooooo.com/images/hengtian.
@@ -7191,6 +7190,7 @@
 ||http://sjy-stone.com.cn^
 ||http://sm077.com^
 ||http://smallmovieapp.com^
+||http://smartfarming.cn^
 ||http://smf82.cn^
 ||http://smitionsory.co^
 ||http://smucdn.com^
@@ -7631,6 +7631,7 @@
 ||http://xxx55tp.com^*.gif
 ||http://xxyxmdq.cn^
 ||http://xxyzwtsylw.com^
+||http://xyadaa.com^
 ||http://xycnz.com^
 ||http://xycnzz.com^
 ||http://xyimg.net^$domain=~xy.com
@@ -7815,6 +7816,7 @@
 ||http://zp22938576.com^
 ||http://zp265.com^$third-party
 ||http://zpwansf.cn^
+||http://zpxw.vip^
 ||http://zqworks.com^
 ||http://zry8181.com^
 ||http://zsdexun.com.cn^
@@ -12503,7 +12505,6 @@
 ||http://zuixingkong.com/gao/
 ||http://zuixingkong.com/show-g/
 ||http://zuixingkong.com^*mygg/
-||http://zuoche.com/promo/*.jspx
 ||http://zuofang05.com/template/mytheme/statics/image/1/
 ||http://zuoyebang.cc/static/question/pkg/wap-qb_
 ||http://zwwooooo.com/images/hengtian.
@@ -13329,8 +13330,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://xiaobingmai.cn^
-||http://jinxinyuan.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13571,6 +13570,8 @@
 ||http://apxyz.com^
 ||http://aquarius8.cn^
 ||http://archrug.com^
+||http://askfsh.cn^
+||http://askspsl.cn^
 ||http://autobedo.com.cn^
 ||http://autodaluosiji.com^
 ||http://avsmt.cn^
@@ -13602,6 +13603,7 @@
 ||http://bbvdd.com^
 ||http://bchur.com^
 ||http://bcunr.com^
+||http://bdcapweb.xyz^
 ||http://bdiae.com^
 ||http://bei7.clewx.com^
 ||http://beifmu.com^
@@ -13771,6 +13773,7 @@
 ||http://czxjx.cn^
 ||http://czzdf.com^
 ||http://d1skp.cn^
+||http://d1wn3.cn^
 ||http://d2wb1.cn^
 ||http://d5a5a.xyz^
 ||http://d663q.cn^
@@ -14092,6 +14095,7 @@
 ||http://htfmbt.com^
 ||http://htjsk.com^
 ||http://huayange.com^
+||http://huayangli.cn^
 ||http://huayi65.com^
 ||http://hueekqx.cn^
 ||http://huician.cn^
@@ -14184,6 +14188,7 @@
 ||http://jingxiangyalvji.cn^
 ||http://jinlubaojie.cn^
 ||http://jinrungroup.cn^
+||http://jinxinyuan.cn^
 ||http://jioeg.com^
 ||http://jiumishow.com^
 ||http://jixiby.cn^
@@ -14933,6 +14938,7 @@
 ||http://xiangchim0.com^
 ||http://xiangwangdesh.com^
 ||http://xiansenmeng.cn^
+||http://xiaobingmai.cn^
 ||http://xiashu.cc/template/mobile/public/scripts/dcxfs.js
 ||http://xieyanmin.com.cn^
 ||http://xindelin.cn^
@@ -15054,9 +15060,11 @@
 ||http://yoxus.cn^
 ||http://yr29r.cn^
 ||http://yrrsckr.cn^
+||http://yscci.com^
 ||http://ysjweb.com^
 ||http://yssm.tv/sm/true.js
 ||http://ysxs8.com/js/play_db.js
+||http://ysyhljt.vip^
 ||http://ytbnm.cn^
 ||http://ytcard.cn^
 ||http://ytdksb.com^
@@ -15105,6 +15113,7 @@
 ||http://zhamm.cn^
 ||http://zhanjiangletian.com^
 ||http://zhenben.cc/2000/
+||http://zhengjsmd.cn^
 ||http://zhengzhoupengbo.com^
 ||http://zhfyws.com^
 ||http://zhide-edu.cn^
@@ -15844,6 +15853,7 @@ https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
+https://gamer.com.tw##.a-mercy-d:not([href*=".gamer."])
 https://gpcxw.com###AA2
 https://yahoo.com###ACT_crazy
 https://yahoo.com###ACT_takeover
@@ -16584,6 +16594,7 @@ https://58.com###infolist > .recycleInfo
 https://520call.me,520cc.cc,jav777.cc,yocoolnet.in###inplayer
 https://pchome.net###intel-bar
 https://mm-cg.com###ioshowAD
+https://zmz2020.com###iqiyi
 https://xh127.com###isubpi
 https://2345.com###ivy-taobao
 https://baidu.com###j-ad-first
@@ -18599,6 +18610,7 @@ https://people.com.cn##.ipc_none
 https://iqshw.com##.iqshwad-comm
 https://haojiyou.la##.iqshwad-div
 https://czsp12.com##.iswindow
+https://bilibili.com##.item > a[href*="cm.bilibili.com"]
 https://carrotchou.blog##.item > a[href^="http"]:not([href*=".carrotchou."])
 https://zol.com.cn##.item-sale
 https://gansudaily.com.cn##.itemFloat
@@ -21904,6 +21916,7 @@ http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
+http://gamer.com.tw##.a-mercy-d:not([href*=".gamer."])
 http://gpcxw.com###AA2
 http://yahoo.com###ACT_crazy
 http://yahoo.com###ACT_takeover
@@ -22644,6 +22657,7 @@ http://58.com###infolist > .recycleInfo
 http://520call.me,520cc.cc,jav777.cc,yocoolnet.in###inplayer
 http://pchome.net###intel-bar
 http://mm-cg.com###ioshowAD
+http://zmz2020.com###iqiyi
 http://xh127.com###isubpi
 http://2345.com###ivy-taobao
 http://baidu.com###j-ad-first
@@ -24659,6 +24673,7 @@ http://people.com.cn##.ipc_none
 http://iqshw.com##.iqshwad-comm
 http://haojiyou.la##.iqshwad-div
 http://czsp12.com##.iswindow
+http://bilibili.com##.item > a[href*="cm.bilibili.com"]
 http://carrotchou.blog##.item > a[href^="http"]:not([href*=".carrotchou."])
 http://zol.com.cn##.item-sale
 http://gansudaily.com.cn##.itemFloat
