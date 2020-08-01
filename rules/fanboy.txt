@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QEhOU0uSEr46B1jjAp01mA
-! Version: 202007302351
+! Checksum: rCL6iXaaCduw0Fzta6bM1A
+! Version: 202007312351
 ! Title: Fanboy's Annoyance List
-! Last modified: 30 Jul 2020 23:51 UTC
+! Last modified: 31 Jul 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9590,7 +9590,7 @@ https://podbean.com##div[style^="z-index: 999999; position: fixed;"]
 https://my.games##header > .gdpr
 https://weatherbug.com##notification-footer
 https://satispay.com##p[class^="cookie-banner"]
-https://opentip.kaspersky.com##section[data-t="cks-dsc"][class="E_ce"]
+https://opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 https://truecaller.com##span > .max-w-md.shadow-lg
 https://play.google.com##.gb_g:has-text(cookie)
 https://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
@@ -9729,6 +9729,7 @@ https://paperblog.fr###left-block
 https://fnac.com###link-top
 https://onorient.com###mc_embed_signup
 https://solocalgroup.com###message-plugin
+https://ma-reduc.com###mr-scroll
 https://elsevier-masson.fr###myModal
 https://acpm.fr###newsletter
 https://bpostbank.be###notificationpanel
@@ -10642,6 +10643,7 @@ https://leparisien.fr##.plusRecommande
 https://madagascar-tribune.com##.rezo_sociaux
 https://bledina.com##.rs-icon
 https://autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,diningcity.be,ecoaustral.com,epochtimes.fr,franceinter.fr,francetvinfo.fr,gamekult.com,gettyimages.be,gettyimages.fr,la-croix.com,landrover.be,landrover.ch,landrover.fr,valeursactuelles.com##.share
+https://quebeccoupongratuit.com##.share-site
 https://rtl.fr##.shared-logo
 https://fracademic.com##.smm
 https://lepoint.fr##.snlinks
@@ -12611,6 +12613,7 @@ https://community.imgur.com#@#.icons
 https://upworthy.com#@#.image-share
 https://24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,stationgossip.com,thisismoney.co.uk#@#.img-share
 https://fandom.com#@#.is-social
+https://dikidi.net#@#.item-shares
 https://thenewamerican.com#@#.itemSocialSharing
 https://sap.com#@#.j-social-actions
 https://sap.com#@#.j-social-button
@@ -12678,7 +12681,7 @@ https://greatbritishchefs.com#@#.share-header
 https://howtogeek.com#@#.share-heading
 https://ida2at.com#@#.share-holder
 https://app.sococo.com,iherb.com,vimeo.com#@#.share-icon
-https://1ab.ru,golem.de,tumblr.com#@#.share-item
+https://1ab.ru,dikidi.net,golem.de,tumblr.com#@#.share-item
 https://vimeo.com#@#.share-label
 https://recite.com#@#.share-left
 https://askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pinksluts.com,pomponik.pl,sale.aliexpress.com,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
@@ -20010,7 +20013,7 @@ http://podbean.com##div[style^="z-index: 999999; position: fixed;"]
 http://my.games##header > .gdpr
 http://weatherbug.com##notification-footer
 http://satispay.com##p[class^="cookie-banner"]
-http://opentip.kaspersky.com##section[data-t="cks-dsc"][class="E_ce"]
+http://opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 http://truecaller.com##span > .max-w-md.shadow-lg
 http://play.google.com##.gb_g:has-text(cookie)
 http://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
@@ -20149,6 +20152,7 @@ http://paperblog.fr###left-block
 http://fnac.com###link-top
 http://onorient.com###mc_embed_signup
 http://solocalgroup.com###message-plugin
+http://ma-reduc.com###mr-scroll
 http://elsevier-masson.fr###myModal
 http://acpm.fr###newsletter
 http://bpostbank.be###notificationpanel
@@ -21062,6 +21066,7 @@ http://leparisien.fr##.plusRecommande
 http://madagascar-tribune.com##.rezo_sociaux
 http://bledina.com##.rs-icon
 http://autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,diningcity.be,ecoaustral.com,epochtimes.fr,franceinter.fr,francetvinfo.fr,gamekult.com,gettyimages.be,gettyimages.fr,la-croix.com,landrover.be,landrover.ch,landrover.fr,valeursactuelles.com##.share
+http://quebeccoupongratuit.com##.share-site
 http://rtl.fr##.shared-logo
 http://fracademic.com##.smm
 http://lepoint.fr##.snlinks
@@ -23032,6 +23037,7 @@ http://community.imgur.com#@#.icons
 http://upworthy.com#@#.image-share
 http://24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,stationgossip.com,thisismoney.co.uk#@#.img-share
 http://fandom.com#@#.is-social
+http://dikidi.net#@#.item-shares
 http://thenewamerican.com#@#.itemSocialSharing
 http://sap.com#@#.j-social-actions
 http://sap.com#@#.j-social-button
@@ -23099,7 +23105,7 @@ http://greatbritishchefs.com#@#.share-header
 http://howtogeek.com#@#.share-heading
 http://ida2at.com#@#.share-holder
 http://app.sococo.com,iherb.com,vimeo.com#@#.share-icon
-http://1ab.ru,golem.de,tumblr.com#@#.share-item
+http://1ab.ru,dikidi.net,golem.de,tumblr.com#@#.share-item
 http://vimeo.com#@#.share-label
 http://recite.com#@#.share-left
 http://askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pinksluts.com,pomponik.pl,sale.aliexpress.com,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
