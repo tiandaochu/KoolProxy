@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rCL6iXaaCduw0Fzta6bM1A
-! Version: 202007312351
+! Checksum: 7vvUuqzH6X/JQYXwMbeo2Q
+! Version: 202008012351
 ! Title: Fanboy's Annoyance List
-! Last modified: 31 Jul 2020 23:51 UTC
+! Last modified: 01 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6442,6 +6442,8 @@ https://ecowatch.com##.eco_subscribe_box
 https://digg.com##.editions-promo
 https://jlconline.com##.editorial-promo
 https://insider.com##.editorial-sidebar
+https://reclaimthenet.org##.elementor-element-4a768d4
+https://reclaimthenet.org##.elementor-element-7fc59b9
 https://alriyadhdaily.com,democracynow.org,emigrate2.co.uk,pjmedia.com,townhall.com##.email
 https://hermanmiller.com,refinery29.com##.email-acquisition
 https://smarteranalyst.com##.email-alerts-pops
@@ -16864,6 +16866,8 @@ http://ecowatch.com##.eco_subscribe_box
 http://digg.com##.editions-promo
 http://jlconline.com##.editorial-promo
 http://insider.com##.editorial-sidebar
+http://reclaimthenet.org##.elementor-element-4a768d4
+http://reclaimthenet.org##.elementor-element-7fc59b9
 http://alriyadhdaily.com,democracynow.org,emigrate2.co.uk,pjmedia.com,townhall.com##.email
 http://hermanmiller.com,refinery29.com##.email-acquisition
 http://smarteranalyst.com##.email-alerts-pops
