@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7vvUuqzH6X/JQYXwMbeo2Q
-! Version: 202008012351
+! Checksum: kyNgh+JqKpQND27wINVTlg
+! Version: 202008022351
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Aug 2020 23:51 UTC
+! Last modified: 02 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -277,7 +277,6 @@
 ||https://rsspump.com^$third-party
 ||https://s3.amazonaws.com/scripts.hellobar.com/$third-party
 ||https://saambaa.com^$third-party
-||https://sail-horizon.com/horizon/$third-party
 ||https://sail-horizon.com/scout/$third-party
 ||https://sail-horizon.com^$third-party
 ||https://sail-personalize.com^$third-party
@@ -1167,6 +1166,7 @@
 ||https://warnerbros.it^*/top.png
 ||https://wittgenstein.it/wp-content/themes/wittgenstein/images/ilpost.png
 ||https://wp.com/www.proiezionidiborsa.it/*/google-news-
+||https://diners.co.jp^*/icon_pagetop_
 ||https://gamespark.jp^*/pagetop.
 ||https://girlsheaven-job.net^*/pagetop.
 ||https://img.mixi.net^$third-party
@@ -1179,6 +1179,7 @@
 ||https://okjapan.jp^*_gotop_
 ||https://radionikkei.jp^*/pagetop.
 ||https://share.gree.jp^$third-party
+||https://sumitclub.jp^*_topButton.
 ||https://suumo.jp^*/pagetop.
 ||https://takashimaya.co.jp^*/pagetop.
 ||https://tweetbuzz.jp^$third-party
@@ -1276,6 +1277,7 @@
 ||https://keltendorf-mitterkirchen.at/system/web/cookie.ashx
 ||https://strato.de^*/consent.js
 ||https://docteurclic.com/ajax/ajax_get_disc.aspx
+||https://gmx.fr/uim/bidding/consent.js
 ||https://jeu.video^*/partners.js
 ||https://thesiteoueb.net/js/cm-head.js
 ||https://styria.hr^*/cookies.min.js
@@ -1593,7 +1595,6 @@
 ||http://rsspump.com^$third-party
 ||http://s3.amazonaws.com/scripts.hellobar.com/$third-party
 ||http://saambaa.com^$third-party
-||http://sail-horizon.com/horizon/$third-party
 ||http://sail-horizon.com/scout/$third-party
 ||http://sail-horizon.com^$third-party
 ||http://sail-personalize.com^$third-party
@@ -2532,6 +2533,7 @@
 ||http://warnerbros.it^*/top.png
 ||http://wittgenstein.it/wp-content/themes/wittgenstein/images/ilpost.png
 ||http://wp.com/www.proiezionidiborsa.it/*/google-news-
+||http://diners.co.jp^*/icon_pagetop_
 ||http://gamespark.jp^*/pagetop.
 ||http://girlsheaven-job.net^*/pagetop.
 ||http://img.mixi.net^$third-party,domain=~mixi.jp
@@ -2544,6 +2546,7 @@
 ||http://okjapan.jp^*_gotop_
 ||http://radionikkei.jp^*/pagetop.
 ||http://share.gree.jp^$third-party
+||http://sumitclub.jp^*_topButton.
 ||http://suumo.jp^*/pagetop.
 ||http://takashimaya.co.jp^*/pagetop.
 ||http://tweetbuzz.jp^$third-party
@@ -2649,6 +2652,7 @@
 ||http://consent.prismamedia.com^
 ||http://cookies.leadplace.fr^
 ||http://docteurclic.com/ajax/ajax_get_disc.aspx
+||http://gmx.fr/uim/bidding/consent.js
 ||http://jeu.video^*/partners.js
 ||http://thesiteoueb.net/js/cm-head.js
 ||http://styria.hr^*/cookies.min.js
@@ -5831,7 +5835,6 @@ https://xhamster.com,xhamster.desi,xhamster.one##.wig-spb
 https://xhamster.com##.wih-cams-thumb-widget
 https://xhamster.com,xhamster.desi,xhamster.one##.wih-cams-widget
 https://wildammo.com##.wild_ammo-tabs
-https://sharedir.com##.window
 https://healthgrades.com##.wing
 https://theatlanticwire.com##.wire-to-go
 https://wetpaint.com##.wp-article-recommender
@@ -6453,7 +6456,7 @@ https://thegatewaypundit.com##.email-list-subscribe
 https://howtogeek.com##.email-overlay
 https://forbes.com##.email-promo
 https://ocregister.com##.email-sign-up
-https://chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,newrepublic.com,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,trueachievements.com,truetrophies.com,twentytwowords.com,washingtonblade.com,waynedupree.com##.email-signup
+https://chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,newrepublic.com,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,trueachievements.com,truetrophies.com,twentytwowords.com,twr.asia,washingtonblade.com,waynedupree.com##.email-signup
 https://bhcourier.com##.email-signup-container
 https://newrepublic.com##.email-signup__slim
 https://maritimeprofessional.com##.email-subscription
@@ -6810,6 +6813,7 @@ https://newscientist.com##.signpost
 https://armytimes.com,biopharmadive.com,breakingisraelnews.com,defensenews.com,gigaom.com,motorsportweek.com,mumbrella.com.au,quantamagazine.org,screeninnovations.com,stellar.ie,theafricareport.com,thecourier.co.uk,viralnova.com##.signup
 https://searchenginewatch.com##.signup-banner
 https://mrctv.org##.signup-block
+https://androidheadlines.com##.signup-button
 https://gfycat.com##.signup-call-to-action
 https://standard.co.uk##.signup-comp
 https://tvnz.co.nz##.signup-content
@@ -7241,6 +7245,7 @@ https://annahar.com##.notifications-overlay
 https://fanpage.it##.overlay-content-wrapper
 https://mail.ru##.ph-balloo
 https://estadao.com.br##.push-body
+https://flvto.biz##.push-offer
 https://cbsnews.com,yelp.com###smart-banner
 https://dailymail.co.uk,m.jpost.com###smartBanner
 https://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
@@ -8099,6 +8104,7 @@ https://the-peak.ca##.nav-icon-wrap
 https://ksiolajidebt.com##.nav-twitter
 https://metroradio.com.hk##.nav17_scbtn
 https://triblive.com##.navbar-right
+https://chess.com##.navigation-footer-platforms-component
 https://thebugle.co.za##.network-btn
 https://supergreenme.com##.network_icon
 https://bitrebels.com##.network_links
@@ -9826,6 +9832,7 @@ https://publicsenat.fr##.top-message
 https://cerdas.com##.topBar
 https://tetley.fr##.topFix
 https://e-leclerc.com##.top_banner
+https://gmx.fr##.topper-wrapper
 https://gabonactu.com##.toup
 https://larousse.fr##.ui-dialog
 https://larousse.fr##.ui-widget-overlay
@@ -10049,6 +10056,7 @@ https://fides.org###subcribe-nl
 https://fm-world.it###subscribe-form
 https://lavocedeltrentino.it###subscription-form
 https://tp24.it###templatemo_container_barra
+https://ultimouomo.com###text-2
 https://emmepress.com###text-9
 https://isocellitalia.it###top
 https://avantishop.it,lacomunicazione.it###top-link
@@ -10081,6 +10089,7 @@ https://infobuildenergia.it##.box_dem
 https://wuerth.it##.btn-scroll-top
 https://liquiriziacalabrese.it##.btn-top
 https://pagamentidigitali.it##.btn_iscriviti
+https://lillapois.com##.btt-button
 https://lastampa.it##.call-iscrizione
 https://bmw.it,calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,filmatipornohd.com,kellergrigliati.it,maximitalia.it,mdspa.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
 https://sportitaliabet.it##.cg-top-arrow
@@ -10191,7 +10200,7 @@ https://tv-tokyo.co.jp###bangumi_page_top
 https://jti.co.jp###footer-pagetop
 https://meiji.com###ftr-pagetop
 https://suumo.jp###js-pageTop
-https://biglobe.ne.jp,keisei.co.jp###page-top
+https://biglobe.ne.jp,keisei.co.jp,sumitclub.jp###page-top
 https://tabelog.com###page-up
 https://girlsheaven-job.net,gnavi.co.jp,harpersbazaar.jp,news24.jp###pageTop
 https://yahoo.co.jp###pageTopButton
@@ -10205,6 +10214,7 @@ https://diamond.jp###top-btn
 https://japanpost.jp###topBtn
 https://j-wave.co.jp###totop
 https://yahoo.co.jp##.ScrollButton
+https://diners.co.jp##.dc__pagetop
 https://webtsc.com##.footer-totop
 https://allnightnippon.com##.footer_pagetop
 https://toyota.jp##.global-footer-pagetop-href
@@ -10636,12 +10646,14 @@ https://rtl.fr##.ld
 https://tameteo.com##.liCompartir
 https://lachainemeteo.com##.lien_soc
 https://viedemerde.fr##.likebox
+https://terresinovia.fr##.lksociaux
 https://marmiton.org##.m_content_recette_share
 https://marmiton.org##.m_suivez_nous_btn
 https://tempsreel.nouvelobs.com##.obs-galerie-bp-share
 https://europe1.fr,lemonde.fr##.partage
 https://jeuxvideo.fr,jeuxvideopc.com##.pictos
 https://leparisien.fr##.plusRecommande
+https://terresinovia.fr##.reseaux-list
 https://madagascar-tribune.com##.rezo_sociaux
 https://bledina.com##.rs-icon
 https://autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,diningcity.be,ecoaustral.com,epochtimes.fr,franceinter.fr,francetvinfo.fr,gamekult.com,gettyimages.be,gettyimages.fr,la-croix.com,landrover.be,landrover.ch,landrover.fr,valeursactuelles.com##.share
@@ -10649,7 +10661,7 @@ https://quebeccoupongratuit.com##.share-site
 https://rtl.fr##.shared-logo
 https://fracademic.com##.smm
 https://lepoint.fr##.snlinks
-https://20minutes.fr,africa1.com,buyindz.com,courrierinternational.com,europages.fr,europe1.fr,gamergen.com,jeu.video,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,ledevoir.com,lorientlejour.com,methodelafayfemme.fr,misk.tn,petitfute.com,radioorient.com,renaultsport.com,sudouest.fr##.social
+https://20minutes.fr,africa1.com,buyindz.com,courrierinternational.com,europages.fr,europe1.fr,gamergen.com,gmx.fr,jeu.video,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,ledevoir.com,lorientlejour.com,methodelafayfemme.fr,misk.tn,petitfute.com,radioorient.com,renaultsport.com,sudouest.fr##.social
 https://fr.msn.com##.stbp-tbl
 https://telerama.fr##.t12-user-resoc
 https://epochtimes.fr##.tools
@@ -10675,6 +10687,7 @@ https://wesalhaq.tv##.go
 https://gharbiaonline.com##.google
 https://ikhwanonline.info,soutalomma.com##.header-social
 https://wesalhaq.tv##.ins
+https://zarfilm.space##.instabtn
 https://alfalstiniah.tv##.itemAsideInfo
 https://hannibaltv.com.tn##.rs_bas
 https://maannews.net##.sc
@@ -10686,6 +10699,7 @@ https://alahlionline.com##.social-network
 https://nooun.net##.socila
 https://wesalhaq.tv##.tele
 https://skynewsarabia.com##.telegram
+https://zarfilm.space##.telegram_join
 https://wesalhaq.tv##.tw
 https://elsharq.org,wesalhaq.tv##.twitter
 https://al-watan.com##.w-Wrapper
@@ -10931,6 +10945,7 @@ https://kakakumag.com##.article-sns-top
 https://oricon.co.jp##.block-sub-sns
 https://1242.com##.conts_Facebook
 https://1242.com##.conts_Twitter
+https://diners.co.jp##.dc__footer_sns
 https://bayfm.co.jp,ironna.jp##.facebook
 https://ismedia.jp##.header-fb
 https://ismedia.jp##.header-tw
@@ -11680,6 +11695,7 @@ https://e-lenovo.gr##.fullwidth-notice
 https://mortoglou.gr##.header-notice
 https://lidl-hellas.gr,lidl.com.cy##.notification
 https://stokokkino.gr##.popup
+https://diners.co.il##.message-container
 https://aegon.hu###AEGONCookieLine
 https://alpinbike.hu,belteriajtok.hu,grandacs.hu,mester.hu###CLayer
 https://sokkaljobb.hu###SPS_noaccept
@@ -12993,6 +13009,7 @@ https://consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
 https://consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
 https://boursorama.com,nuxeo.com#@#.cookie-banner
 https://janrain.com,moemax.de,rituals.com,xxxlshop.de#@#.cookie-bar
+https://stabila.com#@#.cookie-bar-visible
 https://rituals.com#@#.cookie-bar-wrapper
 https://rituals.com#@#.cookie-bar:not(body)
 https://egmont.com#@#.cookie-bar:not(body):not(html)
@@ -16255,7 +16272,6 @@ http://xhamster.com,xhamster.desi,xhamster.one##.wig-spb
 http://xhamster.com##.wih-cams-thumb-widget
 http://xhamster.com,xhamster.desi,xhamster.one##.wih-cams-widget
 http://wildammo.com##.wild_ammo-tabs
-http://sharedir.com##.window
 http://healthgrades.com##.wing
 http://theatlanticwire.com##.wire-to-go
 http://wetpaint.com##.wp-article-recommender
@@ -16877,7 +16893,7 @@ http://thegatewaypundit.com##.email-list-subscribe
 http://howtogeek.com##.email-overlay
 http://forbes.com##.email-promo
 http://ocregister.com##.email-sign-up
-http://chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,newrepublic.com,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,trueachievements.com,truetrophies.com,twentytwowords.com,washingtonblade.com,waynedupree.com##.email-signup
+http://chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,newrepublic.com,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,trueachievements.com,truetrophies.com,twentytwowords.com,twr.asia,washingtonblade.com,waynedupree.com##.email-signup
 http://bhcourier.com##.email-signup-container
 http://newrepublic.com##.email-signup__slim
 http://maritimeprofessional.com##.email-subscription
@@ -17234,6 +17250,7 @@ http://newscientist.com##.signpost
 http://armytimes.com,biopharmadive.com,breakingisraelnews.com,defensenews.com,gigaom.com,motorsportweek.com,mumbrella.com.au,quantamagazine.org,screeninnovations.com,stellar.ie,theafricareport.com,thecourier.co.uk,viralnova.com##.signup
 http://searchenginewatch.com##.signup-banner
 http://mrctv.org##.signup-block
+http://androidheadlines.com##.signup-button
 http://gfycat.com##.signup-call-to-action
 http://standard.co.uk##.signup-comp
 http://tvnz.co.nz##.signup-content
@@ -17665,6 +17682,7 @@ http://annahar.com##.notifications-overlay
 http://fanpage.it##.overlay-content-wrapper
 http://mail.ru##.ph-balloo
 http://estadao.com.br##.push-body
+http://flvto.biz##.push-offer
 http://cbsnews.com,yelp.com###smart-banner
 http://dailymail.co.uk,m.jpost.com###smartBanner
 http://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
@@ -18523,6 +18541,7 @@ http://the-peak.ca##.nav-icon-wrap
 http://ksiolajidebt.com##.nav-twitter
 http://metroradio.com.hk##.nav17_scbtn
 http://triblive.com##.navbar-right
+http://chess.com##.navigation-footer-platforms-component
 http://thebugle.co.za##.network-btn
 http://supergreenme.com##.network_icon
 http://bitrebels.com##.network_links
@@ -20251,6 +20270,7 @@ http://publicsenat.fr##.top-message
 http://cerdas.com##.topBar
 http://tetley.fr##.topFix
 http://e-leclerc.com##.top_banner
+http://gmx.fr##.topper-wrapper
 http://gabonactu.com##.toup
 http://larousse.fr##.ui-dialog
 http://larousse.fr##.ui-widget-overlay
@@ -20474,6 +20494,7 @@ http://fides.org###subcribe-nl
 http://fm-world.it###subscribe-form
 http://lavocedeltrentino.it###subscription-form
 http://tp24.it###templatemo_container_barra
+http://ultimouomo.com###text-2
 http://emmepress.com###text-9
 http://isocellitalia.it###top
 http://avantishop.it,lacomunicazione.it###top-link
@@ -20506,6 +20527,7 @@ http://infobuildenergia.it##.box_dem
 http://wuerth.it##.btn-scroll-top
 http://liquiriziacalabrese.it##.btn-top
 http://pagamentidigitali.it##.btn_iscriviti
+http://lillapois.com##.btt-button
 http://lastampa.it##.call-iscrizione
 http://bmw.it,calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,filmatipornohd.com,kellergrigliati.it,maximitalia.it,mdspa.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
 http://sportitaliabet.it##.cg-top-arrow
@@ -20616,7 +20638,7 @@ http://tv-tokyo.co.jp###bangumi_page_top
 http://jti.co.jp###footer-pagetop
 http://meiji.com###ftr-pagetop
 http://suumo.jp###js-pageTop
-http://biglobe.ne.jp,keisei.co.jp###page-top
+http://biglobe.ne.jp,keisei.co.jp,sumitclub.jp###page-top
 http://tabelog.com###page-up
 http://girlsheaven-job.net,gnavi.co.jp,harpersbazaar.jp,news24.jp###pageTop
 http://yahoo.co.jp###pageTopButton
@@ -20630,6 +20652,7 @@ http://diamond.jp###top-btn
 http://japanpost.jp###topBtn
 http://j-wave.co.jp###totop
 http://yahoo.co.jp##.ScrollButton
+http://diners.co.jp##.dc__pagetop
 http://webtsc.com##.footer-totop
 http://allnightnippon.com##.footer_pagetop
 http://toyota.jp##.global-footer-pagetop-href
@@ -21061,12 +21084,14 @@ http://rtl.fr##.ld
 http://tameteo.com##.liCompartir
 http://lachainemeteo.com##.lien_soc
 http://viedemerde.fr##.likebox
+http://terresinovia.fr##.lksociaux
 http://marmiton.org##.m_content_recette_share
 http://marmiton.org##.m_suivez_nous_btn
 http://tempsreel.nouvelobs.com##.obs-galerie-bp-share
 http://europe1.fr,lemonde.fr##.partage
 http://jeuxvideo.fr,jeuxvideopc.com##.pictos
 http://leparisien.fr##.plusRecommande
+http://terresinovia.fr##.reseaux-list
 http://madagascar-tribune.com##.rezo_sociaux
 http://bledina.com##.rs-icon
 http://autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,diningcity.be,ecoaustral.com,epochtimes.fr,franceinter.fr,francetvinfo.fr,gamekult.com,gettyimages.be,gettyimages.fr,la-croix.com,landrover.be,landrover.ch,landrover.fr,valeursactuelles.com##.share
@@ -21074,7 +21099,7 @@ http://quebeccoupongratuit.com##.share-site
 http://rtl.fr##.shared-logo
 http://fracademic.com##.smm
 http://lepoint.fr##.snlinks
-http://20minutes.fr,africa1.com,buyindz.com,courrierinternational.com,europages.fr,europe1.fr,gamergen.com,jeu.video,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,ledevoir.com,lorientlejour.com,methodelafayfemme.fr,misk.tn,petitfute.com,radioorient.com,renaultsport.com,sudouest.fr##.social
+http://20minutes.fr,africa1.com,buyindz.com,courrierinternational.com,europages.fr,europe1.fr,gamergen.com,gmx.fr,jeu.video,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,ledevoir.com,lorientlejour.com,methodelafayfemme.fr,misk.tn,petitfute.com,radioorient.com,renaultsport.com,sudouest.fr##.social
 http://fr.msn.com##.stbp-tbl
 http://telerama.fr##.t12-user-resoc
 http://epochtimes.fr##.tools
@@ -21100,6 +21125,7 @@ http://wesalhaq.tv##.go
 http://gharbiaonline.com##.google
 http://ikhwanonline.info,soutalomma.com##.header-social
 http://wesalhaq.tv##.ins
+http://zarfilm.space##.instabtn
 http://alfalstiniah.tv##.itemAsideInfo
 http://hannibaltv.com.tn##.rs_bas
 http://maannews.net##.sc
@@ -21111,6 +21137,7 @@ http://alahlionline.com##.social-network
 http://nooun.net##.socila
 http://wesalhaq.tv##.tele
 http://skynewsarabia.com##.telegram
+http://zarfilm.space##.telegram_join
 http://wesalhaq.tv##.tw
 http://elsharq.org,wesalhaq.tv##.twitter
 http://al-watan.com##.w-Wrapper
@@ -21356,6 +21383,7 @@ http://kakakumag.com##.article-sns-top
 http://oricon.co.jp##.block-sub-sns
 http://1242.com##.conts_Facebook
 http://1242.com##.conts_Twitter
+http://diners.co.jp##.dc__footer_sns
 http://bayfm.co.jp,ironna.jp##.facebook
 http://ismedia.jp##.header-fb
 http://ismedia.jp##.header-tw
@@ -22106,6 +22134,7 @@ http://e-lenovo.gr##.fullwidth-notice
 http://mortoglou.gr##.header-notice
 http://lidl-hellas.gr,lidl.com.cy##.notification
 http://stokokkino.gr##.popup
+http://diners.co.il##.message-container
 http://aegon.hu###AEGONCookieLine
 http://alpinbike.hu,belteriajtok.hu,grandacs.hu,mester.hu###CLayer
 http://sokkaljobb.hu###SPS_noaccept
@@ -23419,6 +23448,7 @@ http://consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
 http://consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
 http://boursorama.com,nuxeo.com#@#.cookie-banner
 http://janrain.com,moemax.de,rituals.com,xxxlshop.de#@#.cookie-bar
+http://stabila.com#@#.cookie-bar-visible
 http://rituals.com#@#.cookie-bar-wrapper
 http://rituals.com#@#.cookie-bar:not(body)
 http://egmont.com#@#.cookie-bar:not(body):not(html)
