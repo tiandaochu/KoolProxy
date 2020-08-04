@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kyNgh+JqKpQND27wINVTlg
-! Version: 202008022351
+! Checksum: 4I4AfHYyJ3TIhiCKFtD6Sw
+! Version: 202008032351
 ! Title: Fanboy's Annoyance List
-! Last modified: 02 Aug 2020 23:51 UTC
+! Last modified: 03 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -530,6 +530,7 @@
 ||https://reprocautious.com^$third-party
 ||https://sendpulse.com^$third-party
 ||https://shroughtened.com^$third-party
+||https://sm-epsilon.com^$third-party
 ||https://snd.tc^$third-party
 ||https://truepush.com^$third-party
 ||https://urbanairship.com^$third-party
@@ -1166,6 +1167,7 @@
 ||https://warnerbros.it^*/top.png
 ||https://wittgenstein.it/wp-content/themes/wittgenstein/images/ilpost.png
 ||https://wp.com/www.proiezionidiborsa.it/*/google-news-
+||https://centrometeoitaliano.it^*/logo-messaggero.
 ||https://diners.co.jp^*/icon_pagetop_
 ||https://gamespark.jp^*/pagetop.
 ||https://girlsheaven-job.net^*/pagetop.
@@ -1852,6 +1854,7 @@
 ||http://reprocautious.com^$third-party
 ||http://sendpulse.com^$third-party
 ||http://shroughtened.com^$third-party
+||http://sm-epsilon.com^$third-party
 ||http://snd.tc^$third-party
 ||http://truepush.com^$third-party
 ||http://urbanairship.com^$third-party
@@ -2533,6 +2536,7 @@
 ||http://warnerbros.it^*/top.png
 ||http://wittgenstein.it/wp-content/themes/wittgenstein/images/ilpost.png
 ||http://wp.com/www.proiezionidiborsa.it/*/google-news-
+||http://centrometeoitaliano.it^*/logo-messaggero.
 ||http://diners.co.jp^*/icon_pagetop_
 ||http://gamespark.jp^*/pagetop.
 ||http://girlsheaven-job.net^*/pagetop.
@@ -5883,6 +5887,7 @@ https://google.com##button[id^="gbpwm_"]
 https://bloombergquint.com##div[class^="more-on-this-topic"]
 https://brighthub.com##div[data-bhtrackregion="Subscribe"]
 https://forbes.com##div[data-tracking-link-name="articleLink_ContribBylineFollow"]
+https://finance.yahoo.com##div[id$="PremiumPromoFooter"]
 https://quora.com##div[id$="modal_signup_wrapper"]
 https://yahoo.com##div[id^="adx_"]
 https://recordonline.com,sfgate.com,southcoasttoday.com##div[id^="nimbleBuyWidget"]
@@ -8496,6 +8501,7 @@ https://thefreedictionary.com##a[href^="https://plus.google.com/"]
 https://ulifestyle.com.hk##a[onclick^="ga('send', 'event', 'Share Button'"]
 https://telekom.com##a[title="Share"]
 https://dailymotion.com##button[class^="ShareActionButton_"]
+https://90min.com##button[class^="shareButton_"]
 https://tube8.com##div[class*="_share"]
 https://lonelyplanet.com##div[class*="headerButtonShare"]
 https://barrons.com##div[class*="social-icon-list"]
@@ -9991,6 +9997,7 @@ https://telefonino.net###backbutton
 https://grandangoloagrigento.it,itacanotizie.it,qds.it,tempostretto.it,vistosulweb.com###blogup
 https://erboristeriamagentina.it###blultpdfbanner
 https://virgilio.it###bottom_chat
+https://centrometeoitaliano.it###box-banner-messaggero
 https://paginegialle.it###btt
 https://money.it###button
 https://starq8.it###button-top
@@ -10072,6 +10079,7 @@ https://ice.it##.ScrollTop
 https://ilvibonese.it##.acy-email-footer
 https://ansa.it##.adv-static
 https://agi.it##.agi-newsletter
+https://puntosicuro.it##.alert
 https://autoscout24.it##.app-banner
 https://basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.arrowleft
 https://basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.arrowright
@@ -10122,7 +10130,7 @@ https://monovolume.cc##.go-up
 https://comune.milano.it,meetingrimini.org,radionorba.it##.gotop
 https://mondovolantino.it##.goup
 https://radioplayeritalia.it##.grve-arrow-wrapper
-https://comuniciclabili.it##.hc_scrollup
+https://comuniciclabili.it,wikibit.it##.hc_scrollup
 https://tempi.it##.header_sidebar
 https://radioitaliaannisessanta.it##.hm_go_top
 https://ilmetapontino.it##.icon-caret-up
@@ -16320,6 +16328,7 @@ http://google.com##button[id^="gbpwm_"]
 http://bloombergquint.com##div[class^="more-on-this-topic"]
 http://brighthub.com##div[data-bhtrackregion="Subscribe"]
 http://forbes.com##div[data-tracking-link-name="articleLink_ContribBylineFollow"]
+http://finance.yahoo.com##div[id$="PremiumPromoFooter"]
 http://quora.com##div[id$="modal_signup_wrapper"]
 http://yahoo.com##div[id^="adx_"]
 http://recordonline.com,sfgate.com,southcoasttoday.com##div[id^="nimbleBuyWidget"]
@@ -18933,6 +18942,7 @@ http://thefreedictionary.com##a[href^="https://plus.google.com/"]
 http://ulifestyle.com.hk##a[onclick^="ga('send', 'event', 'Share Button'"]
 http://telekom.com##a[title="Share"]
 http://dailymotion.com##button[class^="ShareActionButton_"]
+http://90min.com##button[class^="shareButton_"]
 http://tube8.com##div[class*="_share"]
 http://lonelyplanet.com##div[class*="headerButtonShare"]
 http://barrons.com##div[class*="social-icon-list"]
@@ -20429,6 +20439,7 @@ http://telefonino.net###backbutton
 http://grandangoloagrigento.it,itacanotizie.it,qds.it,tempostretto.it,vistosulweb.com###blogup
 http://erboristeriamagentina.it###blultpdfbanner
 http://virgilio.it###bottom_chat
+http://centrometeoitaliano.it###box-banner-messaggero
 http://paginegialle.it###btt
 http://money.it###button
 http://starq8.it###button-top
@@ -20510,6 +20521,7 @@ http://ice.it##.ScrollTop
 http://ilvibonese.it##.acy-email-footer
 http://ansa.it##.adv-static
 http://agi.it##.agi-newsletter
+http://puntosicuro.it##.alert
 http://autoscout24.it##.app-banner
 http://basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.arrowleft
 http://basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.arrowright
@@ -20560,7 +20572,7 @@ http://monovolume.cc##.go-up
 http://comune.milano.it,meetingrimini.org,radionorba.it##.gotop
 http://mondovolantino.it##.goup
 http://radioplayeritalia.it##.grve-arrow-wrapper
-http://comuniciclabili.it##.hc_scrollup
+http://comuniciclabili.it,wikibit.it##.hc_scrollup
 http://tempi.it##.header_sidebar
 http://radioitaliaannisessanta.it##.hm_go_top
 http://ilmetapontino.it##.icon-caret-up
