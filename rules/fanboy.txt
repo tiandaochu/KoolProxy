@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mW4JRiRNnZLCdO9Ty5k/jQ
-! Version: 202008042351
+! Checksum: 6jHMDcBx4lUk+fiiqL6EQg
+! Version: 202008052351
 ! Title: Fanboy's Annoyance List
-! Last modified: 04 Aug 2020 23:51 UTC
+! Last modified: 05 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7112,7 +7112,7 @@ https://ciiradio.com,reverso.net,smutr.com,yesweekly.com##.go-up
 https://porngsstube.com##.goUp
 https://dailypioneer.com,mmm100.com,moneycontrol.com,rti.org.tw,voiceofbahrain.org##.gotop
 https://vnexpress.net##.gottop
-https://letmejerk.com##.goup
+https://letmejerk.com,zbporn.tv##.goup
 https://cardekho.com##.gsst_scroll-btn
 https://bdnews24.com##.handleScrollTop
 https://channelnewsasia.com##.header__article-bar-top-link
@@ -12836,7 +12836,7 @@ https://gorod.mos.ru#@#.social__facebook
 https://gorod.mos.ru#@#.social__twitter
 https://iq-student-accommodation.com#@#.social_bar
 https://zik.ua#@#.social_block
-https://charaktery.eu,hintaopas.fi,moikrug.ru,pinterest.com,pricespy.co.nz,pricespy.co.uk,pricespy.ie,prisjakt.nu,wat.tv#@#.social_buttons
+https://charaktery.eu,habr.com,hintaopas.fi,moikrug.ru,pinterest.com,pricespy.co.nz,pricespy.co.uk,pricespy.ie,prisjakt.nu,wat.tv#@#.social_buttons
 https://academia.edu,wsqn.pl#@#.social_container
 https://ourweigh.in#@#.social_facebook
 https://kuriertczewski.pl#@#.social_header
@@ -17553,7 +17553,7 @@ http://ciiradio.com,reverso.net,smutr.com,yesweekly.com##.go-up
 http://porngsstube.com##.goUp
 http://dailypioneer.com,mmm100.com,moneycontrol.com,rti.org.tw,voiceofbahrain.org##.gotop
 http://vnexpress.net##.gottop
-http://letmejerk.com##.goup
+http://letmejerk.com,zbporn.tv##.goup
 http://cardekho.com##.gsst_scroll-btn
 http://bdnews24.com##.handleScrollTop
 http://channelnewsasia.com##.header__article-bar-top-link
@@ -23279,7 +23279,7 @@ http://gorod.mos.ru#@#.social__facebook
 http://gorod.mos.ru#@#.social__twitter
 http://iq-student-accommodation.com#@#.social_bar
 http://zik.ua#@#.social_block
-http://charaktery.eu,hintaopas.fi,moikrug.ru,pinterest.com,pricespy.co.nz,pricespy.co.uk,pricespy.ie,prisjakt.nu,wat.tv#@#.social_buttons
+http://charaktery.eu,habr.com,hintaopas.fi,moikrug.ru,pinterest.com,pricespy.co.nz,pricespy.co.uk,pricespy.ie,prisjakt.nu,wat.tv#@#.social_buttons
 http://academia.edu,wsqn.pl#@#.social_container
 http://ourweigh.in#@#.social_facebook
 http://kuriertczewski.pl#@#.social_header
