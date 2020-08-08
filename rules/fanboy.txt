@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yABVLU9Y8ZI1LCRG2CDWuQ
-! Version: 202008062351
+! Checksum: fCxFt8QkWWglU26kz7c+gw
+! Version: 202008072351
 ! Title: Fanboy's Annoyance List
-! Last modified: 06 Aug 2020 23:51 UTC
+! Last modified: 07 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1260,6 +1260,7 @@
 ||https://napolimagazine.com^*/iconefooter/
 ||https://napolimagazine.com^*/iconetop/
 ||https://nursetimes.org^*/telegram-banner.
+||https://papaboys.org^*/scarica-papaboys-
 ||https://quimediaset.it^*/bgToolbar.
 ||https://repstatic.it^*/social.js
 ||https://plugins.mixi.jp/favorite.pl?$third-party
@@ -2633,6 +2634,7 @@
 ||http://napolimagazine.com^*/iconefooter/
 ||http://napolimagazine.com^*/iconetop/
 ||http://nursetimes.org^*/telegram-banner.
+||http://papaboys.org^*/scarica-papaboys-
 ||http://quimediaset.it^*/bgToolbar.
 ||http://repstatic.it^*/social.js
 ||http://plugins.mixi.jp/favorite.pl?$third-party
@@ -10172,6 +10174,7 @@ https://simplymarket.it##.scroll-top-footer
 https://lampade.it##.scrollBack
 https://assologico.it##.scrollbutton
 https://ilsole24ore.com##.scta
+https://biografieonline.it##.section-footer-nl
 https://nazarenogabrielli.it##.shopress_scroll
 https://ilfattoquotidiano.it##.side-arrow
 https://tavoloeditoriradio.it##.sm-up-container
@@ -20614,6 +20617,7 @@ http://simplymarket.it##.scroll-top-footer
 http://lampade.it##.scrollBack
 http://assologico.it##.scrollbutton
 http://ilsole24ore.com##.scta
+http://biografieonline.it##.section-footer-nl
 http://nazarenogabrielli.it##.shopress_scroll
 http://ilfattoquotidiano.it##.side-arrow
 http://tavoloeditoriradio.it##.sm-up-container
