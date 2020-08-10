@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: r3z+YWjYia7ogexqGU0c2w
-! Version: 202008082351
+! Checksum: R3+HltosDX3ALjocExTb0g
+! Version: 202008092351
 ! Title: Fanboy's Annoyance List
-! Last modified: 08 Aug 2020 23:51 UTC
+! Last modified: 09 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -969,6 +969,7 @@
 ||https://seattletimes.com/wp-content/plugins/st-user-messaging/$script
 ||https://ultimedia.com/js/common/notification.js
 ||https://yahoo.com/manifest_desktop_
+||https://horoscope.fr/notifications/
 ||https://3dmark.com/proxycon/images/front-some-fb.png
 ||https://5movies.to/share.php
 ||https://76.my/Auc/
@@ -2318,6 +2319,7 @@
 ||http://seattletimes.com/wp-content/plugins/st-user-messaging/$script
 ||http://ultimedia.com/js/common/notification.js
 ||http://yahoo.com/manifest_desktop_
+||http://horoscope.fr/notifications/
 ||http://push.neko-san.fr^
 ||http://3dmark.com/proxycon/images/front-some-fb.png
 ||http://5movies.to/share.php
@@ -9782,6 +9784,7 @@ https://orange.be##.b2c-global-footer-container
 https://automobile-magazine.fr##.bloc-nl
 https://e-sante.fr##.box-one-click
 https://ouest-france.fr##.btn-scroll
+https://france.tv##.c-app-banner
 https://liberation.fr##.campagne-opt-in
 https://ledevoir.com##.card
 https://cuisineaz.com##.cazLightbox
@@ -9835,6 +9838,7 @@ https://rtbf.be##.rtbf-newsletter-article
 https://loractu.fr##.sf-extensionfactory-link
 https://tourhebdo.com##.social
 https://vertbaudet.fr##.stickybar
+https://monbon.fr##.store-subscribe-block
 https://allocine.fr##.subscribe
 https://loractu.fr##.subscribe-nl
 https://francebleu.fr##.texte-top-page
@@ -11422,6 +11426,7 @@ https://volvic.fr###_legal
 https://guideastuces.com###agreeMsg
 https://ecrypterlenergie.org###alert-mention
 https://zdnet.fr###catfish
+https://iti-maps.fr###cc_overlay
 https://skitour.fr###coo_aut
 https://keskeces.com###cook
 https://paconsulting.com###cookPop
@@ -11508,6 +11513,7 @@ https://businessinsider.fr,voici.fr##div[class^="sp_message_container"]
 https://sportetstyle.fr##div[id^="cookie"]
 https://tf1.fr##div[id^="msgctrw"]
 https://privatesportshop.fr##div[style="background: #FFFFE1; border-bottom: 1px solid #A0A0A0; padding: 10px;line-height: 1.4em; text-align: justify; font-family: sans-serif; font-size: 12px;"]
+https://onvasortir.com###infocookies
 https://alhadath.net###consent
 https://hunalibya.com,manasati30.com###info-bottom
 https://klix.ba##.consent_wrapper
@@ -11926,6 +11932,7 @@ https://regalideidesideri.it##.topBanner__content
 https://ingdirect.it##.topalertbanner
 https://emma-materasso.it##.ucn-block
 https://cattolica.it##.vgg
+https://prime.widiba.it##.wd-primepublic__cookie__content
 https://aicanet.it,eurojackpot.it,venetobanca.it##.yui3-widget-modal
 https://credimi.com##div[class^="CookieBar-"]
 https://relaxbanking.it##div[class^="cookies-consent-banner"]
@@ -20226,6 +20233,7 @@ http://orange.be##.b2c-global-footer-container
 http://automobile-magazine.fr##.bloc-nl
 http://e-sante.fr##.box-one-click
 http://ouest-france.fr##.btn-scroll
+http://france.tv##.c-app-banner
 http://liberation.fr##.campagne-opt-in
 http://ledevoir.com##.card
 http://cuisineaz.com##.cazLightbox
@@ -20279,6 +20287,7 @@ http://rtbf.be##.rtbf-newsletter-article
 http://loractu.fr##.sf-extensionfactory-link
 http://tourhebdo.com##.social
 http://vertbaudet.fr##.stickybar
+http://monbon.fr##.store-subscribe-block
 http://allocine.fr##.subscribe
 http://loractu.fr##.subscribe-nl
 http://francebleu.fr##.texte-top-page
@@ -21867,6 +21876,7 @@ http://volvic.fr###_legal
 http://guideastuces.com###agreeMsg
 http://ecrypterlenergie.org###alert-mention
 http://zdnet.fr###catfish
+http://iti-maps.fr###cc_overlay
 http://skitour.fr###coo_aut
 http://keskeces.com###cook
 http://paconsulting.com###cookPop
@@ -21953,6 +21963,7 @@ http://businessinsider.fr,voici.fr##div[class^="sp_message_container"]
 http://sportetstyle.fr##div[id^="cookie"]
 http://tf1.fr##div[id^="msgctrw"]
 http://privatesportshop.fr##div[style="background: #FFFFE1; border-bottom: 1px solid #A0A0A0; padding: 10px;line-height: 1.4em; text-align: justify; font-family: sans-serif; font-size: 12px;"]
+http://onvasortir.com###infocookies
 http://alhadath.net###consent
 http://hunalibya.com,manasati30.com###info-bottom
 http://klix.ba##.consent_wrapper
@@ -22371,6 +22382,7 @@ http://regalideidesideri.it##.topBanner__content
 http://ingdirect.it##.topalertbanner
 http://emma-materasso.it##.ucn-block
 http://cattolica.it##.vgg
+http://prime.widiba.it##.wd-primepublic__cookie__content
 http://aicanet.it,eurojackpot.it,venetobanca.it##.yui3-widget-modal
 http://credimi.com##div[class^="CookieBar-"]
 http://relaxbanking.it##div[class^="cookies-consent-banner"]
