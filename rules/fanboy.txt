@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: R3+HltosDX3ALjocExTb0g
-! Version: 202008092351
+! Checksum: xe8mo5ksXvMoXmlIsAO2+g
+! Version: 202008102351
 ! Title: Fanboy's Annoyance List
-! Last modified: 09 Aug 2020 23:51 UTC
+! Last modified: 10 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -387,6 +387,7 @@
 ||https://ziprecruiter.com/jobs-widget/$third-party
 ||https://zoomanalytics.co^$third-party
 ||https://zotabox.com^*/widgets.js$third-party
+||https://appspot.com/sounds/chatmsg.mp3
 ||https://taboola.com^$third-party
 ||https://taboolasyndication.com^$third-party
 ||https://amplify.outbrain.com^$third-party
@@ -1711,6 +1712,7 @@
 ||http://ziprecruiter.com/jobs-widget/$third-party
 ||http://zoomanalytics.co^$third-party
 ||http://zotabox.com^*/widgets.js$third-party
+||http://appspot.com/sounds/chatmsg.mp3
 ||http://taboola.com^$third-party
 ||http://taboolasyndication.com^$third-party
 ||http://amplify.outbrain.com^$third-party
